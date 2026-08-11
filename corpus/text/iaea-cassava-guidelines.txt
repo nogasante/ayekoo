@@ -1,0 +1,3130 @@
+# Cassava Production Guidelines for Food Security and Adaptation to Climate Change
+# publisher: International Atomic Energy Agency (IAEA)
+# year: unknown
+# url: https://www-pub.iaea.org/MTCD/Publications/PDF/TE1840_web.pdf
+# attribution: IAEA, Cassava Production Guidelines
+# pages: 78
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+International Atomic Energy Agency
+Vienna
+ISBN 978–92–0–101718–5
+ISSN 1011–4289
+IAEA-TECDOC-1840
+Cassava Production Guidelines 
+for Food Security and  
+Adaptation to Climate Change 
+in Asia and Africa
+@
+IAEA-TECDOC-1840
+IAEA-TECDOC-1840
+IAEA TECDOC SERIES
+CASSA V A PRODUCTION GUIDELINES 
+FOR FOOD SECURITY AND  
+ADAPTATION TO CLIMATE CHANGE  
+IN ASIA AND AFRICA
+AFGHANISTAN
+ALBANIA
+ALGERIA
+ANGOLA
+ANTIGUA AND BARBUDA
+ARGENTINA
+ARMENIA
+AUSTRALIA
+AUSTRIA
+AZERBAIJAN
+BAHAMAS
+BAHRAIN
+BANGLADESH
+BARBADOS
+BELARUS
+BELGIUM
+BELIZE
+BENIN
+BOLIVIA, PLURINATIONAL 
+STATE OF
+BOSNIA AND HERZEGOVINA
+BOTSWANA
+BRAZIL
+BRUNEI DARUSSALAM
+BULGARIA
+BURKINA FASO
+BURUNDI
+CAMBODIA
+CAMEROON
+CANADA
+CENTRAL AFRICAN
+REPUBLIC
+CHAD
+CHILE
+CHINA
+COLOMBIA
+CONGO
+COSTA RICA
+CÔTE D’IVOIRE
+CROATIA
+CUBA
+CYPRUS
+CZECH REPUBLIC
+DEMOCRATIC REPUBLIC
+OF THE CONGO
+DENMARK
+DJIBOUTI
+DOMINICA
+DOMINICAN REPUBLIC
+ECUADOR
+EGYPT
+EL SALV ADOR
+ERITREA
+ESTONIA
+ETHIOPIA
+FIJI
+FINLAND
+FRANCE
+GABON
+GEORGIA
+GERMANY
+GHANA
+GREECE
+GRENADA
+GUATEMALA
+GUYANA
+HAITI
+HOLY SEE
+HONDURAS
+HUNGARY
+ICELAND
+INDIA
+INDONESIA
+IRAN, ISLAMIC REPUBLIC OF 
+IRAQ
+IRELAND
+ISRAEL
+ITALY
+JAMAICA
+JAPAN
+JORDAN
+KAZAKHSTAN
+KENYA
+KOREA, REPUBLIC OF
+KUWAIT
+KYRGYZSTAN
+LAO PEOPLE’S DEMOCRATIC 
+REPUBLIC
+LATVIA
+LEBANON
+LESOTHO
+LIBERIA
+LIBYA
+LIECHTENSTEIN
+LITHUANIA
+LUXEMBOURG
+MADAGASCAR
+MALAWI
+MALAYSIA
+MALI
+MALTA
+MARSHALL ISLANDS
+MAURITANIA
+MAURITIUS
+MEXICO
+MONACO
+MONGOLIA
+MONTENEGRO
+MOROCCO
+MOZAMBIQUE
+MYANMAR
+NAMIBIA
+NEPAL
+NETHERLANDS
+NEW ZEALAND
+NICARAGUA
+NIGER
+NIGERIA
+NORWAY
+OMAN
+PAKISTAN
+PALAU
+PANAMA
+PAPUA NEW GUINEA
+PARAGUAY
+PERU
+PHILIPPINES
+POLAND
+PORTUGAL
+QATAR
+REPUBLIC OF MOLDOV A
+ROMANIA
+RUSSIAN FEDERATION
+RWANDA
+SAINT VINCENT AND 
+THE GRENADINES
+SAN MARINO
+SAUDI ARABIA
+SENEGAL
+SERBIA
+SEYCHELLES
+SIERRA LEONE
+SINGAPORE
+SLOV AKIA
+SLOVENIA
+SOUTH AFRICA
+SPAIN
+SRI LANKA
+SUDAN
+SWAZILAND
+SWEDEN
+SWITZERLAND
+SYRIAN ARAB REPUBLIC
+TAJIKISTAN
+THAILAND
+THE FORMER YUGOSLA V 
+REPUBLIC OF MACEDONIA
+TOGO
+TRINIDAD AND TOBAGO
+TUNISIA
+TURKEY
+TURKMENISTAN
+UGANDA
+UKRAINE
+UNITED ARAB EMIRATES
+UNITED KINGDOM OF 
+GREAT BRITAIN AND 
+NORTHERN IRELAND
+UNITED REPUBLIC
+OF TANZANIA
+UNITED STATES OF AMERICA
+URUGUAY
+UZBEKISTAN
+V ANUATU
+VENEZUELA, BOLIV ARIAN 
+REPUBLIC OF 
+VIET NAM
+YEMEN
+ZAMBIA
+ZIMBABWE
+The following States are Members of the International Atomic Energy Agency:
+The Agency’s Statute was approved on 23 October 1956 by the Conference on the Statute of the 
+IAEA held at United Nations Headquarters, New York; it entered into force on 29 July 1957. 
+The Headquarters of the Agency are situated in Vienna. Its principal objective is “to accelerate and enlarge 
+the contribution of atomic energy to peace, health and prosperity throughout the world’’.
+IAEA-TECDOC-1840
+CASSA V A PRODUCTION GUIDELINES 
+FOR FOOD SECURITY AND  
+ADAPTATION TO CLIMATE CHANGE  
+IN ASIA AND AFRICA 
+PREPARED BY THE  
+JOINT FAO/IAEA DIVISION OF NUCLEAR TECHNIQUES IN FOOD AND AGRICULTURE
+INTERNATIONAL ATOMIC ENERGY AGENCY
+VIENNA, 201 8
+COPYRIGHT NOTICE
+All IAEA scientific and technical publications are protected by the terms of 
+the Universal Copyright Convention as adopted in 1952 (Berne) and as revised 
+in 1972 (Paris). The copyright has since been extended by the World Intellectual 
+Property Organization (Geneva) to include electronic and virtual intellectual 
+property. Permission to use whole or parts of texts contained in IAEA publications 
+in printed or electronic form must be obtained and is usually subject to royalty 
+agreements. Proposals for non-commercial reproductions and translations are 
+welcomed and considered on a case-by-case basis. Enquiries should be addressed 
+to the IAEA Publishing Section at: 
+Marketing and Sales Unit, Publishing Section
+International Atomic Energy Agency
+Vienna International Centre
+PO Box 100
+1400 Vienna, Austria
+fax: +43 1 2600 29302
+tel.: +43 1 2600 22417
+email: sales.publications@iaea.org 
+http://www.iaea.org/books
+For further information on this publication, please contact:
+Soil and Water Management and Crop Nutrition Section
+International Atomic Energy Agency
+Vienna International Centre
+PO Box 100
+1400 Vienna, Austria
+Email: Official.Mail@iaea.org
+© IAEA, 2018
+Printed by the IAEA in Austria
+June 2018
+IAEA Library Cataloguing in Publication Data
+Names: International Atomic Energy Agency.
+Title: Cassava production guidelines for food security and adaptation to climate change in 
+Asia and Africa / International Atomic Energy Agency.
+Description: Vienna : International Atomic Energy Agency, 2018. | Series: IAEA TECDOC 
+series, ISSN 1011–4289 ; no. 1840 | Includes bibliographical references.
+Identifiers: IAEAL 18-01153 | ISBN 978–92–0–101718–5 (paperback : alk. paper)
+Subjects: LCSH: Stable isotopes in soil fertility research. | Cassava — Climatic factors. | 
+Cassava as food. | Food security.
+FOREWORD 
+Cassava (Manihot esculenta) is the third largest source of carbohydrates for humans and 
+animals in the tropics , after rice and maize. People consume the cassava roots as a source of 
+calories, while the leaves are eaten as a nutritious vegetable. Cassava is a major food crop in 
+Africa, and both dry root chips and leaf silage are excellent feed for animals.  However, 
+declining soil fertility and soil erosion are serious problems on traditional cassava farms in both 
+Africa and Asia, and together with  climate change, have an  adverse impact on cassava 
+production in both continents. 
+This publication was prepared following a special request from Member States in Africa 
+and Asia worki ng together in IAEA technical cooperation projects  to enhance cassava 
+production. It provides information on the best farm management practices and the use of 
+nuclear and isotopic techniques to better understand nitrogen use efficiency. The guidelines will 
+enable farmers to adapt their cassava production methods to a wide range of soil and 
+agroclimatic conditions. T his publication also provides an integrated crop  management plan 
+that addresses nutrients, weeds, insect pests and disease. By using improved crop management 
+methods, farmers can optimize cassava yields and minimize production costs. The methods can 
+also help to reduce or prevent land degradation caused by  soil erosion, particularly on sloping 
+lands, thereby protecting the local environment. 
+This publication also details the development and use of improved cassava varieties with 
+lower levels of cyanogenic glucosides and varieties of fortified with vitamin A, iron and protein. 
+Their use will primarily improve nutrition of individuals in sub -Saharan Africa and some 
+countries of Asia where cassava root is a main source of carbohydrates. Finally, the guidelines 
+emphasize the importance of a timely harvest and proper post -harvest processing of cassava 
+roots and leaves into a range of products including food and animal feed, but also for industrial 
+materials such as  cassava starch, feedst ock for biofuel and even a biopesticide made from 
+cassava leaves. The IAEA officer responsible for this publication was M . Zaman of the Joint  
+FAO/IAEA Division of Nuclear Techniques in Food and Agriculture. 
+EDITORIAL NOTE
+This publication has been prepared from the original material as submitted by the contributors and has not been edited by the editorial 
+staff of the IAEA. The views expressed remain the responsibility of the contributors and do not necessarily represent the views of the 
+IAEA or its Member States.
+Neither the IAEA nor its Member States assume any responsibility for consequences which may arise from the use of this publication. 
+This publication does not address questions of responsibility, legal or otherwise, for acts or omissions on the part of any person.
+The use of particular designations of countries or territories does not imply any judgement by the publisher, the IAEA, as to the legal 
+status of such countries or territories, of their authorities and institutions or of the delimitation of their boundaries.
+The mention of names of specific companies or products (whether or not indicated as registered) does not imply any intention to 
+infringe proprietary rights, nor should it be construed as an endorsement or recommendation on the part of the IAEA. 
+The IAEA has no responsibility for the persistence or accuracy of URLs for external or third party Internet web sites referred to in this 
+publication and does not guarantee that any content on such web sites is, or will remain, accurate or appropriate.
+ 
+CONTENTS 
+SUMMARY ........................................................................................................................ 5 
+1. INTRODUCTION ......................................................................................................  7 
+2. HISTORY OF CASSAVA ..........................................................................................  8 
+3. CASSAVA PR ODUCTION ENVIRONMENTS AND PRODUCTIVITY .................... 8  
+4. CASSAVA PRODUCTION STATI STICS .................................................................. 8  
+5. MULTIPLE USES OF CASSAVA  ............................................................................ 10 
+5.1. FOOD AND BEVERAGES ......................................................................... 10 
+5.2. AS A LIVESTOCK AND POULTRY FEED ............................................... 12 
+5.3. INDUSTRIAL STARCH ............................................................................. 12 
+5.4 AS A FEEDSTOCK FOR BIOFUEL (RENEWABLE ENERGY) ................ 12 
+5.5. MEDICINAL USES .................................................................................... 13 
+5.6. NANMA: A CASSAVA BASED BIO-PESTICIDE ..................................... 13 
+6. CONSTRAINTS TO CASSAVA PRODUCTION IN ASIA AND S UB-
+SAHARAN AFRICA ................................................................................................ 13 
+6.1. ABIOTIC CONSTRAINTS ......................................................................... 14 
+6.2. BIOTIC CONSTRAINTS ............................................................................ 15 
+6.3. MANAGEMENT CONSTRAINTS ............................................................. 15 
+6.4. SOCIO-ECONOMIC AND POLICY CONSTRAINTS ................................ 15 
+7. CASSAVA VALUE CHAIN VS.  SMALLHOLDER FARMERS: STATUS,
+CONSTRAINTS AND OPPORTUNITIES FOR IMPROVEMENT ........................... 16 
+8. CASSAVA VARIETAL IMPROVE MENT ............................................................... 17 
+8.1. FACTORS AFFECTING FARMERS’ CHOICE OF CASSAVA 
+VARIETIES ................................................................................................ 17 
+8.2. CASSAVA BREEDING IN AFRICA .......................................................... 17 
+8.3. CASSAVA BREEDING IN ASIA ............................................................... 18 
+8.4. REALIZING THE POTENTIAL OF NEW CASSAVA VARIETIES ........... 19 
+9. CASSAVA SEED VALUE CHAIN:  PROVIDING HEALTHY PLANTING
+MATERIALS TO FARMERS ................................................................................... 19 
+10. LAND CONFIGURATION – SHAP ING THE LANDSCAPES FOR
+PROTECTING SOIL AND WATER RESOURCES .................................................. 21 
+10.1.  ON FLAT LOWLANDS AND UPLANDS ................................................. 21 
+10.2.  ON SLOPING LANDS ON HILL SIDES (SLOPING LAND 
+AGRICULTURAL TECHNOLOGIES, SLAT) ............................................ 21 
+11. LAND PREPARATION METHODS F OR CASSAVA CULTIVATION ................... 22 
+11.1. SLASH AND BURN METHOD OF LAND PREPARATION 
+(SHIFTING CULTIVATION) ..................................................................... 22 
+11.2. CONVENTIONAL TILLAGE ..................................................................... 23 
+ 
+11.3. RIDGES AND FURROWS (RF) METHOD OF LAND PREPARATION..... 23 
+11.4. FORMING MOUNDS................................................................................. 23 
+11.5. REDUCED/ZERO TILLAGE OPTIONS ..................................................... 24 
+12. CASSAVA CROP ESTABLISHM ENT..................................................................... 25 
+12.1. PREPARING THE STEM CUTTINGS........................................................ 25 
+12.2. SPACING AND PLANT POPULATION..................................................... 25 
+12.3. METHODS OF PLANTING........................................................................ 25 
+13. WATER CONSERVATION AND MANAGEMENT ................................................  26 
+13.1. METHODS OF IRRIGATION – WATER SAVING IRRIGATION 
+TECHNOLOGIES....................................................................................... 26 
+13.2. MANAGING RAINFALL FOR RAIN FED CASSAVA CROPS – 
+RAINWATER HARVESTING AND FARM PONDS .................................. 27 
+14. SOIL FERTILITY AND NUTR IENT MANAGEMENT OF CASSAVA CROPS....... 28 
+14.1. SITE SPECIFIC NUTRIENT MANAGEMENT (SSNM) ............................. 28 
+14.2. THE CASE OF INTEGRATED SOIL FERTILITY MANAGEMENT 
+(ISFM) IN AFRICA .................................................................................... 29 
+14.3. BENEFITS OF ADOPTING ISFM IN AFRICA........................................... 31 
+14.3.1. Economic and live lihood benefits...................................................... 31 
+14.3.2. Impact of ISFM on resilience of crop production to climate 
+change.............................................................................................. 32 
+14.3.3. Impact of ISFM on greenhouse gas (GHG) e missions ........................ 32 
+15. WEEDS AND THEIR MANAGEMENT...................................................................  33 
+15.1. INTEGRATED WEED MANAGEMENT.................................................... 34 
+15.1.1. Agronomic/c ultura l methods ............................................................. 34 
+15.1.2. Manua l (hand) weeding .................................................................... 34 
+15.1.3. Mechanical weeding ......................................................................... 35 
+15.1.4.  Chemical weed control – Herbic ides use ........................................ 35 
+16. INSECT PESTS AND DISEAS ES AND THEIR MANAGEMENT:
+INTEGRATED PEST MANAGEMENT (IPM) ......................................................... 36 
+16.1. KEY INSECT PESTS OF CASSAVA ......................................................... 36 
+16.2. MAJOR DISEASES OF CASSAVA ............................................................ 36 
+16.3. MANAGEMENT OF INSECT PESTS AND DISEASES IN CASSAVA...... 38 
+16.4. PREVENTIVE AND CURATIVE MEASURES: INTEGRATED PEST 
+MANAGEMENT ........................................................................................ 38 
+16.4.1. IPM tactics ....................................................................................... 39 
+17. HARVESTING AND POSTHARVEST PROCESSING ............................................  42 
+18. MECHANIZATION OF CASSAVA P RODUCTION AND PROCESSING ............... 45 
+19. ECOLOGICAL INT ENSIFICATION OF CASSAVA PRODUCTION
+SYSTEMS................................................................................................................ 47 
+19.1. CA THROUGH REDUCED OR ZERO TILLAGE AND ORGANIC 
+MATTER MANAGEMENT........................................................................ 47 
+19.2. SOIL EROSION CONTROL IN CASSAVA FIELDS: MANAGEMENT 
+OF ORGANIC RESIDUES ......................................................................... 47 
+19.3. CROP DIVERSIFICATION AS A COMPONENT OF CA........................... 48 
+19.3.1. Cassava legumes rotations ................................................................ 50 
+19.3.2. Cassava legumes intercropping ......................................................... 50 
+19.3.3. Integrating trees in cassava farms ...................................................... 50 
+19.4. CROP ANIMAL SYSTEMS........................................................................ 51 
+20. THE ROLES OF ISOTOPIC TECHNIQUES TO MEASURE NITROGEN USE
+EFFICIENCY ........................................................................................................... 51 
+21. STEPWISE FIELD PROTOCOL OF BEST MANAGEMENT PRACTICES (BMPS)
+FOR CASSAVA PRODUCTION IN ASIA AND SUB-SAHARAN AFRICA……………. 59 
+22. CONCLUSIONS ...................................................................................................... 61 
+REFERENCES .................................................................................................................. 62 
+ABBREVIATIONS AND ACRONYMS ............................................................................ 66 
+CONTRIBUTORS TO DRAFTING AND REVIEW .............................................. ...........68  
+
+5 
+SUMMARY 
+Cassava ( Manihot esculenta) is the primary source of carbohydrates for the poor people of the 
+tropics. It is replacing upland rice in many Asian countries, and is a major food crop in Africa. 
+People and livestock consume mostly the cassava roots as a calorie source , while cassava 
+leaves are eaten as a nutritious vegetable by some people. Both dry root chips and leaf silage 
+are excellent feedstocks for animals - up to 30% of their daily ration. 
+Cassava is a hardy crop that can survive even in poor soils and a varying climate, though root 
+yields are very low (2– 3 metric tons per hectare). In addition, continuously declining soil 
+fertility and the increasing soil erosion which accompanies a changing climate pose serious 
+problems to cassava production in both Asia and Africa. 
+This IAEA Guidelines for improving cassava production in Asia and Africa is designed to 
+help farmers to adapt their cassava production practices to different soil and agroclimatic 
+conditions that are expected to accompany a changing climate. It al so highlights the use of 
+isotopic techniques to study nitrogen use efficiency. Key improved cassava production 
+practices are given below.  
+Improve d cassava varie tie s : Plant the best available locally adapted ‘improved’ cassava 
+varieties. Improved cassava varieties will have lower  cyanogen glucosides and be fortified 
+with vitamin A, iron and have higher protein levels. Their use will help improve the nutrition 
+of mainly the poor, who consume cassava roots as their main source of carbohydrate. 
+Preparing healt hy planting mate rials : Plant healthy, disease -free, 15 –20 cm long stem 
+cuttings. Prepare the stem cuttings only from high-yielding cassava mother plants that are 8-
+12 months old. Take the lower and middle parts of the stems for preparing cuttings. For most  
+cassava varieties, these cut stems can be stored vertically in the shade for 1 –2 months before 
+planting in the soil. 
+Land configuration: Flat land is plowed, harrowed, leveled, and 75– 100 cm wide ridges are 
+formed either manually or with the help of furrow openers attached to a tractor. The furrows 
+are made to gently slope along the natural slope of the field to help drain excess rainwater, if 
+necessary. 
+On sloping lands , it is better to establish hedgerows of grasses such as Paspalum atratum or 
+Tephrosia candida or plant pineapple across slopes, with the cassava crop located between the 
+hedgerows. This will reduce soil erosion and improve rainwater infiltration into the soil. 
+Planting: The general spacing is 75 to 100 cm between rows or ridges and 50 to 75 cm 
+between planting holes within the rows or ridges for a mono-crop of only cassava. A wider 
+spacing of up to 200 cm between rows or ridges is used when cassava is intercropped along 
+with 1 to 3 rows of fast -growing legumes, or with a cereal crop like mai ze or millet. The 
+cassava stem cuttings can be planted vertically, or in a slanted position by pushing the lower 
+part of the cutting 5– 10 cm deep into the soil. Alternatively, stem cuttings can be planted 
+horizontally at a 5– 7 cm depth. Missing plants, if any, should be replaced within 2– 3 weeks 
+from the original date of planting. 
+Rainfall manage me nt: In rain fed areas, farm ponds can be dug to collect rainwater which 
+later can be used to wet the crop during periods of severe drought (life-saving irrigation).  
+ 
+6 
+Mulching of the soil surface with crop residues or grass clippings will help reduce soil 
+erosion, suppress weed growth, and enhance infiltration of rainwater into the soil, thereby 
+reducing evaporation of soil moisture.  
+Wate r-saving irrigation methods : Wherever water is available, the cassava crop can be 
+irrigated by flood, furrow or drip irrigation. Drip is more water -efficient than furrow irrigation 
+which in turn is better than flood irrigation. 
+Balanced fertilizer application : is critical not only t o increase crop yields, but also to 
+increase starch content in roots. In most soils cassava responds well to potassium, nitrogen 
+and phosphorus applied in the following order of magnitude: K >N >P. Crop residues 
+returned to the soil and mineralization of s oil organic matter may supply part of the N, P, and 
+K requirements of the crop. As a general rule, farmers will apply 2 kg N, 0.7 kg P 2O5, and 2 
+kg K2O per hectare for every metric ton of cassava root yield. All the P and half of the N and 
+K can be applied  at planting, while the remaining N and K are applied 2-3 months after 
+planting. The fertilizer can be band-applied near the crop rows, or spot -applied 5-10 cm from 
+the base of each plant. 
+In problem soils , before applying fertilizers, soil amendments will  need to be applied to 
+correct specific problems, such as soil acidity, aluminum toxicity, salinity, and very low 
+levels of soil organic matter.  
+Integr a ted w eed m a na gem ent: An effective program of weed control is critical during the 
+early growth period (up to 3 months after planting) in order to prevent yield losses due to 
+weed competition. Use of a highly effective combination of cultural, manual, mechanical 
+and/or chemical weed control methods is recommended. 
+Inte grate d pe st manage me nt (IPM): The three cardinal principles of IPM are: (i) growing a 
+he althy crop by adopting resistant varieties and using best crop management practices; (ii) 
+maintaining pest -predator balance  by establishing a healthy agro-ecosystem; and (iii) the 
+str a tegic use of  exter na l pest control inputs that are known to have a minimal impact on the 
+agro-ecosystem. 
+Harvesting and postharvest processing: Cassava can be harvested as and when required, 
+between 6 - 8 and 18 months after planting (MAP).  Both root and starch yields triple between 
+8 and 18 MAP. 
+Me chanization: Using improved tools for harvesting cassava roots, for slicing roots to make 
+dry chips, and for chopping cassava leaves for producing silage can increase labor 
+productivity, reduce drudgery, and increase profitability in cassava farming. 
+If followed correctly, the above best management practices have  the potential to increase 
+yields, minimize processing losses of cassava roots, and enhance the quality and market value 
+of cassava products. 
+ 
+ 
+ 
+ 
+7 
+1. INTRODUCTION 
+Cassava ( Manihot esculenta ) is a tropical root crop that is known by different names – 
+Brazilian arrow root, manioc, tapioca, or yucca. It is a woody shrub native to South America 
+and a member of the Euphorbiaceae  family. It is extensively cultivated in tropical and 
+subtropical regions for its edible starchy tuberous roots. It is the 3 rd largest source of food 
+carbohydrates in the tropics after maize and rice. The cassava plant gives the third  highest 
+yield of carbohydrates per unit area among crop plants, after sugarcane a nd sugar beets. It can 
+produce food calories at rates exceeding 250 000 calories per hectare per day compared with 
+176 000 for rice, 110 000 for wheat, and 200 000 for maize. 
+ 
+The cassava root is long and tapered, with a strong, homogeneous flesh encased in a 
+detachable rind, the rind being about 1 mm thick, rough and brown on the outside. Roots of 
+improved commercial varieties can be 15 to 45 cm long and 5 to 10 cm in diameter at the top. 
+A woody vascular bundle runs along the root's axis. The flesh can be white or yellowish. 
+Cassava roots are very rich in starch and contain significant amounts of calcium (50 mg per 
+100 g), phosphorus (40 mg per 100 g) and vitamin C (25 mg per 100 g). However, they are 
+low in protein and other nutrients. In contrast, cassa va leaves are a good source of protein 
+(rich in lysine but deficient in the amino acid methionine and often tryptophan) [1]. 
+Cassava varieties can be classified as either sweet or bitter. Like many other roots and 
+tubers, both bitter and sweet varieties of  cassava contain anti  nutritional factors and toxins, 
+with the bitter varieties containing much larger amounts. The roots and leaves must thus be 
+properly prepared before consumption, as improper preparation of cassava can leave enough 
+residual cyanide to cause acute cyanide intoxication,  gaiters, and even ataxia or partial 
+paralysis [2]. 
+Cassava is a major food crop for more than 700 million people, especially in Sub-
+Saharan Africa (SSA) and in developing countries of Asia such as Cambodia, Lao P .D.R. and 
+Viet Nam. Cassava offers the flexibility of either serving as the food crop of the last resort for 
+the resource  poor farmers, or as a cash crop  where production, processing and marketing 
+opportunities exist [3]. The relative tolerance of cassava to dr oughts and even short  term 
+flooding make it an excellent crop to resist  the negative impacts of climate change. It is thus 
+important in several ways: for tackling hunger in a world of changing climate, as a source of 
+food security when and where all other crops fail, as a means to create cash income through 
+cassava processing and sales, as a driver for local agro -industry, as a way of reducing the cost 
+burden to national governments on imports of foods, as a source of starch for various 
+industrial uses, and as a potential export crop, especially as livestock and chicken feed.  Thus, 
+the importance of cassava is growing in SSA and parts of Asia for food security, development 
+of rural agroindustry, and for employment and income generation.  
+ 
+Using a range of nuclear and isotopic techniques , the Joint FAO/IAEA Division  of 
+Nuclear Techniques in Food and Agriculture  is promoting climate smart agricultural practices 
+that are designed to assist farmers in Member States to find integrated solutions to increase 
+crop productivity through better resource use efficiency (nutrients and water). These latter 
+objectives, minimising losses of nutrients to the atmosphere as greenhouse gases, and nutrient 
+losses via surface runoff and leaching to water bodies, can be accomplished by enhancing soil 
+fertility, sequestering more atmospheric carbon to make soil more resilient against c limate 
+change and thus more productive. Isotopic technique such as use of 
+15N allows to precisely 
+measure fertiliser use ef ficiency, identify N uptake sources, i.e., from the soil and from 
+applied N fertilisers, and additionally to quantify the fixation of  atmospheric N2 by legumes. 
+ 
+8 
+2. HISTORY OF CASSAVA 
+Cassava was likely first domesticated more than 10  000 years ago in west  central Brazil 
+[4]. Forms of the modern domesticated cassava species can also be found growing in the wild 
+in the south of  Brazil. By 4 600 BC, it had become a  staple food of the native populations of 
+northern South America, southern Mesoamerica, and the Caribbean. Mass production of 
+Casabe (cassava) bread became the first Cuban industry established by the Spanish. Cassava 
+was introduced to Africa and Asia by Portuguese traders from Brazil in the 16th century. 
+Cassava is sometimes described as the 'bread of the tropics' [5]. It is now widely grown as in 
+important food and industrial crop throughout the tropics. 
+3. CASSAVA PRODUCTION ENVIRONMENTS AND PRODUCTIVITY 
+Cassava is well adapted within the latitudes 30 o north and south of the equator, at 
+elevations between sea level and 2  000 m above sea level, in equatorial temperatures, with 
+annual rainfalls ranging from 50 mm to 5  000 mm, and to poor soils with a pH ranging from 
+acidic (pH 4.5) to alkaline (pH 8.0). These conditions are common in certain parts of Africa, 
+Asia, and South America. As mentioned above, it is highly resilient to climate change, and 
+can be success fully grown on marginal soils, with reasonable yields where many other crops 
+fail to grow and produce any yield. However, it produces high yields in fertile soils under 
+good crop management. The potential maximum yield of cassava is estimated to be 80 ton (t) 
+per hectare (ha) of fresh roots (29 t ha1 of dry roots), while the attainable yields can be above 
+30 t ha-1 of fresh roots. The most productive cassava farms in the world are found in India, 
+with a national average yield of 35.65 t ha-1 in 2014 [6]. Under poor field conditions, the 
+yields could be as low as 2 –3 t ha-1, while cassava productivity has increased to a national 
+average yield of 12 t ha-1 in Nigeria and 6 to 12 t ha-1 in other counties of Africa. Still, there is 
+a huge potential for incre asing cassava yields further, given that there is a large gap between 
+the farmers’ current cassava yields and the attainable or potential yields. With the need for 
+intensifying cassava production in areas where population densities have reduced access to 
+fallow land and with cassava roots becoming important raw material for the processing sector, 
+this yield gap needs to be reduced for the benefit of farmers, processors, and the common 
+public. 
+ 
+4. CASSAVA PRODUCTION STATISTICS 
+Globally, in 2013–2014, the area planted to cassava was 24.22 m illion (m) ha, the 
+production was 270.3 m t, and the mean yield was 11.16 t ha
+-1. Africa was the top producer of 
+cassava with 54.5% share of the global cassava production, followed by Asia with 33.5%, and 
+the Americas with 11.9% (FIG. 1).  In 2014, the mean yield of cassava was only 8.38 t ha
+-1 in 
+Africa, compared to 21.86 t ha-1 in Asia (Table 1). Although Nigeria is still the global leader 
+in production of cassava (54.83 m t in 2014), the national average yields of cassava in Nigeria 
+are only about half of those of leading cassava producers in Asia, and less than half of the 
+yields of researcher  run trials in the country. In terms of cassava production, Nigeria was 
+followed by DR Congo (16.61 m t ), Ghana (16.52 m t ), Angola (7.64 m t ), and Mozambique 
+(5.11 m t ). In Africa, Malawi produced the highest cassava yield of 23.36 t ha
+-1 in 2014, 
+followed by Ghana (18.59 t ha-1), and Angola, DR Congo and Nigeria (7.72 to 10.10 t ha-1) 
+(Table 1).  
+An estimated 8 million farmers grow cassava on more than 4 million hectares in Asia. 
+In 2014, Thailand was the largest producer with 30 m t per annum, followed by Indonesia 
+(23.4 m t ), Vietnam (10.21 m t ), Cambodia (8.83 m t), India (8.14 m t) and China (4.68 m t). 
+ 
+9 
+The most productive cassava farms in the world are found in India, with a national average 
+yield of 35.65 t ha-1 in 2014 [6]. However, Thailand is the largest exporting country of dried 
+cassava chips and cassava starch, with a total of 77% of the world export in 2005. The sec ond 
+largest exporting country is  Vietnam, with 13.6%, followed by Indonesia (5.8%) and Costa 
+Rica (2.1%). China is the largest importer of dried cassava chips and cassava starch produced 
+in Thailand and Vietnam. Other countries importing significant amounts of dried cassava are 
+South Korea, Spain and Belgium, while the countries importing cassava starch include 
+Indonesia, Japan and Malaysia. Outside Asia and Africa, Brazil is the largest producer of 
+cassava with an annual production of 23.24 m t in 2014. 
+TABLE 1. CASSAVA AREA, PRODUCTION, AND YIELD IN SELECTED COUNTRIES 
+OF AFRICA AND ASIA AND BRAZIL (2014) [6] 
+Country Area (m ha) Production (m t) Yield (t ha-1) 
+World 24.22 270.29 11.16 
+Africa 17.52 146.82 8.38 
+Nigeria 7.10 54.83 7.72 
+DR Congo 2.06 16.61 8.08 
+Ghana 0.89 16.52 18.59 
+Angola 0.76 7.64 10.10 
+Mozambique 0.87 5.11 5.88 
+Tanzania 0.80 4.23 5.28 
+Uganda 0.85 2.81 3.30 
+Malawi 0.21 4.91 23.36 
+Asia 4.13 90.37 21.86 
+Thailand 1.35 30.02 22.26 
+Indonesia 1.00 23.44 23.36 
+Viet Nam 0.55 10.21 18.47 
+Cambodia 0.36 8.83 24.57 
+India 0.23 8.14 35.65 
+China 0.29 4.68 16.27 
+Brazil 1.57 23.24 14.83 
+ 
+ 
+FIG. 1. Share of cassava production by region in 2013–2014 [6]. 
+NB: m ha = million hectares; m t = million tons; t ha-1 = tons per hectare 
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+Oceania Asia America Africa
+0.10%
+33.50%
+11.90%
+54.50%
+ 
+10 
+5. MULTIPLE USES OF CASSAVA 
+5.1. FOOD AND BEVERAGES 
+Cassava is an important staple food for over 700 million people, mostly in SSA. In 
+Nigeria, 90% of the cassava roots is used for direct food and processed food products, leaving 
+only 10% to be converted for industrial uses. The presence of cyanide in cassava roots is of 
+concern for human and for animal consumption. Once harvested, the bitter cassava must be 
+detoxified by proper processing prior to human or animal consumption [7], while sweet 
+cassava can be used after simple b oiling. Fermentation is the main process used for 
+detoxifying cassava roots or cassava flour. The cassava flour is mixed with water to make a 
+thick paste which is made into a thin sheet spread over a basket and let stand for 5 –6 hours to 
+detoxify the flour [8]. In West Africa, cassava roots are peeled, washed, fermented in water 
+for 3 days, and dried before processed into various food stuffs.  
+ 
+The root of the sweet variety has a delicate flavour  and can replace potatoes in certain 
+food preparations. For example, it is used as a substitute for potato in cholent (a traditional 
+Jewish stew prepared for Shabbat) in some households. In Brazil, detoxified manioc is ground 
+and cooked to a dry, often hard or crunchy meal known as  farofa used as a condiment, toasted 
+in butter, or eaten alone as a side dish. In West Africa, the fermented roots are grated and 
+lightly fried in palm oil to preserve them. The resultant foodstuff is called gari which is flaky 
+and light yellow in colour. Fermentation is also used to detoxify cassava roots and to prepare 
+a traditional alcoholic fermented food called tapai in Indonesia. Cassava starch is processed 
+into noodles and eaten in Cambodia. In India, roots of sweet cassava varieties are peeled, 
+washed, cut into pieces and steamed before eating either alone with side dishes or with other 
+foods (FIG.2). 
+ 
+Cassava, whe n processed into a white powder or small round pearls, is called tapioca. 
+Detoxified cassava flour or tapioca is used for making breads, cakes and cookies in many 
+countries (FIG.2). Tapioca, being a pure starch, is considered a complex carbohydrate, 
+making it a great way to maintain energy levels throughout the day. The high level of dietary 
+fibre found in tapioca helps move food through our digestive tract, which alleviates gas 
+problems, including bloating and flatulence, prevents constipation and intestinal pain, and 
+even reduces the risk of colon cancer. Furthermore, the dietary fibre scrapes bad cholesterol 
+off of the arterial walls, reducing the risk of heart attacks and strokes. Tapioca is rich in iron, 
+which plays a vital role in forming red blood cells and improving oxygen flow in the body. 
+The high levels of iron and calcium in tapioca help in the protection and development of 
+bones in the body. 
+Cassava root is essentially  a carbohydrate source.  Its composition shows 60– 65% 
+moisture, 20–31% carbohydr ate, 1 –2% crude protein and a comparatively low content of 
+vitamins and minerals. However, the roots are rich in calcium (50 mg per 100 g), phosphorus 
+(40 mg per 100 g) and vitamin C (25 mg per 100 g),  and also contain a nutritionally 
+significant quantity of thiamine, riboflavin and nicotinic acid. However, methionine, cysteine 
+and cystine are the limiting amino acids in cassava roots. Cassava starch contains 70%  
+amylopectin and 20% amylose. Cooked cassava starch has a digestibility of over 75%.  
+Recently, a project called "BioCassava Plus" is developing a cassava with lower  cyanogen 
+glucosides and fortified with vitamin A, iron and protein to help the nutrition of people in 
+sub-Saharan Africa [9]  
+ 
+11 
+(a) 
+ 
+(b) 
+ 
+(c)
+ 
+(d)
+ 
+(e)
+ 
+(f)
+ 
+(g)
+ 
+(h)
+ 
+(i)
+ 
+ 
+FIG. 2. Different types of cassava (tapioca) foods prepared and eaten by people around the world. (a) 
+Peeled and washed cassava roots , (b) c ooked cassava roots (Kerala, India) , (c) c assava 
+noodles (Cambodia) , (d) cassava (tapioca) flour, (e) cassava/Tapioca pearls (called sago in 
+India), (f) c assava pudding (baby food) , (g) c assava fried chips , (h) cassava cake and (i) 
+cassava bread .  
+ 
+ 
+Apart from the roots, cassava leaves are a good source of protein [1]. Scientific studies 
+show that 100 g of cooked cassava leaves provides about 3.7 g of protein which is pretty good 
+for a green leafy vegetable. They contain essential amino acids such as lysine, isoleucine, 
+leucine, valine, and lots of arginine, and certain vitamins – which are not common in green 
+leafy plants thus making cassava leaves a great source of protein and vitamins. However, the 
+leaves are deficient in the  amino acid methionine and possibly tryptophan. Frozen cassava 
+leaves prepared in the Philippines are exported to and sold in the supermarkets in the USA 
+(FIG.3).  
+ 
+
+ 
+12 
+ 
+FIG. 3. Frozen cassava leaves from the Philippines sold at a Los Angeles market in the USA. 
+Alcoholic beverages made from cassava include Cauim and tiquira (Brazil), kasiri (Sub-
+Saharan Africa), Impala (Mozambique) masato (Peruvian  Amazonia chicha), parakari or kari 
+(Guyana), nihamanchi (South America) aka nijimanche (Ecuador and Peru), ö döi (chicha de 
+yuca, Ngäbe Bugle, Panama), sakurá (Brazil, Surinam). 
+ 
+5.2. AS A LIVESTOCK AND POULTRY FEED 
+Cassava tubers and hay are used worldwide as animal feed. Cassava hay is harvested at 
+a young growth stage (three to four months old) when the plants reach 30 to 45 cm in height; 
+it is then sun dried for one to two days until it has a final dry matter content of less than 85%. 
+Cassava hay contains high levels of protein (20– 27% crude protein) and condensed tannins. It 
+is valued as a good roughage source for ruminants such as cattle [10] 
+Cassava meal or pellets prepared from roots is used as a substitute for maize or other 
+grains up to 20%  of the grains in chicken feed. Low  hydrogen cyanide (HCN) sweet cassava 
+varieties are preferred for chickens; other bitter varieties containing high HCN should be 
+detoxified by proper treatment and proc essing before used in chicken feed. For every 1000 kg 
+of fresh cassava roots, we can get 250 kg of cassava flour or pellets. Addition of animal fat 
+and soybean flour makes cassava  based rations isocaloric and isoproteinaceous and increases 
+the digestibility of the protein in the feed.  
+5.3. INDUSTRIAL STARCH 
+Cassava roots are now processed into various products such as starch, high quality 
+cassava flour, glucose, and even bioplastics. Cassava starch is used in a number of 
+commercially available laundry products, especially as starch for shirts and other garments. 
+Using manioc starch diluted in water and spraying it over fabrics before ironing helps stiffen 
+collars. Research is ongoing to develop mutant cassava varieties with waxy starch content that 
+can be used for developing bioplastics from sago like sticky cassava flour.  
+5.4 AS A FEEDSTOCK FOR BIOFUEL (RENEWABLE ENERGY) 
+In many countries in search of suitable feedstock for renewable energy production, 
+significant research has begun to evaluate the use of cassava as a non -
+grain ethanol biofuel feedstock. The diagram in FIG.4 shows the cassava flour to ethanol 
+processing flow. In China, cassava (tapioca) chips have gradually become a major source for 
+ethanol production. On December 22, 2007, the largest cassava bioethanol plant was 
+completed in Beihai, with annual output of 200 thousand tons, which would need an average 
+of 1.5 million tons of cassava. Six cassava starch based ethanol refineries have been started in 
+
+ 
+13 
+Vietnam with a total capacity to produce  550 million litres per year. There is at least one 
+factory in Nigeria that produces ethanol from cassava starch. 
+ 
+FIG. 4. Cassava flour to ethanol processing flow diagram. 
+5.5. MEDICINAL USES 
+Cassava root has been considered as a possible treatment for bladder and prostate cancer 
+[11]. However, according to the  American Cancer Society, “ there is no convincing scientific 
+evidence that cassava or tapioca is effective in preventing or treating cancer”. 
+ 
+5.6. NANMA: A CASSAVA BASED BIO-PESTICIDE 
+Cassava leaves of bitter varieties contain a toxin i.e. cyanogenic glucoside that helps to 
+control the insect pests of certain crops. The cassava based bio pesticide, Nanma, developed 
+from cassava leaves has  been found to be effective against noxious borer  pests of vegetables 
+like eggplants. Eight litres of the bio pesticide can be produced from one kilogram of cassava 
+leaves. Nanma @ 10 ml per litre  of water was found most effective against the reduction of 
+shoot as well as fruit damage caused by deadly borer pest of eggplants (Information source: 
+Mr. T. Saha, Assistant Professor  cum Jr. Scientist, Department of Entomology, Bihar 
+Agricultural College, Sabour, India).  
+6. CONSTRAINTS TO CASSAVA PRODUCTION IN ASIA AND SUB -SAHARAN 
+AFRICA 
+Cassava is a highly resilient crop that can be grown in harsh environments when 
+adequate nutrients are added to the soil. On marginal soils  with low and variable rainfall, the 
+yield could be low (2– 3 t ha-1). Although not a ‘nutrient hungry crop’ like maize, a cassava 
+crop does require adequate supply of nutrients and water to obtain high and sustainable yields 
+under intensive cultivation. In reality, like any other crops, cassava production is affected by a 
+number of abiotic, biotic, management, and socioeconomic constraints across Asia and 
+Africa. 
+
+ 
+14 
+6.1. ABIOTIC CONSTRAINTS 
+The problem of soil fertility decline is serious in many areas, including the fragile 
+uplands and high altitude areas of Asia and Africa. For example, phosphorus (P), potassium 
+(K) an d nitrogen (N) deficiency (FIG.5) are severe in continuous cassava production systems 
+with inadequate supply of nutrients. 
+Being highly resilient to variable moisture stress, cassava can grow in areas with as little 
+as 500 mm annual rainfall and can survive dry periods of 5– 6 months. The crop adapts to soil 
+water shortages through various mechanisms, such as shedding leaves, closing stomata, 
+osmotic adjustment, increasing root length, and decreasing the leaf area [12]. However, severe 
+drought stresses can curtain cassava productivity drastically, as result of reduced growth and 
+biomass production, impaired reproduction processes and decreased assimilate portioning, 
+and poor root development. When cassava plants were subjected to a soil moisture stress at 
+25% of field capacity, stem elongation of cassava plants was halved, and the biomass yields 
+were reduced by 87% and root yields by 95% [13]. Breeding programs are now providing to 
+farmers new drought  tolerant cassava varieties and it can help expand cassava cultivation into 
+non-traditiona l semiarid regions of SSA and Asia. 
+Pre-treatment of cassava plants with the plant growth regulator glycine  betaine can 
+alleviate the negative effects of drought stress in semiarid areas as well as the impacts of cold 
+stress i n subtropical areas [14]. However, unless the cost of glycine  betaine is reduced 
+appreciably, this approach will likely not be of significant economic benefit. 
+ 
+(a)
+ 
+(b)
+ 
+(c) 
+ 
+(d)
+ 
+(e)
+ 
+(f)
+ 
+ 
+FIG. 5. Abiotic stresses affecting cassava production in Asia and Africa. (a) P deficiency in cassava 
+(Xieng Khouang, Laos) , (b) K  deficiency (Cambodia) , (c) N deficiency (Usilampatti, Tamil Nadu, 
+India) (d) drought stress (Sangagiri, Tamil Nadu, India), (e) monocrop cassava on sloping land with 
+high risks of soil erosion (Viet Nam), (f) soil erosion in monocrop cassava fields 
+
+ 
+15 
+  The planting of cassava with wide spacing (1 m x 1 m) leaves the ground open for erosion 
+(FIG. 5) during the first 3– 4 months after planting, especially on sloping lands. The steeper 
+the slope, the greater is the soil loss. In addition, expansion of cassava cultivation to marginal 
+lands without proper soil and water management has led to soil degradation in many parts of 
+Asia and Africa 
+6.2. BIOTIC CONSTRAINTS 
+Biotic constraints include insect pests and diseases that attack cassava plants. In SSA, 
+cassava is affected by insect pests such as whiteflies, mites, mealybugs and grasshoppers and 
+diseases such as African cassava mosaic disease (CMD), cassava brown stream virus (CBSV), 
+cassava bacterial blight (CBB), and cassava root rots. In Asia, the cassava crop is affected by 
+insect pests like whiteflies, mites, mealybugs and white grubs and diseases like root rots, 
+cassava bacterial blight, and phytoplasma diseases. Details of these pests and d iseases will be 
+discussed under the section on Cassava pests and diseases. 
+6.3. MANAGEMENT CONSTRAINTS 
+• Lack of knowledge of improved high yielding cassava varieties with longer shelflife and 
+resistance to local pests and diseases and their production technologies, use of poor 
+quality stem cuttings (seed) to establish a new crop, poor or no organization of farmers 
+into cassava producer groups, and poor marketing strategies for cassava products 
+constrain cassava production in both Asia and Africa. 
+• Despite having very poor soils, soil quality improvement is inadequately addressed in 
+most parts of Asia and Africa. There is no regular soil testing and/or monitoring of 
+changes in soil fertility under continuous cultivation of cassava. Inadequate and 
+unbalanced application of nutrients leads to soil degradation, acidification followed by 
+weed infestation in these nutrient depleted soils, which in turn lead to low crop yields. 
+• Failure to improve soil organic matter content, especially in SSA, no amelioration of the 
+soil’s microbial population and activity, poor water  holding capacity, and an inadequate 
+supply of micronutirents to crops also contribute to low cassava yields. 
+• Poor management of the soil and water resources, especially on sloping lands – e.g., soil 
+ersoion and poor infiltration of rainwater into the soil due to the absence of soil erosion 
+control measures and the lack of adoption of conservation agrciulture practices, and the 
+lack of rainwater harvesting and development of farm ponds for providing supplemental 
+irrigation during periods of drought. 
+• Other agronomic constraints include excessive tilling of land, use of inefficient 
+monocoulture  cropping systems (as against crop rotation, intercropping, diversified 
+farming, etc.), poor pest and disease cont rol, and inefficient handling, storage, and 
+transport of fresh cassava roots. 
+• Farmers also are not particularly concerned with environmental problems like the 
+generation of cassava wastes and emission of greenhouse gases during processing of 
+cassava roots and development of cassava products. 
+6.4. SOCIO-ECONOMIC AND POLICY CONSTRAINTS  
+• Smallholder farmers operate within a variety of agroecological, economic and social 
+contexts. 
+• Poor access to capital and/or low interest credit to develop new cassava farms. 
+• Poor agricultural extension support to farmers, particularly with the distribution of heathy 
+plantiing materials and provision of critical inputs. 
+ 
+16 
+• Low profits due to increasing production costs and decreasing revenue due to inconsistent 
+product quality and unrelaible supply of cassava products. 
+• Farmers’ inability to buy and apply chemical fertilisers to cassava crops, thereby resulting 
+in declining soil fertility and low crop yields. 
+• The location of cassava processing centers far away from cassava production areas.  
+• Poor integration fo smallholder cassava farmers in the cassava value chian, especially the 
+poor access to markets. 
+• Ensuring that the processing industry manages waste in an efficient and environmentally 
+responsible way. Using waste as a source of biogas or animal feed, for example, would be 
+a step in the right direction. 
+ 
+7. CASSAVA VALUE CHAIN VS. SMALLHOLDER FARMERS: STATUS, 
+CONSTRAINTS AND OPPORTUNITIES FOR IMPROVEMENT 
+The harvested fresh roots of cassava are bulky, and have a short shelf life. Cassava roots 
+undergo what is called the postharvest physiological deterioration (PPD ). PPD is one of the 
+main obstacles currently preventing farmers from commercializing the cassava crop. Fresh 
+cassava can be preserved like potato, using thiabendazole  or bleach as a fungicide, then 
+wrapping in plastic, coating in wax or freezing; but such processes are beyond the reach of 
+marginal cassava farmers. The three key barriers that highlight the short shelf life issues are: 
+(a) lack of farmers’ knowledge of and limited access to improved cassava varieties with 
+extended shelf life; (b) poor and inefficient handling, storage, and transport of fresh cassava 
+roots after harvest; and (c) the location of cassava processing centres  far away from cassava 
+production areas. All the three issues have to be addressed to reduce postharvest losses and to 
+improve product quality after processing.  
+ 
+Over the years, cassava has been transformed from being a “poor man’s” crop to cash 
+and an industrial crop, as it is now processed into products such as starch, flour, glucose, and 
+ethanol. This transition has increased the demand for this root crop. However, t here is a large 
+disconnect between small scale cassava producers and the large demand for cassava starch in 
+many African and Asian countries. Thus, developing more inclusive and sustainable cassava 
+value chains is especially important for reducing the poverty among and to improve the 
+wellbeing of the poor and marginal cassava farmers in Africa and Asia.  For example, the 
+‘Cassava: Adding Value for Africa’ project has supported the development of value chains for 
+high quality cassava flour (HQCF) in Ghana, Tanzania, Uganda, Nigeria, and Malawi to 
+improve the incomes and livelihoods of smallholder households, including women [15]. The 
+project focuses on three key interventions: 1) ensuring a consistent supply of raw materials; 2) 
+developing viable intermediaries as secondary processors or bulking agents; and 3) driving 
+market demand for cassava products. The  main objective of the business model is to assess 
+the viability of centralizing factories for processing high quality cassava flour in the urban 
+centres while primary processing of dried cassava chips is decentralized and sourced at village 
+levels. This b usiness model aims at reducing post -harvest losses and creating jobs for the 
+youth and women in rural areas. To achieve success, a holistic and comprehensive approach 
+in research for development is necessary that considers and addresses production, process ing, 
+and marketing challenges simultaneously and involves various stakeholders, such as farmers, 
+development partners, policymakers, the private sector, and the researchers and external 
+donors. The scaling process should be market  led, but the level and type of public sector and 
+civil society investment and participation needs careful consideration by donors and national 
+decision makers. It is important to pay attention to the less visible area of fostering 
+relationships and trust among different value chain players. 
+ 
+17 
+For improving the productivity of cassava to ensure consistent supply of raw materials 
+to secondary processing units in rural areas, the r esource poor smallholder farmers are 
+organized as out grower farmers . The cassava project provides planting materials (except for 
+the local variety), inputs, and know  how; the farming community provides land, labour , and 
+information. The project also manages the demonstration trial jointly with the farmers. After 
+planting, at midterm, and at harvest, researchers ask the farmers to evaluate all practices.  The 
+“treatments” in the demonstration plots featured farmers’ current or local practice, and several 
+best bet options (e.g., cassava monocrop, cassava  legume intercrop to demonstrate high yield 
+options), and several treatments where factors such as planting density, fertiliser application, 
+and others are changed or te sted. Specifically, the demonstration farms used the following 
+management practices: sole cassava using the varieties TME 419 (erect plant type/growth 
+habit and 30572 (branching plant type) at 1 m x 1 m spacing and different options involving 
+fertiliser (NPK), cassava  legume intercropping, spacing with a legume intercrop, and legume 
+type (cowpea, groundnut and soybean etc.). 
+ 
+8. CASSAVA VARIETAL IMPROVEMENT 
+New high yielding and early maturing cassava varieties that are resistant to local insect 
+pests and diseases; varieties that are rich in nutrients, especially protein and vitamin A, for 
+improving human nutrition; varieties that are high in starch content for indust rial uses; and 
+varieties that have a long shelf life are needed to increase cassava farmers’ productivity which 
+could lead to a potential increase in income. 
+8.1. FACTORS AFFECTING FARMERS’ CHOICE OF CASSAVA VARIETIES 
+Understanding farmers’ perceptions on improved cassava varieties is crucial to develop 
+new varieties that will suit farmers’ different needs in different regions. Farmers' perception 
+of benefits is not only based on superior yields of fresh tuber, but also on harvest duration, 
+quality of processed product for food, labour needs, and the general economics of the 
+improved varieties within local situations. They consider many factors, such as (a) vegetation 
+characteristics of the area with regard to its suitability for growing other crops; (b) population 
+density and the related demand for cassava for food; (c) tribal preferences which restrict 
+cultivation of cassava to poorer farmers who lack land and cash to expand their cassava area 
+with improved varieties; (d) relative competition with cassava of crops like maize, yam, and 
+plantain in each locality; (e) proximity of high density populations of cassava consumers; (f) 
+local presence and capacity of the agencies that can distribute improved planting materials to 
+small scale farmers; and (g) farmers'  own perception of overall benefits from improved 
+cassava varieties relative to local varieties. Some farmers often prefer the bitter cassava 
+varieties because they deter pests, animals, and thieves [16]. In addition to understanding 
+farmers’ needs, cassava breeders must also collaborate  with food and nutrition scientists and 
+technicians to identify and develop new cassava products for local, national and international 
+markets. 
+ 
+8.2. CASSAVA BREEDING IN AFRICA 
+The International Institute of Tropical Agriculture (IITA) based at Ibadan, Nigeria, is 
+working with the Nigerian Root Crops Research Institute (NRCRI), Umudike, and the 
+HarvestPlus, USA, to develop improved cassava varieties for different parts of West Africa . 
+The three institutions collaborate  with and support several African national agricultural 
+research institutes in developing adaptive cassava breeding schemes in their respective 
+countries. In cassava breeding, the good root quality of local cassava landr aces like Kakwele 
+ 
+18 
+and Bamunanika are combined with the high yield and resistance to insect pests and diseases 
+of the IITA  bred improved cassava varieties like the TME 14 to develop farmer  preferred 
+varieties. Other breeding objectives include developing cassava varieties high in pro-vitamin 
+A; varieties high in starch; and varieties suitable for the production of high quality cassava 
+flour. 
+ 
+Scientists identified four different sources of tolerance to postharvest physiological 
+deterioration (PPD):  (a) Walker's Manihot ( M. walkerae ) of southern Texas (USA) and 
+Tamaulipas (Mexico); (b) mutation by gamma rays, which putatively silenced one of the 
+genes involved in PPD genesis; (c) a group of high carotene clones in which the antioxidant 
+properties of carotenoids are postulated to prote ct the roots from PPD; and (d) a waxy starch 
+(amylose free) mutant tolerant to PPD. These sources were used to develop high yielding 
+cassava varieties that are also tolerant or resistant to PPD, thereby prolonging the shelf life of 
+harvested roots. 
+The NRC RI has released more than 50 improved cassava varieties during the past 30 
+years. The two new varieties recently developed are: UMUCASS 42 developed from the IITA  
+TMS-I982132 and UMUCASS 43 developed from the IITA -TMS-I011206. According to pre-
+varietal release trials conducted between 2008 and 2010, t he potential maximum yield of the 
+two varieties was between 49 and 53 t ha-1 compared to 10 t ha-1 for the local variety. The 
+varieties are also resistant to major pests and diseases that affect cassava in the country 
+including cassava mosaic disease, cassava bacterial blight, cassava anthracnose, cassava 
+mealybug, and cassava green mite. The two varieties have the following distinct qualities: 
+• Good for high quality cassava flour a sought after trait by researchers for the cassava 
+transformation agenda in Nigeria. 
+• High dry matter which is positively related to starch and crucial for cassava value chain 
+development. 
+• High leaf retention which is positively related to drought tolerance and is crucial for 
+cassava production in the drier regions and in mitigating the impact of climate change. 
+• Moderate levels of beta carotene or pro vitamin A that can address the widespread 
+vitamin A deficiency in cassava consuming populations of Africa. 
+ 
+Since 2011, three vitamin A cassava varieties, UMUCASS 36, UMUCASS 37, and 
+UMUCASS 38, have been released and are being grown (under the Harvest Plus Project) in 
+Nigeria. Other three varieties that have more vitamin A content than the previously released 
+ones have been released in 2015. Overall, there are six vitamin A cassava varieties that are 
+being distributed to farmers in Nigeria and other African countries.  These yellow root 
+varieties show a great potential to alleviate the wide spread vitamin A defic iency in the most 
+African populations that consume cassava as their staple food. Farmers’ feedback in Nigeria 
+indicate that the yellow roots give good gari products and that they are also good for 
+preparing the local cassava dish called fufu  that looks like custard.  
+ 
+8.3. CASSAVA BREEDING IN ASIA 
+The International Cent re for Tropical Agriculture (CIAT) based at Cali, Colombia, is 
+collaborating with national root crop research institutes in Asia to develop and distribute new 
+high yielding cassava varieties to farmers in different Asian countries. The breeding 
+objectives include high yield and high starch content; varieties resistant/tolerant to local insect 
+pests and diseases; varieties with waxy (sago  like) starch content for development of 
+bioplastics; dual purpose varieties for eating and processing; and cold tolerance and suitability 
+ 
+19 
+to high altitudes. Improved germplasm is the main driver of increased yields of cassava in 
+Asia. New cassava varieties released between 1987 and 2005 were 12 in Thailand, 10 in the 
+Philippines, 9 each in China and Viet  Nam, and 1 in Cambodia. Most of the varieties released 
+were high yielding with high dry matter (30 to 40% dry matter) and starch content (85% of 
+the dry matter). In countries like Thailand, public  private participation is strong in developing 
+new cassava varieties for food processing and industrial uses.  
+ 
+8.4. REALIZING THE POTENTIAL OF NEW CASSAVA VARIETIES 
+Improved cassava varieties must be combined with good agronomic management of the 
+crop to enhance farmers ’ yields. For example, farmers can improve cassava yields by 13% by 
+planting clean, healthy seedlings; 17% by improving soil fertility; 16% by control of insect 
+pests and diseases; 11% by prevention of soil erosion; and 9% by timely weeding. In addition, 
+breeders can contribute to an intrinsic increase of 19% in potential yield of cassava varieties. 
+With improved cassava varieties and improved crop management, farmers can attain a yield 
+level of 30 to 40 t ha-1, compared to the current national average yield of 12 to 14 t ha-1.  
+9. CASSAVA SEED VALUE CHAIN: PROVIDING H EALTHY PLANTING 
+MATERIALS TO FARMERS 
+For cassava, the word seed refers to the cassava stems (FIG. 6) that are cut into 25  cm 
+pieces for planting a new crop in each growing season. However, the use of planting material 
+from a previous generation to establish the next provides an easy way for disease  causing 
+pathogens, particularly viruses, to pass directly from one plant generation to another. So, 
+while the vegetative propagation offers conve nience, vegetative propagated crops are often 
+more widely affected by pathogens than those planted in the form of true seeds. Therefore, 
+providing healthy, disease free planting materials is the first step in realizing the potential 
+impacts of improved cassava varieties on farmers’ productivity, income and livelihood. 
+ 
+ 
+ 
+FIG. 6. A farmer carrying cassava stems to plant in a new field (Photo by L. Kumar, IITA). 
+Earlier, the distribution of planting materials of new varieties was handled through the 
+‘Growth Enhancement Scheme’ in Nigeria. Between 2012 and 2013, the NRCRI has reached 
+300 000 farmers with the vitamin A cassava varieties. Each farming household receives 
+
+ 
+20 
+cuttings of at least two varieties out of the three. If a farmer plants one 25 cm stick of an  
+improved variety this year, he/she can get at least a minimum of eight sticks from it next year. 
+Thus, farmers themselves can multiply the new planting materials several fold each year and 
+use them for planting in the own fields or sell them to other farmers in their neighbourhood. 
+ 
+Despite some isolated efforts as mentioned above, the cassava seed system is a big 
+constraint to farmers and industries in getting the varieties they need. No one is currently able 
+to go to designated spots and purchase cassava  stem cuttings if he/she desires to establish a 
+new business in cassava stem cuttings of improved varieties. To address this constraint, a new 
+four year project (2015
+–2019) titled ‘Building a Sustainable, Integrated Seed System for 
+Cassava in Nigeria’ (BAS ICS) funded by the  Bill & Melinda Gates Foundation and led by the 
+CGIAR Research Program on Roots, Tubers and Bananas ( RTB) has been initiated at IITA in 
+2015 to develop a commercially sustainable cassava seed value chain in Nigeria. Good 
+quality, disease free stem cuttings would be provided to farmers by vibrant and profitable 
+village seed entrepreneurs and basic seed production linked to proce ssors. The seed system 
+starts from the development of healthy plantlets of new varieties in tissue culture laboratory to 
+the production of breeder seeds which will then be multiplied to produce foundation seeds and 
+finally to be multiplied by commercial seed producers for farmers to get good quality seeds of 
+their preferred varieties. These seed businesses will provide quality, certified seeds of the 
+right varieties leading to adoption of new varieties to improve productivity and food security, 
+increase incomes of both cassava growers and seed entrepreneurs, and enhance gender equity. 
+By 2019, smallholder growers could buy high quality stems of their preferred varieties and 
+plant them using improved agronomic practices. It is predicted that, as a result, cassava root 
+yields would increase by at least 40% and farmers would potentially have more secure 
+markets for expanded production.  
+ 
+The Quality Management Protocol (QMP) has been developed to multiply disease  free 
+cassava planting materials and distribute them to farmers. The key components of the QMP 
+are as follows: Primary (centrali sed) multiplication sites multiplying the virus tested cassava 
+plantlets derived from tissue culture and managed by researchers or qualified seed producers, 
+secondary, and tertiary multiplication sites (usually in farmers’ fields) are all assessed, at least 
+once in a year, for quality parameters, primarily in terms of disease and pest incidence and 
+quality of planting materials. The QMP standards for cassava mosaic disease and cas sava 
+brown streak disease incidences ascertained by diagnostic tests are <10% for primary and 
+secondary sites and <20% for tertiary sites in endemic areas. In addition, the management of 
+cassava diseases could be greatly enhanced by raising awareness among  growers about the 
+importance of establishing the next crop with healthy planting material. 
+ 
+With this program , healthy and disease-free planting materials have been provided to 
+more than half a million beneficiaries in six countries and it provides an important model for 
+other current and future cassava development programs. For successful replication of the 
+QMP based cassava seed systems, basic capacity needs must be strengthened in most 
+countries. Key elements of this include the laboratory and human capacity for virus indexing, 
+as well as the knowledge of QMP and the capacity of the national plant quarantine 
+organization to monitor cassava seed systems. 
+Research is ongoing to develop new cassava propagation methods like micro sticks and 
+petiole based propagation. Such efforts will help produce disease free planting materials of 
+improved cassava varieties. 
+ 
+ 
+ 
+21 
+10. LAND CONFIGURATION – SHAPING THE LANDSCAPES FOR 
+PROTECTING SOIL AND WATER RESOURCES 
+Most farmers use flat land to plant cassava, while others facing scarcity of land are 
+forced to cultivate sloping lands for growing cassava and other crops. When the widely 
+spaced cassava is planted on sloping lands without any intercropping or contour planting, in 
+which case the risk of soil erosion increases sev eral folds during periods of heavy rains (FIG. 
+5). This is because the bare soil between the widely spaced cassava plants is exposed to direct 
+rainfall, causing runoff and soil erosion, during the early growth period (2– 3 months after 
+planting). The steeper the slope, the greater is the soil loss from water erosion. 
+ 
+10.1.  O N FLAT LOWLANDS AND UPLANDS 
+• Formation of ridges and furrows or raised beds and furrows to facilitate drainage of excess 
+rainwater in poorly drained areas and to use rainfall or irrigation water efficiently. 
+• Tied ridges to collect rainwater in semi-arid and drought prone areas. 
+• Intercropping cassava with fast ground covering, short term crops like peanut, cowpea, or 
+a bean  that protects the soil surface, provides a quick harvest and income, and helps 
+control weeds. 
+• Mulching with crop residues or grass clippings on the soil surface to protect the soil from 
+direct raindrop impact, thereby greatly improving rainwater infiltrat ion and reducing soil 
+erosion [17]. 
+• The addition of plant ash or biochar instead of expensive lime to reduce soil acidity – a 
+common problem in Africa. 
+• Proper soil fertility management and increasing soil organic matter contents through 
+implementation of integrated soil fertility management by applying both organic and 
+fertiliser nutrient sources as per local availability, their relative prices, and farmers’ 
+affordability. 
+ 
+10.2.  ON SLOPING LANDS ON HILL SIDES (SLOPING LAND AGRICULTURAL 
+TECHNOLOGIES, SLAT) 
+• Reforestation and regeneration of vegetation in upper watersheds of tropical highlands and 
+mid altitude areas to reduce soil erosion and to improve water supply through the 
+restoration of local springs and streams. 
+• Intercropping or mixed cropping of cassa va with grain legumes and mulching of the soil 
+surface with crop residues or grass clippings to reduce soil erosion, suppress weed growth, 
+and enhance infiltration of rainwater. 
+• Growing cassava crops between rows of perennials including shrubs and trees 
+(agroforestry) or between contour  planted live hedges, forage grass strips that can be fed 
+to farm animals, or constructed stone barriers or trenches on sloping hill sides [17,18]. 
+ 
+It is important to note that farmers’ adoption of soil and water conservation practices, 
+especially on sloping lands, is weak due to high labour  demand to maintain the anti -erosion 
+structures. To improve adoption of anti -erosion measures, we need appropriate changes in 
+rural infrastructure and smart incentives and financial support to farmers adopting soil and 
+water conservation measures. 
+ 
+ 
+22 
+11. LAND PREPARATION METHODS FOR CASSAVA CULTIVATION 
+Timely land preparation and planting of the cassava cuttings at right spacing and at right 
+depth will help establish a uniform crop stand in the field; it will also help farmers to take full 
+advantage of the growing season and thus obtain high yields in rainfed cassava farms. 
+Appropriate mechanization will help farmers  carry out all farming operations, including 
+efficient land preparation in a timely manner. 
+Fields can be prepared for planting cassava in five different ways: (a) Slash and burn 
+method; (b) conventional tillage (CT); ( c) forming ridges and furrows (RF) after CT; (d) 
+forming mounds after CT; and (e) reduced or zero tillage (RT or ZT). 
+ 
+11.1. SLASH AND BURN METHOD OF LAND PREPARATION (SHIFTING 
+CULTIVATION)  
+Subsistence farmers living in remote uplands of developing Asia and Africa practice 
+slash and burn method of land preparation for planting maize, cassava, and other crops. In 
+traditional slash and burn method, the bush is cleared from the land often with the help of a 
+fire, the land is then ploughed once or twice, and seeds of maize and other grain crops a re 
+planted for 1 to 2 years to exploit the fertility of virgin soils, and then cassava is planted on 
+depleted soils as the last crop of the cultivation cycle (FIG.7). This is because cassava is 
+capable of growing and providing some root yield even when soi l fertility is low. The second 
+reason why cassava is planted as the last crop in shifting cultivation sequence is that it does 
+not have a fixed harvest period. It can be stored in the soil for up to two years and harvested 
+when other food has run out, often doubling in yield during that time. If soils are not tilled 
+prior to planting and the crop remains in the ground for two years, the soil erosion hazard 
+from planting on sloping lands is less than from an annual crop like maize that is commonly 
+tilled before planting each year [17]. After cassava is harvested, the land is left fallow for the 
+regeneration of vegetation and restoration of soil fertility over a period of 15 to 18 years. This 
+long fallow shifting cultivations was sustainable due to effective regeneration of natural 
+vegetation and soil fertility during the long fallow period. However, with increasing 
+population pressure on land, farmers were forced to reduce the fallow period to 3– 4 years 
+between the cropping cycles. Such a short fallow shifting cultivation resulted in increased soil 
+erosion, nutrient depleted and dried out soils, decimated soil organic matter, reduced soil 
+microbial diversity, and an increase in infestation by weeds. As a result, the yields of crops 
+including that of cassava have steadily declined in Asian and African uplands. 
+ 
+  
+FIG. 7. Slash and burn method of land preparation for planting maize and other grain crops for 1 to 2 
+years and cassava as the last crop of the cropping phase before the land is left fallow for a l ong 
+period. 
+
+ 
+23 
+ 
+11.2. CONVENTIONAL TILLAGE 
+Conventional tillage involves one primary tillage ( ploughing) followed by 1– 2 
+secondary tillage (harrowing) and levelling (if needed) (FIG. 8 a,b). The steps involved in CT 
+are: 
+1. Manual labour , an animal  drawn plough, a small power tiller, or a four –wheel 
+motorized tractor, can be used for primary tillage . P lough the field when the soil is 
+moist and friable. 
+2. Spread out residues from the previous crop and apply organic manure or compost and 
+then incorporate them into the soil during the first ploughing. 
+3. Wait for the first rain, or irrigate the field (if possible) and allow 15 days for weed seeds 
+to germinate and for organic matter to decompose in moist soil. 
+4. Apply (broadcast uniformly) a phosphorus fertiliser , and also make the first application 
+of a potassium fertiliser prior to the secondary tillage. 
+5. P lough for 2
+nd time to uproot the germinated weeds, then harrow and finally level the 
+soil under dry condition. 
+ 
+11.3. RIDGES AND FURROWS (RF) METHOD OF LAND PREPARATION 
+Here the land is ploughed, harrowed, levelled and then ridges and furrows are formed 
+with the help of furrow openers (FIG. 8 a, b, d, e). The ridges are formed between furrows are 
+75 to 100 cm wide at their base. The furrows are made gently sloping along the natural slope 
+of the field to help drain the water, if necessary, during heavy rains. The ridges are reshaped 
+once every year by taking the excess soil from furrows and placing it uniformly on top of the 
+ridges with the help of furrow openers attached to a  tractor. Cassava stem cuttings are planted 
+on ridges with a spacing of 50 to 75 cm between seed holes on ridges. 
+11.4. FORMING MOUNDS 
+After ploughing and harrowing mounds are formed manually for planting cassava (FIG. 
+8f), the mounds are 50– 60 cm tall and 80–100 cm diameter at the base. The spacing between 
+mounds will be 100 – 120 cm on either side. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+ 
+(e) 
+ 
+(f) 
+ 
+(g) 
+ 
+(h) 
+ 
+(i) 
+ 
+ 
+FIG. 8. Methods of land preparation and planting of cassava as a monocrop on flat land, on ridges, 
+and on zero till fields. (a) Preparing the land flat primary tillage by animal (India), (b) Preparing the 
+land flat harrowing with bullocks in India, (c) Cassava monocrop planted on flat land, (d) Formation 
+of ridges and furrows (Nepal) , (e) Planting of stem cuttings (spacing of 75–100 cm between ridges; 
+50–75 cm between planting holes within ridge) ,  (f) Cassava mono crop planted on ridges , (g) 
+Formation of mounds for planting cassava, (h) Zero till field with residues on soil surface, and (i) 
+Cassava planted on zero till plots with mulching of maize residues. 
+ 
+ 11.5. REDUCED/ZERO TILLAGE OPTIONS 
+Reduced tillage (RT) or zero tillage (ZT) methods of land preparation and ground cover 
+management with crop residues are being trialled  to determine whether soil health, crop yields 
+and crop water  use efficiency can be improved in rainfed upland cassava  based cropping 
+systems. Both RT and ZT methods and crop residue management (FIG. 8 h,i) are the two key 
+components of conservation agriculture (CA), the third one being crop diversification through 
+crop rotation and intercropping or mixed cropping of cassava with grain legumes. Upland 
+farmers practice RT or ZT (especially on steep slopes where machines cannot be used to 
+prepare the land). 
+In shifting cultivation in Asia and Africa, cassava stem cuttings are planted as the last 
+crop of the cropping cycle on a land covered with residues of the previous crop.  Surface 
+mulching with crop residues will help infiltrate rainwater into the soil, conserve soil organic 
+matter and soil moisture, and improve water  use efficiency by crops. The cassava crop that 
+remains on the ground for almost two years will protect the soil against erosion on sloping 
+lands through its live vegetation cover over the soil till it is harvested [17]. 
+
+ 
+25 
+On steep slopes of northern Laos and southern China, the bush vegetation is cleared 
+with a machete, and then the dried debris is burnt. Farmers make only holes for planting 
+cassava stem cuttings horizontally. This is a form of re duced tillage that decreases the risk of 
+soil erosion. 
+12. CASSAVA CROP ESTABLISHMENT  
+Proper establishment of the crops is critical for successful crop production. The aim is 
+to get a fast and uniform sprouting of the planted stem cuttings and a vigorous early growth of 
+the young cassava plants – all in order to develop an early and full canopy over the soil to 
+suppress weeds and to use all resources efficiently and evenly over the entire field. Once a 
+uniform crop stand is achieved, further management of the crop becomes easier. 
+12.1. PREPARING THE STEM CUTTINGS 
+Stem cuttings are used for planting a new crop of cassava every season. The stems for 
+planting are normally cut when the mother plant is 8– 12 months old. Cuttings taken from the 
+lower and middle parts of the stem have higher germination (sprouting) rates than those 
+derived from the upper part of the stem and 15– 25 cm long cuttings have higher percentage of 
+germination than shorter cuttings (5–10 cm length). For most cassava varieties, the cut stem s 
+can be stored vertically in the shade for 1– 2 months before planting, without the risk of 
+reducing the germination percentage below 80%; other sensitive varieties lose their 
+germination capacity after 3–4 weeks of storage. 
+12.2. SPACING AND PLANT POPULATION 
+Cassava stem cuttings are planted on a conventionally tilled flat land, on ridges 
+separated by furrows, on mounds, or on zero till fields with crop residues covering the soil 
+surface (FIG. 8). The planting density for cassava varies from 10 000 to 25 0 00 plants per 
+hectare depending on the fertility level of soil and the branching habit of the varieties chosen 
+for planting. The general spacing is 75 to 100 cm between rows or ridges and 50 to 75 cm 
+between planting holes within rows or ridges (FIG. 8 ) for a mono crop cassava. In this case, 
+the planting density for a monocrop cassava ranges between 13 333 plants per hectare (100 
+cm x 75 cm spacing) in fertile soils to 26 666 plants per hectare (75 cm x 50 cm spacing) in 
+poor or infertile soils. For a monocrop cassava, higher planting density will also help develop 
+the canopy cover over the soil faster than a crop planted at a lower density. 
+A wider spacing of up to 200 cm between rows or ridges is used when cassava is 
+intercropped with 1 to 3 rows of fast growing legumes or a cereal crop like maize or millets. 
+Here, the spacing between cassava plants within each row or ridge is reduced to 50 cm to 
+have a decent cassava population density. 
+Cassava root yields will not be reduced significantly when the established plant stand is 
+70–80% of the targeted plant population. This is because the plants surrounded by open 
+spaces will grow more vigorously and produce higher yields per plant, thus compensating for 
+the lower plant stand. If possible, missing plants  should be replaced within 2– 3 weeks from 
+the original date of planting. 
+12.3. METHODS OF PLANTING 
+In tilled, loose soil, the stem cutting can be planted vertically or in a slanted position by 
+pushing the lower part of the cutting 5–10 cm deep into the soil. Care should be taken that the 
+ 
+26 
+eyes or buds on the stem cuttings face upward. Alternatively, stem cuttings can be planted 
+horizontally at 5–7 cm depth by digging individual holes or by making a long furrow, placing 
+the cuttings in the hole or in the furr ow at required spacing, and covering th em with soil. 
+Horizontal planting is common in heavy clay soils or with zero or minimum tillage methods 
+of land preparation.  
+13. WATER CONSERVATION AND MANAGEMENT 
+Cassava is a highly resilient crop that will grow on poor soils and in areas with variable 
+rainfall, but at the same time, it is the most efficient user of available water (soil moisture) and 
+most nutrients. This is the reason why cassava is consigned as a poor man’s crop cultivated on 
+marginal soils with variable moisture where no other crops will grow. However, an adequate 
+rainfall and or irrigation water is needed to produce high yields in intensive cassava farming 
+systems. Cassava yields are drastically reduced and the quality of roots is affected adversely 
+when the crop faces extreme droughts or waterlogged conditions. 
+13.1. METHODS OF IRRIGATION – WATER SAVING IRRIGATION TECHNOLOGIES 
+Flood irrigation: On flat land, small basins are formed after planting the crop and 
+irrigation water is let into the basin s to soak the soil thoroughly (FIG.9a), once every 10 to 15 
+days, depending on local weather. 
+Furrow irrigation: Where cassava is planted on ridges separated by furrows, water is 
+released into the furrows and allowed to seep laterally into the ridges (FIG. 9b). This is more 
+efficient in water use than flood irrigation. 
+Drip irrigation: Also known as the "trickle" irrigation, the drip irrigation encompasses 
+all approaches that involve applying the irrigation water directly on to the crop’s root zone 
+(FIG.9c). Under this system, water moves through a network of narrow plastic pipes under 
+low pressure and is delivered to the root zone of the cassava or other crops, drop by drop 
+through drippers. The drip irrigation system thus helps in the optimization of water resources 
+in water scarce areas w hile increasing crop yields by 20 to 90%. The advantages include a 50–
+60% saving of water compared to flow or flood irrigation, an efficient use of fertilisers when 
+water soluble fertilisers are dissolved in irrigation water and applied to crops (fertigation). In 
+addition, energy costs for irrigation are reduced. The drip irrigation also reduces the salinity 
+hazard to crops planted in saline soils by diluting the salt content in the crop root zone, and/or 
+moving the salts below the root zone. Weed growth is less in drip irrigated plots because the 
+water is supplied only to crops’ root system. The limitations of drip irrigation system are its 
+high initial cost which small and marginal farmers cannot afford without a bank loan; the need 
+for a technical knowledge and skill to install  and maintain the drip system; blocking of 
+drippers by evaporated salt and or algal/fungal growth, especially when poor quality water is 
+used. Other problems include the supply of poor quality irrigation pipe, drippers, connectors, 
+etc. and the often limited or poor technical support and after sales service provided by local 
+dealers. Finally, the improper disposal of damaged plastic pipes/tubing (used in mains, sub 
+mains, and laterals) creates litter and pollution, especially if burned at low temperature. 
+ 
+ 
+ 
+ 
+27 
+(a) 
+ 
+(b)
+ 
+(c)
+ 
+ 
+FIG. 9. Different methods of irrigation for cassava fields. (a) flood irrigation of cassava, (b) f urrow 
+irrigation and (c) drip irrigation of cassava. 
+ 
+13.2. MANAGING RAINFALL FOR RAIN FED CASSAVA CROPS – RAINWATER 
+HARVESTING AND FARM PONDS 
+Decentralised rainwater  harvesting structures like farm ponds (FIG.10), small 
+community reservoirs or earthern check dams across water courses should be built in both 
+drought and flood prone rainfed lowlands and uplands. These water  holding structures can 
+help mitigate both drought and flooding impacts on crops and people by collecting and storing 
+rainwater from peak floods and using it for supplemental irrigation of crops and for provding 
+water for animals and people during periods of drought [19]. Water storage in farm ponds and 
+nearby water bodies will also help to recharge groundwater, and revive small streams and 
+dried out borewells on nearby land area s, thereby increasing water availability in rural 
+(farming) areas. In India, rainwater harvesting structures, which are refilled during monsoons, 
+reduce runoff by 40% and soil losses by 50%, and increase cropping intensity by 180%  [20, 
+21]. The farm pond schemes with partial support of state and central governments  are active 
+in many states of India and they can be extended to Africa as well.  
+ 
+ 
+FIG. 10. Farmers dig farm ponds at strategic locations in their farms to harvest rainwater which can 
+mitigate floods and provide water for life  saving irrigation of crops and quenching the thirst of 
+animals and people during periods of drought [19]. 
+
+ 
+28 
+14. SOIL FERTILITY AND NUTRIENT MANAGEMENT OF CASSAVA CROPS 
+Cassava can be a hardy, flexible crop that can grow fairly well in most soils including 
+marginal ones. However, for sustaining high cassava yields over long term, it is important to 
+replenish the soil with all the nutrients removed by the cassava crop in e ach season. For 
+example, for each ton of dry weight equivalent of cassava root yield, the crop exports from 
+soil 4.1 kg of N, 1 kg of P, and 8.3 kg of K. Some of the nutrients removed by the crop are 
+returned to the soil in the form of leaf litter and othe r residues of the cassava plants after the 
+harvest. The only point that needs emphasis is that cassava requires twice the amount of K as 
+compared to N uptake and that P requirement is very low. Another fact to remember is that 
+the crop uptake of nutrients increases faster than the dry matter accumulation in the roots, in 
+other words, higher the root yield, higher is the concentration of nutrients in the roots [22]. 
+The nutrient removal from the soil is quite large when root yields are high. For example, for  a 
+fresh root yield of 35.7 t ha-1 (13.52 t ha-1 of dry weight of roots), the crop will export from 
+the soil 55 kg ha -1 of N, 13.2 kg ha -1 of P and 112 kg ha -1 of K. As part of the nutrients 
+contained in the crop is returned to the soil, actual nutrient removal of nutrients from the soil 
+is less than that calculated based on root yield and nutrient concentration. For an average root 
+yield of 15 t ha-1, the crop will take up 30 kg N, 8 kg P 2O5, and 24 kg K2O. Thus, the ratio of 
+nutrient requirement for cassava will be 3 N – 1 P 2O5 – 3 K 2O. Therefore, in an NPK 
+compound fertiliser to be developed for cassava, we should have three times N and K for 
+every unit of P. In most soils, cassava responds to K>N>P, unless the soil is extremely 
+deficient in N. Potassium  application is critical not only to increase crop yields, but also to 
+increase starch content in roots. 
+ 
+14.1. SITE SPECIFIC NUTRIENT MANAGEMENT (SSNM)  
+Fertilisers alone supply only selected nutrients (N, P, K), therefore continuous 
+applications of fertilisers alone will deplete nutrients that are not supplied through fertilisers, 
+causing multiple nutrients deficiency. To combat this problem, site  specific nutrient 
+management (SSNM) is needed. In SSNM, it is advised to apply all organic 
+residues/manures/wastes available from farms and supplement it with fertilisers to attain the 
+targeted yields. Organic manures, particularly animal manures, will provide se condary (Ca, 
+Mg, S) and micronutrients (Cu, Fe, Mn, Zn), while fertiliser s will supply major nutrients (N, 
+P, K) to cassava and other crops. In fertiliser  trials, it was found that cassava root yields were 
+the highest either with a well-balanced  application of NPK fertilisers or combined application 
+moderate amount (5 t ha-1) animal manure supplemented by moderate levels of N and K 
+fertilisers (Table 2)  [23]. Similar results were also reported by for two long term experiments 
+conducted at the Central Tuber Crops Research Institute (CTCRI), Kerala, India. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+TABLE 2. RESPONSE OF CASSAVA TO INCREASING APPLICATION OF FARM 
+YARD MANURE (FYM) WITH AND WITHOUT 80  N 80 K2O KG HA -1 FERTILISERS 
+AT THAI NGUYEN UNIVERSITY OF AGRICULTURE AND FORESTRY, THAI 
+NGUYEN PROVINCE, VIETNAM, 2001 (2ND YEAR OF LONG TERM TRIAL). 
+ 
+Fertiliser treatments Fresh root yield 
+(t ha-1) 
+Plant height at 8 MAP 
+(cm) 
+Harvest Index  
+(HI) 
+Control 3.25 87.1 0.39 
+ 
+FYM :  5 t ha-1 7.79 116.6 0.49 
+FYM: 10 t ha-1 10.02 133.9 0.52 
+FYM: 15 t ha-1 13.11 151.8 0.52 
+80 N 80 K2O kg ha-1 only 15.47 154.5 0.50 
+80 N 80 K2O kg ha-1 + FYM : 5 t ha-1 17.98 180.0 0.48 
+80 N 80 K2O kg ha-1 + FYM: 10 t ha-1 18.70 188.3 0.49 
+80 N 80 K2O kg ha-1 + FYM: 15 t ha-1 18.50 196.6 0.48 
+NB: MAP = months after planting; t = tons; FYM = farm yard manure (pig manure) 
+Trials on the best time of fertiliser  application indicate that the best responses are 
+obtained when all the fertilisers are applied at the time of planting. Alternatively, all the P and 
+half of the N and K are applied at planting and the remaining N and K applied 2– 3 months 
+after planting. The fertiliser can be band-applied near the crop rows or spot -applied 5–10 cm 
+from the base of the plants. 
+In problems soils, before applying fertilisers, soil amendments  such as lime, gypsum  
+and animal/organic manure  have to be applied to correct specific problems like soil acidity 
+and Al toxicity [24], salinity, and very low level of soil organic matter respectively. 
+14.2. THE CASE OF INTEGRATED SOIL FERTILITY MANAGEMENT (ISFM) IN 
+AFRICA 
+The SSNM principles have been incorporated into a program called Integrated Soil 
+Fertility Management (ISFM) that is extensively promoted throughout Africa. The 
+progressive ISFM interventions are shown in FIG. 11. The three major steps involved in 
+implementing the IFSM are discussed briefly below. 
+ 
+30 
+ 
+ 
+FIG. 11. Progressive interventions involved in integrated soil fertility management (ISFM). 
+ 
+Step 1: I ntensification of crop productivity through improved varieties and healthy seed 
+systems [25, 26] combined with judicious use of fertilisers. Enhancing fertiliser use efficiency 
+through: i) incorporation of surface applied urea into the soil to  reduce N volatilization losses, 
+ii) increasing P availability to plants by banding of P fertiliser s on soils that strongly adsorb P, 
+and iii) point placement or banding of inorganic fertiliser inputs (FIG.12) that increases 
+nutrients uptake and reduces fertiliser requirements. 
+ 
+FIG. 12. Manual band placement of fertiliser near seed rows on ridges [Source: International Institute 
+of Tropical Agriculture (IITA), Nigeria. 
+Step 2: Organic residues (FIG.13a ) are a valuable source of organic matter inputs to 
+soils and nutrients for plant growth. Organic resource management is designed to neutralise 
+soil acidity and to replenish K, Ca and Mg that are exported from soils in harvested produce 
+[27]. In addition, rotation and or intercropping of cassava with the fast ground covering, short 
+term grain legumes like beans, soybeans, cowpea, and groundnut can enrich the soil with 
+
+ 
+31 
+biological N fixation, protects the soil surface against erosion, helps control weeds, and 
+provides a quick harvest and income to farmers [17]; they also improve the overall 
+productivity and fertiliser use efficiency of cassava based cropping systems [28]. In no till 
+farming systems, organic matter accumulated in soils prevents nutrient tie  up by clay minerals 
+and increases microbial breakdown of organic residues, thereby releasing nutrients for plant 
+uptake. 
+ 
+ 
+FIG. 13 a. Crop residues provide valuable organic matter and plant nutrients to improve crop 
+productivity and soil quality (Source: M.Zaman). 
+In poor sandy soils of southern Ivory Coast, the ISFM  based cassava cowpea 
+intercropping systems outperformed the local cassava monocrop cultivation system. The 
+average cassava yield was 14.5 and 6.5 t ha
+−1 and 12.6 and 5.7 t ha−1 for the ISFM an d 
+traditional systems, in Dabou and Bingerville, respectively. Taking into account the limited 
+farmer's resource endowment and poor soil fertility, ISFM is a crucial component for 
+sustainable intensification of cassava production and poverty alleviation in southern Ivory 
+Coast [29]. 
+ 
+Step 3: Tackling specific limitations to crop production, for example, by the application 
+of lime, ash or biochar to correct soil acidity; soil testing and addition of missing nutrients to 
+promote balanced nutrient use; tied ridging, formation of contour barriers, stone row 
+alignment, and growing crops in zai pits or basins to enhance water harvesting in drought  
+prone areas; and or targeted use of herbicides or pesticides to control weeds, insect pests and 
+diseases. 
+ 
+14.3. BENEFITS OF ADOPTING ISFM IN AFRICA 
+ 
+Farmers reap many benefits from the SSNM based IFSM as shown below: 
+ 
+14.3.1. Economic and livelihood benefits 
+ 
+ISFM reduces fertiliser  costs and increases net profit to farmers. The contributions of 
+ISFM practices to improving the livelihood of farmers can be evaluated using indicators such 
+as nutrition, health and gender at household and societal levels. The practice of ISFM 
+improves family nutrition due to higher intake of calories and proteins by family members. 
+ 
+
+ 
+32 
+14.3.2. Impact of ISFM on resilience of crop production to climate change 
+Benefits of practicing ISFM on the resilience of crop production to climate change can 
+be assessed by indicators related to the stability of production, water use efficiency and soil 
+conservation at farm and landscape levels. Improved management of organic  resources 
+increases soil organic matter content which in turn improves retention of water and nutrients 
+by soils, reduce  soil erosion and evaporation of soil moisture due to surface mulching, and 
+increases fertiliser use efficiency [17]. Crop diversificat ion through mixing of annual and 
+perennial crops can also contribute to addressing climate impacts on agricultural production 
+and food security [30]. Practices such as tied ridging, formation of contour barriers, stone row 
+alignment, and growing crops in zai pits or basins that enhance water harvesting and prevent 
+soil erosion [31] improve crop growth and development in drought  prone areas. 
+Intensification of crop productivity by practicing ISFM enhances the availability of fodder for 
+rearing livestock whic h improves family food security and cash flow, thereby strengthening 
+the resilience of smallholder farming households to climate change impacts. 
+14.3.3. Impact of ISFM on greenhouse gas (GHG) emissions 
+The impact of ISFM on GHG emissions from soils can be evaluated by monitoring and 
+measuring agronomic efficiency of fertilisers, as well as build-up of soil carbon stocks at farm 
+and landscape level in combination with default  GHG emission factors. Adoption of ISFM 
+mitigates GHG emissions by reducing losses of N fertiliser s and soil carbon to the 
+atmosphere. As shown earlier, micro  dosing of N fertiliser s through application to individual 
+planting holes enhances N use by crops [32]. ISFM interventions on organic inputs increase 
+soil carbon stocks which in turn improve the water and nutrients retention capacity of soils 
+and at the same time enhances fertiliser  N uptake by crops  [33]. In cassava grain legume 
+rotation systems, significant N benefits were derived from cowpea and groundnut [17,  29]. 
+Substituting an input of 10 kg urea -N ha -1 directly mitigates emissions of 20 kg CO 2 
+equivalent for manufacturing the fertiliser [34]. A reduction of fertiliser  inputs by 10 kg N ha-
+1 is by default accounted to lessen N 2O emissions from soils in equivalence of 60 kg CO 2 eq 
+per hectare [35].  
+Thus, by combining organic and inorganic N sources, smallholder farmers can mitigate 
+agricultural derived GHG emissions without compromising on crop productivity.  For 
+example, u nder both temperate China and tropical Zimbabwe conditions, combined 
+application of organic residues and N fertiliser s resulted in lower N 2O emissions compared to 
+inorganic fertilisers which had higher total and yield scale N2O emissions [36]. 
+ 
+ 
+ 
+33 
+ 
+FIG. 13b. Crop residues provide valuable organic matter and plant nutrients to improve crop 
+productivity and soil quality (Source: IPNI). Cassava – A resilient crop of last resort for food security 
+and a competitive industrial crop for commercial farmers. 
+15. WEEDS AND THEIR MANAGEMENT 
+Weeds are undesirable plants that affect the growth and development of any plant 
+including cassava. Weeds compete with cassava plants for space, water, nutrients and light, 
+thereby inhibiting crop growth and reducing crop yields. Weeds can also serve as alternate 
+hosts for insect pests, pathogens and vectors of diseases; and provide a safe habitat for rats 
+which often attack cassava roots. Major reasons for weed competition are: planting the 
+cassava stem cuttings too many days after land preparation; planting cassava at wider spacing 
+thus providing an opportunity for weeds to infest in the field; late weeding and allowing 
+weeds to flower and set seeds; poor manual weed control; ineffective herbicide application; 
+allelopathic weeds; increasing weed density due to continuous monocropping of cassava after 
+cassava; increasing weed infestation due to depletion of soil fertility; and the problem weed 
+species including the herbicide tolerant ones that cannot be controlled by current methods. 
+ 
+Both grasses (e.g., spear grass) and sedges are commonly found in cassava farms. The 
+growing weed problems limit the productivity of cassava, and negative ly impact the farming 
+families. Weeding takes 50 to 80% of the total labou r budget of cassava growers. Up to 200–
+500 hours per hectare of labou r, mostly of women and children, are required to prevent 
+economic cassava root losses. Women contribute more than 90% of the hand weeding labour 
+while 69% of farm children between the ages of 5– 14 are forced to leave school and engaged 
+in weeding in Nigeria. This burden compromises their education. Unless weed control is 
+improved, Nigerian farmers will not produce optimal cassava yields, since farm families 
+cannot plant more area than they can weed. 
+
+ 
+34 
+15.1. INTEGRATED WEED MANAGEMENT 
+Cassava is a poor competitor with weeds due to its slow early growth and delayed 
+canopy cover. Therefore, an effective weed control is critical during the early growth period 
+(up to 3 months after planting) to prevent yield losses due to weed competiti on. Farmers shall 
+adopt integrated weed management strategies so that they have less need to resort to 
+herbicides. Integrated weed management uses a combination of cultural, manual, mechanical 
+and/or chemical weed control methods. 
+15.1.1. Agronomic/cultural methods  
+Agronomic and cultural control methods such as minimum or zero tillage, maintaining 
+soil cover, practicing crop rotation and intercropping, and preventing weed seeding are all 
+effective measures for reducing weed pressure on crop production. Thes e cultural weed 
+control methods are generally ecologically sound because they minimi se or avoid the use of 
+chemical herbicides; they are also easy to use and often cost  effective. They adopt the 
+principle of ‘prevention is better than cure’ as discussed below. 
+• Good land preparation and leveling to reduce emergence of weeds. 
+• Selection of early branching cassava varieties that suppress weeds and use of good quality 
+stem cuttings as well as p lanting cassava in high density and better crop nutrition would 
+control early weed growth. 
+• Breaking the continuous moncrop cassava with rotation of crops that will help to break 
+weed and insect pest cycles and thus minimise weed infestation. Similarly intercopping of 
+cassava with fast  growing grain legumes like clowpea, groundnut, soybeans, and beans 
+will also help cover the ground early and reduce the weed pressure on cassava crops. 
+• Mulching cassava with fields plant residues (crop residues; leaf litter from nearby trees, 
+alley crops, and leguminous plants; rice husks, e tc.) to block out light to the soil and make 
+it difficult for weeds to grow. 
+• Growing weed suppressing cover crops (which also have substantial soil benefits, e.g., 
+legumes). 
+• Applying N fertiliser just after weeding will minimise competition from weeds. 
+• Reducing the weed “seed bank” in the soil by killing weeds in fallow fields before they 
+flower and set seed is especially useful (remember the phrase – ‘one year seeds, seven 
+years weeds’). 
+ 
+Although planting cassava in high density and better crop nutrition would suppress 
+weed growth, judicious use of herbicides may be needed for effective control of weeds, 
+especially in zero till fields. 
+15.1.2. Manual (hand) weeding 
+Many resource  poor farmers remove weeds by hand, often with the help of a hoe. 
+Although it provides employment for landless rural people, the drudgery and a growing 
+scarcity of labo ur are making it less likely that manual weeding will be performed, in the 
+future, in a timely fashion. Even so, a brief discussion of how best to hand weed is given 
+below: 
+• Start hand weeding when weeds are large enough to grasp, i.e. about 30 to 45 days after the 
+sprouting of cassava stem cuttings. 
+ 
+35 
+• Repeat the weeding once or twice more or as and when needed. Once the canopy is fully 
+developed, cassava plants will shade out the weeds. 
+• Never allow weeds to flower and set seeds in the cassava field.  Weed the field before 
+applying N and other fertilisers so as to minimise nutrient uptake by weeds. 
+ 
+15.1.3. Mechanical weeding 
+Mechanical weeding involves inter row cultivation to uproot and bury young weeds. It 
+is a non-chemical , ecologically sound method and is more efficient and less labour intensive 
+than hand weeding. The soil stirring that occurs in mechanical weeding can increase root and 
+shoot growth in cassava crops. However, mechanical weeding can be used only for crops 
+planted in rows. 
+15.1.4.  Chemical weed control – Herbicides use 
+Herbicides can be used before planting or just after seeding (e.g. pre -emergence 
+herbicides), or after the sprouting of the cassava stem cuttings (post  emergence herbicides) in 
+order to kill specific weed species. Recommended pre -emergence herbicides are fluometuron, 
+diuron and alachlor, and post  emergence herbicide Paraquat, as a complement to hand/hoe 
+weeding. 
+Herbicide application requires less labour  (0.5-person day per hectare for one 
+application) and is cost efficient. If chosen properly and applied correctly, herbicides can give 
+an effective control of weeds. However, application of the same herbicide, season after season 
+can sometimes lead to the development of herbicide resistance. Use the following steps to 
+apply herbicides correctly: 
+• Select an appropriate herbicide for the weeds to be controlled, and the stage of the cassava 
+and the associated crops. Be certain to use the recommended rate of application.  
+• Some herbicides are designed to control the weeds before they emerge (i.e., pre  
+emergence), w hile others are only effective after the weeds have emerged (post  
+emergence). 
+• Always read and follow the instructions on the product label. 
+• Mix the recommended amount of herbicide with required amount of clean water in a 
+suitable sprayer, one which has an appropriate spray nozzle. 
+• Uniformly apply the herbicide + water mix across the field: maintaining a steady pressure 
+by pumping and a steady walking speed. This will ensure a uniform spray application 
+action. 
+• Spray the herbicide product from a height of around 50 cm above the target plants. 
+• Spray ideally only on calm days, or if there is a minor wind, spray perpendicular to the 
+wind, so that herbicide spray is blown away from the person applying the spray. 
+• Rotate the herbicide ‘types’, insofar as possible, in subsequent years to help prevent the 
+development of herbicide resistant weeds. 
+ 
+ 
+ 
+36 
+16. INSECT PESTS AND DISEASES AND THEIR MANAGEMENT: 
+INTEGRATED PEST MANAGEMENT (IPM) 
+Biotic constraints include insect pests and diseases that attack the cassava crops  and lead to 
+lower yield. 
+16.1. KEY INSECT PESTS OF CASSAVA 
+The common insect pests that affect cassava crops in Africa and Asia are: cassava green 
+mites, cassava mealy bugs and whiteflies (FIG.14). Grasshopper attack is more widespread in 
+Africa than in Asia, while attack by white grubs is more common in Asia than in Africa. The 
+infestation by cassava green mites and cassava mealy bugs can cause yield losses up to 80%. 
+Whitefly (B. tabaci ) adults feed on the underside of young cassava leaves and transmit the 
+cassava mosaic virus and the cassava brown streak virus that are ravaging the cassava crops, 
+with an estimated yield loss of 40% or more in SSA. 
+The two species of cassava mealybugs, Phenacocus manihoti  and P. herreni , can cause 
+serious yield losses in cassava in Asia and Africa.  P. manihoti  caused severe yield losses in 
+Africa until the introduction of natural enemies from the Neotropics by IITA and 
+CIAT. Epidinocarsis lopezi , a natural enemy of  P. manihoti  collected in Paraguay, was 
+released in 1981 in Nigeria and is now established on approximately 750 000 km
+2 over a wide 
+range of African ecological zones, helping to maintain low levels of mealybug attack [37]. 
+The other natural enemy that can effectively control cassava mealy bugs is Apoanagyrus 
+lopezi (a parasitoid wasp) identified from South Africa. 
+The control of the Cassava Green Mite (CGM) ( Mononychellus tanajoa) in Africa and 
+Asia is one of the most serious challenges to cassava production. Shipments of natural 
+enemies from the Neotropics to Afri ca have been made regularly since 1984 as a part of a 
+joint IITA  CIAT biological control effort. The two biocontrol species,  Typhlodromalus 
+limonicus and Neoseiulus idaeus , have been released in several sites in West Africa [38]. 
+Another natural enemy, Typhlodromalus  aripo (a predatory mite from South Africa), is also 
+found to be effective against CGM. The success of the biological control campaign against 
+CGM in Africa will depend on continued collaboration between international agricultural 
+research centres and national institutions in African countries. 
+A wide range of plant parasitic nematodes have been reported associated with cassava 
+worldwide. These include  Pratylenchus  brachyurus , Rotylenchulus reniformis , 
+Helicotylenchus  spp., Scutellonema spp. a nd Meloidogyne  spp. Of these,  Meloidogyne 
+incognita and Meloidogyne javanica are the most widely reported and economically important 
+[39]. There is less attention at present on nematode problem in cassava. 
+16.2. MAJOR DISEASES OF CASSAVA 
+African cassava mosaic disease (CMD), cassava brown streak disease (CBSD), cassava 
+bacterial blight (CBB), and cassava root rots are the major diseases affecting cassava in Africa 
+(FIG.14). In Asia, root rots, CBB, and phytoplasma or cassava frog skin disease att ack the 
+cassava crops (FIG.14). 
+The CMD caused by the cassava mosaic virus is one of the most serious diseases in 
+Africa. It causes the leaves of the cassava plant to wither, limiting the growth of the root and 
+causing severe yield losses in East, West and Central Africa. The virus is spread by 
+the whitefly and by the transplanting of diseased stem cuttings into new fields.  This insect 
+ 
+37 
+transmitted disease is controlled only through the use of healthy planting material in areas 
+where the reinfection rate is slow. Bre eding efforts are ongoing for the development of 
+resistant varieties by crossing M. esculenta with M. glaziovi , but insufficient virus resistant 
+material is currently available to farmers. 
+The CSBD has been identified as a major threat to cassava cultivati on worldwide. Even 
+when the CBSD leaf withering symptoms are commonly noted, the root necrosis symptoms 
+are less common. Farmers practice a selection for cassava varieties less prone to CBSD root 
+necrosis leading to dependence on a decreasing number of varieties. Recently, CBSD resistant 
+cassava varieties have been developed and released to farmers in Africa. 
+The CBB caused by Xanthomonas campestris  is another disease affecting cassava crops 
+worldwide. Successful control of the CBB can be obtained through inoculation of planting 
+material with strains of Pseudomonas fluorescens  and P. putida  [40]. P. putida  can also be 
+used for the control of Diplodia manihotis , a root rot pathogen [41]. Another disease cassava 
+anthracnose (Colletotrichum gloeosporioides ) is of local importance in Africa.  
+Cassava phytoplasma or cassava frog skin disease (CFSD) is an important disease 
+affecting cassava roots in South America including Brazil and it was later introduced to Asia. 
+The CFSD causes deep lesions in roots, eventua lly reducing their diameter; therefore, in many 
+cassava cultivars, symptoms are observed only when the plants are harvested. The CFSD  
+infected roots are thin, cork like, fragile, and opaque, covered by a thickened peel. In many 
+cases, roots may be very thin and the bases of stems thicker than normal [42] caused by a 
+fungus, Sphaceloma manihoticolaus, and it reduces the cassava root yields drastically, mostly 
+in South America.  This fungal infection causes significant internode elongation which results 
+in a spindly stem, as well as changes in leaf shape, along with necrotic spots. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+(a)
+ 
+(b)
+ 
+(c)
+ 
+(d)
+ 
+(e)
+ 
+(f)
+ 
+(g)
+ 
+(h)
+ 
+(i)
+ 
+ 
+FIG. 14. Major insect , pests and diseases of cassava:  (a) c assava mealy bugs, (b) cassava green 
+mites, (c) c assava whitefly , (d) c assava mosaic disease: susceptible vs. resistant types, (e) cassava 
+brown streak disease foliar symptoms (f)  cassava bacterial blight (g) cassava mosaic disease: necrotic 
+roots (h) cassava brown streak disease: r oot necrosis, and (i) cassava phytoplasma or cassava frog 
+skin disease. 
+ 
+16.3. MANAGEMENT OF INSECT PESTS AND DISEASES IN CASSAVA 
+ 
+Insect pests and diseases of cassava are controlled by (a) preventive and curative 
+measures and (b) corrective measures in case of severe outbreaks or in hot spots. 
+ 
+ 
+16.4. PREVENTIVE AND CURATIVE MEASURES: INTEGRATED PEST 
+MANAGEMENT  
+ 
+Integrated Pest Management  is defined as the integrated use of various non-chemical 
+pest control tactics prior to resorting to the use of chemicals for pest control in hot spots. The 
+three cardinal principles of IPM are: (i) growing a healthy crop by adopting resistant varieties 
+and best crop management practices; (ii) maintaining pest  predator balance by establishing 
+and maintaining a healthy agro-ecosystem; and (iii) the strategic use of external pest control 
+
+ 
+39 
+inputs that are known to have a minimal impact on the agro-ecosystem. IPM is thus a 
+knowledge intensive approach, one  which requires systematic learning through continuous 
+observation and practice (e.g., via Farmer Field Schools) [43]. The sustained hard work 
+required to implement an IPM program will pay off through increased crop yields, reduced 
+cost on purchase and application of pesticides, and improved human and wildlife health, as 
+well as an improved environmental quality. An analysis of 85 IPM projects from 24 countries 
+of Asia and Africa which have been implemented over the past 20 years (1994– 2014), 
+indicate that crop yields have been increased by an average of 40.9% while pesticide use 
+decreased by 30.7%, all relative to baseline yields. Unfortunately, policy and institutional 
+support for IPM remains lukewarm [44]. 
+ 
+16.4.1. IPM tactics 
+ 
+Farmers currently can use any of the six IPM tactics listed below for managing insect 
+pests and diseases of cassava: (i) genetic: host plant resistance; (ii) agronomic/cultural 
+practices – cultural control; (iii) mechanical methods; (iv)  biological control; (v) use of 
+naturally occurring plant products i.e., effective and relatively safe botanicals and microbial 
+bio pesticides; and (vi) judicious chemical control with ‘soft’ pesticides, which are used on a 
+need only basis. 
+ 
+Genetic Host plant resistance  
+ 
+Host plant resistance to insect pests and diseases is a key component of IPM. Planting 
+cassava varieties that are resistant to insect pests and diseases, and are also tolerant to drought, 
+waterlogging, heat, and cold is a popular and highly cost -effective pest control method, one 
+which is readily available for farmers to adopt. For example, farmers in coastal Tanzania and 
+elsewhere in Africa tend to discard the cassava plants that are severely affected by CBSD and 
+retain those that grow and yield satisfactorily even when infected. By this process, Tanzanian 
+farmers have identified a CBSD tolerant local cassava variety Nachinyaya in which the CBSD 
+leaf symptoms are produced, but the development of root necrosis is delayed so much that the 
+full potential yield of healthy roots is obtained [45]. Breeding efforts are ongoing for the 
+development of virus resistant cassava varieties by crossing  M. esculenta with M. glaziovi . 
+Recently, CMD  and CBSD  resistant cassava varieties (FIG.15) have been developed and 
+released to farmers in Africa and Asia by the collaborative works of IITA in Africa and CIAT 
+in Asia, both in collaboration with national cassava program. They have also identified 
+cassava variet ies that are resistant to cassava whiteflies (FIG.15) that transmit the most 
+damaging virus diseases CMD and CBSD. 
+ 
+Agronomic/cultural pest control methods  
+Planting of disease free cassava stem cuttings is the first step in the prevention of the 
+spread of cassava virus diseases. It is therefore important to raise the awareness among 
+cassava farmers about the importance of establishing the next crop with healthy planting 
+materials. 
+Mechanical methods  
+Removing and/or destroying disease affected cassava plants  (or their alternate hosts) is 
+vital in order to prevent the spread of bacterial, fungal and viral diseases of cassava. Cassava 
+farmers seldom practice this method to control the spread of cassava diseases. 
+ 
+ 
+40 
+ 
+Biological control of cassava insect pests and diseases 
+ 
+To control cassava mealy bugs, natural enemies have been introduced into Africa and 
+Asia from the Neotropics as a part of a joint IITA  CIAT biological control effort.  
+Epidinocarsis lopezi , a natural enemy of  P. manihoti  collected in Paraguay, was released in 
+1981 in Nigeria and is now established on approximately 750 000 km2 over a wide range of 
+African ecological zones, helping to maintain low levels of mealybug attack [37]. The other 
+natural enemy that can effectively control cassava mealy bugs is Apoanagyrus lopezi  (a 
+parasitoid wasp) identified from South Africa. 
+ 
+The two biocontrol species,  Typhlodromalus limonicus  and Neoseiulus idaeus , have 
+been released in several sites in West Africa to control cassava green mites (CGM) [38]. 
+Another natural enemy, Typhlodromalus  aripo (a predatory mite from South Africa), is also 
+found to be effective against CGM. 
+Successful control of the CBB  can be obtained through inoculation of planting material 
+with strains of Pseudomonas fluorescens  and P. putida [40]. P. putida  can also be used for the  
+control of Diplodia manihotis, a root rot pathogen [40, 41]. 
+The success of the biological control campaign against CGM and virus and bacterial 
+diseases will depend on continued collaboration between international agri cultural research 
+centres and national institutions in African and Asian countries. 
+Phytosanitary measures  
+Being a vegetative  propagated crop, cassava hardwood stem cuttings are exchanged 
+between farmers of different regions and even different countries. This traffic in planting 
+material within and between countries is responsible for the inadvertent transmission of 
+pathogens in Africa and Asia. Strict enforcement of phytosanitary measures at national 
+borders is crucial to stem the spread of cassava virus diseases form one region to another. 
+Surveillance and diagnostics play a vital role in identifying and eradicating destructive 
+diseases of cassava. IITA has launched a virtual network program called the ‘Cassava Disease 
+Surveillance (CDS)’ in Nigeria to fac ilitate the rapid diagnosis of cassava diseases, 
+communication, and coordinated deployment of emergency response to control such diseases. 
+This interactive program accessible through any internet enabled devices offers effective and 
+economical solutions to the challenges in coordinating and communicating disease outbreaks 
+in the fields and interception of pathogens in the commodities exchanged between country 
+borders. A particular focus of the CDS program is to monitor for CBSD, which is ravaging 
+cassava production in East Africa, but not yet present Nigeria. 
+The CDS platform enables rapid preliminary diagnosis of cassava disease by visual 
+inspection of suspect specimens. Symptomatic specimens are submitted as digital images by 
+internet enabled devices. These images are immediately analysed  by a team of national and 
+international experts. It also includes a coordination framework for regulatory action by the 
+national agricultural quarantine services (NAQS) to contain any threat identified in the field. 
+ 
+ 
+ 
+  
+ 
+41 
+Healthy cassava seed systems  
+Until recently, farmers had very limited access to 'virus  free' cassava planting materials. 
+In recent years, with the funding support from the Bill Gates Foundation, the Quality 
+Management Protocol (QMP) has been developed to m ultiply disease free cassava planting 
+materials and distribute them to farmers. The key components of the QMP are as follows: 
+Primary (centralized) multiplication sites multiplying the virus  tested cassava plantlets 
+derived from tissue culture and managed by researchers or qualified seed producers, 
+secondary, and tertiary multiplication sites (usually in farmers’ fields) are all assessed, at least 
+once in a year, for quality parameters, primarily in terms of disease and pest incidence and 
+quality of planting materials. The QMP standards for CMD and CBSD incidences ascertained 
+by diagnostic tests are <10% for primary and secondary sites and <20% for tertiary sites in 
+endemic areas. In addition, the management of cassava diseases could be greatly enhanced by 
+raising awareness among growers about the importance of establishing the next crop with 
+healthy planting material. 
+ 
+With this program, healthy, disease  free planting materials have been provided to more 
+than half a million beneficiaries in six countries (Kenya, Uganda, Tanzania, Burundi, Rwanda 
+and eastern parts of DR Congo). This QPM protocol provides an important model for other 
+current and future cassava development programs. For successful replication of the QMP  
+based cassava seed systems, basic capacity  needs must be strengthened in most countries. Key 
+elements of this include the laboratory and human capacity for virus indexing, as well as the 
+knowledge of QMP and the capacity of the national plant quarantine organization to monitor 
+cassava seed systems. 
+ 
+(a)
+ 
+(b)
+ 
+ 
+FIG. 15. Use of hostplant resistance for the control of cassava insect pests and diseases. (a) Cassava 
+mosaic disease (CMD) Susceptible vs. resistant types  and (b) MEcu 72 cassava line resistant to 
+whiteflies [46] 
+ 
+Judicious use of soft pesticides  
+In the IPM approach, recommended soft pesticides are applied only as a last resort,  
+when all non-chemical pest control tactics fail to protect the crop and the projected risks of 
+crop damage and economic loss are serious. For example, for cassav a green mite control, 
+biological measures are recommended when the observed egg laying adults are less than 50 
+and nymph pupae are less than 200 per plant. Chemical pesticide application is taken up when 
+the population of adult mites reaches a level of 51 to 200 and the nymph pupae are 201 to 500 
+per plant [46]. 
+ 
+
+ 
+42 
+Informed decisions about where and how to grow cassava should take into account site  
+specific information such as soil fertility requirements, the risk of soil degradation, climatic 
+conditions, on farm food and animal feed needs, as well as market access and demand. Then 
+the myths will be truly debunked and cassava can be recognized as a hardy, flexible crop with 
+promising economic potential for the poor of the region. 
+ 
+ 
+17. HARVESTING AND POSTHARVEST PROCESSING 
+ 
+Cassava being a perennial, it can be stored in the ground for 2– 3 months and harvested 
+as and when required. Its wide harvesting window allows it to act as a famine reserve food 
+crop and is invaluable in managing labou r schedules [3]. In general, cassava roots are 
+harvested between 6 and 18 months after planting (MAP) [22]. Some early maturing varieties 
+can be harvested at 6 MAP mainly for direct human consumption, but most 
+commercial/industrial varieties are harvested between 8 and 12 MAP. Yields of fresh and dry 
+roots as well as starch increased steadily from 8 to 18 MAP; root and starch yields nearly 
+tripled between 8 and 18 months. Starch contents increased and stabilized 10 MAP (Table 3). 
+Harvesting cassava after 18 months provides an income only every 1½ years, but at a 
+considerable saving in terms of production costs. Harvesting early, at 6– 8 MAP, allows for 
+double cropping of cassava with a follow on short  duration crop of rice, sweet corn, mung 
+beans, beans, cowpea or groundnut. Rotation of cassava with a grain legume adds biologically 
+fixed N to soils and improves soil organic matter content and related soil properties. 
+ 
+TABLE 3. TIME OF HARVESTING OF CASSAVA ON ROOT YIELD, STARCH 
+CONTENT AND YIELD OF CASSAVA VARIETY RAYONG 1 PLANTED AT THE 
+RAYONG FIELD CROPS RESEARCH CENTER, THAILAND, 1975–79 
+Age at harvest 
+(months) 
+Fresh roots yield 
+(t ha-1) 
+Dry root yields 
+(t ha-1) 
+Starch yields 
+(t ha-1) 
+Starch content 
+(%) 
+8 16.19  6.44  2.31  14.3 
+10 23.06  8.31  4.81  20.9 
+12 31.31  10.69  5.94  19.0 
+14 37.56  13.06  7.38  19.6 
+16 41.50  15.00  8.69  20.9 
+18 45.25  16.44  9.19  20.3 
+Mean values: Source: [52]. 
+ 
+ 
+ 
+ 
+ 
+43 
+ 
+ 
+(a)
+ 
+(b)
+ 
+(c)
+ 
+(d)
+ 
+(e)
+ 
+(f)
+ 
+(g)
+ 
+(h)
+ 
+(i)
+ 
+ 
+FIG 16. Postharvest processing and value addition opportunities. (a) harvesting cassava tubers,  (b) 
+transporting cassava roots, (c) cassava peeling (Ghana), (d) cassava grater machine (Philippines), (e)  
+open air sun drying of cassava chips (Nigeria), (f)  s un drying of cassava bread (Venezuela), (g)  
+cassava processed into gari (Nigeria), (h) c assava processed into fermented cattle feed, (i) cassava 
+processed into flour (Thailand).  
+ 
+Cassava is usually harvested by removing the tops at 20– 30 cm above the ground level 
+and using the remaining stump to pull up the roots manually (FIG.16). If the soil is too hard, 
+the roots can be lifted out of the ground with a pointed metal bar or a metal fork attached to a 
+wooden stick used as a lever. Roots can also be dug out with a pick axe, a hoe or a shovel. 
+Farmers in some parts of Thailand now use a tractor  mounted cassava harvesting tool that 
+loosens the soil and lifts up the roots for easy gathering by hand. In Malaysia, a more 
+sophisticated cassava harvesting machine digs the roots and deposit s them in an attached 
+wagon. After pulling up the root clumps, the individual roots are cut off from the stump and 
+packed in baskets or sacks for transport to the house, drying floor or starch factory (FIG.16). 
+
+ 
+44 
+Fresh cassava roots are highly perishable after harvest, and therefore, they should be  
+processed within 2–3 days after the harvest. Peeling of cassava roots is a very labour-intensive 
+process (FIG.16). Therefore, breeders are trying to select a cassava variety with a white peel 
+covering the roots. One cultivar, Branca de Santa Catarina, has been selected for this reason. 
+Drying of the tubers is one simple method of cassava preservation (FIG.16). It is 
+important to note that some methods of drying are more effective than others in terms of 
+retaining β-carotene levels in dried roots. Oven drying at 60
+oC was shown to maintain 72% of 
+the β -carotene levels though the retention fell to 40% after four weeks in storage. Sun drying 
+only resulted in a 38% retention of β -carotene levels and after four weeks in storage, the 
+levels fell to about 18% [2]. The retention of β -carotene can be improved by pre -treatments 
+such as blanching and osmotic dehydration. 
+Dried cassava is processed into dried chips for local use and for export as cattle feed, 
+and gari, bread, fried chips, and other food products for hum an consumption in rural 
+processing cent res. Cassava flour, cassava starch, cassava/tapioca pearls, and cassava 
+bioethanol are produced in small and large factories located in towns and cities (FIG.16).  
+Dried cassava roots or chips can be stored for 3 to 6 months. However, during storage, a 
+wide range of insect pests feed directly on the dried chips, causing a 15– 20% loss in weight in 
+3 months.  
+A large quantity of waste is produced during processing of the cassava roots, mainly 
+consisting of tuber peels (F IG.17). Cassava peels are processed generationally for additional 
+household income in Vietnam in Asia and many countries of SSA. The challenge is to dry the 
+cassava peels from about 60% moisture content to a 12 –15% moisture content within 6 –7 
+hours to preserve the quality of the cassava wastes. Sun drying inside a plastic dome will help 
+dry the cassava peels to a safe moisture content of 12 –15% within 6 –7 hours to get high 
+quality products with very low or no aflatoxins.  In addition, a retrofit heat exchanger, that 
+uses palm kernel shells or cashew nut shells as a fuel, has been developed for flash drying of 
+cassava peels.  Dried cassava waste can be used as a substrate up to 75% of the growth 
+medium for the production of oyster mushrooms. 
+ 
+ 
+45 
+ 
+ 
+FIG. 17. Large amounts of wastes produced during cassava peeling. 
+ 
+18. MECHANIZATION OF CASSAVA PRODUCTION AND PROCESSING 
+Appropriate mechanization of cassava production and processing (FIG.18) will be 
+helpful to increase labour efficiency, reduce drudgery, and obtain high quality products. Land 
+preparation is the most mechanized in cassava production in many countries, while other 
+operations are less mechanized. Primary processing of cassava like the grating and 
+preparation of dried chips, wet starch preparation, and making gari, bread, fried chips, etc. at 
+village level will enhance rural cassava processing enterprises and  potentially generate jobs 
+for rural youth and women. Secondary, industrial level processing of cassava into cassava 
+flour, cassava starch, and cassava biofuel ethanol is centralized in towns and cities in Asia and 
+Africa.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+46 
+(a)  
+   
+(b)  
+   
+(c) 
+   
+(d) 
+   
+(e)  
+   
+(f)  
+   
+(g)  
+   
+   
+ 
+FIG. 18. Progressive mechanization of cassava production and processing operations  (a)  land 
+preparation, (b)  preparation & distribution of stem cuttings , (c) p lanting of stem cuttings , (d) 
+irrigation, (e) weeding and inter row cultivation (f) harvesting of cassava (g) processing of cassava 
+
+ 
+47 
+19. ECOLOGICAL INTENSIFICATION OF CASSAVA PRODUCTION SYSTEMS 
+The biggest 21 st century challenge for farmers, agricultural scientists, and planners and 
+policy makers is the need for further intensification of agriculture to meet the growing 
+food/feed/fuel/raw materials demand, while at the same time protecting the resource base, 
+ecosystem services and the environment. Farmers have experienced soil degradation with 
+excessive tillage. Excessive tillage often accelerates decomposition of soil organic matter, 
+reduces soil microbial populations and their activity, destroys soil mulch or vegetation cover, 
+increases evaporation of soil moisture, depletes soil fertility and degrades soil structure [47]. 
+Added to this is the further decline of soil fertility due to continuous cropping of cassava and 
+other crops without adding adequate nutrient s either through fertiliser s or through 
+incorporation of organic materials. Soil erosion is a serious problem when cassava is 
+cultivated on sloping lands. In semiarid areas with uncertain rainfall, cassava crops do suffer 
+from drought stresses which will reduce the cassava yields drastically.  
+ 
+To combat the major abiotic stresses to cassava production, scientists have proposed the 
+conservation agriculture (CA)  based ecological intensification of agriculture . By improving 
+soil health, reducing soil erosion, reducing pest and pathogen pressure, increasing the 
+availability of water and nutrients, and increasing soil carbon storage, CA enhances crops’ 
+resilience to higher temperatures, drought and flooding; enhances ecosystem services; reduces 
+GHG emissions; and helps to mitigate climate change. It also lowers the production costs 
+through savings on machinery, labour, fossil fuel, irrigation, mineral fertilisers and pesticides. 
+ 
+The technical principles (reduced or  zero tillage, soil cover, crop diversification) CA 
+have to be translated into the ecological processes in the field (FIG.19) to reap the many 
+benefits of CA. However, CA is not a ‘one  size fits all’ approach – the methods used to 
+realize its key practices  vary according to crops and local conditions [48]. Let us now look at 
+these CA components as applied by farmers in their fields in Asia and Africa and the rest of 
+the world. 
+ 
+19.1. CA THROUGH REDUCED OR ZERO TILLAGE AND ORGANIC MATTER 
+MANAGEMENT 
+Reduced or z ero tillage is considered the most successful resource  conserving 
+technology on the plains [49, 50] as well as on sloping lands [17]. When farmers practice 
+reduced or zero tillage, residues from previous crops or leaf litter from nearby vegetation is 
+left on soil surface (FIG.19). Surface mulching with crop residues will help infiltrate 
+rainwater into the soil, conserve soil organic matter and soil moisture, and improve water  use 
+efficiency by crops [17]. However, weeds could be a problem in zero till fields, and thus weed 
+control is critical to get high yields. 
+19.2. SOIL EROSION CONTROL IN CASSAVA FIELDS: MANAGEMENT OF 
+ORGANIC RESIDUES 
+ 
+Both wider spacing adopted for cassava planting and slow early growth of cassava 
+plants, soil is exposed to the dire ct impacts of rainfall and soil erosion becomes serious 
+problem, especially on sloping lands. However, farmers can reduce the risks of soil erosion by 
+adopting appropriate agronomic and soil conservation measures such as minimum tillage, 
+forming the ridges  along the contour, making tied ridges, close plant spacing, mulching, 
+adequate application of nutrients, intercropping with quick growing legumes, growing a cover 
+ 
+48 
+crop before planting cassava, and forming contour live hedges with grass strips, leguminous 
+trees and shrubs.  
+ 
+Plant resides from previous crops is the principal source of mulch for CA systems. 
+Diversified cropping systems and vegetated borders provide different types of crop residues 
+for use as mulch on soils, especially under zero till cassava systems. In agroforestry systems, 
+certain deep  rooted, leguminous shrubs and trees can extract water and nutrients from deep 
+soil layers if water and nutrients are available in subsoil; they also enrich the soil through 
+biological N fixation [49]. On  station and on farm trials have shown planting hedge rows of 
+vetiver, Paspalum atratum , lemon grass, Tephrosia candida and pineapple were the most 
+effective in reducing soil erosion, while closer plant spacing, fertiliser  application, and lemon 
+grass or vetiver hedgerows were the most effective in increasing cassava yields [50]. 
+ 
+19.3. CROP DIVERSIFICATION AS A COMPONENT OF CA 
+Cassava farming can be diversified by planting grain legumes, green manure legumes, 
+cover crops, and leguminous shrubs and trees in the form of crop rotations, intercropping, 
+relay cropping and agroforestry systems. Commonly planted legumes include beans, pigeon 
+pea, cowpea, groundnut and soybean, which are grown mainly for food, and non-edible 
+legumes, such as velvet beans and jack beans, which are used as feed for livestock or as 
+ground cover in planted fallows. Cassava  legumes systems diversify production, enrich the 
+soil through biological nitrogen fixation, enhance water  use efficiency, and disrupt the life 
+cycle of weeds, insect p ests and disease agents. Crop diversification can also improve family 
+nutrition with a variety of foods, and provide higher income opportunities to farmers [51, 49]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49 
+(a)
+ 
+(b)
+ 
+(c)
+ 
+(d)
+ 
+(e)
+ 
+(f)
+ 
+(g)
+ 
+(h)
+ 
+(i)
+ 
+(j)
+ 
+(k)
+ 
+(l)
+ 
+ 
+FIG. 19. Some examples of ecological intensification of cassava based production systems.(a) zero till 
+field with residues on soil surface ,  (b)  cassava planted on zero till field with maize residues on soil 
+surface (c) cassava on ridges covered by crop residues (d) crop rotation: Early maize crop followed 
+by cassava (Cambodia)  (e) cassava beans intercropping (f)  cassava maize jack bean intercropping, 
+(g) cassava maize intercropping, (h) Mixed cropping of cassava, papaya, mahogany, cashew nut 
+(West Timor, Indonesia, Photo by Yulius Suni) , (i) Contour planting of crops including cassava on 
+sloping land (North Vietnam), (j) crop animal systems: cassava Flemingia macrophilla (forage crop) 
+intercropping, (k) crop animal systems: Goats foraging fallow vegetation and (l) Crop animal system: 
+Carrying cassava clippings for feeding animals.   
+ 
+
+ 
+50 
+19.3.1. Cassava legumes rotations 
+In crop rotations, cassava  is planted after a legume or a cereal monocrop is harvested.  
+Researchers in Cambodia are demonstrating that an early pl anting of maize followed by 
+cassava is highly productive per unit area of land. Researchers in Thailand have shown that 
+when green manures are planted and incorporated into the soil before planting cassava, they 
+increase cassava yields significantly, but f armers are not willing to grow a crop for green 
+manure purpose only. Alternatively, cassava can be planted late in the rainy season after 
+incorporating the fully grown green manure and harvested at 18 months after planting to get 
+very high root yields (38.8 to 46.2 t ha-1) [52], but this rotation system provides only one 
+cassava harvest every two years. Farmers could follow this 2-year  system of green manure  
+cassava rotation in alternate years on half of their fields to obtain a more consistent cassava 
+yields and steady income every year.  
+19.3.2. Cassava legumes intercropping 
+Intercropping is growing two or more crops together, planted at the same time in the  
+same field. Small scale farmers in most of Africa and in some countries of Asia practice 
+intercropping as a hedge against vagaries of weather and to obtain higher total yields of all 
+crops put together. In intercropping, cassava and legumes are planted simultaneously in the 
+same or in alternating rows. In relay cropping, cassava and legumes are planted on different 
+dates and grow together for at least a part of their life cycle. Green manure crops can be 
+grown as an intercrop between cassava rows and pulled out and used as a mulch on soil 
+surface 2 –3 months after planting. In the green manure  cassava intercropping system, sword 
+bean was found to be the most effective and it increased the cassava yields from 17.6 t ha
+-1 to 
+26.9 t ha-1[52]. 
+Among the grain le gumes used for intercropping with cassava, groundnut is very 
+popular in Vietnam as it can be grown on similar acid infertile soils as cassava, it doesn’t have 
+severe insect pest and disease problems, and it covers the soil well and protects it from water 
+erosion. Intercropping of cassava with mung bean or soybean can be successful sometimes, 
+but at other times, severe drought or pest incidence could wipe out the legume intercrops.  
+19.3.3. Integrating trees in cassava farms  
+In agroforestry systems, leguminous shrubs and or trees are incorporated into cassava 
+fields in various designs. Leguminous species used for agroforestry systems include shrubs 
+like glyricidia, leucaena, callinadra, and sesbania and acacia trees like Faidherbia albida, and 
+other trees like mahogany. Certain deep rooted, leguminous shrubs and trees can extract water 
+and nutrients from deep soil layers if water and nutrients are available in subsoil; they also 
+enrich the soil through biological N fixation [49]. On  station and on farm trials have shown 
+planting hedge rows of vetiver, Paspalum atratum , lemon grass, Tephrosia candida and 
+pineapple were the most effective in reducing soil erosion, while closer plant spacing, 
+fertiliser application, and lemon grass or vetiver hedgerows were the most effective in 
+increasing cassava yields [50]. The trees also provide fuel wood (15– 20 t ha-1) from the 3 rd 
+year of fallow planted with Sesbania sesban.  Agroforestry improves soil structure and water 
+filtration, which makes rain fed crops including cassava more resilient to drought and the 
+effects of climate change. Conservation agriculture with trees sequesters from 2 to 4 t ha-1 
+year-1 of carbon is compared to 0.2 to 0.4 t ha-1 year-1 under C A without trees [49]. It is, 
+however, important to note that many soil conservation practices do require additional money 
+and labour to install and manage the system, they may reduce the yields of food crops in short 
+ 
+51 
+term due to competition or by partial occupation of the land meant for growing food crops. 
+Thus, most of the soil conservation practices have advantages and disadvantages, and are 
+often location specific. Therefore, farmers have to choose those practices that are most 
+suitable for their own circumstances, based on their own experience and observations. 
+ 
+19.4. CROP ANIMAL SYSTEMS 
+ 
+Integrating crops and animals in the same farm is another form of diversification w hen 
+properly integrated and well managed crops and livestock can be highly complementary to 
+each other. Some of the key features of the crops livestock systems are: 
+ 
+• Cassava hay and processed cassava roots or by products as well as forage legumes and 
+grasses are fed to animals and the vegetation from fallow lands will be availabl e for 
+grazing by animals. Animal manure can be added to crop fields to improve soil fertility.  
+• Livestock, small animals and poultry can play an important role, both as a source of 
+cash income and as food, especially for the poor. Introduction and evaluation of new 
+domestic animal species, such as rabbit or turkey, could broaden the farmers’ choice of 
+livestock which are best adapted to their conditions. 
+• Access to better breeds and vaccination to prevent diseases (bird flu in chickens, or blue  
+ear syndrome in pigs) is important to improve livestock production. 
+• Development of fodder crops and a cut  and carry fodder system to feed the animals will 
+help intensify the livestock production systems. This will also prevent crop damage by 
+free range animals in the s ummer season, when some farmers with the ability to irrigate 
+can plant crops. 
+ 
+20. THE ROLES OF ISOTOPI C TECHNIQUES TO MEASURE NITROGEN USE 
+EFFICIENCY 
+The Soil and Water Management & Crop Nutrition (SWMCN) S ubprogramme of the 
+Joint FAO/IAEA Division of Nuclear Techniques  in Food and Agriculture, has developed a 
+wide range of nuclear and isotopic techniques for use in soil  water nutrient management to 
+enhance nutrient and water use efficiencies, and to also increase the capture of atmosph eric 
+nitrogen (N
+2) and carbon (C) as well, thereby improving soil fertility for sustainable crop 
+production under changing climate.  
+ 
+Nuclear and isotopic techniques are a complement to, not a substitute for, non-nuclear 
+conventional techniques. These techniques, however, do have several competitive advantages 
+over conventional techniques by providing unique, precise and quantitative data on the 
+dynamics of soil nutrient and soil moisture pools and their fluxes in the soil  plant water and 
+atmosphere systems. They are especially useful for assessing the value of selected soil  water 
+management technologies which can be tailored to specific agro ecosystems for improving 
+soil fertility, crop productivity and water use efficiency. For details on the principles and 
+applications of the various nuclear and isotopic techniques in soil, water and plant nutrient 
+studies in agro ecosystems, the reader is referred to the IAEA Training Manuals [54] and the 
+review [53]. 
+ 
+The major constraints under a subsistence farming system with low soil fertility are the 
+availability of essential plant nutrients, especially N, and water to the plant. Among the 
+essential plant nutrients, N is a key nutrient controlling plant growth and productivity. To take 
+up N from the soil, plants compete with a range of N removal processes including 
+immobilization, leaching, clay fixation, and gaseous emissions of N as ammonia, nitric oxide, 
+ 
+52 
+nitrous oxide, and di -nitrogen or molecular nitrogen (N 2) i nto the atmosphere. Because of 
+these losses, the N use efficiency (kg of dry matter produced per kg of N applied) is 
+invariably less than 50% [ 55, 56]. The extent to which N is removed from soils, or made 
+unavailable to plants by the above biogeochemical processes is of agronomic, economic and 
+environmental importance. 
+Under subsistence farming conditions, lower soil fertility, soil quality and soil health, is 
+likely to further increase the competition between N uptake by the plant and the soil N 
+removal processes, thereby reducing crop productivity. Quantifying N uptake and the sources 
+of N losses enables researchers to develop ‘technology packages’ which can enhance N 
+uptake and minimi se N losses, thus allowing for sustainable crop productivity even under  
+subsistence farming conditions.  
+To accomplish these objectives, the use of 15N stable isotopic techniques, at both 
+enriched and natural abundance levels, has great potential to quantify N use efficiency and 
+biological N
+2 fixation, and to also identify the sources of greenhouse gases to atmosphere and 
+nitrate pollution in surface and ground waters. To conduct a field experiment for quantifying 
+N uptake by cassava crop, consider the following stepwise field protocol.   
+In order to determine the N fertiliser use efficiency (NUE) of a cassava crop with a high 
+degree of accuracy, a researcher shall set up a field trial on a relatively flat site with uniform 
+fertility and slope so as to minimise background variations of soil nutrient levels, especially N 
+and nutrients losses via surface runoff (FIG. 20). 
+ 
+FIG. 20. Uniform experimental field – Cassava crop. 
+Considering an experimental trial of N fertiliser applied at four rates: zero or control (T1), low 
+(T2), middle (T3), and high (T4) of kg N per ha, with four individual replicate plots (each plot 
+being 7 m x 7 m) for each of the four rates of N. (see schematic diagram below – FIG. 21). 
+ 
+
+ 
+53 
+ 
+ 
+FIG. 21. A schematic diagram of experimental layout. 
+A `buffer zone’ of 2 meters wide on each of the four sides of the experimental site, with a 2-
+meter-wide strip between each of the individual replicate plots is especially important to 
+prevent contamination of adjacent plots by N via surface runoff after heavy irrigation or 
+rainfall, as well as lateral movement of N within  the soil. The individual (replicate) field plots 
+can be a range of sizes, depending on available land area, experimental design, farm resources 
+(machinery) and most importantly available budget. Generally, a larger size for each 
+individual replicate plot (e.g., 7 m long x 7 m wide) is considered as the best for minimizing 
+edge effects (nutrient losses from the fertili sed area to an un  fertilised area) on final crop 
+yield, with each of four replicate plots being placed within four different treatment blocks. 
+
+ 
+54 
+ 
+• Prior to treatment application, four composite soil samples (each composite soil 
+sample consist of ten soil cores from each experimental block) from 0 – 15 cm depth, 
+shall be collected to analyse  for key soil properties including soil pH, ECe, total N, 
+total C, exchangeable potassium (K+) and Olsen P. 
+• First apply any soil amendments such as lime to correct soil acidity and other chemical 
+fertilisers without N (such as P and K as recommended) and animal manure.  
+• Assuming 7 m x 7 m (49 m 2) replicated field plot receiving N fertiliser in the form of 
+granular urea (46%N) at rate of 80 kg N ha -1 in two split applications during cassava 
+growth period, the amount of urea is calculated below: 
+ 
+Rate of fertiliser application (kg per ha) = 
+  
+100 × nutrient element required (kg per ha)
+% nutrient element concentration in a fertiliser 
+ 
+Example: 
+The amount of urea for the first application (40 kg N ha-1) can be calculated as.   
+kg of urea required per ha for the first application =  
+100 × 40
+46 = 86.95 kg urea       (1) 
+As m entioned below, during the N fertilization, one sub plot (4 m 2) of 15N labelled urea 
+within the 49 m 2 replicated plot will not receive ordinary urea. This leaves 45 m 2 area (49 
+minus 4) which will receive ordinary urea. Thus at 40 kg N ha -1 rate, the amount of urea for 
+45 m2 is calculated as: 
+Amount of urea for 45 m2 =   
+86.95 kg urea
+10 000 m2  × 45 m2 = 0.39 kg                 (2) 
+Where, 10 000 m2 correspond to the land area of one hectare. 
+Setting up sub plot for 15N labelled fertiliser: 
+ 
+• For two split applications of 15N-labelled urea, one shall set up two sub plots, each of 
+2 m x 2 m  (4 m 2), separated within the entire 49 m 2 larger replicated plot by a 1 m 
+buffer zone, as shown below (Figure 22). This 4 m 2 sub plot will allow researcher to 
+select a few cassava plants for 15N analysis. The buffer zone will also help to minimize 
+15N contamination from adjacent sub plot. 
+ 
+ 
+ 
+55 
+ 
+ 
+FIG. 22. Schematic diagram of the layout of the two sub plots within a main plot, each wit h a 
+1 m buffer zone, each destined for 15N-labeled fertiliser application. 
+[Mark each sub plot well to avoid any mistake of fertiliser application] 
+ 
+• To ensure that no 15N-labeled fertiliser/residues are present from previous 
+experiments, collect four soil cores (0 –10 cm soil depth) from each of the two sub-
+plots, then combine them into one sample, and analyse for 15N content. This will 
+establish the initial 15N level in the soil. 
+• Calculate the amount of 15N-labeled fertiliser (using a maximum of 5 atom % excess) 
+to add to each 4 m 2 sub plot using Equations 1and 2. The amount of 15N-labeled urea 
+at 40 kg N ha-1 for a 4 m2 sub plot comes out to be 34.78 gram. 
+• Please note that if N fertiliser  is applied in a single application, this 5 atom % excess 
+could be reduced to 3 atom % excess (please refer to the dilution procedure at the end 
+of this section). 
+• Separate the first sub  plot for 15N-labeled fertiliser by placing a temporary plastic sheet 
+or any other similar material around the perimeter of the first sub plot. Then, 
+uniformly apply the required amount (0.39 kg) of ordinary urea to the entire (45 m2) of 
+the larger main plot excluding the first sub plot. 
+• After application of the ordinary urea, remove the plastic sheet around the first sub 
+plot, carefully weigh out the exact amount of 15N-labeled fertiliser (34.78 gram) using 
+equation 2, and apply 15N-labeled urea evenly by hand to the first sub plot. One shall 
+be aware that 15N-labeled fertiliser such as urea comes  as a fine particle therefore 
+extreme care shall be taken while applying to ensure its even application. Fine sand of 
+the same diameter or any other inert material shall be mixed with the 
+15N-labelled urea 
+to ensure even application. One shall also avoid 15N labelled urea under windy 
+conditions or when a heavy rainfall is expected. If irrigation water is available, it is 
+
+ 
+56 
+important that the experimental plots are supplied with at least 10 to 20 mm of 
+irrigation soon after N fertiliser a pplication to move urea from surface into the soil to 
+minimise the risk of ammonia volatilization. 
+• When the time arrives for the 2 nd split 15N fertiliser application, place a plastic 
+sheet/cover around the perimeter of only the second sub plot of 4 m2 (this sub plot will 
+have previously received only ordinary urea) to ensure that ordinary urea is applied 
+only to all areas of the main plot except the 2
+nd sub plot during the 2nd fertiliser  
+application. Then, uniformly apply the required amount (0.39 kg) of or dinary urea to 
+the entire 45 m2 of the larger main plot, but exclude the 2nd sub plot. 
+• Remove the plastic sheet, and carefully apply the required amount (34.78 gram) of 
+15N-labeled fertiliser to the 2nd sub plot as above. 
+• Carry out normal farm practices like spraying of herbicides and insecticides, and apply 
+normal irrigation volumes until the cassava crop reaches its maturity. 
+• At the appropriate time, harvest the cassava crop from each sub  plot. For 15N uptake 
+by below ground (tubers) and aboveground plant parts (i.e., stems, shoot and leaves), 
+randomly select 2 to 3 cassava plants from each sub plot of 
+15N; and transfer them to 
+plastic bags. After transporting cassava plant samples to the lab, separate the plant 
+samples into tuber and aboveground plant biomass, wash them with tap water first, 
+then with distilled water followed by taking a sub tissue sample and drying them at 
+65
+oC for seven days or until samples are dried to a constant weight. 
+• After drying, grind the cassava tuber and above ground plant bi omass samples 
+separately to a fine powder (for determination of the total N by Kjeldahl or by the 
+combustion method). Then, accomplish the 
+15N determination by stable isotope mass 
+spectrometry. Be certain to clean the grinder with a bru sh (and also use a blower), in 
+between grinding the individua l plant tissue samples. 
+• Also collect four soil samples (each 0 –15 cm soil depth) from each of the two sub 
+plots; mix them to get one composite soil sample for 15N and total N analysis.  
+ 
+Cassava yield 
+ 
+• To determine cassava yield, select 3 m x 3 m area within each main  plot (7 m x 7 m) 
+and harvest cassava crop at the same time as above for 15N analysis. Then, separate the 
+biomass into roots (tuber) and other aboveground plant tissues (i.e., shoot and leaves), 
+and record their fresh bulk weight immediately. 
+[Note: Researchers must not use the small 15N plot for biomass production]  
+• To determine moisture fraction in tubers and aboveground plant tissues, select 2 to 3 
+randomly chosen cassava plants, from each 3 m x 3 m plot; transfer them to plastic 
+bags, seal each plastic bag using a rubber band to ensure that no water losses occur 
+from the collected plant tissue. After transporting the cassava plant samples to the lab, 
+separate the plant samples into tuber and aboveground plant biomass. Wash the tubers 
+with tap water to remove the soil. Then take sub tissue samples of tuber as well as 
+above ground samples, record their fresh weight, followed by drying the subsamples 
+of tissue at 65
+oC for seven days.  
+• Record the dry weights of the plant tissue after seven days in order to calculate their 
+moisture contents. This will provide the researcher with cassava dry matter yield (DM) 
+per hectare as shown in Eq. (3). 
+ 
+Cassva tuber or above ground plant tissue DM (kg per ha) = 
+ 
+FB Wt (kg) × 10,000 m2
+harvested area (m2) ×  SD Wt (kg)
+SF Wt (kg)                           (3) 
+ 
+57 
+Where, FB Wt is fresh bulk weight (kg per m 2) of the harvested area of the sub plot 
+(area (3 m x 3m), and SD Wt and SF Wt are subplot sample’s dry and fresh weights, 
+respectively. 
+ 
+CALCULATION OF NITROGEN USE EFFICIENCY (NUE): 
+ 
+The following example provides step by step guidance for estimating fertiliser  ‘N use 
+efficiency’ of a cassava crop. 
+A field study was carried out with a cassava crop to assess the fertiliser N use efficiency 
+of cassava tuber which received nitrogen fertiliser  at the rate of 80 kg N ha
+-1 in 2 split doses 
+(40 kg N ha -1 for each of two application times). The experimental sub plot was 4 m2 in size 
+and the 15N fertiliser was labelled with exactly 5% atom excess. At the end of growth period, 
+assuming the tuber yield from harvested cassava was 8 metric tons per ha and the N content in 
+the tuber, as obtained by Kjeldahl analysis was 1.0 %, the amount of total N removed from 
+the soil by the cassava tuber is calculated below (Eq. 4): 
+ 
+Cassava tuber N uptake (kg N per ha) =    tuber yield (kg per ha) x total N (%) of tuber
+100              (4)     
+Cassava tuber N uptake = 8000 x 1
+100 = 80 kg N per ha 
+The tuber 15N measurements from the 1 st and 2 nd split applications of 15N-labeled 
+fertilisers showed that an ‘atom excess percentage’ of 0.75% and 0.80% occurred, for the two 
+sub plots. The fertiliser N use efficiency of the cassava tuber is calculated as follows: 
+i) Percentage tuber N derived from 1st and 2nd fertiliser application (% Ndff), based on 
+the ratio of tuber 15N [0.75 % and 0.80 %, to fertiliser 15N (5 %)], can be calculated 
+from Eq. 5. 
+  
+100% 15
+15
+×=
+Fertilizer
+tuber
+N
+NNdff                                 (5) 
+% Ndff for the 1st application = % 15 1005
+75 . 0 = ×
+ 
+% Ndff for the 2nd application =  % 16 1005
+80 . 0 = ×
+ 
+ 
+% Ndff for the two split applications = 15 + 16 = 31% 
+ 
+ii) From the % Ndff, the amount of N derived from the two split fertiliser applications 
+(Ndff) is calculated as:  
+ 
+𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 = % 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 ×  N taken up by crop                                      (6) 
+𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 =  31
+100  × 80 = 24.8 kg N per ha 
+ 
+58 
+[Note: The above equations (Eqs. 5 and 6) can also be used to calculate Ndff  of the 
+aboveground cassava plant tissues (shoot and leaves), if such information is needed.] 
+Finally, fertiliser N use efficiency (FNUE)  is calculated from Ndff  (24.8) and N rate 
+applied 80 kg N ha-1 to cassava crop. 
+𝐹𝐹𝑁𝑁𝐹𝐹𝐹𝐹 =
+𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁
+Total fertiliser N applie d× 100                                                (7) 
+= × =10080
+8 . 24FNUE
+ 
+31 % 
+Thus, in this study the cassava tuber derived 31% of its N from the applied 15N-labeled 
+urea fertiliser, with the remaining N ( 69%) coming from the pre-existing soil N pool. 
+An example for 15N-labeled Urea Dilution: 
+For diluting 1 kg of 15N-labeled urea with 5 atom % to 3 atom %, please see the calculations 
+below (Eq. 8) using a mixing model based on the following relationship: 
+ 𝑁𝑁𝐴𝐴 + 𝑁𝑁𝐵𝐵 = 1                                                                                                            (8) 
+W
+here, f A and f B refer to the fractions of labelled  fertiliser and un labelled fertilisers, 
+respectively.  
+First calculate the fraction of 15N-labeled fertiliser with 5 atom % (fA) which will be required 
+for mixing with un labelled fertiliser to make 3 atom % using Eq. 9 below:  
+ 
+𝑁𝑁𝐴𝐴 =
+3 − 0.366
+5 − 0.366 = 0.56841                                                                (9) 
+ 
+Then calculate the fraction of un labelled fertiliser using Eq. (10) below: 
+  
+𝑁𝑁𝐵𝐵 = 1 − 0.5684 = 0.43159                                                               (10) 
+ 
+T
+hus, for 1 kg of labelled fertiliser with 3 atom %, weigh 0.56841 kg of 5 atom % 
+fertiliser and mix it with 0.43159 kg of un-labelled fertiliser. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+59 
+21. STEPWISE FIELD PROTOCOL OF BEST MANAGEMENT PRACTICES 
+(BMPS) FOR CASSAVA PRODUCTION IN ASIA AND SUB-SAHARAN AFRICA 
+Cassava ( Manihot esculenta) is a hardy crop that can survive even in harsh 
+environments, but root yields are very low (2– 3 t ha-1) under these harsh conditions. Declining 
+soil fertility and soil erosion are serious problems in traditional cassava farms in Asia and 
+Africa. The potential fresh root yield of cassava is as high as 80 t ha -1, but farmers can obtain 
+15 to 40 t ha -1 with improved cassava varieties and good soil and crop management practices 
+as given below or region. 
+Improved cassava varieties: Use locally recommended improved cassava varieties in 
+each country. 
+Preparing healthy planting materials:  
+Stem cassava cuttings are used for planting. Choose healthy, disease  free, improved 
+high yielding cassava varieties as mother plants. The stems for planting are normally cut when 
+the mother plant is 8– 12 months old. For most cassava varieties, the cut stems can be stored 
+vertically in the shade for 1– 2 months. Take 15– 25 cm long cuttings from the lower and 
+middle parts of the cut stems for planting. 
+Land configuration for protecting soil and water resources: On flat lands, where most 
+farmers plant cassava, the land is ploughed, harrowed, levelled , and ridges and furrows are 
+formed either manually or with the help of furrow openers attached to a tractor. The ridges are 
+75 to 100 cm wide at their base. The furrows are made gently sloping along the natural slope 
+of the field to help drain the excess rainwater, if necessary, during heavy rains. 
+On sloping lands, it is better to establish hedgerows of grass Paspalum atratum  or 
+Tephrosia candida or pineapple across the slopes and plant the cassava crop between hedge 
+rows. This will minimise  erosion of top soil rich in organic matter and nutrients, reduce 
+rainwater runoff, and improve rainwater infiltration and water retention in soil – all leading to 
+sustainable high cassava yields year after year. 
+Spacing and plant population: 
+Cassava mono crop:  The planting density for cassava varies from 10 000 to 25 000 
+plants per hectare, depending on the fertility level of soil and the branching habit of the 
+varieties chosen for planting. The general spacing is 75 to 100 cm between rows or ridges and 
+50 to 75 cm between planting holes within rows or ridges for a mono culture crop of cassava. 
+Densely planted cassava covers the bare soil much faster than a crop planted at a lower 
+density. Missing plants, if any, should be replaced within 2– 3 weeks from the  original date of 
+planting. 
+Cassava inter cropping: A wider spacing of up to 200 cm between rows or ridges (with 
+50 cm between plants in a row or a ridge) is used when cassava is intercropped with 1 to 3 
+rows of fast growing legumes such as groundnut, cowpea, beans, soybeans etc. or with cereals 
+like maize or millet. Intercropping cassava with grain legumes will reduce the risk of 
+complete crop failure due to climate change, reduce soil erosion and improve soil fertility, fix 
+atmospheric N
+2, increase cash flow, and improve total crop yields. 
+ 
+60 
+Planting method: The stem cuttings can be planted vertically, or in a slanted position by 
+pushing the lower part of the cutting 5– 10 cm deep into the soil. Alternatively, stem cuttings 
+can be planted horizontally at 5–7 cm depth. 
+Rainfall management: In rain fed areas, farm ponds can be dug to harvest rainwater 
+which can be used to wet the crop during periods of severe droughts. Mulching of the soil 
+surface with crop residues or grass clippings will help reduce soil erosi on, suppress weed 
+growth, and enhance infiltration of rainwater into the soil and reduce evaporation of soil 
+moisture. 
+Water saving irrigation methods: Wherever water is available, the cassava crop is 
+irrigated by flood, furrow or drip irrigation, once eve ry 10 to 15 days, depending on local 
+weather. In terms of water use, drip is more efficient than furrow irrigation which in turn is 
+more efficient than flood irrigation. 
+Balanced fertiliser application: In most soils, cassava responds well to K >N >P, unle ss 
+the soil is extremely deficient in N. K application is thus critical, not only to increase crop 
+yields, but also to increase starch content in roots. Combined use of both organic and mineral 
+fertilisers is always better than either alone for balanced nu trient application. Field trials 
+indicate that for an average fresh root yield of 15 t ha
+-1, the crop will take up 30 kg N, 8 kg of 
+P2O5, and 24 kg K2O. Thus, the ratio of nutrient requirement for cassava will be 3 N – 1 P2O5 
+– 3 K2O. Based on this ratio, we suggest the following NPK rates for cassava crops: 
+TABLE 4 . KEY STABLE ISOTOPES AND THEIR ABUNDANCES IN AGRO-
+ECOSYSTEMS [53]  
+Targeted cassava fresh 
+root yield (t ha-1) 
+Nutrients required (kg ha-1) 
+ N P2O5 K2O 
+10 20 7 20 
+20 40 14 40 
+30 60 20 60 
+40 80 26 80 
+ 
+The suggested rates of N, P and K can be modified based on the results of actual field trials in 
+different soil types. 
+ 
+Method of fertiliser application: All the P and half of the N and K can be applied at 
+planting, while the remaining N and K are applied 2– 3 months after planting. The fertiliser  
+can be band-applied near the crop rows, or spot-applied 5–10 cm from the base of the plants. 
+In problems soils, before applying fertiliser s, soil amendments such as plant ash or 
+biochar (charcoal) have to be applied to correct specific problems like soil acidity, Al toxicity, 
+salinity, and very low level of soil organic matter. 
+Integrated weed management: Cassava is a poor competitor with weeds due to its slow 
+early growth. Weed control is thus critical during the early growth period (up to 3 months 
+after planting). Farmers should effectively combine cultural, manual, mechanical and/or 
+chemical weed control methods. 
+ 
+61 
+Integrated pest management: The three cardinal principles of IPM are: (i) growing a 
+healthy crop by adopting resistant varieties and using best crop management practices; (ii) 
+maintaining pest predator balance by establishing a healthy agro e cosystem; and (iii) the 
+strategic use of external pest control inputs that are known to have a minimal impact on the 
+agro ecosystem. 
+Harvesting and postharvest processing: Cassava, being a perennial crop, can be 
+harvested as and when required. In general, cassava roots are harvested between 6 and 18 
+months after planting (MAP). Some early maturing varieties can be harvested at 6 MAP for 
+direct human consumption, but most commercial/industrial varieties are harvested between 8 
+and 12 MAP. 
+Mechanization: Appropriate mechanization is critical to improve labour productivity. 
+Locally produced improved tools for harvesting cassava roots, for slicing roots to make dry 
+chips, and for chopping cassava leaves for producing silage will improve labour productivity, 
+reduce drudgery, and increase overall profitability in cassava farming. 
+Commercialization of cassava products: Fresh cassava roots are cooked and eaten by 
+people or sold in local markets. Dry cassava root chips or root meal and cassava leaf silage or 
+leaf meal  are excellent livestock feeds that have high potential in local or international 
+markets. Cassava starch is another high value product from cassava roots. 
+ 
+22. CONCLUSIONS 
+Cassava is a highly versatile and a resilient crop for farmers to grow. It is a hardy crop 
+because it can grow in poor soils and in drought prone areas with little risk of a complete crop 
+failure. However, to obtain high and sustainable yields over long term, the crop and soil 
+should be well managed: selection of the locally adapted high  yielding cassava varieties; use 
+of the healthy, disease  free stem cuttings that are 15 –25 cm long; planting at the right time of 
+the year at optimum spacing for mono and intercropped cassava systems; weeding 2
+–3 times 
+during the first 3– 4 months after planting; supply of all plant nutrients at adequate levels 
+through the application farm  available organic residues and manures supplemented by 
+required quantity of chemical fertilisers, particularly K and N fertiliser s; effective weed 
+control for the first  3– 4 months after planting through integrated weed management; 
+integrated management of insect pests and diseases (IPM); harvesting the crop at the right 
+time and improved handling of the harvested roots during collection, transport, processing, 
+and storage. Above all, it is possible to intensify cassava production in a sustainable manner 
+through the use of ecological intensification methods.  Nuclear and isotopic techniques can 
+play a crucial role in quantifying soil water and nutrient to develop climate smart agricultural 
+practices to improve soil fertility and enhance cassava production. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+62 
+REFERENCES 
+[1] RAVINDRAN, V., Preparation of cassava leaf products and their use as animal feeds , 
+FAO animal production and health paper  95 (1992) 111–125, Food and Agriculture 
+Organization of the United Nations, Rome, Italy. 
+[2] NAKAMURA, S., The origin of rice cultivation in the lower Yangtze region People’s 
+Republic of China, Arch. & Anthrop. Sci. 2 (2010) 107–113. 
+[3] STONE, G.D., Both Sides Now, Current Anthrop. 43 (2002) 611–630. 
+[4] OLSEN, K .M., SCHAAL, B.A., Evidence on the origin of cassava: phylogeography of 
+Manihot esculenta, Proceedings of the National Academy of Sciences of the United 
+States of America 96 (1999) 5586–5596. 
+[5] ADAMS, C., MURRIETA, R., SIQUEIRA, A. , NEVES, W., SANCHES, R., Bread of 
+the Land, the Invisibility of Manioc in the Amazon, Amaz. Peas. Soc. in a Chang. 
+Environ. (2009) 281–305.  
+[6] FOOD AND AGRICULTURE  ORGANIZATION OF THE  UNITED NATIONS Save 
+and Grow, A policymaker’s guide to the sustainable intensification of smallholder crop 
+production (2011), Rome, Italy. 
+[7] OBOH, G., OLADUNMOYE, M. K., Biochemical changes in micro  fungi fermented 
+cassava flour produced from low  and medium cyanide variety of cassava tubers, Nutr. 
+& Health 18 (4) (2007) 355–367.  
+[8] AUSTRALIAN NATIONAL UNIVERSITY, New method of cyanide removal to help 
+millions, Press Release 7 Feb. 2007. 
+[9] SAYRE, R. , et al., The Bio Cassava Plus program , biofortification of cassava for sub-
+Saharan Africa, Annu. Rev. Plant Biol. 62 (2011) 251–272.  
+[10] LUNSIN, R., WANAPAT , M., ROWLINSON, P., Effect of cassava hay and rice bran 
+oil supplementation on rumen fermentation, milk yield and milk composition in 
+lactating dairy cows, Asian-aust. J. Anim. Sci. 25 (2012) 1364–1373. 
+[11] ABEYGUNASEKERA, A.M., PALLIYAGURUGE, K. H., Does cassava help to 
+control prostate cancer? A case report, J. Pharm. Tech. Drug Res. 2 (2013) 3 pp. 
+[12] EL-SHARKAWY, M.A., Drought-tolerant cassava for Africa, Asia and Latin America: 
+Breeding projects work to stabilize productivity without increasing pressures on limited 
+natural resources, Biosc. 43 (1993) 441–451. 
+[13] AINA, O.O. , DIXON, A.G.O., AKINRINDE, A. A., Effects of soil moisture stress on 
+growth and yield of cassava in Nigeria, Pak. J. Biol. Sci. 10 (2007) 3085–3090. 
+[14] K
+UREPIN, L.V. , PARK , J.M. , LAZAROVITS, G., BERNARDS, M.A., Burkholderia 
+phytofirmans - induced shoot and root growth promotion is associated with endogenous 
+changes in plant growth hormone levels, Plant Grow. Reg. 75 (2015) 199–207. 
+[15] LAMBOLL, R. , et al ., Practical lessons on scaling up smallholder -inclusive and 
+sustainable cassava value chains in Africa, Food Chain 5 (2015) 28–52.  
+[16] CHIWONA-KARLTUN, L. , et al ., Bitter cassava and women: A n intriguing response 
+to food security (2002) 14–15.  
+[17] AYE, T.M. , FAHRNEY, K. , BOLLIGER , A., LEFROY, R., Debunking myths on 
+cassava CGIAR (2013). 
+ 
+63 
+[18] WINTERBOTTOM, R., Re-greening Africa could help stem the tide of migration, 
+World Resources Institute (WRI) Blog Post, WRI, Washington, D.C., USA (2015). 
+[19] MOUDGIL, M., Ponds – Once a lifeline of India’s agriculture – are being revived by 
+some Punjab farmers, India Water Portal, India (2015). 
+[20] GARG, K.K. , KARLBERG , L. , BARRON , J. , WANI , S.P ., ROCKSTROM, J., 
+Assessing impact of agricultural water interventions at the Kothapally watershed, 
+Southern India. Hydrol. Proces. 26 (2012) 387–404. 
+[21] SINGH, R. , GARG, K.K. , WANI, S.P. , TEWARI , R.K., DHYANI, S. K., Impact of 
+water management interventions on hydrology and ecosystem services in Garhkundar 
+Dabar watershed of Bundelkhand region, Central India. J. Hyd. 509 (2014) 132–149. 
+[22] HOWELER, R. H., Cassava agronomy research in Asia: Has it benefited cassava 
+farmers? In: RH Howeler and SL Tan (Eds.), Cassava’s Potential in Asia in the 21st 
+Century: Present Situation and Future Research and Development Needs. Proc. 6th 
+Regional Workshop, held in Ho Chi Minh city, Vietnam, (2000) 345–382. 
+[23] HOWELER, R.H., Working with farmers in Asia: Spreading new varieties, improved 
+practices, and new hope. Paper presented at the Regional Workshop on “The use of 
+cassava roots and leaves for on-farm animal feeding”,  held at Hue, Vietnam, (2006) 17–
+19. 
+[24] JOHN, K.S., VENUGOPAL, V. K., Response of cassava to lime in a typic Kandiustult 
+of Kerala. J. Root Crops 32 (2006) 65–71. 
+[25] PYPERS, P. , SANGINGA, J.M. , KASEREKA, B. , WALANGULULU, M. , 
+VANLAUWE, B., Increased productivity through ISFM in cassava -legume 
+intercropping systems in the highlands of Sud-Kivu, DR Congo, Field Crops Res. 120 
+(2011) 76–85. 
+[26] SHIFERAW, B.A. , KEBEDE, T.A. , YOU, L. , Technology adoption under seed access 
+constraints and the economic impacts of improved pigeonpea varieties in Tanzania , 
+Agric. Econo. 39 (2008) 309–323. 
+[27] BATINO, A. , LAMPO , F., KOALA, S., Research on nutrient flows and balances in 
+West Africa: State-of-the-art, Agric. Ecosys. Env. 71 (1998) 19–35. 
+[28] VANLAUWE, B.P ., et al. , Integrated soil fertility management in central Africa: 
+Experiences of the consortium for improving agriculture -based livelihoods in central 
+Africa (CIALCA), In: Hershey C (eds), Tropical Agriculture Eco-Efficiency From 
+Vision to Reality, CIAT, Cali, Colombia (2012). 
+[29] G
+NAHOUA, J.G. , et al., Intensification pathway for improvement of smallholder 
+cassava production systems in southern Côte d'Ivoire, Exp. Agric. 53 (2017) 44–58. 
+[30] LIN, B., Resilience in agriculture through crop diversification: Adaptive management 
+for environmental change, BioSci. 61 (2011) 183–193. 
+[31] NICOL, A. , LANGAN, S. , VICTOR, M. and GONSALVES, J ., Water smart 
+agriculture in East Africa, Colombo, Sri Lanka: International Water Management 
+Institute (IWMI), CGIAR (2015). 
+[32] KISINYO, P. , et al., Micro-dosing of lime, phosphorus and nitrogen fertilizers effect on 
+maize performance on an acid soil in Kenya, Sust. Agric. Res. 4 (2015) 21–30. 
+[33] CHIVENGE, P. , et al. , Organic and mineral input management to enhance crop 
+productivity in Central Kenya, Agron. J. 101 (2009) 1266–1275. 
+ 
+64 
+[34] BERNSTEIN, L. , et al.,  Industry, In: Contribution of Working Group III to the Fourth 
+Assessment Report of the Intergovernmental Panel on Climate Change , Metz B, 
+Davidson, O.R. , Bosch , P.R. , Dave , R. , Meyer , L.A ., (Eds). Cambridge University 
+Press, Cambridge, United Kingdom (2007). 
+[35] S MITH, K. , BOUWMAN, L., BAATZ, B., N 2O: direct emissions from agricultural 
+soils, In: Good Practice Guidance and Uncertainty Management in National Greenhouse 
+Gas Inventories. Penman, J., Kruger, D., Galbally, I., Hiraishi, T., Nyenzi, B., 
+Enmanuel, S., Buendia, L., Hoppaus, R.,  Martinsen, T., Meijer, J., Miwa, K. and 
+Tanabe, K. (Eds), Cambridge University Press, New York, USA (1997). 
+[36] NYAMADZAWO, G. , et al.,  Combining organic and inorganic nitrogen fertilization 
+reduces N 2O emissions from cereal crops: a comparative analysis of China and 
+Zimbabwe, Mitigation and Adaptation Strategies for Global Change (2014). 
+[37] BELLOTTI, A.C. , et al., Cassava agroecosystem and the evolution of pest complexes , 
+Paper presented at the 11th International Congress of Plant  Protection, M anila, 
+P hilippines (1987). 
+[38] International Institute of Tropical Agriculture (IITA), Biological control: a sustainable 
+solution to crop pest problems in Africa , Yaninek, J.S. and Herren, H.R. Eds , IITA, 
+(1990) 210 pp. 
+[39] COYNE, D. L., Nematode pests of cassava, Afr. Crop Sci. J. 2 (4) (1994) 355–359. 
+[40] LOZANO, C., Cassava bacterial blight: a manageable disease, Plant Disease 70 (1986) 
+1089–1093. 
+[41] LOZANO, C., Biocontrol of cassava diseases: challenges and scope, Paper presented at 
+the 5th International Congress of Plant Pathology, Kyoto, Japan (1988) 22 pp. 
+[42] CHAPARRO-MARTINEZ, E.I., TRUJILLO-PINTO, G ., First report of frog skin 
+disease in cassava (Manihot esculenta) in Venezuela, P lant Disease 85 (2001) 1285. 
+[43] International Institute of Tropical Agriculture (IITA) , IITA IPM Field Guides for 
+Extension Agents, IITA, Ibadan, Nigeria (2000). 
+[44] PRETTY, J.N., BHARUCHA, Z. P., Sustainable intensification in agricultural systems, 
+Invited Review, Ann. Bot. 114 (2014) 1571–1596. 
+[45] HILLOCKS, R.J. , RAYA, M.D. , MTUNDA, K. KIOZIA, H., Effects of brown streak 
+virus disease on yield and quality of cassava in Tanzania, J. Phytopath. 149 (2001) 389–
+394. 
+[46] AYE, T. M., Challenges and opportunities for enhancing sustainable cassava production 
+in Asia , Paper presented at the World Tapioca 2011 workshop, held at Bangkok, 
+Thailand (2011). 
+[47] F OOD AND AGRICULTURE  ORGANIZATION OF THE  UNITED NATIONS, Save 
+and Grow in Practic e: maize, rice and wheat  - A guide to sustainable cereal production, 
+FAO, Rome, Italy (2016) 1– 124. 
+[48] BAKER, C.J, et al., No-tillage seeding in conservation agriculture, 2nd edn. FAO and 
+CAB International, Rome (2007) 341 pp. 
+[49] FOOD AND AGRICULTURE  ORGANIZATION OF THE UNITED NATIONS, Save 
+and Grow, A policymaker’s guide to the sustainable intensification of smallholder crop 
+production, Rome (2011) 116 pp. 
+ 
+65 
+[50] H OWELER, R. H., Working with farmers in Asia: Spreading new varieties, improved 
+practices, and new hope , Paper present ed at the Regional Workshop on ‘The use of 
+cassava roots and leaves for on-farm animal feeding’, held at Hue, Vietnam, (2005). 
+[51] BEZNER -KERR, R. , et a l., Participatory research on legume diversification with 
+Malawian smallholder farmers for improved human nutrition and soil fertility, Exp. 
+Agric. 43 (2007) 437–453. 
+[52] T ONGGLUM, A. , et al., Recent progress in cassava agronomy research in Thailand, In: 
+RH Howeler (Eds),  Cassava breeding, agronomy and farmer partici patory research and 
+development needs , Proc. 6th Regional Worksop held at Danzhou, Hainan, China, 
+(1998) 211–234. 
+[53] NGUYEN, M.L., ZAPATA, F., LAL, R., DERCON, G., Role of isotopic and nuclear 
+techniques in sustainable land management: Achieving food security and mitigating 
+impacts of climate change. In: World Soil Resources and Food Security, Advances in 
+Soil Science , Vol. 18; eds. R. Lal, and B.A. Stewart, Boca Raton, FL: CRC Press., 
+(2011) 345–418.  
+[54] INTERNATIONAL ATOMIC ENERGY AGENCY, Use of Isotope and Radiation 
+Methods in Soil and Water Management and Crop Nutrition, IAEA Training Course 
+Series No. 14 (2001) Vienna, Austria: IAEA. 
+[55] Z AMAN, M., Z AMAN, S., ADHINARAYANAN, C., NGUYEN, M.L., NAWAZ, S., 
+Effects of urease and nitrification inhibitors on the efficient use of urea for pastoral 
+systems, Soil Sci. Plant Nut. 59 (2013) 649–659.  
+[56] Z AMAN, M., SAGGAR , S ., STAFFORD, A.D., Mitigation of ammonia losses from 
+urea applied to a pastoral system: The effect of nBTPT and timing and amount of 
+irrigation, N Z. Grassl. Assoc. 75 (2013) 121−126. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+66 
+ABBREVIATIONS AND ACRONYMS 
+ 
+ 
+FAO     Food and Agriculture Organization of the United Nations, Rome 
+BASICS   Building a Sustainable, Integrated Seed System for Cassava 
+C    Carbon 
+CA    Conservation Agriculture 
+Ca    Calcium 
+CBB    Cassava bacterial blight  
+CBSV    Cassava brown stream virus  
+CDS    Cassava Disease Surveillance 
+CFSD    Cassava frog skin disease 
+CGM    Cassava  green mites 
+CGIAR   Consultative Group for International Agricultural Research 
+CMD    Cassava mosaic disease 
+CIAT    International Centre for Tropical Agriculture 
+CT    Conventional tillage  
+CTCRI   Central Tuber Crops Research Institute 
+Cu    Cupper 
+DM    Dry matter 
+ECe    Electrical conductivity 
+FBWt    Fresh bulk weight 
+Fe    Iron  
+FNUE    Fertiliser N use efficiency 
+FYM    F arm yard manure 
+GHGs    Greenhouse gases 
+HCN    Hydrogen cyanide 
+HQCF    H igh quality cassava flour 
+IAEA    International Atomic Energy Agency 
+IITA    International Institute of Tropical Agriculture 
+ISFM    Integrated Soil Fertility Management 
+IPM    Integrated pest management 
+K    Potassium 
+MAP    Month after planting 
+m    Million 
+Mg    Magnesium 
+Mn    Manganese 
+N    Nitrogen 
+NAQS    National Agricultural Quarantin Services 
+Ndff    N derived from fertiliser 
+NRCRI   Nigerian Root Crops Research Institute 
+NT    No tillage 
+NUE    Nitrogen use efficiency 
+P    Phosphorus 
+PPD    P ostharvest physiologica l deterioration 
+QMP    Quality Management Protocol 
+RTB    Research Program on Roots, Tubers and Bananas 
+RF    Ridges and furrows 
+RT    Reduced tillage 
+SOC    Soil organic carbon 
+SOM    Soil organic matter 
+ 
+67 
+SSA    Sub-Sahara Africa 
+SSNM    S ite specific nutrient management 
+SDWt    Subplot dry weight  
+SFWt    Subplot fresh weight 
+SWMCN  Soil and Water Management & Crop Nutrition 
+UNFCC   United Nations Framework Convention on Climate Change 
+WHO    World Health Organization 
+Zn    Zinc 
+ZT    Zero tillage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+68 
+CONTRIBUTORS TO DRAFTING AND REVIEW 
+ 
+Zaman, M. International Atomic Energy Agency, Austria 
+Balasubramanian, V.T. Ramya Nursery, India 
+Heng, L. International Atomic Energy Agency, Austria 
+Pharis, R.P.  Department of Biological S ciences, University of Calgary, 
+Canada 
+ 
+ 
+ 
+ 
+ 
+ORDERING LOCALLY
+In the following countries, IAEA priced publications may be purchased from the sources listed below or 
+from major local booksellers. 
+Orders for unpriced publications should be made directly to the IAEA. The contact details are given at 
+the end of this list.
+CANADA
+Renouf Publishing Co. Ltd
+22-1010 Polytek Street, Ottawa, ON K1J 9J1, CANADA
+Telephone: +1 613 745 2665  Fax: +1 643 745 7660
+Email: order@renoufbooks.com  Web site: www.renoufbooks.com
+Bernan / Rowman & Littlefield
+15200 NBN Way, Blue Ridge Summit, PA 17214, USA
+Tel: +1 800 462 6420 • Fax: +1 800 338 4550
+Email: orders@rowman.com Web site: www.rowman.com/bernan
+CZECH REPUBLIC
+Suweco CZ, s.r.o.
+Sestupná 153/11, 162 00 Prague 6, CZECH REPUBLIC
+Telephone: +420 242 459 205  Fax: +420 284 821 646
+Email: nakup@suweco.cz  Web site: www.suweco.cz
+FRANCE
+Form-Edit
+5 rue Janssen, PO Box 25, 75921 Paris CEDEX, FRANCE
+Telephone: +33 1 42 01 49 49  Fax: +33 1 42 01 90 90
+Email: formedit@formedit.fr  Web site: www.form-edit.com
+GERMANY
+Goethe Buchhandlung Teubig GmbH
+Schweitzer Fachinformationen
+Willstätterstrasse 15, 40549 Düsseldorf, GERMANY
+Telephone: +49 (0) 211 49 874 015  Fax: +49 (0) 211 49 874 28
+Email: kundenbetreuung.goethe@schweitzer-online.de  Web site: www.goethebuch.de
+INDIA
+Allied Publishers
+1st Floor, Dubash House, 15, J.N. Heredi Marg, Ballard Estate, Mumbai 400001, INDIA
+Telephone: +91 22 4212 6930/31/69  Fax: +91 22 2261 7928
+Email: alliedpl@vsnl.com  Web site: www.alliedpublishers.com
+Bookwell
+3/79 Nirankari, Delhi 110009, INDIA
+Telephone: +91 11 2760 1283/4536
+Email: bkwell@nde.vsnl.net.in  Web site: www.bookwellindia.com
+@ No. 25
+ITALY
+Libreria Scientifica “AEIOU”
+Via Vincenzo Maria Coronelli 6, 20146 Milan, ITALY
+Telephone: +39 02 48 95 45 52  Fax: +39 02 48 95 45 48
+Email: info@libreriaaeiou.eu  Web site: www.libreriaaeiou.eu
+JAPAN
+Maruzen-Yushodo Co., Ltd
+10-10 Yotsuyasakamachi, Shinjuku-ku, Tokyo 160-0002, JAPAN
+Telephone: +81 3 4335 9312  Fax: +81 3 4335 9364
+Email: bookimport@maruzen.co.jp  Web site: www.maruzen.co.jp
+RUSSIAN FEDERATION
+Scientific and Engineering Centre for Nuclear and Radiation Safety
+107140, Moscow, Malaya Krasnoselskaya st. 2/8, bld. 5, RUSSIAN FEDERATION
+Telephone: +7 499 264 00 03  Fax: +7 499 264 28 59
+Email: secnrs@secnrs.ru  Web site: www.secnrs.ru
+UNITED STATES OF AMERICA
+Bernan / Rowman & Littlefield
+15200 NBN Way, Blue Ridge Summit, PA 17214, USA
+Tel: +1 800 462 6420 • Fax: +1 800 338 4550
+Email: orders@rowman.com  Web site: www.rowman.com/bernan
+Renouf Publishing Co. Ltd
+812 Proctor Avenue, Ogdensburg, NY 13669-2205, USA
+Telephone: +1 888 551 7470  Fax: +1 888 551 7471
+Email: orders@renoufbooks.com  Web site: www.renoufbooks.com
+Orders for both priced and unpriced publications may be addressed directly to:
+Marketing and Sales Unit
+International Atomic Energy Agency
+Vienna International Centre, PO Box 100, 1400 Vienna, Austria
+Telephone: +43 1 2600 22529 or 22530 • Fax: +43 1 2600 29302 or +43 1 26007 22529
+Email: sales.publications@iaea.org • Web site: www.iaea.org/books
+18-03481
+International Atomic Energy Agency
+Vienna
+ISBN 978–92–0–101718–5
+ISSN 1011–4289
+IAEA-TECDOC-1840
+Cassava Production Guidelines 
+for Food Security and  
+Adaptation to Climate Change 
+in Asia and Africa
+@
+IAEA-TECDOC-1840
+IAEA-TECDOC-1840
+IAEA TECDOC SERIES

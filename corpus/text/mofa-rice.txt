@@ -1,0 +1,581 @@
+# Rice Production Guide
+# publisher: Ministry of Food and Agriculture, Ghana
+# year: unknown
+# url: https://mofa.gov.gh/site/images/pdf/production_guides/RICE_Production_Guide.pdf
+# attribution: MoFA, Rice Production Guide
+# pages: 23
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+A
+MINISTRY OF
+FOOD & AGRICULTURE 
+REPUBLIC OF GHANA
+Rice  
+PRODUCTION 
+GUIDE 2020
+© 2020
+RICE  PRODUCTION GUIDE
+This production guide was developed to complement existing Information, 
+Education and Communication (IEC) materials available on the Agronomy of 
+selected commodities under the “Planting forFood and Jobs” campaign.It is designed 
+for use by Agricultural Extension Agents and other farmers who can equally use to 
+train their colleague farmers.
+Portia Tandoh,                                               DAES, MoFA
+Michael Owusu,                                            DCS, MoFA                    
+The Directorate of Agricultural Extension Services (DAES) would like to acknowledge the 
+untiring effort and interest of staff, all Regional Directors and Regional Extension Officers 
+who contributed directly or indirectly to the development and printing of this production 
+guide.
+Theophilus Osei Owusu,                               Former Ag.Director, DAES
+Esther Agyekum,                                           DCS, MoFA             
+Daniel Ninson,                                              DCS, MoFA
+The Directorate would also like to thank colleagues and experts from other Directorates of 
+the Ministry of Food and Agriculture who contributed to the review and editing of the draft 
+production guide. They include:
+Paulina Addy,                                                WIAD, MoFA                                        
+Emmanuel A. Odame,                                   Dep. Director, DAES, MoFA
+KwesiAbaka-Quansah,                                 DAES, MoFA
+Dr. Solomon Gyan,                                       DCS, MoFA
+Hannah Serwaa Nuamah,                              PPRSD, MoFA
+John Lovelace Kpodoviah,                           DAES, MoFA
+Paul Siameh,                                                 Director, DAES, MoFA
+Collins Oppong,                                            DAES, MoFA
+Prosper Akpablah,                                         DAES, MoFA
+The Directorate is also grateful to the Modernizing Agriculture in Ghana (MAG) for the 
+provision of financial support towards the development and printing of this production 
+guide. Finally, the DAES acknowledges the Council for Scientific and Industrial Research 
+(CSIR) and International Institute of Tropical Agriculture (IITA) for taking some extracts 
+from their documents.
+Permission for commercial production should be sought from the Director, Directorate of 
+Agricultural Extension Services (DAES), P. O. BOX M37 Ministries Accra, Ghana.
+Shorts extracts of this publication may be reproduced in any non-advertising, non-
+profit-making context provided that the source is acknowledged
+ACKNOWLEDGEMENT
+TABLE OF CONTENT
+ CONTENT        PAGE NO.
+1.0 INTRODUCTION                - 1 
+2.0 SITE SELECTION/CLIMATIC REQUIREMENT  - 2
+3.0 VARIETAL SELECTION     -           3
+6.0 FERTILIZER APPLICATION              - 7
+4.0 LAND PREPARATION               - 4
+8.0 PESTS AND DISEASES MANAGEMENT   - 8
+5.0 PLANTING                 - 4
+6.1      INORGANIC/CHEMICAL FERTILIZER   - 6
+6.2      UDP (UREA DEEP PLACEMENT)    - 7
+7.0 WEED CONTROL      - 8
+9.0 HARVESTING                - 18 
+9.6 STORAGE                    - 22
+1.0  INTRODUCTION
+Botanical name: Oryza sativa
+Rice is the seed of a semi-aquatic grass plant;Oryza sativathat is native to India, 
+Southeast Asia and China.There are two main species of rice oryza sativa which all modern 
+high-yielding rice varieties belong. The other variety is oryza gblaberrima which originates 
+from West Africa and is still grown by some peasant farmers.
+Rice has become the second most important staple food for millions of people after maize in 
+Ghana. Its consumption keeps increasing as a result of population growth, urbanization and 
+change in consumer's behaviour. Apart from the grain used as food, the straw serves as source 
+of fuel, roofing materials and also feed for livestock or ploughed back into the soil to add 
+nutrients. The main production areas include: Western region, Volta region and the three 
+Northern regions.
+Typical rice field
+Choose fertile land with deep loamy and non-acidic soils with good water retention capacity 
+(containsome clay and/or organic matter, i.e. loamy soil).Low-lying and valley bottoms are 
+most preferred.Construct bunds around the field to retain water and suppress weeds using hoe, 
+animal traction. Due to climate variability, climate smart agriculture activities which include; 
+early planting taking into consideration the planting seasons for the various agro-ecological 
+zones.
+2.0  SITE SLECTION / CLIMATIC REQUIREMENTS
+Rice is produced in all the ten regions of Ghana, especially all the major ecological-climatic 
+zones, including the Interior Savannah zone, High Rain Forest zone, Semi-deciduous Rain 
+Forest zone and Coastal Savannah zone. 
+RICE  PRODUCTION GUIDE................................1
+RICE  PRODUCTION GUIDE................................2
+Variety 
+Agra rice
+Jasmine 85/Gbewaa
+Sikamo
+GR 18
+Digang
+Nerica
+Nabogo rice
+Katanga rice
+NERICA 1
+NERICA 2
+Mmo teaa
+Otoo mmo
+CRI-Amankwatia
+Wakatsuki 
+Bodia 
+CRI-Oboafo
+CRI-Emopa
+CRI-Mpuntuo
+CRI-Enapa
+Maturity (days)
+120 – 135
+110 – 115
+120 – 125
+132
+115
+90 – 100
+120 – 130
+130 – 140
+90 – 95
+95 – 100
+110 – 115
+115 – 120
+115 – 120
+125 – 130
+120 – 125
+130 – 135
+125 – 130
+115 – 120
+125 – 130
+Ecology
+Lowland and Upland
+Lowland and Irrigated
+Lowland / Hydromorphic
+Lowland and Upland
+Hydromorphic and 
+Lowland
+Upland
+Lowland and Irrigated
+Deep lowland
+Upland 
+Upland
+Upland 
+Upland
+Lowland
+Lowland
+Lowland 
+Lowland 
+Lowland
+Lowland
+8.0
+5 - 6
+6.0
+6.5
+4.8
+8.5
+8.0
+3 – 4
+6 -7
+6 – 8
+3 – 4
+4.8
+5.6
+8.0
+8.0
+8.0
+8.0
+9.5
+The practice also has positive impact on germination, seedling emergence, crop establishment 
+and weed control.Zero tillage can also be done by small-scale farmers using recommended 
+weedicide.
+4.0 LAND PREPARATION
+Land can be prepared conventionally using tractor or animal traction to plough and harrow the 
+land for cultivation in the savannah and transition zones. A good soil tillage practice 
+contributes to efficient fertilizer use, increased soil porosity and aeration.
+In the forest zones, upland fields are slashed and stumped. Systemic herbicides may be used to 
+kill regrowth before planting. Lowlands can be prepared as upland except when it is flooded 
+and soggy. For flooded fields, slash and collect trash from field.
+Land preparation in rice field
+          Conduct a germination test before planting. This will establish the actual seed rate to 
+          be used based on seed viability.
+· Count 100 seeds
+(i) Germination test
+· Count the number of seeds that germinated between 4 and 7 days
+:
+5.0  PLANTING
+· Place seeds on a moist cloth, cotton or tissue paper and cover with a thin layer of 
+soil.
+RICE  PRODUCTION GUIDE................................3
+Table 2
+No of seeds that
+ germinated
+More than 80
+60-80seeds
+Less than 60
+What to do
+Plant the seeds(3-4) hill
+Increase seed rate by about 20% i.e. (5-6)/hill
+Do not use the seeds for planting.(obtain fresh seeds)
+Seed sorting by floatation 
+· In this way, bad seeds can be separated from good seeds and be given to poultry birds. 
+Water mixed with salt can also be used to water coconut trees. If urea was used, the 
+water can be applied to the seed beds.
+· Farmers traditionally practice seed flotation by using water only. In this way, unfilled 
+seeds thus straw and some seeds attacked by insects can be separated but not all the light 
+and insect affected seeds will be separated out. 
+· First you fill a clean container with water. After that mix salt or urea with the water. Add 
+enough salt or urea until an egg can float in the water. 
+· Remove the light seeds and insect damaged seeds from the top. Keep the salt water in a 
+separate container. Wash good seeds two or three times with clean water. 
+Rice can be nursed at the nursery or planted directly (pre-germinated and planted directly) 
+on the field for both Upland and Lowland rice. 
+· Now put seeds in the water and stir with your hands. Within a short time, light seeds and 
+insect attacked seeds will be seen on the surface leaving the good seeds at the bottom.
+· To remove all partially filled seeds and those attacked by insects, it is necessary to 
+increase the specific density of the water. 
+(ii)Raising seedlings (nursery management)
+RICE  PRODUCTION GUIDE................................4
+In the Random method, seedlings are transplanted without a definite distance or space between 
+plants. The Straight-row method follows a uniform spacing between plants. The seedlings are 
+transplanted in straight rows.
+In the Upland cultivation, nursed seedlings are transplanted when the seedlings are about 21 
+days after seeding with the recommended planting distances. The nursery bed should be 
+watered regularly to keep the soil moist but notpuddled. Good drainage should be provided
+to ensure that nursery is not flooded
+There are two methods for planting rice: Transplanting and Direct seeding
+Transplanting is done in one of two methods: Randomor Straight-row.
+(iii)Methods of planting
+For Direct seeding, there are three techniques which are; Broadcasting, Drilling and Dibbling.
+NB:The main advantage of drilling/dibbling is efficiency in seed use.
+NOTE: Transplant seedlings in the well-puddled and leveled main fieldbetween 14-21 
+days after sowing.
+Seeding Rate (recommended)
+RICE  PRODUCTION GUIDE................................5
+Rice nursery
+Method
+Drill
+Dibble
+Broadcast
+Plant Spacing
+30cm x 1.5cm
+20cm x 20cm
+ -
+Seed/hill
+1/hill
+4/hill
+-
+Seeding Rate/ha
+60kg
+50kg
+80kg-100kg
+Seeding rate/acre
+24kg
+20kg
+30kg
+Rice transplanting
+6.0 FERTILIZER APPLICATION
+6.1 Inorganic/chemical fertilizers
+Second application: Top dress with 50kg (one bag)/ha Sulphate of Ammonia or 75kg (1 and a 
+half bag of Urea)5 – 6 weeks after seedling emergence and just before booting. 
+6.2 UDP (Urea Deep Placement)
+UDP technology makes nitrogen available to the crop throughout its growth cycle. Plants are 
+able to absorb more of the applied nutrients, resulting in higher crop yields and lower 
+production costs for farmers. It performs best in clay and silt soils and in rice production 
+Apply organic manure as follows;
+· Spread 7 to 8 tons (140 – 160 bags)/ha of cow dung or 4 tons (80 bags) decomposed 
+poultry manure/ha and work into the soil before planting under rain-fed conditions.
+· Spread 7 to 8 tons (140 – 160 bags)/ha of cow dung or 4tons (80 bags) poultry 
+manure/ha and puddle into the soil 2 weeks before planting under irrigated conditions.
+First application:Apply 180kg (3 and a half bags)/ha of 15-15-15,2-3 weeks after 
+transplanting and apply 125kg (2 and a half bags)/ha of NPK 15-15-15 one week after 
+direct seeding and control weeds 2-3 weeks after seeding.
+UDP technology involves “point placement” of large fertilizer granules (1 to 3 grams each, in 
+the shape of briquettes), 7-10 cm below the soil surface in close proximity to the root zone of 
+the plant. Urea briquettes are applied only once during the crop growth season, compared with 
+two to three fertilizer applications needed.
+RICE  PRODUCTION GUIDE................................6
+Urea briquette                     placement of briquette
+systems in which fields are subject to surface water runoff and line sowing (drilling) is 
+practiced.
+Typically, one briquetteis placed in the puddled soil (by hand, manual applicator, mechanized 
+row applicator, etc.) at the center of each set of four hills of rice at a depth of 7-10 cm from one 
+to seven days after transplanting rice. 
+(Lowland)                      Forest Savannah Transition
+ 
+Crop                              Agro-Ecology                              Recommended Fertilizer  
+Rice                               Guinea Savanna zone/
+(Upland)                         Forest Savannah Transition 
+                                                                                            Formulae for Blends 
+Rice                               Guinea Savanna zone/             N-P2O5-K2O: 15-20-20 
+(6 bags/ha + 2 bags/ha urea 
+or 4 bags/ha SoA)
+N-P2O5-K2O: 15-20-20 
+(4 bags/ha + 3 bags/ha urea) 
+Weeds can be controlled through an integrated use of cultural, manual, mechanical or 
+chemical methods. Weed rice field at 3weeks after seeding or transplanting. The weeds 
+are controlled by using recommended weedicides and appropriate tools in both upland 
+th
+and lowland rice fields. At 6  week stage, weeds in rice fields are controlled by using 
+appropriate tools.
+7.0 WEED CONTROL/MANAGEMENT
+Roguing
+It is always important to rogue your field to remove off-types from the rice field to ensure 
+purity and achieve the following;ensures genetic purity, ensures high productivity to 
+farmers, ensures good quality of seeds or grains ensures the requisite adjustment of mill 
+during milling and minimizes percentage of broken grain.
+RICE  PRODUCTION GUIDE................................7
+White heads            Larva inside 
+stem
+(a) Insect pests:
+· Caterpillars bore holes at the base of the plant during vegetative stage and on old 
+crop, they bore on the upper nodes feeding towards the base
+Signs and Symptoms
+8.1 PESTS MANAGEMENT
+(i) Stem borer: larvae bore at the base of the plants during the vegetative stage. On older 
+plants, they bore through the upper nodes and feed toward the base. 
+· Whiteheads at reproductive stage and dead hearts or drying of the central tiller 
+during vegetative growth
+8.0 PESTS & DISEASES MANAGEMENT
+RICE  PRODUCTION GUIDE................................8
+· Conserve natural enemies such as dragonflies, spiders, carabids beetles, parasitic 
+wasp by reducing the amount of insecticides use
+· Harvest crops at ground level to remove the larvae in the stubble
+· Practise crop rotation (e.g. legumes/vegetables)
+Prevention
+Management
+· Before transplanting, cut the leaf-top to reduce carry-over of eggs from the seedbed 
+to the field
+· Remove stubble, volunteer rice and wild grasses around nurseries and planting areas
+· Avoid water stagnation in the field
+· Avoid excess use of nitrogenous fertilizers as high rates favour population build-up 
+· Monitor weekly from seedlings to harvest for the presence of the insect and damage 
+symptoms
+· Plough and flood after harvest to destroy dormant stem borer caterpillars
+Control
+· Hand pick borer larvae during transplanting or in the nursery and destroy egg masses
+· Apply ground neem powder (a pinch per plant) onto the funnel of young plants. Rate 
+50g/2kg ash
+· Spry with Acetamiprid (Golan 20SP) at a rate of 7mls/ 15L of water
+          Signs and symptoms Symptoms
+· Spray with imidacloprid (Confidor 70WG) at a rate of 4g/15 litres water)
+(ii)     Termites (Macrotermes spp., Odontotermes spp. Coptotermes spp.)
+· Mud on stems
+· Lodging of plants 
+· Stunting of plants
+· Consider practices that enhance natural enemy populations (e.g. habitat flowering 
+plants, reducing broad spectrum chemicals, releasing natural enemies etc.)
+· Remove and destroy head hearts and whiteheads
+· Install light traps at 5 traps /ha and kill trapped adults physically
+2 
+·    Take control measures when 10-15% of plants/m show damage 40 days after planting
+· Damage may be confused with what is caused by rats, neck blast or back bug diseases. 
+To confirm stem borer damage, pull and dissect stems to find larvae or pupae
+Monitoring
+RICE  PRODUCTION GUIDE................................9
+Termites                                             Lodging due to tunneling 
+                                                      and feeding of  termites
+                                                              
+Monitoring
+· They injure plants by chewing and severing roots and occasionally stems
+Signs and Symptoms
+· Uproot young plants that show poor growth or stunting to check for termites
+· Wilting of whole plant
+· Spray with Deltamethrin base product 75-100mls/15L
+· Cutting of plant stems and dragging them into their burrows
+· Spread 1kg crushed neem leaves and/ water. 1 match box/L of water
+· Spray Fipronil (Fipro 50 EC at the rate of 100mls/15L
+· Inter-plant with termite repellent plants e.g basil (Ocimum spp.)
+Control
+· Collect and burn/bury plant debris after harvest. Avoid importing termite infested 
+materials into fields
+· Visit farm regularly during off-season to check for termite colonies/mounds 
+· Avoid mulching in termite infested fields
+· During cropping season, plants growing close to termite mounds should be given close 
+attention to for protection
+(iii) Mole crickets –Mole crickets are large, brownish insects. They are rather cricket-like 
+in shape but have mole-like, digging front legs. The adults have wings and many are 
+powerful though clumsyfliers.
+· Dig up termite mounds to expose and kill the reproductive and destroy colonies
+Prevention
+· Destroy termitarium before planting
+· Keep soil moist in the dry spell to discourage termite activities
+Management
+· Avoid termite-infested fields during site selection
+RICE  PRODUCTION GUIDE................................9
+
+Management
+Prevention
+· Most injury to rice seedling occurs shortly after transplanting, so replacement of lost 
+plants will help compensate for injury
+· Use the proper irrigation schedules and correct fertilizer recommendations to maintain 
+the crop in the healthiest condition possible to allow the plants to recover from injury by 
+mole crickets
+· Encourage biological control agents (sphecid wasps, carabid beetles, nematodes and 
+fungus) by minimizing insecticide use
+Monitoring
+· Asses population density of nymphs by checking frequency of soil surface tunneling
+· Estimate nymph and adult abundance by flushing with o.5% aqueous solution of dish 
+washing soap
+· During land preparation, search and collect the nymphs and adult and destroy
+· Flood rice fields for 3-4 days. Level the field for better water control which can help to 
+remove the eggs on the soil and reduce cricket populations
+Signs and Symptom
+· If 2 to 4 mole crickets come to the soil surface within three minutes of application of the 
+soap solution, corrective action is justified to reduce mole cricket numbers
+· Whitehead or unfilled panicles
+· Chew grains
+· Spray with pyrethroid insecticides. Spry only once per season
+· Use bund shaving and plastering of fresh wet soil to help eliminate the eggs of mole 
+crickets
+· Spray with neem. mix 400g of dried powdered leaves to 3 litres of water and apply 
+regularly at 80L/ha
+ (iv) Birds: They attack the crop at the milk and grain filing stage sucking and taking grains out 
+of the panicles. Birds become a problem from ripening phase when the rice plant is already 
+developing and filling in grains until harvest. Whiteheads can also be caused by stem borer. 
+The differences between the two are; in bird damage not, all grains are chaffy whiles in stem 
+borer damage, all grains in a panicle are chaffy and the panicle can be pulled out easily.
+Control
+RICE  PRODUCTION GUIDE................................10
+(i) Rice Blast (Magnaporthe grisea) –A fungal disease caused byPyricularia oryzae. The 
+disease is seed-and air-borne and attacks the plant at all stages producing white to greyish green 
+lesion or spots with dark green borders and widen from the centre towards either ends that 
+results in poor grains fill in rice production.
+· Tapes can be  placed over the rice plants. This could be one of the best options for 
+scaring birds.
+· Use of scarecrows
+· Scaring of birds to avoid attacking the plant.
+Signs and Symptoms
+· Chili extracts can be used as a chemical repellent. These are commercially available 
+and require approximately one liter to be used on one hectare. Repellents should be 
+continuously applied every two weeks. They also need to be re-applied after rain.
+· Internal red necrosis, mould growth on lesion and stunting or rosetting
+Management 
+·  Identify and destroy the bird nest.
+· Use of exclusion netting 
+(b)Diseases:
+· Diamond shaped lesions with grey centre and brown or reddish borders 
+· Lesions on seeds and in severe conditions rot
+RICE  PRODUCTION GUIDE................................11
+Diamond shaped lesions with grey centre and brownish borders
+Shriveled culums     Drooped panicle
+Management
+· Practice contionus flooding to limit blast development
+· Use certified disease-free seeds for planting or consider using tolerant varieties (e.g. 
+Amankwatia, Jasmine and AGRA rice
+· Treat the planting materials (seeds) with recommended and appropriate fungicides 
+before planting.
+· Avoid excessive use of nitrogen fertilizer as this can increase the severity of the disease
+Prevention
+· Avoid drought stress to plants and extended drainage period as this makes the plants 
+more susceptible to the disease
+RICE  PRODUCTION GUIDE................................12
+· Remove leaves with lesions or symptoms if they are not many during monitoring
+· Apply Kingstar WG at 75ml/15L knapsack
+· Check glumes and panicle raches for dark brown to black oval spots or discolouration on 
+the surface
+· Presence of blast lesions, just before booting often dictates decisions for chemical 
+treatment
+Signs and Symptoms
+· On the leaves and sheaths look for small circular lesions, dark brown to purple in colour. 
+Older lesions are more oval with a light brown to gray center surrounded by a reddish-
+brown margin
+Monitoring
+· Monitor plants by observing leaves for appearance of major symptom
+Control
+· Apply Maneb at 70g/knapsack
+ (ii)Brown leaf spot (Bipolaris oryzae):It is reddish-brown spots which appear on leaf 
+surfaces. It spreads rapidly if good screening for diseased seedlings is not practiced.  
+· Brown spot lesions can be mistaken for blast lesions. Lesions caused by brown spot are 
+oval while blast lesions are diamond or spindle shape
+                   reddish brown margin
+Dark brown to purple lesion on leaves  lesion on older leaves surrounded by 
+RICE  PRODUCTION GUIDE................................12
+
+· Apply Mancozeb at a rate of 75g/15L
+· Look for insects with shiny black bodies or others with brown heads and dark bodies 
+and spined thorax. Hoppers with greenish-yellow bodies and others with greenish 
+brown colouration
+· Check glumes and panicle raches for blast lesions. 
+Control
+· Rogue plants with brown spot symptoms at low disease incidence in the field after 
+transplanting
+· Apply Carbendazim at a rate of 25ml/15L
+· Yellow/ orange colouration of leaves
+Signs and Symptoms
+· Rogue infected plants from the nursery to avoid disease spread and burn to destroy
+·  Stunted growth and death of plants
+Monitoring
+Rice Yellow Mottle Virus (RYMV)
+· Empty spikelets
+· Monitor crop weekly through the season as disease can set in at all stages of growth
+Yellow patches 
+· To treat seeds, pre-soak seeds in cold water for 8 hours and treat with hot water (53-54 
+o
+C) for 10-12 minutes before planting or treat with fungicide for prevention before 
+sowing 
+· Control weeds in season and out of season
+· Transplant only seedlings that are healthy (free from brown spot symptoms)
+· Destroy volunteer rice crop and infected rice debris by burning soon after harvest
+· Amend soil with calcium silicate to boost resistance to the disease
+Management
+RICE  PRODUCTION GUIDE................................12
+· Look for insects with shiny black bodies or others with brown heads and dark bodies 
+and spined thorax. Hoppers with greenish-yellow bodies and others with greenish 
+brown colouration
+· Plough under infected crop residues, volunteer rice, infected ratoons and weeds after 
+harvest
+Control
+· RYMV is a dangerous disease and farmers are advised to start control action soon after 
+observing symptoms
+Prevention
+· Avoid planting in areas where RYMV is already present 
+· Control weeds on rice fields and around fields (particularly grass)
+· Young seedlings (3-4 leaf growth stage) are most susceptible to infection, newly 
+formed leaves are twisted and have difficulty in emerging
+· Set traps to prevent rodents and other animals from causing injuries
+Management
+· Reduce injury to plants during transplanting and weeding
+· Wash hands with soap after working on infected plants so as not to transmit to healthy 
+plants
+Monitoring
+· Monitor nursery weekly for yellowing of leaves, stunted growth and death of plants
+· Rogue and burn infected plants in the field when first seen to reduce spread of disease to 
+healthy plants
+· Control insect vectors in the nursery with insecticides such as alpha-Cypermethrin at 5-
+7.5ml /15L of water and Imidacloprid at 5-7ml/15L of water to control insect vector in 
+nursery.
+· The virus cannot be managed with using insecticides but the insect vector(hopper) can 
+be managed with an insecticide
+RICE  PRODUCTION GUIDE................................12
+Harvesting refers to all operations carried out in the field including cutting the rice stalks 
+(reaping), laying cut stalks on stubbles, bundling, stacking or piling, threshing and 
+hauling.Harvest the rice fieldwhen the crops are 80 – 120 days after planting depending on the 
+variety, and 85 to 90% of the panicles show straw colour yellowish brown and also when the 
+grains moisturecontent is about 18 - 20%.Harvesting can be done in two parts; harvesting 
+using the manual process by cutting the panicle and also using the combine harvester, sickles, 
+slasher and reaper.Cut the stems with a sickle about 10-15cm above the ground. 
+To mill immediately after harvest, winnow, dry up to 12% to 14% moisture content and 
+bag.Ifmoisture content is below 12%, parboil before milling to avoidloss throughgrain 
+breakage.
+9.0 HARVESTING
+Rice harvesting using sickles                                Rice milling
+9.1 Threshing 
+Thresh immediately after harvesting and drying to avoid losses.
+Avoid threshing on bare floor to prevent the introduction of sand, pebbles and other 
+foreignmaterial.Thresh carefully to avoid dehusking the grains
+9.2 Winnowing
+· Winnow to separate the chaff and empty grains from the well filled matured grains. 
+· Remove foreign matter in the paddy to avoid localized heating spots
+9.3 Drying 
+Dry paddy properly to a safe content of 13-14% by spreading in a thin layer (2-3cm thick) on 
+clean concrete floors, floors, mats or tarpaulins and turning over periodically. Sun- dry for 2 – 3 
+days to reduce breakage during milling. Use a mechanical drier if possible.
+RICE  PRODUCTION GUIDE................................12
+· Stop parboiling when the rice husks start to split open.
+· Continuously monitor the paddy 
+· Suspend the bag over steaming water in a drum
+· Parboil rice by steaming soaked paddy in a jute bag for 10 to 16 minutes. 
+· Parboiled rice has advantages of better storage, cooking quality, being richer in food 
+value, devoid of unpleasant odour and breaking less during milling.
+9.4 Parboiling 
+0
+· Soak paddy in hot water at 70  C or water hot enough for your fingers to withstand 
+the heat for about two seconds. 
+· For about 5 to 6 hours discard all floating grains
+RICE  PRODUCTION GUIDE................................12
+
+9.5 Milling
+Milling is the process of removing the husk or hull from the grain and bran Greater efficiency 
+in the milling process results in whole grains with minimal broken grains to attract premium 
+prices. Mill rice in two stage milling machine. Always mill one pure variety at a time
+RICE  PRODUCTION GUIDE................................12
+· Keep free from insect attack
+9.6 Storage
+· Store only well cleaned rice
+· Inspect rice regularly during storage.
+· Avoid storage conditions that allow water penetration

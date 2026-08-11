@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mofa-maize-2020",
+    "ok": true,
+    "message": "39,252 chars from 30 pages",
+    "url": "https://mofa.gov.gh/site/images/pdf/production_guides/GUIDE_TO_MAIZE_PRODUCTION.pdf"
+  },
+  {
+    "id": "mofa-tomato",
+    "ok": true,
+    "message": "23,232 chars from 20 pages",
+    "url": "https://mofa.gov.gh/site/images/pdf/production_guides/TOMATO_Production_Guide.pdf"
+  },
+  {
+    "id": "mofa-rice",
+    "ok": true,
+    "message": "27,502 chars from 23 pages",
+    "url": "https://mofa.gov.gh/site/images/pdf/production_guides/RICE_Production_Guide.pdf"
+  },
+  {
+    "id": "mofa-feed-ghana",
+    "ok": true,
+    "message": "302,687 chars from 152 pages",
+    "url": "https://mofa.gov.gh/site/images/pdf/Feed_Ghana_Programme.pdf"
+  },
+  {
+    "id": "srid-facts-figures-2024",
+    "ok": true,
+    "message": "142,317 chars from 120 pages",
+    "url": "https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRICULTURE IN GHANA (Facts & Figures) 2024.pdf"
+  },
+  {
+    "id": "iita-cassava-reference-manual",
+    "ok": false,
+    "message": "fetch failed: HTTPError: HTTP Error 404: Not Found",
+    "url": "https://www.iita.org/wp-content/uploads/2016/06/Cassava_in_tropical_Africa_a_reference_manual_1990.pdf"
+  },
+  {
+    "id": "iita-cassava-training",
+    "ok": false,
+    "message": "fetch failed: HTTPError: HTTP Error 404: Not Found",
+    "url": "https://www.iita.org/wp-content/uploads/2016/06/A_comprehensive_training_module_on_competitive_cassava_production.pdf"
+  },
+  {
+    "id": "iita-plantain-west-africa",
+    "ok": false,
+    "message": "fetch failed: HTTPError: HTTP Error 404: Not Found",
+    "url": "https://www.iita.org/wp-content/uploads/2016/05/Plantain-cultivation-under-West-African-conditions-a-reference-manual.pdf"
+  },
+  {
+    "id": "iaea-cassava-guidelines",
+    "ok": true,
+    "message": "179,881 chars from 78 pages",
+    "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/TE1840_web.pdf"
+  },
+  {
+    "id": "yam-transition-zone-ghana",
+    "ok": true,
+    "message": "38,183 chars from 20 pages",
+    "url": "https://www.biorxiv.org/content/10.1101/474247.full.pdf"
+  },
+  {
+    "id": "cocoa-extension-manual",
+    "ok": true,
+    "message": "261,852 chars from 104 pages",
+    "url": "https://cgspace.cgiar.org/bitstream/handle/10568/93355/2nd_Draft_%20Harmonized_Manual.pdf"
+  }
+]

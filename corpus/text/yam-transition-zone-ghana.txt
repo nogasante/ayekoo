@@ -1,0 +1,760 @@
+# Sustaining yam yields amidst climate threat in the forest–savannah transition zone of Ghana
+# publisher: bioRxiv preprint
+# year: unknown
+# url: https://www.biorxiv.org/content/10.1101/474247.full.pdf
+# attribution: Sustaining yam yields in the forest–savannah transition zone of Ghana (preprint)
+# pages: 20
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+1
+1 Sustaining yam yields amidst climate threat in the forest – 
+2 savannah transition zone of Ghana
+3
+4 Frimpong F.* 12, Owusu Danquah E.2, Ennin S. A.2, Asumadu H.3, Aidoo A. K.2, Maroya N.3
+5
+6 1Forschungszentrum Jülich, Institute of Bio-Geosciences 2, Plant Sciences, Germany
+7
+8 2Council for Scientific and Industrial Research- Crops Research Institute, P. O. Box 3785 
+9 Kumasi, Ghana.
+10
+11 3IITA, Ibadan, Nigeria
+12
+13 *Corresponding Author’s Email: f.frimpong@fz-juelich.de
+14 Abstract
+15
+16 With about 70% of yam tuber been water, yield is critically affected during bulking as a result 
+17 of onset of temporal drought. As a consequence of climate change, farmers who are into 
+18 Dioscorea rotundata (white yam) production for local and international market lose their 
+19 investments mainly due to erratic precipitation, drought spells culminating into low yields of 
+20 just 12t/ha compared to the potential of about 22-49t/ha depending on the variety. Innovative 
+21 land uses technologies with higher and sustained productivity for yam production are 
+22 imperative. This study verifies improved agronomic package for sustainable yam production 
+23 in yam growing areas in the forest – savannah transition zone of Ghana during the 2015 and 
+24 2016 cropping seasons. The improved agronomic package included use of ridging as seedbed, 
+25 seed treatment before planting, fertilizer application at a rate of 30:30:36 N:P 205:K20 kg/ha 
+26 plus 15 kg/ha Mg and 20 kg/ha S as MgSO 4 and the use of minimum stakes (trellis; 30-50% 
+27 less number of stakes used by farmers staking). This was compared with farmers’ practice 
+28 which consisted of mounding, no fertilizer application and no seed treatment. The results 
+29 revealed significant (P ≤ 0.01) yam yields of more than 60% difference between the improved 
+30 agronomic practice and farmers’ practice from Ejura, Atebubu and Kintampo yam growing 
+31 communities. Adoption of improved agronomic practices does not only sustain yam 
+32 production and address deforestation but also provide higher returns on investments 
+33 promoting climate resilience by small holders.
+34 Key Words
+35 Climate smart agriculture, Fertilizer, Improved technology, Seed treatment, Trellis staking, 
+36 Yam
+37
+38 Background
+39
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+2
+40     In Ghana, crops are already experiencing heat stress, drought spells, several pests and 
+41 diseases outbreak and shorter growing crop duration as a consequent of the changing climate 
+42 (1). Thus, a potential catastrophe for smallholder farmers and the millions of people who 
+43 regularly grow rain-fed full season crops such as yam, cocoyam, rice etc.(2–5). Choices about 
+44 what to grow are often dictated by the ability of the rainfall regime to support moisture for 
+45 plant growth (6). One way around this would be to breed for varieties with shorter crop 
+46 maturity durations or management interventions that build on the resilience of cropping 
+47 production systems to reduce shocks if the shocks from the climate change cannot be done 
+48 away with. Evidence suggests that climate smart agriculture can make a contribution to 
+49 mitigation by supporting more efficient use of fertilizers, weed management and reduced 
+50 staking options in yam production (1,7,8). 
+51      Yam, an important staple food crop across West Africa is a major non-traditional export 
+52 crop in Ghana contributing to about 16% of the National Agricultural Gross Domestic Product 
+53 (9,10). However, there are a number of challenges that hamper the production and 
+54 productivity of yam. Predominantly amongst them are; inadequate rainfall, low soil fertility, 
+55 weed infestation, pests and diseases in the field (foliar and soil borne) and inadequate storage 
+56 facilities, attack by organisms such as rodents, access to quality improved seed, implements 
+57 for mechanization etc.(8,11). Others include shortage of stakes especially from deforested 
+58 areas and guinea savannah regions. This is as a consequent of clearing new lands year after 
+59 year popularly known as shifting cultivation and slash and burn agriculture, inadequate labour 
+60 in view of the labor intensive nature of yam cultivation (e.g. for preparation of mounds, 
+61 staking, harvesting)(8,12,13). This current yam production system where there is annual 
+62 shifting of farm to new lands is not sustainable and therefore the urgent need to disseminate 
+63 an environmentally sound yam production technology that would increase yield and sustain 
+64 production on continuously cropped fields particularly in the face of climate change (14). 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+3
+65      As a follow up on an on-station evaluation conducted in 2013 and 2014 cropping seasons 
+66 at the CSIR-Crops Research Institute research stations, recommended agronomic package of 
+67 planting treated yam seeds on ridges with fertilizer rate of 30:30:36 N: P 205:K20 kg/ha plus 15 
+68 kg/ha Mg and 20 kg/ha S as MgSO 4 and trellis staking were verified by comparing it with the 
+69 farmers practices on farmers’ fields at Ejura, Atebubu and Kintampo yam growing 
+70 communities. The use of ridges and yam seed treatment helps to maintain optimum number of 
+71 stands per unit area and fertilizer addresses the soil nutrient depletion whiles the trellis staking 
+72 option uses ropes and few stakes to address the challenge of scarcity of stakes and cutting of 
+73 more trees/bamboo for staking. The study has a major objective of validating and 
+74 demonstrating improved yam production technologies (macronutrients (NPK) and 
+75 micronutrients (Mg & S), minimum staking option and seed treatment) to major yam growing 
+76 communities in Ghana.
+77 Methodology
+78 Study sites characteristics
+79 The experiments were conducted in 2015 and 2016 cropping seasons at Ejura-Sekyere 
+80 dumasi (Aframso/Teacherkrom, Ashakoko, Dromankuma & Nkwanta), Atebubu- Amantin 
+81 (Adom, Dagaati Line, Munchunso & Nwowamu) and Kintampo North (Asantekwa, Suamre, 
+82 Babaso/Yabraso & Kintampo Magazine) districts of Ghana (Fig 1). These areas lies in the  
+83 forest-savannah transition agro-ecological zone and amongst the major yam growing areas of 
+84 Ghana (15). Eight farmers (4 randomly selected for analysis) from each of the three 
+85 operational areas were selected for the study every season (Table 1). Mean annual rainfall 
+86 (mm) for 2015 & 2016 across locations are shown in the map (Fig 1).  The data were sourced 
+87 from the local district weather stations which revealed a reduced rainfall amount (mm) in 
+88 2016 compared to 2015 with Kintampo communities severely affected (Fig 1). Mean annual 
+89 rainfall (mm) pairs recorded for 2015 and 2016 were 1256:1034, 929:769, and 863:795 at 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+4
+90 Ejura, Atebubu and Kintampo respectively (Fig 1). These locations have bimodal rainfall i.e. 
+91 major rainy season from March-Mid August and minor rainy season from September-
+92 November; peak in October. Temperature ranges from 25-39  C with soil type of Ferric 
+93 Acrisol; Asuansi series, upper top soil consist of 5cm grayish brown sandy loam topsoil of 
+94 dark brown gritty clay loam (16).
+95
+96 Figure 1. Map of Ghana on the (right), zoomed in on Ejura-Sekyeredumasi, Atebubu – 
+97 Amantin and Kintampo North districts (left) of the forest-savanna transition zone. 
+98 Farming communities where the studies were undertaken for 2015 and 2016 cropping seasons 
+99 are illustrated with dots (.) with their names beside. Mean annual rainfall (mm) per location 
+100 are depicted by bar plots for each season.
+101
+102 Table 1. Farmers and planting dates selected from each of the operational areas for the 
+103 analysis in 2015 and 2016.
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113 Experimental design
+114 A randomized complete block design with each farmer as a replicate was used for the study. A 
+115 total of 8 trials (8 replicates) were established in all the operational areas in 2015 and 2016. 
+116 Local white yam variety “Dente” of Dioscorea rotundata species was planted and subjected 
+117 to two treatment applications from start of planting till harvest. Planting of yam across these 
+118 locations were started in June and completed by 21-June of each year (Table 1).  Harvesting 
+Atebubu Ejura Kintampo Year
+Farmers and their respective planting dates
+Farmer A 2-Jun Farmer A 11-Jun Farmer A 21-Jun
+Farmer B 5-Jun Farmer B 11-Jun Farmer B 21-Jun
+Farmer C 6-Jun Farmer C 11-Jun Farmer C 21-Jun2015
+Farmer D 4-Jun Farmer D 12-Jun Farmer D 21-Jun
+Farmer E 4- Jun Farmer E 1-Jun Farmer E 9-Jun
+Farmer F 5-Jun Farmer F 2-Jun Farmer F 10-Jun
+Farmer G 5-Jun Farmer G 3-Jun Farmer G 10-Jun
+2016
+Farmer H 6-Jun Farmer H 2-Jun Farmer H 11-Jun
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+5
+119 of yam was completed by the end of December of each year. The treatments were 
+120 recommended (improved agronomic practice) and local technology/farmers’ practice. The 
+121 recommended practice for yam production included a package of; treating yam seed before 
+122 planting with fungicide and insecticide, use of ridging as seedbed, fertilization at 30:30:36 N: 
+123 P 205:K20 Kg/ha plus 15Kg/ha of Mg and 20Kg/ha S as MgSO 4 and use of trellis for staking 
+124 whiles in the farmers’ practice, farmers were allowed to use their local technology (planting 
+125 on mounds), no pre-treatment of seed, no fertilizer application for comparison. Continuously 
+126 cropped fields that farmers would normally not use for yam production were selected in each 
+127 operational area for the study. Each improved agronomic field had an area of a quarter of an 
+128 acre (0.25ac/0.1ha) planted at 1.2m inter row and 0.8m on the ridges (10,416 stands/ha). 
+129     The same size (0.25ac/0.1ha) was demarcated for the farmers practice treatment where they 
+130 mounded sparsely to cover the entire field (3,400 – 4,000 stands/ha). Each farmer field was 
+131 considered as a replicate and analysis compiled for each district/operational area together. The 
+132 Fertilizer treatment was applied at 50% split at 5-6 weeks and 11-12 weeks after planting in 
+133 all the locations. The seed setts (200-250g) of the improved agronomic fields were treated 
+134 with Dursban (Chlorpyrifos from Dow Agro Sciences; 1.25 l/ha) and Mancozeb 
+135 (Dithiocarbamate from Ag-Chem Africa 80%; 75 g in 15 l of water) before planting. Farmers’ 
+136 sett sizes used ranged between 350g to 650g depending on each farmer. Emerged weeds in the 
+137 improved agronomic fields were controlled with glyphosate (2.5 liter per ha) before the 
+138 sprouting of the yam while farmers only slashed on their fields. There after weeds were 
+139 manually controlled with cutlass and hoe in either improved agronomic field or farmers’ field 
+140 by hoeing. In 2016, sensory evaluations were conducted with 50 participants (who were 
+141 mainly farmers from the localities) in all areas after eating boiled yam during the December 
+142 harvest.  Fertilized and unfertilized boiled yam (coded at the blind side of the participants) 
+143 using one on one questionnaire interviews, farmers scored for taste, texture, aroma and 
+144 acceptability (Table 3).
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+6
+145 Data collection and analysis
+146 During harvest, the tubers were grouped into two; ware yam (tuber sizes of more than 500g) 
+147 and seed yam (500g and below) and weighed separately for each of the practices. Four 
+148 replications from each operational area (Ejura, Atebubu and Kintampo) and across the two 
+149 seasons (2015, 2016) were subjected to statistical analysis. Data on stand harvested, weight of 
+150 ware yam, weight of seed yam and total yam yield collected were subjected to one way 
+151 analysis of variance linear model at 5% significant level using ‘R’ statistical software with the 
+152 practice treatment as the independent variable. Where treatment means differ, Tukey’s HSD 
+153 test was used to group them and visualized with bar graphs using MS excel 2010.  Percentage 
+154 differences of total yam yield harvested between the improved practice and the farmer’s was 
+155 calculated based on the formula; 
+156  Percentage difference =
+(𝑖𝑚𝑝𝑟𝑜𝑣𝑒𝑑 𝑎𝑔𝑟𝑜𝑛𝑜𝑚𝑖𝑐 𝑝𝑟𝑎𝑐𝑡𝑖𝑐𝑒 ‒ 𝑓𝑎𝑟𝑚𝑒𝑟𝑠'𝑝𝑟𝑎𝑐𝑡𝑖𝑐𝑒)
+(𝑖𝑚𝑝𝑟𝑜𝑣𝑒𝑑 𝑎𝑔𝑟𝑜𝑛𝑜𝑚𝑖𝑐 𝑝𝑟𝑎𝑐𝑡𝑖𝑐𝑒 + 𝑓𝑎𝑟𝑚𝑒𝑟𝑠' 𝑝𝑟𝑎𝑐𝑡𝑖𝑐𝑒/2) × 100
+157 Sensory evaluation through one on one interviews upon tasting boiled yam from fertilized and 
+158 unfertilized samples were calculated with data from 50 participants for each location who 
+159 were mainly farmers.  In order to deduce return on investment after venturing in any of the 
+160 practices was subsequently calculated using benefit cost ratio for each of the locations using 
+161 total yam yield and price per kg of yam at the time of harvest.
+162 Results and Discussion
+163 Influence of improved agronomic technology on yam tuber yield
+164 Generally, total yam tuber yields were high in 2015 than in 2016 cropping season irrespective 
+165 of the practice (Figs 2-4). The improved agronomic practice fields had significantly (P<0.01) 
+166 higher total tuber yields compared to the farmers’ practice fields across the locations despite 
+167 the season (Figs 2-4). Availability of moisture is critical for yam to sprout and establish 
+168 during early growth stages and vital to bulk bigger tubers(11,17–20). Higher rainfall during 
+169 2015 cropping season (Fig 1) might have ensured yam establishment and increased overall 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+7
+170 yields compared to 2016. The use of improved agronomic package of ridging, yam seed pre-
+171 treatment, trellis staking and fertilizer rate of 30:30:36 N: P 205:K20 kg/ha plus 15 kg/ha Mg 
+172 and 20 kg/ha S as MgSO 4 resulted in total tuber yield percentage difference over farmers’ 
+173 practice of mounding and planting of 68.6%, 78.3%, 80.7% for the 2015 cropping season and 
+174 113.6%, 113.9%, 120% for 2016 cropping season in Ejura, Atebubu and Kintampo farming 
+175 communities (Fig 5) respectively. Stand count/ha on the ridges were significantly (P<0.01) 
+176 higher on the improved agronomic practice fields than farmers’ practice fields for all the 
+177 locations and across season (Figs 2-4). This we attribute to the use of ridges which made it 
+178 possible to plant at 1.2m between ridges and 0.8m on the ridges resulting in a planting density 
+179 of about 10,416 stands per hectare whiles the farmers practice of mounding were relatively 
+180 sparse (1.5m-2m) resulting in just about 3,400 – 4,000 stands/ha. Thus, ridging helped 
+181 maintain optimum number of plants and promoted efficient use of fertilizer and conserved 
+182 moisture than mounding. 
+183     It was observed that the improved agronomic fields had better yam canopy as a result of the 
+184 combined effect of trellis staking and ridging. Revealing similar tuber yield trends on 
+185 fertilized mounds and unfertilized ridges (8) supports the argument that fertilizer application 
+186 helps the farmer to achieve value by being more efficient and profitable on ridges than on 
+187 mounds. Moreover, pre-treating seed yam before planting on the improved agronomic fields 
+188 resulted in a reduction in yam rot and increased stands/ha than on the farmers’ practice fields 
+189 where seeds were not treated resulting in lower stands/ha. Seed treatment for pest and disease 
+190 before planting is recommended to promote sprout rate ensuring improvement in final stand 
+191 density culminating into overall high yam yields (11,12,17). Erratic rainfall and prolong 
+192 drought require technologies that enable the soil to conserve moisture and promote nutrient 
+193 use efficiency in order to increase resiliency of any cropping system. An observation we made 
+194 during the studies was that drought was more pronounced on the farmers’ practice which used 
+195 relatively sparse mounds and vertical staking option than on the improved agronomic 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+8
+196 practices which used ridges and trellis staking option. Similar studies suggest that planting on 
+197 ridges can maintain optimum plant stands and conserve more moisture than mounds resulting 
+198 in more efficient water used on ridges than on mounds (7,8,17,21). These attributes makes the 
+199 use of ridges more soil nutrient efficient upon application of fertilizer than on mounds. 
+200 Furthermore, (8) made a similar observation with planting on ridges increasing yields 
+201 significantly than on mounds. 
+202      It is recommended that adopting and following through the improved agronomic package 
+203 based on results of 2016 cropping season (Figs 1-5) where rainfall were considerably lower 
+204 illustrates the resilience ability of it during reduced precipitation. In spite of the gains in yam 
+205 fertilization, there are perceptions and claims by some consumers and farmers in the public 
+206 space that fertilizing yam leads to rots and reduces the overall shelf life. We recommend 
+207 further research into these claims as we settled the dust in this paper (Table 3) on claims that 
+208 fertilizer affected the taste quality of yam. 
+209
+210 Figure 2. Yam tuber yields and stand count as influenced by improved agronomic 
+211 practice and farmers’ practice in the Ejura farming communities for 2015 and 2016 
+212 cropping seasons. Mean values and standard errors (n = 4) are plotted. Index letters above the 
+213 bars indicate significant differences (P < 0.01) between media not sharing the same letter by 
+214 Tukey's HSD test. Asterisks indicate significant differences (P < 0.01) between the two 
+215 practices.
+216
+217 Figure 3. Yam tuber yields and stand count as influenced by improved agronomic 
+218 practice and farmers’ practice in the Atebubu farming communities for 2015 and 2016 
+219 cropping seasons. Mean values and standard errors (n = 4) are plotted. Index letters above the 
+220 bars indicate significant differences (P <0 .01) between media not sharing the same letter by 
+221 Tukey's HSD test. Asterisks indicate significant differences (P < 0.01) between the two 
+222 practices.
+223
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+9
+224 Figure 4. Yam tuber yields and stand count as influenced by improved agronomic 
+225 practice and farmers’ practice in the Kintampo farming communities for 2015 and 2016 
+226 cropping seasons. Mean values and standard errors (n = 4) are plotted. Index letters above the 
+227 bars indicate significant differences (P < 0.01) between media not sharing the same letter by 
+228 Tukey's HSD test. Asterisks indicate significant differences (P < 0.01) between the two 
+229 practices.
+230
+231
+232 Figure 5. Percentage differences between the two practices across two seasons calculated 
+233 for each location based on their total yam yield (kg/ha).
+234
+235 Partial budgeting and cost benefit analysis of the two practices
+236 Table 2 presents the partial budgeting and cost benefit analysis of “Dente” white yam 
+237 production under improved agronomic practice and farmers’ practice in Ejura, Atebubu and 
+238 Kintampo operational areas. The results revealed that irrespective of location or the season, 
+239 yam planted with the improved agronomic package had higher benefit to cost ratio compared 
+240 to farmers’ practice. Benefit to cost ratios of 4.76:3.64, 4.04:2.48 and 2.01:1.08 were achieved 
+241 for Ejura, Atebubu and Kintampo communities respectively for the 2015 cropping season 
+242 (
+Table 2) in sequence of improved technology: farmers’ practice. Thus, when a farmer invests 
+243 Gh₵ 1.00 in yam production using the recommended improved technology a profit of Gh₵ 
+244 3.76, Gh₵ 3.04 and Gh₵ 1.01 was to be accrued in addition to the Gh₵ 1.00 invested capital 
+245 at Ejura, Atebubu and Kintampo respectively during the 2015 season.  During the 2016 
+246 cropping season, drought was more intense particularly for Atebubu and Kintampo areas 
+247 ( Figure 1). This however did not affect benefit to cost ratio for using the improved agronomic 
+248 package thus achieving 3.76, 3.03 and 1.33 compared to 1.16, 0.75 and -0.55 for Ejura, 
+249 Atebubu and Kintampo communities respectively (Table 2). Thus, a profit of Gh₵ 2.76, Gh₵ 
+250 2.03 and Gh₵ 0.33 was to be accrued in addition to the Gh₵ 1.00 invested capital upon the 
+251 use of improved agronomic practices at Ejura, Atebubu and Kintampo respectively. The use 
+252 of the farmers’ practice resulted in total loss of Gh₵ 1.55 in Kintampo area (Table 2).  This 
+253 suggest that the use of the improved agronomic practice would not only increase and sustain 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+10
+254 yields on continuously cropped fields but also the it is the best option during drought spells, 
+255 erratic and reduced rainfall conditions. The improved agronomic package thereby increases 
+256 farmer’s resilience in dealing with such harsh weather conditions with assured returns on their 
+257 investments.
+258 Table 2. Partial budget and cost benefit analysis of white yam production with improved 
+259 technology and farmers practices at Ejura, Atebubu and Kintampo  farming 
+260 communities for the 2015 and 2016 cropping seasons.
+Location Ejura operational area Atebubu operational 
+area
+Kintampo operational area
+Practice Imp
+rove
+d 
+agro
+nom
+ic 
+prac
+tice
+Far
+mer
+s' 
+pra
+ctic
+e
+Imp
+rove
+d 
+agro
+nom
+ic 
+prac
+tice
+Far
+mer
+s' 
+pra
+ctic
+e
+Imp
+rove
+d 
+agro
+nom
+ic 
+prac
+tices
+Far
+mer
+s' 
+pra
+ctic
+e
+Imp
+rove
+d 
+agro
+nom
+ic 
+prac
+tices
+Far
+mer
+s' 
+pra
+ctic
+e
+Imp
+rove
+d 
+agro
+nom
+ic 
+prac
+tices
+Far
+mer
+s' 
+pra
+ctic
+e
+Imp
+rove
+d 
+agro
+nom
+ic 
+prac
+tices
+Farme
+rs' 
+practi
+ce
+Year 2015 201
+5
+2016 201
+6
+2015 201
+5
+2016 201
+6
+2015 201
+5
+2016 2016
+Average yield 
+(kg/ha)
+1780
+0
+870
+0
+1420
+0
+391
+0
+1670
+0
+730
+0
+1240
+0
+340
+0
+1060
+0
+450
+0
+8200 2050
+Adjusted yield 
+(kg/ha)
+1602
+0
+783
+0
+1278
+0
+351
+9
+1503
+0
+657
+0
+1116
+0
+306
+0
+9540 405
+0
+7380 1845
+Farm gate price in 
+December each year 
+(₵/kg)
+1.4 1.4 1.45 1.4
+5
+1.3 1.3 1.4 1.4 1.2 1.2 1.2 1.2
+Gross benefit(₵/ha) 2242
+8
+109
+62
+1853
+1
+510
+2.5
+5
+1953
+9
+854
+1
+1562
+4
+428
+4
+1144
+8
+486
+0
+8856 2214
+Cost of chemical 
+fertilizer, 
+glyphosate, 
+fungicide & 
+pesticide(₵)
+355 0 355 0 355 0 355 0 355 0 355 0
+Labour cost for 
+application of 
+fertilizer & others 
+(₵/ha)
+153 0 153 0 153 0 153 0 153 0 153 0
+Cost of land 
+clearing and 
+stomping (₵/ha)
+320 0 320 0 290 0 290 0 300 0 300 0
+Construction of 
+ridges (₵/ha)
+300 0 300 0 300 0 300 0 300 0 300 0
+Construction of 
+mounds (₵/ha)
+0 200 0 200 0 250 0 250 0 240 0 240
+Cost of seed yam(₵) 955 455 955 455 955 455 955 455 955 455 955 455
+Labour cost of 
+planting(₵/ha)
+161 139 161 139 160 140 160 140 160 140 160 140
+Cost of stakes(₵/ha) 392 282 392 282 392 282 392 282 392 282 392 282
+Labour cost of 
+staking(₵/ha)
+400 460 400 460 415 500 415 500 405 470 405 470
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+11
+Cost of weeding and 
+reshaping(₵/ha)
+675 675 675 675 675 675 675 675 600 600 600 600
+Harvesting 
+cost(₵/ha)
+182 153 182 153 182 153 182 153 182 153 182 153
+Total cost that vary 
+(₵)
+3893 236
+4
+3893 236
+4
+3877 245
+5
+3877 245
+5
+3802 234
+0
+3802 2340
+Net benefit (₵) 1853
+5
+859
+8
+1463
+8
+273
+8.5
+5
+1566
+2
+608
+6
+1174
+7
+182
+9
+7646 252
+0
+5054 -126
+Benefit cost/Ratio 4.76 3.6
+4
+3.76 1.1
+6
+4.04 2.4
+8
+3.03 0.7
+5
+2.01 1.0
+8
+1.33 -0.05
+261
+262 Influence of fertilizer on the taste of boiled yam
+263 Dente yam planted in 2016 under the improved agronomic practice (fertilized) and farmers’ 
+264 practice (unfertilized) were boiled after harvest and given to fifty participants each from 
+265 Atebubu, Ejura and Kintampo who were mainly farmers for sensory evaluation (Table 3). 
+266 Participants were not previewed as to whether the yam they evaluated at a given time was 
+267 fertilized or unfertilized as they were coded in order to avoid bias. Participants assessed the 
+268 various boiled yam on three culinary qualities: ‘taste’, ‘texture’ and ‘aroma’ (Table 3) based 
+269 on their  individual preferences from a scale of 1 up to 5 with 1 been the best score and 5 as 
+270 the worst. Overall acceptability and STD acceptability on the three traits; taste, texture and 
+271 aroma was subsequently calculated following the approach of (8). The results was in line with 
+272 previous results by (8) that, contrary to the view that the use of fertilizer in yam production 
+273 affects the quality of yam, sensory evaluation showed that the culinary qualities of fertilized 
+274 yam is good and could even be better than unfertilized yam. 
+275
+276
+277
+278
+279  
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+12
+280 Table 3. Sensory evaluation of fertilized and unfertilized boiled yam involving farmers 
+281 from Atebubu, Ejura and Kintampo farming communities. 
+Location Treatement Taste Texture Aroma Overall 
+acceptability
+STD 
+acceptability
+Fertilized yam 
+(30 30 36 N-
+P205-K20 (Kg/ha) 
++ 20kg S & 15kg 
+15 Mg as 
+MgSO4)
+2.30 2.5 2 2.20 0.87
+Atebubu
+Unfertilized yam 
+(0kg/ha) 2.60 2.5 2.4 2.50 0.86
+Fertilized yam 
+(30 30 36 N-
+P205-K20 (Kg/ha) 
++ 20kg S & 15kg 
+15 Mg as 
+MgSO4)
+2.90 2.9 2.8 2.80 0.91
+Ejura
+Unfertilized yam 
+(0kg/ha) 2.90 2.9 2.8 2.80 0.91
+Fertilized yam 
+(30 30 36 N-
+P205-K20 (Kg/ha) 
++ 20kg S & 15kg 
+15 Mg as 
+MgSO4)
+2.10 2.2 2.4 2.20 0.81
+Kintampo
+Unfertilized yam 
+(0kg/ha) 2.70 3.3 3.1 3.10 0.97
+282 n=50, Score Scale 1-5; 1=best, 5=worst
+283
+284 Conclusion and Policy Implication
+285
+286 The improved agronomic technology has proven to be climate resilient comparing the overall 
+287 yield (significantly >60% difference) trends of 2015 and 2016 seasons against farmers’ 
+288 practice given the rainfall amounts and pattern in those years. The overarching difference 
+289 between what farmers do today and the improved agronomic model is the intensification drive 
+290 and a higher use efficiency (staking, nutrient, soil moisture conservation, improved sprouting) 
+291 of the technology at a given area as a consequence of the high planting density allowed by the 
+292 linear arrangement of ridging, trellis staking and seed treatment. It is anticipated that more and 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+13
+293 more farmers who have shown keen interest would adopt the technology through the gains 
+294 made. Claims on yam fertilization affecting taste quality proved otherwise with even a higher 
+295 overall acceptability. Further research is needed to understand claims and perceptions by 
+296 farmers on fertilizer affecting yam storage. Up-scaling of the improved agronomic technology 
+297 to other yam growing communities would further augment the gains already made. 
+298 Acknowledgement 
+299 We thank the Bill and Melinda Gates Foundation who funded this research work through 
+300 YIIFSWA project that was coordinated by IITA, Nigeria through CSIR-Crops Research 
+301 Institute. We are grateful to Mr. Henry Azotibah (Ejura), Mr. Kyeremeh (Atebubu) all of 
+302 MoFA and Mr. Enoch Bessah of CSIR for their invaluable support and advice during data 
+303 acquisition and analysis. 
+304 Abbreviations
+305
+306 CSIR – Council for Scientific and Industrial Research
+307 FAO – Food and Agriculture Organisation
+308 IITA –International Institute for Tropical Agriculture
+309 MoFA – Ministry of Food and Agriculture
+310 YIIFSWA – Yam Improvement for Income and Food Security in West Africa
+311
+312
+313
+314
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+14
+315 References
+316
+317 1. Essegbey GO, Nutsukpo D, Karbo N, Zougmoré R. National Climate-Smart 
+318 Agriculture and Food Security Action Plan of Ghana (2016-2020) [Internet]. 
+319 Copenhagen, Denmark; 2015. Report No.: 139. Available from: www.ccafs.cgiar.org
+320 2. Maliki R, Toukourou M, Sinsin B, Vernier P. Productivity of yam-based systems with 
+321 herbaceous legumes and short fallows in the Guinea-Sudan transition zone of Benin. 
+322 Nutr Cycl Agroecosystems. 2011;92(1):9–19. 
+323 3. Mignouna BD, Abdoulaye T, Alene AD, Asiedu R, Manyong VM. Characterization of 
+324 Yam-growing Households in the Project Areas of Ghana. Nigeria; 2014. 
+325 4. Srivastava AK, Gaiser T, Cornet D, Ewert F. Estimation of effective fallow availability 
+326 for the prediction of yam productivity at the regional scale using model-based multiple 
+327 scenario analysis. F Crop Res. 2012;131(November):32–9. 
+328 5. Amekudzi L, Yamba E, Preko K, Asare E, Aryee J, Baidu M, et al. Variabilities in 
+329 Rainfall Onset, Cessation and Length of Rainy Season for the Various Agro-Ecological 
+330 Zones of Ghana. Climate [Internet]. 2015;3(2):416–34. Available from: 
+331 http://www.mdpi.com/2225-1154/3/2/416/
+332 6. Oteng-Darko P, Frimpong F, Sarpong F, Amenorfe LP. Promoting smallholder 
+333 irrigation for food Security-A review. African J Food Integr Agric [Internet]. 2018;2:1–
+334 7. Available from: www.asofost.org/journals/index.php/ajfia
+335 7. Owusu Danquah E, Ennin SA, Lamptey JNL, Acheampong PP. Staking Options for 
+336 Sustainable Yam Production in Ghana. Sustain Agric Res [Internet]. 2015;4(1):106–13. 
+337 Available from: http://dx.doi.org/10.5539/sar.v4n1p106
+338 8. Ennin SA, Issaka RN, Acheampong PP, Numafo M, Owusu Danquah E. Mechanization 
+339 , fertilization and staking options for environmentally sound yam production. African J 
+340 Agric Res. 2014;9(29):2222–30. 
+341 9. FAO. The State of Food and Agriculture. Rome, Italy; 2006. (37). 
+342 10. Ghana Standard Board. Roots and Tubers –Specification for fresh yams. Accra, Ghana; 
+343 2011. (2nd Edition). Report No.: GS 150. 
+344 11. Bhattacharjee R, Gedil M, Sartie A, Otoo E, Dumet D, Kikuno H, et al. Dioscorea. In: 
+345 Wild Crop Relatives: Genomic and Breeding Resources.lndustrial Crops. C. Kole. 
+346 Springer-Verlag Berlin HeIdelberg; 2011. p. 71–96. 
+347 12. Asiedu R, Sart A. Crops that feed the World 1. Yams: Yams for income and food 
+348 security. Food Secur Springer. 2010;2:305–15. 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+15
+349 13. Akwaag, A. A., Berchie, J. N., Echavez, M. L., Dapaah, H. K., Kebede, T., Njue, S. 
+350 W., Paraoam, I., and Labrada HR. Sustainable Farming Practices- Towards Reducing 
+351 the Expansion of the Forest Savanna Transitional Zone of the Sekyere-West and Ejura-
+352 Sekyeredumase Districts of the Ashanti Region of Ghana. International Center for 
+353 Development Oriented Research in Agricultu. 2000. (86). 
+354 14. Otoo E. Yam production in Ghana: A food security enhancer or an environmental 
+355 degrader. In: Akoroda M, editor. 8th Symposium of the International Society for 
+356 Tropical Root Crops Africa Branch Triennial Workshop. Ibadan, Nigeria; 2001. p. 
+357 387–91. 
+358 15. Ministry of Food and Agriculture. Agriculture in Ghana, Facts and figures (2010) 
+359 [Internet]. Accra, Ghana; 2010. Available from: http://mofa.gov.gh/site/wp-
+360 content/uploads/2011/10/AGRICULTURE-IN-GHANA-FF-2010.pdf
+361 16. Adu S. V. and Asiamah R. D. Soils of the Ayensu-Densu Basin, Central, Eastern and 
+362 Greater Accra Regions of Ghana. Council for Scientific and Industrial Research (CSIR) 
+363 – Soil Research Institute Memoir, Kumasi, Ghana; 1992. Report No.: 9. 
+364 17. Ennin S. A., Owusu Danquah E., Frimpong F., Akom M., Osei-Adu J., Lamptey J. N. 
+365 L., Oteng-Darko P., Osei K., Osuman A. S., Aidoo A. K., Adama I., Appiah-Danquah 
+366 P. HJ. Yam Production and Marketing Guide. H. Adu-Dapaah, J. N. L. Lamptey, I. S. 
+367 Baning, B. N. Frimpong JOA and SAE, editor. Kumasi, Ghana: CSIR-Crops Research 
+368 Institute; 2016. 
+369 18. Maroya NG, Balogun M, Asiedu R, Aighewi B, Lava Kumar P, Joao A. Yam 
+370 Propagation Using ‘ Aeroponics ’ Technology. Annu Res Rev Biol. 2014;4(24):3894–
+371 903. 
+372 19. Maroya NG, Asiedu R, Kumar PL, Lopez-Montes A, Orchard J, Ndiame F. YIIFSWA 
+373 Project Description [Internet]. Ibadan, Nigeria; 2014. (YIIFSWA Working Paper). 
+374 Report No.: 1. Available from: www.iita.org
+375 20. Maroya NG, Balogun M, Asiedu R. Seed yam Production in an Aeroponics System: A 
+376 Novel Technology [Internet]. Ibadan, Nigeria; 2014. (YIIFSWA Working Paper 
+377 Series). Report No.: 2. Available from: www.iita.org
+378 21. Ennin SA, Otoo E, Tetteh FM. Ridging, a mechanized alternative to mounding for yam 
+379 and cassava production. West African J Appl Ecol. 2009;15(1). 
+380
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint 
+.CC-BY 4.0 International licenseavailable under a 
+was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made 
+The copyright holder for this preprint (whichthis version posted November 19, 2018. ; https://doi.org/10.1101/474247doi: bioRxiv preprint

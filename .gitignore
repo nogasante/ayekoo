@@ -14,3 +14,8 @@ __pycache__/
 # Local profiler output
 submission.json
 audit.json
+
+# Corpus source PDFs — refetchable from corpus/sources.yaml, too large to commit.
+# The extracted text in corpus/text/ IS committed: it is the actual corpus, and
+# the submission must work offline without refetching anything.
+corpus/raw/

@@ -1,0 +1,435 @@
+# Tomato Production Guide
+# publisher: Ministry of Food and Agriculture, Ghana
+# year: unknown
+# url: https://mofa.gov.gh/site/images/pdf/production_guides/TOMATO_Production_Guide.pdf
+# attribution: MoFA, Tomato Production Guide
+# pages: 20
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+A
+MINISTRY OF
+FOOD & AGRICULTURE 
+REPUBLIC OF GHANA
+TOMATO  
+PRODUCTION GUIDE
+TOMATO  PRODUCTION GUIDE
+© 2020
+This production guide was developed to complement existing Information, Education 
+and Communication (IEC) materials available on the Agronomy of selected 
+commodities under the “Planting forFood and Jobs” campaign.It is designed for use by 
+Agricultural Extension Agents and other farmers who can equally use to train their 
+colleague farmers.
+The Directorate of Agricultural Extension Services (DAES) would like to acknowledge the 
+untiring effort and interest of staff, all Regional Directors and Regional Extension Officers 
+who contributed directly or indirectly to the development and printing of this production 
+guide.
+Michael Owusu,                                            DCS, MoFA                    
+Collins Oppong,                                            DAES, MoFA
+KwesiAbaka-Quansah,                                 DAES, MoFA
+Portia Tandoh,                                               DAES, MoFA
+Theophilus Osei Owusu,                               Former Ag.Director, DAES
+Paulina Addy,                                                WIAD, MoFA                                        
+Emmanuel A. Odame,                                   Dep. Director, DAES, MoFA
+ACKNOWLEDGEMENT
+The Directorate would also like to thank colleagues and experts from other Directorates of 
+the Ministry of Food and Agriculture who contributed to the review and editing of the draft 
+production guide. They include:
+Dr. Solomon Gyan,                                       DCS, MoFA
+Esther Agyekum,                                           DCS, MoFA             
+Paul Siameh,                                                 Director, DAES, MoFA
+Daniel Ninson,                                              DCS, MoFA
+Hannah Serwaa Nuamah,                              PPRSD, MoFA
+John Lovelace Kpodoviah,                           DAES, MoFA
+Prosper Akpablah,                                         DAES, MoFA
+The Directorate is also grateful to the Modernizing Agriculture in Ghana (MAG) for the 
+provision of financial support towards the development and printing of this production 
+guide. Finally, the DAES acknowledges the Council for Scientific and Industrial Research 
+(CSIR) and International Institute of Tropical Agriculture (IITA) for taking some extracts 
+from their documents.
+Permission for commercial production should be sought from the Director, Directorate of 
+Agricultural Extension Services (DAES), P. O. BOX M37 Ministries Accra, Ghana.
+Shorts extracts of this publication may be reproduced in any non-advertising, non-
+profit-making context provided that the source is acknowledged
+TABLE OF CONTENT
+ CONTENT        PAGE NO.
+1.0 INTRODUCTION      - 1 
+2.0 GROWING REQUIREMENTS    - 2
+3.0 SITE SELECTION     - 2
+6.0 FERTILIZER APPLICATION    - 7
+8.0 PESTS AND DISEASES MANAGEMENT  - 8
+9.0 HARVESTING      - 19 
+9.1 YIELD       - 20
+7.0 WEED CONTROL/MANAGEMENT   - 7   
+4.1  Nursery Establishment     - 3
+4.0 SEED/VARIETAL SELECTION   - 3
+9.2 MARKETING       - 20
+5.0 LAND PREPARATION     - 4
+5.1  Nursery Management     - 5
+1.0  INTRODUCTION 
+Botanical name: Lycopersicumesculentum/Solanumlycopersicum
+Tomato (SolanumlycopersicumL.) is the most important fruit vegetable in Ghana and a good 
+source of Vitamins A and C and other minerals for improved nutrition. The seeds also contain 
+about 24% oil and this is extracted for use as salad oil and in the manufacture of margarine. It is 
+also an important cash crop for most farmers. 
+Typical tomato farm 
+2.0  GROWING REQUIREMENT 
+Ensure that site selected must have a well distributed rainfall of between 300-600mm.
+· Ensure the soils are well-drained and fertile  
+Optimal temperatures for growing tomato are between 22°C and 28°C during the day and 
+between 18°C and 22°C at night.  Relative humidity of between 60 - 80% is most suitable. 
+Select well drained soil on a gentle slope. They are very sensitive to water logged soils and 
+prefer a soil pH of between 6.0 -7.0.Below a pH of 6.0 add rock phosphate, poultry manure or 
+lime. Above pH7.0  seek professionalguidance in amending your soil pH.Hot dry spells 
+followed by heavy rains cause the mature fruits to crack.
+· Select easily assessable sites close to a permanent water source of good quality.  Always 
+make provision for supplementary irrigation. 
+· Choose areas that allow adequate sunshine required for optimal plant growth 
+· Select flat and gently sloping land to prevent run-off. 
+3.0  SITE SELECTION
+TOMATO  PRODUCTION GUIDE...............................1
+· Tropimech, Rio 
+· Avoid fields previously planted or intercropped with solanaceous crops (e.g. tomato, 
+pepper, garden eggs, cassava, potato) for the past two cropping seasons. 
+· Rotate tomato with unrelated crops e.g. rice, maize, sorghum, millet, onion, garlic, 
+cowpea, groundnut and cotton. This will help reduce pest and disease incidence. 
+· Avoid areas with rocks and many trees. Rocks and trees can impede movement of farm 
+implements and make land preparation and crop establishment difficult. 
+4.0 SEED/VARIETAL SELECTION:
+Select improved seeds (early maturing, resistance to common tomato diseases etc.) from dealer 
+source and other Institutions such as CSIR-Crops Research Institute, Ministry of Food and 
+Agriculture etc.
+Examples of Recommended and Improved Varieties
+· Roma VFN, 
+· Pectomech VF, 
+· Grande, 
+· Jaguar,
+· Lindo,
+· Titao Derma,
+·  Ada Cocoa. 
+4.1 Nursery establishment 
+· Do a germination test before nursery to avoid wasting resources (eg. Seeds, time etc.) 
+(sow seeds when > 80%)
+· Raise all seedlings under protected structures such as simple net houses or net tunnels 
+before they reach the hardening stage. 
+· The nursery should be located in a flat area that is secure and accessible, to allow close 
+· Raise tomato seedlings in seed trays or boxes or seed beds. 
+· Treat with recommended seed dressing (NB: seeds from certified sources are pre-
+treated).
+· Nurse 300-450g of tomato seeds to produce enough seedlings per hectare (30,000-35000 
+plants per ha) for planting. 
+TOMATO  PRODUCTION GUIDE...............................2
+· Boost seedlings with Mono Ammonium Phosphate (MAP) at 10g/15L Knapsack after 14 
+days 
+A thorough land preparation is important in enhancing early crop establishment and adequate 
+weed control. 
+· Apply 10g/15L knapsack of 19-19-19 (NPK) (10 days) after germination
+· Thoroughly water the seedlings about 12 hours before transplanting to the field.
+5.0  LAND PREPARATION 
+· In the absence of poultry manure, apply cow dung or other animal droppings at a 
+rate of 30-40ton/ha. 
+monitoring. 
+o Southern Ghana-March-April (Major season), August (Minor season) and 
+September- October for Irrigated sites
+· Do spot burning when the debris is thick after slashing. 
+o Northern Ghana- July (Rainy season) or Sept-October (irrigated sites)
+· Prepare ridges or bed across the contours on which seedlings may be transplanted.
+5.1 Nursery management
+· Plough and harrow across the slope to a fine tilth (double plough if necessary).
+     · Demarcate a suitable location and clear the land 
+· Clear the vegetation - fell trees and remove the stumps where necessary. 
+     · sterilize the soil by burning dry grass on the cleared land
+NB! This should be ploughed in 4-5weeks before planting (spot or row application 
+can also be done). 
+(a) Prepare the seed bed 
+     · work out the soil to a fine tilt and raise a bed of 1x5x 0.5m and get the bed ready for   
+· Incorporate well decomposed poultry manure at the rate of 20-30ton/ha at land at 
+land preparation may be beneficial to plant growth and development. 
+           seeding.
+· Depending on the onset of rain land preparation should be done as follows, 
+TOMATO  PRODUCTION GUIDE...............................3
+Seeds can be sown on seed beds or in seed trays or seed boxes. Prepare seed beds at 1.2m wide 
+and at any convenient length and then level beds. Sow seeds in drills 10cm apart. Cover beds 
+with well dried non seeded grass or palm fronds. After emergence remove dry grass and provide 
+shade over the bed.
+Tomato at the nursery 
+Transplanting of seedlings should be done 3-4 weeks after emergence on the field at 5-leaf 
+stage.  Planting should be done preferably early in the morning or late in the afternoon to 
+increase chances of survival.. One week before transplanting, harden seedlings by decreasing 
+shade until at least 1 day full exposure to sunlight and/or reducing irrigation. Use a spacing of 
+60cm x 50cm (dry season/determinate/semi-determinate growth habit) and 100cm x 50cm 
+(rainy season/Indeterminate growth habit)
+Staking helps raise the developing tomato fruit off the ground while caging lets the plants 
+hold itself upright.
+(a) Transplanting
+(b) Staking & Caging
+Staking in tomato                                                                             
+TOMATO  PRODUCTION GUIDE...............................4
+6.0 FERTILIZER APPLICATION 
+7.0 WEED CONTROL/MANAGEMENT
+· Use soil test as a guide to fertilizer application. A guideline to fertilizer application will 
+include: The table below is a general recommendation. For a yield of 40tons/ha tomato 
+requires about 96kg of N, 16kg of P 0 , 144kg of K 0, 68kg of Ca, 24kg of Mg and 24kg of 2 s 2
+S. Apply foliar fertilizer to supply adequate amount of boron and manganese to enhance 
+crop quality and yield 
+· Pre-mix 32kg Nitrogen and 16kg Phosphorus with the well-decomposed poultry manure 
+at the rate of 20-30ton/ha of poultry manure or 30-40ton/ha of cow dung or other animal 
+droppings as basal.
+· Weekly application of micro-nutrients (Iron, Zinc, Copper, Molybdenum, Boron, 
+Manganese) should be applied to foster better plant development. 
+Timely weed control is necessary for healthy crop growth. This may be achieved by frequent 
+shallow weeding. Application of pre-emergence weedicides 3-4 days before transplanting will 
+enhance weed control. 
+8.0  PESTS & DISEASES MANAGEMENT 
+Signs and Symptoms
+They multiply quickly so it is important to manage them early before reproduction starts. Many 
+generations can occur in one season. Most potyviruses (the largest group of plant viruses) are 
+transmitted by aphids.
+· Curled, wrinkled or cupped leaves
+(a) Insect Pests
+· Presence of immobile aphids on the underside of leaves, shoots and stems
+(i)Aphids - Aphids remove sap from the plant with their piercing-sucking mouthparts.
+· Honeydew on infested crop
+TOMATO  PRODUCTION GUIDE...............................5
+Aphids on the underside of leaves   Aphids damage
+· Observe underside of leaves for aphid's presence
+· Avoid too much nitrogen which makes plant to be very succulent and attractive to 
+aphids
+Prevention
+Management
+· Grow repellent plants like onions, garlic and marigold in alternating rows to prevent 
+aphids
+· Intercrop with resistant species such as onion, garlic and parsley to reduce aphid 
+populations
+Monitoring 
+· Start monitoring from seedling stage, look at lower leaves, stems or growing points for 
+soft bodied insects, found in clusters
+· Conserve natural enemies (e.g. ladybird beetles, hoverflies and Aphidius sp.) by 
+avoiding spraying broad spectrum insecticides
+· Regularly check for leaf curling and sticky residue on crops at least once a week
+th th
+· When monitoring crops, sample the most recently expanded leaves (4  or 5  leaf from 
+the growing point) to give an estimated threshold
+TOMATO  PRODUCTION GUIDE...............................6
+· Remove and burn infected/infested plants to help reduce aphid populations
+· Spray with botanical extracts e.g. garlic, neem, red chilli pepper or soap (take 50g mix 
+in  2 L of water. Boil for 15 minutes, allow to cool and spray 3 times at 2 weeks' 
+interval)
+· Dot-like scars on fruit
+Control
+· Eggs of fruit fly inside the skin of the fruit
+· Spray soap solution (Potassium soaps e.gAlatasamina) (add 10-15 tablespoons of 
+liquid soap in 15L and spray on foliage
+· Prune leaves showing symptoms (curling, aphid populations on underside)
+· There are many predators and parasitoids that can aid in controlling aphid populations. 
+These include lady beetles, syrphid fly larvae, damsel bugs, and tiny wasps.
+(ii)Fruit flies
+Signs and Symptoms
+· Larvae (maggots) feeding inside the fruit when cut open
+· Check for rotten and fallen fruits
+· Presence of adult flies on the field
+Adult fruit fly on tomato fruit   Fruit fly maggot inside the 
+TOMATO  PRODUCTION GUIDE...............................7
+Prevention
+·   Avoid planting pepper near alternate hosts (mango, citrus, watermelons, tomatoes, 
+eggplants, avocado) to reduce pest populations
+·   Remove non-harvested pepper and wild melon pumpkins as they will host larvae. Bury 
+15 to 30 cm deep
+Management
+·   For early detection, use commercial pheromone traps with trimedlure (TML), or 
+2
+cuelure (CL), or methyl eugenol (ME) attractants (3traps/ km )
+Direct control
+·   Collect dropped fruits and bury them outside the field at a depth of 60cm with plastic  
+bags
+·    Use food baits e.g. waste brewers' yeast at 45ml/L of water 
+·   Till the fields top soil (5 to 10cm deep) before planting to expose pupae to the sun, 
+birds, poultry and parasites
+Monitoring
+·   Start monitoring as soon as fruit begins to develop. Inspect plants weekly to look for 
+brownish or yellowish wasp-like flies on plants.
+          during the day
+     ·   Exit holes on surface of fruits
+     ·   Adult moths are observed underneath leaves. They are silvery, grey brown and   
+Signs and Symptoms
+          thin
+·   For early detection use commercial pheromone traps with trimedlure, cue lure or 
+2
+methyl eugenol (3 traps/50m )
+(iii)  Tomato leaf miner (Tutaabsoluta)-Tutaabsolutais a small moth which mines  
+·   Spray Success Appat (food bait+spinosad (0.24g/l) The spray should contain ½ cup 
+(150ml) of the bait mixed with 5L water. Protection lasts 8 days
+     ·   Look out for eggs on leaves and stem
+          and gradually become brown and necrotic
+          tomato leaves as a caterpillar. The moth is active at night and hides between leaves  
+     ·   Mines (galleries) and droppings on leaves, stems and fruit. Leaf mines are wide      
+     ·   Fruit mines rot
+TOMATO  PRODUCTION GUIDE...............................8
+Damage on fruit   Damage on leaf
+· Seal door frames and window frames with insect-proof netting (with mesh less than 
+1.6mm)
+· Tools should be cleaned after use in infested fields
+Prevention
+· Avoid staggered tomato cropping because Tutaabsoluta moths can fly from an 
+infested crop to previously uninfested crop
+Monitoring
+Control
+· Remove and destroy weeds that act as alternative host plants e.g. Datura, Solanum
+· Avoid rotation with, or planting near solanaceous crops such as eggplants, potatoes, 
+tomatoes and capsicum since these crops can be hosts of Tutaabsoluta. Instead rotate 
+with non-host plants such as maize, beans and cabbages
+· Remove infested tomato plant materials and destroy by burning or burying in holes 
+more than 50cm deep.
+· Remove infested tomato plant materials and destroy by burning or burying in holes 
+more than 50 cm deep. Do not dump infested fruits at farm edges, collection points 
+Management
+· Use pest-free transplants. Inspect new seedlings carefully before they are 
+transplanted into the field or under shelter
+· Use Pheromone traps, light traps or sticky traps to detect the pest early
+TOMATO  PRODUCTION GUIDE...............................3TOMATO  PRODUCTION GUIDE...............................3
+· Destroy plant residues after harvest by burning or burying
+· Inspect harvesting containers, field boxes or carts, packaging material and destroy or 
+disinfect if tomato leafminer is suspected
+(iv)Whitefly (Bemisiatabaci) –Adults are sucking insects. The body and wings are covered in 
+a powdery waxy secretion, white to slightly yellowish in colour
+Signs and Symptoms
+· Look for leaves with whitefly groups mainly on the underside of leaves. They usually 
+fly when you shake the plants
+or in markets
+· Yellowing, curling, crumpling of leaves and occurs at heavy infestation
+· Keep the field weed-free throughout the cropping season since weeds act as alternate 
+host and can harbor whitefly-transmitted viruses
+Prevention
+· Conserve natural enemies (wasps, ladybirds) by mulching or leaving a natural hedge 
+of flowering plants (e.g. Thiona, Lantana) along the edges to offer them refuge
+· Remove tomato residues and volunteer tomatoes and bury or burn
+Management
+· Transplant shortly after or during the rainy season
+· Plant repellent crops such as Coriander or Mexican marigold after 3-4 rows of 
+tomato to repel the whiteflies
+Whitefly on underside of leaf              Whitefly damage
+TOMATO  PRODUCTION GUIDE...............................9
+Symptoms
+· Dark shriveled stems around the base and brown rotten roots
+Control
+(i) Damping off: It is a rot that occurs at soil level of the young crop (seedling stage) and it is 
+caused by fungi.
+Monitoring
+· Wilting, collapse and death of seedlings
+· Conserve natural enemies. Several wasps, including species in the Encarsia and 
+Eretmocerus genera which parasitize whiteflies
+(b) DISEASES
+· Use yellow sticky traps at about 1 per 5 plants
+· Spray Azadirachtin 0.03% (50ml/20L water) 15 days after transplant
+· Use hot pepper spray. Put cut pepper in warm water. Soak for 1 day. Dilute in 10L water 
+and add 20 drops of liquid soap before spraying
+TOMATO  PRODUCTION GUIDE...............................10
+Management
+Prevention
+· Solarize the soil of nursery beds before planting using clear plastic to sterilize. If the 
+problem persists, consider changing nursery sites
+· Clean or disinfect tools (tillers, cutlasses and hoes) using 10% bleach solution or fire to 
+heat
+· Sow seeds thinly to ensure aeration. Plant in raised beds to maintain good drainage and 
+avoid over watering 
+Presence of lesions with chlorotic margins on leaves
+Dark brown to black circular or angular spots on leaflets with concentric zones
+(ii)Early blight (Alternariasolani): Attacks seedlings at the seedbed stage. High 
+temperatures may favour disease incidence. The leaf blight phase usually begins on the 
+lower, older leaves and progresses up the plant. Infected leaves eventually wither, die, and 
+fall from the plant.
+· Treat seed with Mancozeb 800g/kg, Folpet 500g/l at 3-4g/kg
+· Avoid excessive fertilization at nursery to reduce damping off
+Symptoms
+Control
+· Remove infected plants as soon as symptoms appear and destroy them away from nursery
+Black or brown sunken lesions on fruits
+ Damage on leaf
+TOMATO  PRODUCTION GUIDE...............................11
+Prevention
+· Disinfect hands and tools with detergent or household bleach after working on the infected 
+plants
+· Remove and destroy crop debris after harvest and solanaceous weeds that may act as hosts
+· Carry diseased materials to be destroyed away in a closed container to prevent spread of 
+the disease
+· Practice staking and mulching to prevent the fruit from touching the soil and to improve 
+(iii)Fusariumwilt :The fungus lives indefinitely in the soil and is spread in irrigation water. It 
+is very susceptible to changes in temperature and soil moisture. The optimum temperature for 
+disease development is 24 -27oC. The wilt does not occur in dry soil, but it is serious in poorly 
+drained fields.
+Management
+· Rotate tomato with cereals (e.g. maize) or legumes (cowpea or groundnut) every two 
+seasons. Observe good agricultural practice
+aeration.
+Control
+· Remove and burn infected plant detected early
+· Apply Mancozeb at a rate of 24-32g/ 15 L knapsack
+Signs and Symptom
+· Yellowing, and wilting of leaves and stems, often only affecting one side of the 
+plant
+· Wilted leaves which dry up and turn brown
+· Uproot and cut the stem lengthwise, internal dark brown to dark-red 
+discoloration can be seen when the fungus is present
+· There may also be damage on the root system
+TOMATO  PRODUCTION GUIDE...............................10
+Damage field                                    Internal dark brown colouration
+· Monitor field weekly for symptoms of wilt soon after transplanting 
+· Wilted and yellowing of plants
+      burning
+Disinfect farm tools with 10% bleach solution after working in infested areas
+· Practice long crop rotation- 6 years with non-solanaceous plants (e.g. cereals and grains 
+maize, millet) after 3 seasons
+Control
+· Rogue out and destroy plants that show early symptoms of the disease and destroy by  
+(iv)Nematodes (Root-Knot Nematodes)
+Signs and Symptoms
+Prevention
+· Avoid planting on land with history of wilt disease
+Management
+· Rotate nursery site each season and maintain good drainage 
+· Destroy plant debris immediately after harvest by burning 
+· Solarize  soil using plastic sheets 6-8 weeks before planting 
+· Stunted growth and zones of poor growth on the farm soon after transplanting
+· Uproot affected plants to examine the root system and check for galls and swellings
+TOMATO  PRODUCTION GUIDE...............................11
+Prevention
+· Farm tools (e.g. cutlasses) should be washed of soil particles after use
+· Plant marigolds (e.g. Targetespatula) on fields for two months after harvest, plough into 
+soil before transplanting seedlings
+·  Rogue and burn affected plants with typical nematode symptoms at early stages of plant 
+growth
+Management
+· Do not transfer nematodes into a clean area when transplantingby reducing movement 
+of soil particles after use
+· Expose ploughed land 2-3 weeks before transplanting, this may help to reduce nematode 
+numbers
+· Rotate for 2 years with non-host crops: sorghum, millet. Broccoli or cauliflower
+· Control weeds and volunteer crops or solanaceous plants
+Control
+· Applications of poultry manure or cow dung at a rate of 5t/ha can boost crop vigour and 
+reduce nematode infestations on the crop
+9.0 HARVESTING 
+· Tomatoes ripen in 60-85 days from the time seedlings are set out depending on the 
+variety. When the fruits begin to turn red, check the plants every day and pick those that 
+are fully red and firm, but not hard. Fruits 
+· Harvest at breaker or fully-ripened firm stage depending on market segment 
+· Nematicides (chemicals) used in controlling nematodes are generally poisonous and 
+expensive. Avoid recommending chemical control with Nematicides. Encourage use of 
+TOMATO  PRODUCTION GUIDE...............................11
+· Keep produce under shade or in a cool environment immediately after harvest to remove 
+field-heat.
+requirement. 
+· Observe strict hygiene during harvesting operations. 
+· Harvest carefully to avoid damaging the produce. 
+9.1 Yield
+9.2 Marketing 
+· Never placed tomatoes on the sun to ripen, they may rot before they arrive.
+· Sort and pack stackable wooden crates lined with foam or dry straw. 
+The fruit should be firm and free from blemishes or any damage before marketing. Fruits are 
+harvested at mature green stage or full ripe but firm stage depending on market demand and 
+distance. Tomatoes can be marketed in raw state or processed into paste and put in a sealed 
+container.
+Yield varies greatly with cultivar and adherence to Good Agricultural Practices. Yields of up to 
+35-40 tons/ha are achievable. 
+TOMATO  PRODUCTION GUIDE...............................11
