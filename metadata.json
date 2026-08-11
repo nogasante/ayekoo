@@ -1,37 +1,37 @@
 {
-  "team_id": "your-team-id",
-  "domain": "coding_assistants",
+  "team_id": "ayekoo",
+  "domain": "agriculture",
   "language_scope": ["en"],
-  "african_alpha_claim": false,
+  "african_alpha_claim": true,
   "budget_laptop_claim": true,
   "submitter": {
-    "name": "your-name",
-    "email": "your-email@domain.com",
-    "github_handle": "your-github"
+    "name": "Nana Opoku Gyamfi Asante",
+    "email": "nanasante2000@gmail.com",
+    "github_handle": "nogasante"
   },
   "cross_disciplinary_pairing": {
-    "discipline": "education",
+    "discipline": "agriculture",
     "load_bearing": true,
-    "description": "Brief description of how your model serves a real-world domain."
+    "description": "Ayekoo pairs a small quantized language model with a curated corpus of Ghanaian agricultural knowledge — crop calendars for local staples, pest and disease entries under the names farmers actually use, input costs in GHS, and the season structure including harmattan and the coastal/northern split. The model answers from retrieved corpus passages rather than from its own parameters. Remove the corpus and the system stops being useful, which is the test of load-bearing: the agricultural knowledge is the substance of every answer, not a wrapper around a general-purpose chatbot."
   },
   "test_prompts": [
     {
       "prompt_id": "tp_001",
-      "prompt": "Write a Python function that reads a CSV file and returns the column with the highest mean value."
+      "prompt": "PLACEHOLDER - replace on day 9-10 once the corpus exists. When should I plant maize in the Northern Region of Ghana, and how does the harmattan affect the timing?"
     },
     {
       "prompt_id": "tp_002",
-      "prompt": "Explain the difference between a list and a tuple in Python, and give one example where each is the better choice."
+      "prompt": "PLACEHOLDER - replace on day 9-10 once the corpus exists. My cassava leaves are curling and turning yellow. What is likely wrong and what should I do about it?"
     }
   ],
   "model": {
-    "name": "SmolLM2-135M-Instruct-Q4_K_M",
+    "name": "Qwen2.5-0.5B-Instruct-Q4_K_M",
     "runtime": "llama.cpp",
     "quantization": "GGUF Q4_K_M",
-    "parameters_estimate": "135M",
+    "parameters_estimate": "0.63B",
     "packaging": "binary_bundle"
   },
   "_runtime": {
-    "model_path": "model/SmolLM2-135M-Instruct-Q4_K_M.gguf"
+    "model_path": "model/qwen2.5-0.5b-instruct-q4_k_m.gguf"
   }
 }
