@@ -30,24 +30,6 @@
     "url": "https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRICULTURE IN GHANA (Facts & Figures) 2024.pdf"
   },
   {
-    "id": "iita-cassava-reference-manual",
-    "ok": false,
-    "message": "fetch failed: HTTPError: HTTP Error 404: Not Found",
-    "url": "https://www.iita.org/wp-content/uploads/2016/06/Cassava_in_tropical_Africa_a_reference_manual_1990.pdf"
-  },
-  {
-    "id": "iita-cassava-training",
-    "ok": false,
-    "message": "fetch failed: HTTPError: HTTP Error 404: Not Found",
-    "url": "https://www.iita.org/wp-content/uploads/2016/06/A_comprehensive_training_module_on_competitive_cassava_production.pdf"
-  },
-  {
-    "id": "iita-plantain-west-africa",
-    "ok": false,
-    "message": "fetch failed: HTTPError: HTTP Error 404: Not Found",
-    "url": "https://www.iita.org/wp-content/uploads/2016/05/Plantain-cultivation-under-West-African-conditions-a-reference-manual.pdf"
-  },
-  {
     "id": "iaea-cassava-guidelines",
     "ok": true,
     "message": "179,881 chars from 78 pages",
@@ -58,6 +40,66 @@
     "ok": true,
     "message": "38,183 chars from 20 pages",
     "url": "https://www.biorxiv.org/content/10.1101/474247.full.pdf"
+  },
+  {
+    "id": "cgspace-cassava-growing-manual",
+    "ok": true,
+    "message": "87,355 chars from 36 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/fb5de9eb-dc75-4449-aaf2-09fe85a0c7ae/content"
+  },
+  {
+    "id": "cgspace-cassava-starting-farm",
+    "ok": true,
+    "message": "31,725 chars from 12 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/235db80f-e404-414e-8a18-579377a84479/content"
+  },
+  {
+    "id": "cgspace-cassava-pest-control",
+    "ok": true,
+    "message": "44,323 chars from 20 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/fb6e188d-a0a8-4635-b691-189579aca9b3/content"
+  },
+  {
+    "id": "cgspace-yam-minisetts",
+    "ok": true,
+    "message": "45,256 chars from 43 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/be8b070e-34cc-4f06-b3a9-6b07df418f74/content"
+  },
+  {
+    "id": "cgspace-yam-diseases",
+    "ok": true,
+    "message": "21,099 chars from 19 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/92e714ab-4f2c-4838-a5f3-5387f685696b/content"
+  },
+  {
+    "id": "plantain-west-africa-manual",
+    "ok": true,
+    "message": "43,906 chars from 29 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/d9fc03fa-3836-45a2-9d85-0ab1df79de8d/content"
+  },
+  {
+    "id": "plantain-black-sigatoka",
+    "ok": true,
+    "message": "8,326 chars from 2 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/bf0ebc2d-4e27-424a-b0e6-6020c4faf887/content"
+  },
+  {
+    "id": "plantain-sop-planting",
+    "ok": true,
+    "message": "12,924 chars from 9 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/2fbaac32-3fdb-4c2a-b083-aaa0dc68662c/content"
+  },
+  {
+    "id": "plantain-macropropagation",
+    "ok": true,
+    "message": "5,852 chars from 12 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/7138c34e-802e-4267-ac82-d170a7607721/content"
+  },
+  {
+    "id": "plantain-practices-ghana",
+    "ok": false,
+    "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",
+    "url": "https://scialert.net/fulltext/?doi=ajar.2007.1.9"
   },
   {
     "id": "cocoa-extension-manual",

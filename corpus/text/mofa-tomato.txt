@@ -3,7 +3,8 @@
 # year: unknown
 # url: https://mofa.gov.gh/site/images/pdf/production_guides/TOMATO_Production_Guide.pdf
 # attribution: MoFA, Tomato Production Guide
-# pages: 20
+# ghana_specific: True
+# extent: 20 pages
 #
 # Extracted text follows. Provenance above travels with every chunk
 # derived from this document.

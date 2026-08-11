@@ -3,7 +3,8 @@
 # year: unknown
 # url: https://www-pub.iaea.org/MTCD/Publications/PDF/TE1840_web.pdf
 # attribution: IAEA, Cassava Production Guidelines
-# pages: 78
+# ghana_specific: False
+# extent: 78 pages
 #
 # Extracted text follows. Provenance above travels with every chunk
 # derived from this document.

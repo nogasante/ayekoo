@@ -3,7 +3,8 @@
 # year: 2025
 # url: https://mofa.gov.gh/site/images/pdf/Feed_Ghana_Programme.pdf
 # attribution: MoFA, Feed Ghana Programme
-# pages: 152
+# ghana_specific: True
+# extent: 152 pages
 #
 # Extracted text follows. Provenance above travels with every chunk
 # derived from this document.

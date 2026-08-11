@@ -1,0 +1,981 @@
+# Seed Yam Production from Minisetts: A Training Manual
+# publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+# year: 2014
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/be8b070e-34cc-4f06-b3a9-6b07df418f74/content
+# attribution: IITA, Seed Yam Production from Minisetts: A Training Manual (2014)
+# ghana_specific: False
+# extent: 43 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+i
+Seed yam production 
+from minisetts: 
+A training manual 
+B.A. Aighewi, N.G. Maroya, and R. Asiedu
+YI  FSWA
+Yams for Livelihoods
+
+Seed yam production 
+from minisetts: 
+A training manual 
+B.A. Aighewi, N.G. Maroya, 
+and R. Asiedu
+© YIIFSWA  
+International Institute of Tropical Agriculture (IITA)
+2014
+iv
+© International Institute of Tropical Agriculture (IITA), 2014. 
+Ibadan, Nigeria
+To Headquarters from outside Nigeria:
+IITA, Carolyn House,
+26 Dingwall Road,  
+Croydon CR9 3EE, UK
+Within Nigeria:
+PMB 5320, Oyo Road
+Ibadan, Oyo State
+ISBN 978-978-8444-49-7
+Correct citation: Aighewi B.A., N.G. Maroya, and R. Asiedu. 2014. 
+Seed yam production from minisetts: A training manual. IITA, Ibadan, 
+Nigeria. 40 pp.
+Cover photo: Cutting ware yam into small pieces (minisetts).
+v
+Contents
+Introduction	 1
+What	is	‘Seed	Y am’?	 4
+Traditional Methods of Producing Seed Yam  6
+The	Minisett	T echnique	 9
+Advantages of Using the Minisett Technique for Seed Yam Production 9
+Yam Multiplication Using the Minisett Technique  11
+Improving	the	Quality	of	Seed	Y am	Produced	by	Minisetts	 26
+Quality Standards for Seed Yam 26
+Practicing Positive Selection to Maintain a Healthy Crop 28
+Using Small Plots for Seed Production  29
+References	 31
+Annex.	Major	pests	that	affect	the	quality	of	seed	yam	 33
+vi
+Acknowledgements
+The authors would like to express their sincere thanks to 
+Professor Felix Nweke for his very valuable comments to 
+enhance the quality of this manual.
+Staff of the Communication Office of IITA also made an 
+important contribution in editing the document.
+Particular appreciation is expressed to the Bill & Melinda 
+Gates Foundation for financing the YIIFSWA project which 
+has the dissemination of improved methods of seed yam 
+production as one of its major objectives.
+1
+Introduction
+Yam is a tuber 
+crop belonging 
+to the family 
+Dioscoreaceae. 
+The species 
+of economic 
+importance 
+include 
+Dioscorea 
+rotundata, 
+D. alata, D. 
+cayenensis, D 
+dumetorum, D. 
+bulbifera, and 
+D. esculenta. 
+In West Africa 
+D. rotundata, also referred to as white yam or white 
+guinea yam, is the most widely cultivated. In 2012, world 
+production of yam was estimated at 58.7 million tons with 
+West Africa producing more than 92 percent (FAOSTAT 
+2014). Nigeria and Ghana together produce about 66 
+percent of the world’s yam supply. 
+As food, yam plays an important role by providing cash 
+and dietary carbohydrate to millions of people. It has a 
+better keeping quality than most other tropical root and 
+tuber crops because of the tubers have an extended 
+period of dormancy during which physiological activity is 
+at a minimum. Yam can therefore serve as an important 
+food security crop. Despite the large quantity produced 
+in West Africa, there is no formal seed yam production or 
+marketing system to take care of farmers’ needs. 
+
+2
+Data on seed yam production are not readily available. 
+However, the quantity required to plant fields in Nigeria 
+and Ghana, the largest producers in West Africa, is 
+estimated at 7 to 10 million tons  (FAOSTAT 2014). For 
+many farmers in Nigeria, seed yam are inherited from 
+parents, bought, or acquired as gifts. The seed yam are 
+multiplied over and over until productivity becomes very 
+low from continuous exposure to pests and diseases. 
+Yam has a low rate of multiplication so increasing the area 
+under production could be a major challenge. For farmers 
+venturing into production for the first time, the availability of 
+seed yam is critical because of the high cost. Hence, the 
+problem of the limited supply of affordable good quality 
+planting material continues to be cited in literature as 
+responsible for low productivity (Ironkwe et al. 2007; Udoh 
+et al. 2008; Ogbona et al. 2011; Asumugha and Ogbona 
+2013).  
+Seeds are a strategic input, and yam production cannot 
+expand without propagation technologies to address 
+issues of rapid multiplication of seed yam, quality, and 
+price. The benefit of technologies that address these 
+issues will be evident in increased productivity, which will 
+translate to improved income for producers and utilization 
+opportunities for the crop. A systematic and continuous 
+practice of using only clean seeds will reduce the level of 
+pests and diseases that attack the crop in the field as well 
+as improving the storage life of tubers.
+This document contains information for the understanding 
+of some basic principles of seed yam production which is 
+lacking in other manuals on this subject. For example, Eke-
+Okoro et al. (2006), Ezulike et al. (2006), and Ironkwe et al. 
+(2008) have produced manuals on seed yam multiplication 
+3
+using the minisett technique which provided the procedure 
+from planting to harvest. However, the information 
+is not detailed enough for the proper understanding 
+and teaching of the principles involved. The manuals 
+recommended the use of minisett dust (a mixture of 
+fungicide, insecticide, and nematicide) for the chemical 
+treatment of minisetts. The minisett dust is not readily 
+available; this will not help in promoting the adoption of the 
+technique if farmers do not know how or where to get the 
+components. 
+Varieties recommended listed in these manuals are mostly 
+found in the southeast of Nigeria. There are several 
+popular landraces in other yam-producing regions which 
+are also suitable for seed yam production using minisetts. 
+Using a series of questions and answers in French 
+accompanied by many pictures to facilitate understanding, 
+Yam market in West Africa.
+
+4
+Dossou et al. (2007) gave a more detailed coverage 
+of the technique from the selection of mother tubers to 
+storage. The authors also discussed the marketing of 
+seed yam and the profitability of the technique. However, 
+the document was intended for a limited audience in 
+the Republic of Benin and there is no English translation 
+which is the language of a larger population in the yam 
+belt of West Africa. 
+The earlier mentioned manuals and other reference 
+materials, such as NRCRI (1983), Chinaka (1999), and 
+Otoo et al. (2001), are not readily available to farmers or 
+extension officers who need to improve their knowledge 
+base and be in a position to train others adequately. This 
+current document provides information on the minisett 
+technique that can be applied at the farmers’ level to 
+multiply seed yam rapidly and maintain good quality. It is 
+intended to fill the information gaps in available literature 
+on the technique and also serve as a useful guide to 
+trainers and extension agents.
+What	is	‘Seed	Y am’?
+The distinction between ‘yam seed’ and ‘seed yam’ can 
+be confusing when the words are used interchangeably. 
+Yam plants produce flowers (Figs. 1 and 2) and set 
+seeds in fruits (Fig. 3); breeders use the seeds, which 
+are referred to as ‘yam seeds’, ‘true yam seeds’ or 
+‘botanic yam seeds’ to produce new varieties. In regular 
+production, yam is propagated vegetatively by planting 
+the tubers or ‘seed yam’ which could be small whole 
+tubers or pieces (setts) cut from larger tubers (Fig. 4). 
+5
+Figure 1. Male inflorescence of 
+D. rotundata.
+Figure 2. Female inflorescence 
+of D. rotundata.
+Figure 3. Yam seeds.
+Figure 4. Seed yam ready for 
+planting.
+1
+2
+3 4
+6
+Tubers produced from seed yam are genetically identical 
+to the mother seed material, while those produced from 
+yam seeds have an identity different from the parent 
+material.    
+Traditional Methods of Producing Seed Yam 
+In West Africa, farmer-saved seeds are the predominant 
+source of planting material (Nweke et al. 2011). There 
+are three major ways by which yam farmers obtain their 
+seeds. First, the same plant is harvested twice in double 
+harvesting or milking. The first harvest is done between 
+the fifth and seventh month of growing, when the tuber 
+which is mostly used for food is carefully cut off below the 
+coronal roots to avoid damage to the root system. The 
+roots are then covered with soil and a second harvest of 
+the same plant is done at the end of the season for use as 
+seed yam (Fig. 5). 
+Figure 5. Seed tubers from a double harvested crop.
+Figure 6. In multiple tubering varieties, the small tuber is used 
+as seed yam and large tuber for food.
+5 6
+7
+The second method involves the use of small whole tubers 
+(sorting method). Some varieties have the capacity to 
+produce both seed sized and ware sized tubers from a 
+single stand (Fig. 6). At harvest, the small sized tubers are 
+sorted and retained for planting while the larger tubers 
+will be used for food. With this method there is usually a 
+high risk of selecting seed sized tubers that are small due 
+to disease, especially viruses, since the  symptoms are 
+typically not visible on the tubers (Nweke 2014). 
+A third method of getting planting material is to cut large 
+ware tubers of up to 2 kg into seed sized setts of 300-
+500 g (Fig. 7). This is referred to as ‘junking’. This method 
+reduces substantially the quantity of tubers that could 
+be used for food because when seed sized tubers are 
+in short supply, larger tubers are converted to seed yam 
+by being cut into setts. Usually such setts do not sprout 
+evenly when planted. Some varieties such as ‘Macakusa’, 
+Figure 7. Cut 
+setts weighing 
+300 - 500 g 
+obtained from 
+large tubers 
+(junking).
+8
+which is in high demand in the major yam producing 
+region of the middle belt of Nigeria, do not produce many 
+seed yam tubers so larger tubers are cut to get enough 
+seeds. 
+A less widely used method involves cutting ware sized 
+tubers during the first harvest of milking, and burying them 
+in the soil at the base of the plant. These setts are dug up 
+during the second harvest and planted immediately in a 
+newly prepared field for the next crop (Aighewi 1998). This 
+production method is practiced by some farmers in the 
+yam growing regions of Nigeria and Ghana. Faced with 
+serious seed yam shortages, some farmers in Southern 
+Kaduna, Nigeria, plant the same sett twice. After a planted 
+seed yam has formed roots, vines, and leaves, the same 
+seed yam is carefully detached and replanted in a new 
+mound.
+With these methods of obtaining seed yam, the 
+multiplication ratio is low (1:5), the cost is high and the 
+quality is not guaranteed. The low rate of multiplication 
+implies that many generations of cropping are required to 
+obtain enough seed yam to plant 1 ha, so the area under 
+production is often limited by the amount available. Since 
+specialized production is uncommon, the quantity in the 
+market is usually low and most farmers use farm-saved 
+seeds. The quality of seed yam sold in the markets is often 
+poor because farmers would generally select the best to 
+plant their fields and sell only those left over. 
+9
+The	Minisett	T echnique
+Researchers in Nigeria of the National Root Crops 
+Research Institute (NRCRI), Umudike, and IITA, Ibadan, 
+developed the minisett technique to overcome the critical 
+problem of the unavailability of good quality seed yam 
+by improving the rate of multiplication of white yam (IITA 
+1985). With the technique, the multiplication ratio can 
+increase from the traditional 1:5 to 1:30 (Orkwor et al. 
+2000). 
+The minisett technique involves the cutting of ‘mother’ 
+seed tubers into small setts (minisetts) of 25-100 g which 
+must possess a reasonable amount of peel (periderm) 
+from which sprouting can occur. The minisetts are treated 
+with chemicals to prevent damage from diseases and 
+pests, planted, and managed to produce small whole 
+seed tubers; these in turn are planted to produce ware 
+tubers for food. 
+There is a positive correlation between the size of 
+the minisett and the size of the seed yam produced. 
+This means that minisetts should be cut for a targeted 
+seed tuber size. There are varietal differences in the 
+performance of minisetts; therefore the same size of 
+different varieties may perform differently (Aighewi 1998).
+Advantages of Using the Minisett Technique 
+for Seed Yam Production
+The minisett technique has been shown to have several 
+advantages over traditional methods of seed tuber 
+production. Some of the advantages are listed below.
+10
+1. Fewer ware tubers are used as seeds.
+2. A few tubers of a desired variety can be multiplied 
+rapidly as planting materials for use, sale, or distribution 
+(for example, after periods of natural disasters such as 
+floods).
+3. The technique is easy for subsistence farmers or seed 
+yam entrepreneurs to carry out.
+4. From minisetts, tubers in a range of sizes are produced 
+which could be put to different uses – planting material, 
+fresh or processed food, and export. The minisett size 
+can be chosen to produce tubers of the size required 
+for export as food.
+5. The small tubers produced are better as planting 
+material than cut setts because they do not have cut 
+surfaces and are thus less likely to rot when planted.
+6. Production of seed tubers from minisetts can be more 
+easily mechanized than other methods of production. 
+With a uniform size of minisetts, equipment used in the 
+production of crops such as potato can be adapted for 
+use in planting minisetts and harvesting seed yam. 
+7. Researchers can rapidly multiply new varieties for 
+distribution or evaluation.
+8. Crop emergence and establishment are faster with 
+whole seed tubers (such as those produced from 
+minisetts) than from cut seed tubers.
+9. The whole seeds such as those from minisetts tend 
+to produce stands that are more uniform both in 
+percentage emergence and growth characteristics; this 
+results in a more efficient use of inputs.
+11
+10. The use of whole seed tubers eliminates the cost of 
+cutting and reduces the spread of disease.
+Yam Multiplication Using the Minisett 
+Technique 
+Materials needed for preparation of minisetts:
+•	 Clean	and	healthy	‘mother’	tubers
+•	 Sharp	knife
+•	 Container	(bucket,	basin,	plastic	bag)	to	hold	chemical	
+treatment
+•	 Net	bag	or	basket	
+•	 Chemical	for	treatment	(insecticide,	fungicide,	
+nematicide) 
+•	 Water,	stirrer	
+•	 Gloves,	protective	nose	guard
+Selecting good quality ‘mother’ tubers  
+to produce seed yam
+Many varieties of yam are available and they possess 
+different characteristics so a decision on what variety 
+to produce should be based on market and/or home 
+preferences. It is critical to select good quality ‘mother’ 
+tubers of the right variety that are healthy, of the proper 
+physiological age and size. 
+For farmers who reserve seeds from a previous crop, 
+selection should start from the field by roguing diseased 
+12
+plants or tagging strong clean plants for use as seeds. 
+This is because the symptoms of viral diseases are usually 
+not obvious on tubers, and seed selection from the harvest 
+of an entire field may not be effective in eliminating virus 
+infected tubers
+Viruses play a very significant role in the degradation of 
+seed tubers and the reduction of their productivity. If a 
+diseased tuber is cut for the purpose of multiplication, the 
+disease will be multiplied also by the same proportion. 
+Since the cost of production, harvesting, and storage 
+will be the same regardless of the seed quality, a careful 
+selection of seed tubers is essential in optimizing returns 
+on investment. Other types of diseased and off- type 
+plants should not be used for seed yam production. Pest 
+infested tubers should also be avoided (see pictures in the 
+annex of pests and some symptoms on tubers).
+The chronological age (days after harvest) of seed tubers 
+is less critical than the physiological age (internal age 
+resulting from biochemical changes within the tuber). In 
+normal production, the tuber is considered mature when 
+the foliage senesces naturally. For many varieties, the 
+tuber is dormant at this stage and will not grow when 
+planted. At the right physiological age, tubers come out 
+of dormancy and sprouting starts at different periods 
+depending on variety. Tubers with small/short sprouts are 
+considered young tubers and can be planted at this stage 
+(Fig. 8). When a young seed yam is planted, emergence 
+of the crop may be slow, but the bulking period will be 
+longer and the size at harvest will be larger than if older 
+seeds are used. The old seeds have stayed in storage for 
+a longer period and the vines have either grown too long 
+or been desprouted several times, thus exhausting the 
+nutrients stored in the tubers (Fig. 9).  
+13
+The young sprout is dependent upon the energy stored 
+in the seed tuber for survival until it can generate a root 
+system to source nutrients in the soil. Old seed tubers 
+produce weak vines and plants that lack vigor due to the 
+depletion of nutrients from multiple desprouting. The size 
+of the sprout or vine on a seed tuber that has not been 
+desprouted can more easily indicate the age of the tuber 
+than where desprouting has been done several times in 
+Figure 8. Sprouting of young 
+tubers.
+Figure 9. Tuberization of an 
+old tuber in storage.
+8
+9
+14
+storage. With prolonged storage, the tuber may produce 
+a new small tuber even without being planted (Fig. 9). 
+Most of the seed tubers found in the market towards the 
+end of the planting season (late May to June) are old and 
+their field performance is usually less than optimal, except 
+in the rare situation where the seeds were stored under 
+favorable conditions. It is recommended that only healthy 
+mother tubers of 800-1000 g that have broken dormancy 
+(Fig. 4) should be selected. Larger tubers produce uneven 
+and delayed sprouting because of lower meristematic 
+activity. 
+Cutting and size of minisetts 
+Since the purpose of the technique is to produce small 
+whole tubers (150-300 g) for planting, it is important to 
+know the appropriate size to cut to obtain the desired 
+size of seed yam because research has shown that with 
+minisetts a range of seed yam sizes is produced (Aighewi 
+1998). The bigger the minisett, the bigger the seed yam 
+that it will produce.
+A sharp knife should be used to cut minisetts to avoid 
+dislodging the peel of the tubers, which plays an important 
+role in sprout formation. The mother tuber should first be 
+cut into 2-5 cm rings depending on the circumference of 
+the tuber. Each ring should be cut vertically to produce 
+pieces of the desired weight with each piece possessing a 
+skin area that is sufficient for sprouting (Fig. 10).
+Treatment of minisetts 
+After being cut, the minisetts need treatment with a mixture 
+of a suitable broad spectrum fungicide (e.g., Z-Force: 
+active ingredient is mancozeb 80% WP) and insecticide 
+15
+(e.g., ActForce gold: active 
+ingredient is chlorpyrifos 
+48% EC) to prevent rots 
+and damage by pests 
+after planting. There are 
+many types of chemical 
+products available that 
+could be used. If you are 
+not sure which chemical 
+and what quantity to 
+use, an Agricultural 
+Extension Officer in your 
+locality will provide useful 
+advice. It is essential to read all instructions carefully 
+on the appropriate handling and disposal of chemicals 
+to safeguard human and animal health, as well as the 
+environment. The mixture could be in liquid or powder 
+form. If it is a liquid, a perforated basket or net bag is used 
+to immerse the minisetts in 
+the solution for 5-10 minutes 
+(Fig 11); if it is a powder, 
+the minisetts should be 
+placed in a plastic bag or 
+bucket with a lid and shaken 
+carefully until they are well 
+coated. 
+In the absence of 
+commercial chemical 
+treatment, wood ash is 
+used as a solution or dust. 
+Ash with a high content of 
+potassium, such as that 
+obtained from burning the 
+Figure 11. Treatment of minisetts in 
+fungicide + insecticide solution.
+Figure 10. Freshly cut minisetts.
+16
+inflorescence of oil palm, has been recommended for its 
+effectiveness (Wilson 1989). After treatment, the minisetts 
+should be spread out in a shaded airy place for 12 to 24 
+hours for cut surfaces to dry and cure before being placed 
+in a nursery for pre-sprouting or planted directly in the 
+field.
+Pre-sprouting of minisetts 
+The prepared minisetts can be pre-sprouted in containers 
+such as boxes, trays, and baskets or on beds before 
+being transplanted in the field. The sprouting medium can 
+be good loamy soil, sawdust, shredded coir, carbonized 
+rice husks, or a combination of good loamy soil and other 
+types of media. These media, except the carbonized rice 
+husks, should be sterilized using simple methods such 
+as solarization. The medium should be light to make the 
+lifting of sprouted setts easy. To carbonize rice husks, 
+dry husks should be placed in a metal drum. The drum is 
+placed on the fire and the husks are stirred continuously 
+to ensure they burn slowly and evenly until they are black 
+but not completely burnt. The carbonated husks should be 
+removed and cooled immediately to prevent them burning 
+into ash. 
+When large quantities are handled, it is better to pre-sprout 
+the minisetts in nursery beds, which should be 1-1.2 m 
+wide, 10-15 cm high, and of any convenient length. The 
+beds must have good drainage to prevent water standing 
+on them. A moist medium 3-5 cm thick should be placed 
+on the bed and the minisetts spread on it with the skin 
+part placed downward in good contact with the medium. 
+The minisetts should be covered with another layer of the 
+medium. An additional layer of minisetts could be placed 
+17
+on this before a final layer of the medium. If the medium 
+is wet, watering immediately after placing the minisetts 
+is not necessary. Water should be applied 3-4 days after 
+the placement of minisetts, since watering earlier than 
+this may wash off some of the protective chemical on the 
+cut surfaces. If pre-sprouting is done during hot and dry 
+weather, a shade should be provided over the nursery bed 
+or the bed should be located under a shady tree. 
+When small quantities are pre-sprouted, containers with 
+openings for proper drainage and ventilation should be 
+used. The minisetts and the medium should be arranged 
+in a similar manner as for nursery beds described above. 
+The containers should also be under shade and the 
+medium kept moist but not wet. Sprouting starts 2-4 weeks 
+after planting, depending on the variety and conditions 
+in the nursery. Sprouted minisetts must not be allowed to 
+grow excessively in the nursery before being transplanted; 
+roots and shoots become prone to damage during 
+handling and transportation. Whatever method is used for 
+pre-sprouting, the nursery should be easily accessible and 
+near a good source of water for watering. 
+Advantages of pre-sprouting minisetts include the 
+following:  
+•	 In	areas	where	rainfall	at	the	beginning	of	the	cropping	
+season is erratic or the rainy season is not long enough 
+for a complete crop cycle, pre-sprouting can be 
+planned such that the sprouted setts are planted in the 
+field only when the rains are well established.
+•	 A	more	uniform	crop	is	established	in	the	field	since	
+only sprouted setts are transplanted.
+18
+•	 Operations	such	as	weeding,	fertilizer	application,	
+staking, and earthing-up can be done systematically 
+because of the uniform crop.
+•	 The	length	of	time	that	the	crop	stays	in	the	field	is	
+reduced hence weedings are done less often than in 
+direct planting. 
+•	 Tuber	maturity	and	size	are	more	uniform.
+Pre-sprouting however incurs extra cost for materials used 
+in the nursery, and labor to monitor sprouting and sort 
+for planting at different times. During transportation and 
+planting, sprouted minisetts are more difficult to handle 
+than those not sprouted; it is therefore advisable to have 
+the nursery for pre-sprouting as close as possible to the 
+field.
+Selection of field for planting minisetts
+One of the objectives of the technique is to produce clean 
+disease-free seed yam, hence a field should be selected 
+that is free from soil-borne diseases and pests, especially 
+nematodes, mealybugs, and scale insects. Land that 
+has been under continuous cultivation of yam should be 
+avoided. The soil should be loamy, well drained, and free 
+from stones. Fertile land that has been under fallow will 
+produce a good yield. Minisetts can be planted on soils 
+that are of lower fertility or are too shallow for use in ware 
+yam production. 
+19
+Land preparation 
+Land to plant minisetts is prepared as is customary for 
+growing yam; although smaller mounds can be used, 
+ridges are recommended. For large-scale production, land 
+preparation can be mechanized by plowing, harrowing, 
+and ridging.  
+Direct planting of minisetts 
+This should be done only when the rainy season is fully 
+established. However, where irrigation facilities are 
+available, it could be done at any time when the setts are 
+ready for planting. Minisetts should be planted in well 
+prepared mounds or ridges with the skin section placed 
+in firm contact with the soil at a spacing of 25 × 100 cm 
+and about 10 cm deep to give 40,000 plants/ha. The plant 
+spacing could be increased or reduced depending on the 
+size of the minisetts and the size of seed yam desired. A 
+double row planting with 25 cm intra-row on ridges spaced 
+1 m apart will give 80,000 plants/ha (Otoo et al. 1987). 
+However, the average weight of seed yam produced under 
+high plant population will be lower.
+Transplanting minisetts 
+Minisetts should be handled carefully to avoid damage 
+to young sprouts. Transplanting is best done when 
+sprouts are still short and have not elongated into vines 
+or produced broad leaves. It should also be done when 
+rains are well established. To reduce transplanting shock, 
+minisetts should be planted as soon as possible after they 
+leave the nursery. If for some reason, such as a protracted 
+period of drought, the minisetts have to overstay in the 
+nursery and develop excessively long vines with many 
+leaves, the leaves should be reduced before planting.  
+20
+Intercropping minisetts
+Minisetts can be intercropped with maize; both crops are 
+planted at the same time. A single maize seed can be 
+planted at a spacing of 1 × 2 m between the minisetts 
+on the ridge or at a spacing of 1 × 1 m by the side of 
+the ridge (Fig. 12). The maize plants eventually provide 
+support to the yam plants. Plants from minisetts of water 
+yam grow more aggressively so only maize varieties 
+with sturdy stalks will be able to support the weight of 
+the foliage. Other crops found in mixtures with seed yam 
+include cassava, vegetables, cocoyam, sorghum, millet, 
+groundnut, melon, and beans. NRCRI has indicated 
+Figure 12. Seed yam intercropped with maize, cocoyam and 
+cassava
+21
+that short-term crops such as maize, egusi-melon, and 
+groundnut are compatible with yam minisetts (Ironkwe et 
+al. 2008). In mixtures, yam is often planted before the other 
+crops.
+Field maintenance 
+Weed control: The seed yam field should be kept free 
+of weeds as much as possible, especially during the first 
+8 to 12 weeks when the crop cover is low. Apart from 
+using up soil nutrients, some weeds harbor pests and 
+diseases which may affect yam plants. Weeding can be 
+done manually using the hand-held hoe as practiced by 
+farmers, or it can be done chemically with herbicides. 
+After direct planting or transplanting of minisetts with 
+small sprouts, pre-emergence herbicides such as Diuron, 
+Flumeturon, Alachlor, or Premextra can be applied at 
+recommended rates for the effective control of weeds. 
+At high plant populations and without staking (common 
+practice in the savanna region), vines will spread over 
+the soil and provide some control of weeds from about 
+12 weeks after planting (WAP). Earthing-up of exposed 
+minisetts, roots, and tubers is essential especially from the 
+second or third weeding when some soil would have been 
+washed off by rain. 
+Fertilizer application: In traditional systems most 
+farmers do not apply fertilizer to yam, but plant the 
+crop immediately after a fallow so that it benefits from 
+the organic matter accumulated during the fallow 
+period. Where there is need for fertilizer application, the 
+recommendation for the location should be followed. NPK 
+20:10:10 or 15:15:15 at 400-500 kg/ha applied at 8-12 
+WAP in bands on both sides of the ridge for single row 
+planting (Eke-Okoro et al. 2006), and double rows on each 
+22
+side of the ridge for double row planting could serve as 
+a guide. If pre-sprouted minisetts are used, fertilizer is 
+applied earlier at 4-8 WAP. The nutrient status of the yam 
+field can be improved by following a good rotation plan 
+(rotating with leguminous plants). A good soil management 
+regime will ensure sustainable production.
+Staking: In regions where yam is staked, plants from 
+minisetts should also be staked. Since the plant foliage is 
+smaller than that of ware yam, smaller stakes of 1-2 m will 
+be adequate. Small sticks, split bamboos, or maize stalks 
+can be used as staking material. Depending on the size, 
+a stake can be placed against individual plants or several 
+plants directed to a stake using strings; this is pyramidal 
+staking (Fig. 13). Where stakes are not readily available, 
+trellising can be done. Two poles are placed at the end of 
+Figure 13. Pyramidal staking of a seed yam crop
+23
+the ridges and another pole or a rope is tied horizontally 
+on top. Young yam vines are then directed to the horizontal 
+pole with strings (Fig. 14). This is easily carried out when 
+ridges or mounds are made in a straight line. Staked 
+plants are better exposed to sunlight for enhanced 
+photosynthesis and tuber yield. Staking also reduces the 
+exposure of yam foliage to soil-borne diseases. 
+Disease and pest control: Yam diseases, especially 
+viruses, can be spread from one plant to another through 
+insects or by using contaminated seed yam. The chances 
+of introducing disease into the field can be reduced by 
+starting the crop with disease-free seed yam and by 
+maintaining a weed-free field. Controlling viruses starts 
+Figure 14. Staking seed yam plants with a trellis
+24
+by inspecting the crop regularly to eliminate diseased 
+plants through roguing and destroying the insect vectors. 
+If roguing starts early, diseased plants will be removed 
+before insects have a chance of spreading the disease to 
+healthy plants. Symptoms of viruses that can be present 
+on leaves or the entire plant include mosaic, vein banding, 
+mottling, leaf distortion, ‘shoe string,’ and stunting (Figs. 
+15a and 15b). 
+Treating setts before planting helps to control pests and 
+diseases. Land preparation should be done in such a way 
+that rain or irrigation water does not collect at points in 
+the field; such points of collection tend to harbor higher 
+concentrations of nematodes if they are present. . Many 
+yam pests, such as nematodes, mealybugs, scale insects, 
+and crickets, (see Annex) are carried from the field into 
+store where they continue to cause damage in stored 
+tubers, and then are returned to the field at planting if not 
+Figure 15. Symptoms of viral disease in yam plants. 
+a b
+25
+well managed. In summary, adequate precaution should 
+be taken to keep pests out of the field and store.  
+Harvesting and sorting seed yam 
+Seed yam mature in 5 to 6 months after planting or 
+transplanting. At maturity the leaves turn yellow and 
+dry off; this is followed by the drying of the vine. The 
+tubers should be dug carefully to avoid cuts and bruises 
+which serve as entry points for pathogens and increase 
+respiration during the healing process. Harvesting when 
+the soil is wet may increase the chances of wounded 
+tubers developing rots in storage. Immediately after 
+harvest, seed yam should be removed from direct sunlight 
+to a shaded place to prevent sun scorch. Tubers do 
+not store well that are left in the sun for too long or have 
+cuts. Seriously damaged tubers should be sorted out for 
+immediate use. Seed yam of each variety should be stored 
+separately and graded according to size. 
+Curing seed yam before storage 
+Curing after harvest helps to heal wounds and bruises on 
+tubers. Immediately after harvest, the tubers should be 
+taken to the store and placed in a condition in which the 
+heat and water generated are trapped within the pile of 
+tubers to accelerate the process of wound healing. Curing 
+can be achieved by piling tubers in a heap and covering 
+them with materials such as grass, mats, sacks, and/or 
+canvas tarpaulin for 2-3 days (Wilson 1989). After proper 
+curing, tubers store longer.
+26
+Storage of seed yam 
+A good storage facility for seed yam must have good 
+ventilation, adequate shade, and good security against 
+pilfering, rodents, and other pests. As living organisms, 
+seed yam require oxygen, so adequate air circulation 
+through the stored tubers is essential. Too little air will 
+delay wound healing and promote tuber decay; too much 
+air circulation will promote dehydration and reduce the 
+weight of seed tubers. 
+Good sanitation for stored tubers is essential; diseased 
+tubers should be appropriately discarded. Before and 
+after storage, the store and all materials used should 
+be cleaned and disinfected. Seed yam can be stored 
+in barns where they are tied to poles with live plants to 
+provide shade or in barns where they are placed on racks. 
+Adequate attention should also be provided to control 
+storage pests. Regular inspection should be carried out to 
+dispose of rotting tubers and to remove sprouts that come 
+up earlier than planting time.
+Improving	the	Quality	of	Seed	Y am	
+Produced	by	Minisetts
+Quality Standards for Seed Yam
+Yam farmers should desire to use good quality seed yam 
+to plant their crop. To increase production and productivity, 
+it is essential to have farmers with the capacity to provide 
+quality seed yam to the market. Several criteria are used 
+to determine the quality of seed yam, the most important 
+27
+being varietal purity, viability, weight, and cleanliness 
+in terms of freedom from pests and diseases. Tied to 
+production systems and quality, there are three major 
+categories of seeds that could be available to farmers for 
+the production of ware yam: farmer-saved seeds, quality 
+declared seeds, and certified seeds.
+Farmer-saved seeds are what farmers reserve from their 
+farms to plant the next crop. Seeds of this type are most 
+readily available and their quality is determined by the 
+farmers’ own standards and experience. 
+Quality declared seeds are those produced in a system 
+in which about 10 percent of the seeds produced and 
+distributed are checked for quality by an autonomous 
+seed control agency and the rest are assessed by the 
+seed producer. Realistic minimum standards are set 
+by local quality control officials to enhance quality of 
+the seeds. This category of seeds is very important 
+in a situation where there is no formal seed system or 
+where it exists but cannot meet demands. The control of 
+standards of quality declared seeds is not as stringent 
+as with certified seeds, but the quality is better than that 
+of traditional farmer-saved seeds. The FAO protocols 
+and standards for vegetatively propagated crops have 
+provided the standards for quality declared seed yam 
+tubers (FAO 2010). 
+The certified seeds are  produced in formal seed 
+systems where management of quality is most important 
+and different agencies are responsible to ensure that 
+only quality seeds reach the market. Inspections are 
+done by the appropriate agencies at different growth 
+stages in the field and later in storage and, at the end, 
+a certificate is issued certifying the quality of the seeds. 
+28
+There are definite rules to be followed in growing, storing, 
+and marketing the produce, and these must be strictly 
+observed. The ECOWAS rules governing quality control, 
+certification, and marketing of seeds have set standards 
+for certified seed yam (ECOWAS 2008).  
+The traditional seed yam farmers may not be capable of 
+producing certified seed yam but can improve the quality 
+of their farm-saved seeds or upgrade to quality declared 
+seeds by understanding the attributes of good quality 
+seed yam and following the practices, such as those given 
+below.  
+Practicing Positive Selection  
+to Maintain a Healthy Crop
+Positive selection is done while the crop is growing 
+and the most desirable plants in the field (those without 
+disease symptoms) are selected to maintain the seed lot. 
+The selected plants remain in situ, are marked or tagged, 
+and may be inspected more frequently than the rest of the 
+field.
+Steps to follow in positive selection:
+1. Study the yam crop to recognize the normal 
+characteristics of the variety, diseased and healthy 
+plants. (If you are not sure, get an extension agent or 
+someone conversant with the variety to assist.)
+2. Mark healthy looking plants so that at harvest they 
+will be recognized for use as a source of seeds. It is 
+better to use a cane to mark the plant stand because 
+at senescence the yam vine becomes brittle and 
+easily detached from the tuber, making identification of 
+selected stands impossible.
+29
+3. Check throughout the season to eliminate plants that 
+eventually develop disease symptoms or show-off type 
+characteristics.
+4. At harvest, collect tubers from the pegged plants first 
+before harvesting the rest of the field.
+5. Store selected seeds separately from the rest of the 
+harvest and monitor regularly to remove diseased 
+tubers.
+6. Plant seed tubers from the positive selection and repeat 
+the process until only clean plants are maintained in the 
+field.
+A properly managed positive selection process will 
+provide the farmer with better quality seed tubers to use 
+for ware yam production and seeds for the following 
+season. Any excess of  better quality seed yam can be 
+sold to other farmers. 
+Using Small Plots for Seed Production 
+A small area of land can be selected on a farmer’s field 
+to maximize seed yam production by planting at a high 
+density. The small seed plot is recommended for ware 
+yam farmers who wish to improve the quality and increase 
+the quantity of their seeds. With a small plot, it is easy to 
+maintain the proper hygiene which is necessary for a high 
+quality crop. It is essential to select land that is fertile and 
+does not harbor any of the pests and pathogens that affect 
+yam. Choose a plot with a good rotation history, ensuring 
+that yam does not follow yam, and that it is located in full 
+sunshine. Avoid fields where runoff water flows into low-
+lying or waterlogged areas, especially during the cropping 
+season. Such areas are prone to harboring nematodes 
+30
+that will affect the tubers. If the soil is not sufficiently fertile, 
+a good supply of farmyard manure should be applied 
+before planting. The selected seed plot should be made 
+into ridges 1.0 m apart and planted using a spacing of 25 
+cm between plants. With this spacing, a plot of 100 m2 
+can provide enough material to plant 400 stands of ware 
+yam. 
+Certified seeds are the best planting material with which 
+to start yam production but where these are not available, 
+positive selection from an available yam crop will provide a 
+low-cost alternative. After planting, the seed plot should be 
+inspected regularly to monitor crop performance and the 
+occurrence of pests (particularly aphids and leaf beetles). 
+Spot application of insecticide can control insects which 
+spread diseases before they multiply in the seed plot. 
+An agricultural extension officer should be contacted for 
+advice on the control of detected insects. Any diseased 
+plant must be removed as soon as it is noticed. Pictures 
+included in this manual will help in identifying plants 
+diseased by virus infection and pests of tubers. 
+Hand weeding is recommended for the seed plot and 
+should be done from the first appearance of weeds. 
+Timely weeding is necessary as some weeds harbor 
+disease pathogens and pests. Harvesting, handling, and 
+storage should be carried out as already explained in 
+other sections of this document, with special attention 
+being paid to hygiene.
+31
+References
+Aighewi, B.A. 1998. Seed yam (Dioscorea rotundata Poir.) production 
+and quality in selected yam zones of Nigeria. PhD thesis, 
+University of Ibadan, Ibadan, Nigeria.
+Asumugha, G.N. and M.C. Ogbonna. 2013. Promotion of improved 
+yam minisett technology to improve productivity and reduce 
+excessive use of food yam for planting in Ghana, Nigeria, Togo 
+and Benin: Nigeria Report. Ref.: 2010/0022/SN/EA.PS/SE: 
+Consultancy baseline study on CORAF/WECARD commissioned 
+projects on staple crops. Submitted to CORAF/WECARD 
+secretariat, Dakar, Senegal. 27 pp.
+Chinaka, C.C. 1999. Minisett technique of seed yam production. 
+NRCRI/ABU. Extension Bulletin No. 112.
+Dossou, R.A., J.C. Hinvi, J.A. Djenontin and R. Maliki. 2007. 
+Production de semenceaux sains pour une culture rentable de 
+l’igname. Institut National des Recherches Agricoles du Bénin, 
+Ministère de l’Agriculture, d’Elevage et de la Pêche, République 
+du Bénin.
+ECOWAS 2008. Regulation C/REG.4/05/2008 on the harmonization of 
+the rules governing quality control, certification and marketing of 
+plant seeds and seedlings in ECOWAS region.
+Eke-Okoro, O.N., C.C. Chinaka , B.C. Okezie, and K.I. Nwosu 2006. 
+Root and tuber crops seed multiplication. A Teaching Manual. 
+Kolping Society of Nigeria Headquarters Umuahia, Abia State. 30 
+pp.
+Ezulike, T.O., A. Udealor, K.I. Nwosu and G.N. Asumugha. 2006. 
+Rapid multiplication of seed yam by minisett technique. Extension 
+Guide No. 15, Extension Services Programme, National Root 
+Crops Research Institute, Umudike, Nigeria.
+FAO. 2010. Quality Declared Planting Material: Protocols and 
+Standards for vegetatively propagated crops. FAO Plant 
+Production and Protection Paper 195, Rome, Italy.
+FAO. 2014. Faostat3.fao.org/faostat-gateway/go/to/download/Q/QC/E 
+accessed on 01/08/2014.
+IITA. 1985. Root and Tuber Improvement Program. Agriculture 
+Research Highlights 1981-1984, IITA, Ibadan, Nigeria.
+32
+Ironkwe, A.G., R. Asiedu, and R.P.A. Unamma. 2007. Adoption of yam 
+minisett technology by women farmers in Abia State, Nigeria. 
+Journal of Agriculture and Social Research 7(2):  95-105.
+Ironkwe, A.G., E.O. Mbanaso, and G.N. Asumugha. 2008. Yam 
+minisett/maize intercrop in south-eastern Nigeria. Extension Guide 
+No. 23, Extension Services Programme, National Root Crops 
+Research Institute, Umudike, Nigeria.
+NRCRI 1983. Rapid multiplication of seed yam by minisett technique. 
+Advisory bulletin No. 9. NRCRI, Umudike, Nigeria.
+Nweke, Felix I., M. Akoroda, and J. Lynam. 2011. Seed systems of 
+vegetatively propagated crops in sub-Saharan Africa: Report 
+of a situation analysis. Report prepared for Bill & Melinda Gates 
+Foundation. 
+Nweke, Felix I.  2014. Yam in West Africa: Food, Money and More. 
+Progress and Challenges in Technology Development and 
+Transfer. Michigan State University Press.
+Ogbonna, M.C., D.S. Korieocha, V.O. Onyenobi, and S.C. Njoku. 
+2011. Profitability of minituber seed yam production technique 
+in southeast agro-ecological zone: Evidence from Abia State, 
+Nigeria. Journal of Agriculture and Social Research (JASR) 11(2): 
+113- 119.
+Orkwor, G.C., R. Asiedu, and I.J. Ekanayake. 2000. Food Yams: 
+Advances in Research, IITA, Ibadan and NRCRI, Umudike, 
+Nigeria. 249 pp.
+Otoo, J.A., D.S.O Osiru, S.Y. Ng, and S.K. Hahn. 1987. Techniques 
+Ameliorées de Production de Semenceaux d’Igname. IITA, Oyo 
+Road, Ibadan, Nigeria. 
+Otoo, J.A., O.O. Okoli, and P. Ilona. 2001. Improved production of 
+seed yam. Research Guide No. 63. IITA, Ibadan, Nigeria.
+Udoh, A.J., A.  Idio, E. Umoh, and U. Robson. 2008. Socioeconomic 
+factors influencing adoption of yam minisett technology in south 
+eastern Nigeria: A probit analysis. Indian Research Journal of 
+Extension Education 8; (2 and 3): 1-5.
+Wilson, J.E. 1989. Rapid multiplication of yams (Dioscorea spp.). 
+Agro-Facts, USP Institute for Research, Extension and training in 
+Agriculture, Western Samoa, IRETA Publication No. 3/88.
+ 
+33
+Annex.	Major	pests	that	affect	the	
+quality	of	seed	yam
+1. Scale insects are found on tubers both in the field and 
+in store. They feed on the sap of tubers, reducing their 
+nutrient content and viability.
+2. Adult mealybugs are generally ash-colored and covered 
+with whitish cotton wool-like material. Infestation leads to 
+poor sprouting and establishment.
+
+34
+3. Yam beetles (inset below) eat tubers in the field, leaving 
+holes that could lead to secondary attack by rot-causing 
+organisms. The market value of damaged tubers is 
+reduced.
+Three important nematodes that affect the quality of seed 
+yam are as follows:
+4. Root-knot nematodes (Meloidogyne spp.) – The 
+presence of the nematodes produces galls on roots and 
+tubers, giving a warty, bumpy and/or hairy appearance.
+
+35
+5. Yam nematodes (Scutellonema bradys) – During early 
+infection small yellow necrotic lesions develop under the 
+skin of tubers. These later turn dark brown and coalesce 
+to form a continuous layer beneath the surface (dry rot). 
+Infected tubers have the characteristic longitudinal cracks.
+
+36
+6. Lesion nematodes (Pratylenchus spp.) – These cause 
+necrosis beneath the skin of yam leading to dry rots. 
+Cracks may also appear on the tubers.
+Infection by nematodes could be a source of secondary 
+infection by rot-causing organisms resulting in storage 
+losses. Infected tubers exhibit suppressed sprouting and 
+are a source of inoculum for the spread of nematodes. 
+They should not be used as planting material.
+37

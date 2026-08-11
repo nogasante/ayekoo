@@ -36,8 +36,8 @@ MIN_CHARS = 2000
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
 
 
-def fetch(url: str, dest: Path) -> tuple[bool, str]:
-    """Download url to dest. Returns (ok, message)."""
+def fetch(url: str, dest: Path, want: str = "pdf") -> tuple[bool, str]:
+    """Download url to dest. `want` is 'pdf' or 'html'. Returns (ok, message)."""
     if dest.exists() and dest.stat().st_size > 0:
         return True, f"cached ({dest.stat().st_size:,} bytes)"
     # Percent-encode the path so URLs with literal spaces or parentheses work,
@@ -55,11 +55,62 @@ def fetch(url: str, dest: Path) -> tuple[bool, str]:
         return False, f"fetch failed: {type(exc).__name__}: {exc}"
 
     # Trust the magic bytes over the Content-Type header; some servers lie.
-    if not body.startswith(b"%PDF"):
+    if want == "pdf" and not body.startswith(b"%PDF"):
         return False, f"not a PDF (content-type={ctype!r}, {len(body):,} bytes)"
+    if want == "html" and body.startswith(b"%PDF"):
+        return False, "declared html but served a PDF — fix `format` in sources.yaml"
 
     dest.write_bytes(body)
     return True, f"downloaded ({len(body):,} bytes)"
+
+
+def extract_html(path: Path, src: dict, dest: Path) -> tuple[bool, str]:
+    """Pull readable prose out of an HTML page, dropping chrome and scripts."""
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(path.read_bytes(), "lxml")
+
+    # Navigation, scripts and styles are noise that would otherwise be indexed
+    # and retrieved as if it were agronomic content.
+    for tag in soup(["script", "style", "nav", "header", "footer", "form", "noscript"]):
+        tag.decompose()
+
+    # Prefer the page's main content region when it declares one.
+    main = soup.find("article") or soup.find("main") or soup.body or soup
+    text = main.get_text("\n", strip=True)
+
+    # Collapse the run of near-empty lines that get_text tends to leave behind.
+    lines = [ln.strip() for ln in text.splitlines()]
+    text = "\n".join(ln for ln in lines if ln)
+
+    if len(text) < MIN_CHARS:
+        return False, f"only {len(text):,} chars of text — page may be JS-rendered or paywalled"
+
+    dest.write_text(_header(src, f"{len(text.splitlines())} lines") + text, encoding="utf-8")
+    return True, f"{len(text):,} chars of HTML text"
+
+
+def _header(src: dict, extent: str) -> str:
+    caveat = src.get("caveat")
+    lines = [
+        f"# {src['title']}",
+        f"# publisher: {src['publisher']}",
+        f"# year: {src.get('year') or 'unknown'}",
+        f"# url: {src['url']}",
+        f"# attribution: {src['attribution']}",
+        f"# ghana_specific: {src.get('ghana_specific', True)}",
+        f"# extent: {extent}",
+    ]
+    if caveat:
+        lines.append(f"# CAVEAT: {caveat}")
+    lines += [
+        "#",
+        "# Extracted text follows. Provenance above travels with every chunk",
+        "# derived from this document.",
+        "",
+        "",
+    ]
+    return "\n".join(lines)
 
 
 def extract(pdf: Path, src: dict, dest: Path) -> tuple[bool, str]:
@@ -73,18 +124,7 @@ def extract(pdf: Path, src: dict, dest: Path) -> tuple[bool, str]:
     if len(text) < MIN_CHARS:
         return False, f"only {len(text):,} chars from {len(pages)} pages — likely a scanned PDF, needs OCR"
 
-    header = (
-        f"# {src['title']}\n"
-        f"# publisher: {src['publisher']}\n"
-        f"# year: {src.get('year') or 'unknown'}\n"
-        f"# url: {src['url']}\n"
-        f"# attribution: {src['attribution']}\n"
-        f"# pages: {len(pages)}\n"
-        f"#\n"
-        f"# Extracted text follows. Provenance above travels with every chunk\n"
-        f"# derived from this document.\n\n"
-    )
-    dest.write_text(header + text, encoding="utf-8")
+    dest.write_text(_header(src, f"{len(pages)} pages") + text, encoding="utf-8")
     return True, f"{len(text):,} chars from {len(pages)} pages"
 
 
@@ -98,12 +138,13 @@ def main() -> int:
         if src.get("status") == "dead":
             continue
         sid = src["id"]
-        pdf = RAW / f"{sid}.pdf"
+        fmt = src.get("format", "pdf")
+        raw = RAW / f"{sid}.{fmt}"
         txt = TEXT / f"{sid}.txt"
 
-        ok, msg = fetch(src["url"], pdf)
+        ok, msg = fetch(src["url"], raw, want=fmt)
         if ok:
-            ok, msg = extract(pdf, src, txt)
+            ok, msg = (extract_html if fmt == "html" else extract)(raw, src, txt)
 
         status = "ok" if ok else "FAILED"
         print(f"{status:7} {sid:28} {msg}")

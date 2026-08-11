@@ -1,0 +1,312 @@
+# Standard Operating Procedure for Land Preparation and Planting Banana and Plantain
+# publisher: CGIAR, via CGSpace
+# year: 2025
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/2fbaac32-3fdb-4c2a-b083-aaa0dc68662c/content
+# attribution: CGIAR, SOP for Land Preparation and Planting Banana and Plantain (2025)
+# ghana_specific: False
+# extent: 9 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+SOP18:  
+Standard Operating Procedure (SOP) 
+for Land Preparation and Planting 
+Banana and Plantain  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 | P a g e  
+ 
+ 
+ 
+Crop: Banana and Plantain 
+ 
+ 
+ 
+ 
+ 
+ 
+SOP #  IITA-BP-SOP18  
+Function: Land preparation and 
+planting Banana and Plantain  
+ 
+ 
+ 
+Version #  IITA-BP-SOP18-01 
+  
+Implementation Date    March 2025 
+Page # 1 of 7 Last Reviewed/Update 
+Date 
+12 March 2025 
+SOP Owner Yao A. Kolombia (Pathologist) Approval Date 12 March 2025 
+ 
+ 
+Standard Operating Procedure (SOP) for land preparation and planting Banana and 
+Plantain 
+Authors & Contributors1  
+Y. A. Kolombia (Y.Kolombia@cgiar.org) and R. Swennen (R.Swennen@cgiar.org)* 
+*Correspondence: R.Swennen@cgiar.org 
+1International Institute of Tropical Agriculture (IITA) 
+ 
+1. Introduction 
+Banana and plantain (Musa spp.), referred to as bananas, are staple crops widely cultivated in 
+tropical and subtropical regions, serving as a vital source of food, income, and nutrition for 
+millions of people (Lescot, 2020) . They are mainly distinguished by (1) their form of 
+consumption, (2) their inflorescence type, (3) the height of their pseudostem and (4) their 
+genome composition (Swennen, 1990; Swennen & Ortiz, 1997) . Successful cultivation of 
+bananas depends on proper land preparation and planting techniques, which are critical for 
+optimizing yield, minimizing pest and disease incidence, and enhancing plant vigor (Swennen, 
+1990). In addition, well-prepared land creates a favorable environment for root development, 
+improves water retention and drainage, and facilitates nutrient uptake, all of which contribute 
+to healthy crop growth (Simmonds, 1966; Vuylsteke et al., 2013) . Poor land preparation can 
+negatively impact seedling establishment, increase weed competition, elevate pest and disease 
+risks, interfere with mechanized field operations and reduce the sustainability of production. 
+This Standard Operating Procedure (SOP)  provides a comprehensive guide to best practices 
+for land preparation and planting of banana and plantain fields. It aligns with international 
+agricultural standards and guidelines to support sustainable production. By following these 
+procedures, farmers and researchers can enhance productivity while promoting 
+environmentally responsible farming practices. 
+2. Purpose 
+The purpose of this SOP is to provide guidelines for the proper preparation of land for banana 
+cultivation to enhance soil fertility, optimize yield, reduce pest and disease incidence, and 
+ensure sustainable crop production. 
+
+2 | P a g e  
+ 
+3. Scope  
+This SOP covers the following: site selection; land clearing, tilling and soil preparation, bed 
+preparation, plant spacing and planting, and management during growth. 
+4. Definition of terms 
+Land clearing: The process of removing vegetation, trees, and other obstacles from the land 
+before planting. 
+Tilling: The act of preparing the soil for planting by breaking up and loosening the ground. 
+Plant spacing: The arrangement of banana plants in the field, which is crucial for optimal 
+growth and to avoid overcrowding and to encourage better maintenance. 
+Water control: The management of water supply for banana plants, ensuring they receive 
+adequate moisture without the risk of waterlogging, which can lead to root rot and 
+leaching.  
+5. Roles and Responsibilities 
+Research Technicians for experiment execution, supervision of land preparation and planting. 
+Field Assistants are responsible for land preparation, planting and field management. 
+Scientists/breeders are responsible for experiment planning, site selection and layout 
+approval. 
+ 
+6. Procedure/Protocols 
+The steps for banana land preparation and planting involve several key processes to ensure 
+healthy plant growth and optimal fruit production. Here is a breakdown of these steps: 
+Step 1. Site selection 
+The site selection should be based on the farming objectives, the type of planting materials, 
+the agro-ecology/climate and rainfall distribution. Major factors to be considered are: 
+• Climate: Bananas thrive in tropical and subtropical climates with temperatures 
+between 26°C to 30°C (79°F to 86°F). 
+• Soil: Choose well-drained, deep, fertile soils, rich in organic matter. A pH of 5.5 to 
+7.0 is ideal. 
+A new field should never be planted on a site where there was previously banana or plantain 
+cultivated except if there was a 2–3-year fallow. Before validating the site selection, soil 
+sampling for nematodes is highly recommended to avoid setting the field on a nematode 
+hotspot that will harm the effort for production. The samples should be submitted to a 
+qualified nematology laboratory to check the presence and density of the major plantain and 
+banana nematode pests.  
+Step 2. Land clearing and field preparation before planting 
+Bananas fields are prepared with minimum disturbance to soil. Therefore, manual clearing is 
+preferred over mechanical activities (Swennen, 1990). If one starts with a fallowed field, the 
+land clearing consists of slashing grasses and cutting of shrubs. In the case of a forest trees 
+need to be cut with chain saw. Never use a bulldozer as this will damage the topsoil (Fig. 1). 
+Big trunks can be removed for wood while the small to medium size branches are left to 
+decompose to increase litter/organic matter. Major steps in the land clearing include: 
+3 | P a g e  
+ 
+• Tree removal: In the case of an established forest, trees are cut with the help of saw 
+chains. 
+• Tree stumps: If there are large tree stumps, leave them to decompose.  
+• Removal of weeds and vegetation: Remove weeds, grass, and any other vegetation. 
+This can be done manually or by using herbicides. 
+ 
+Figure 1. Opening forest for plantain planting 
+In a case where the topsoil of the site is not deep enough, disc harrow may be applied making 
+it easier for bananas roots to freely penetrate the soil while growing. This will also improve 
+soil aeration. During the process, organic matter (compost, manure, or other organic material) 
+can be incorporated into the soil to increase fertility and moisture retention. Depending on 
+soil tests, specific fertilizers (e.g., nitrogen, phosphorus, potassium) should be applied to 
+balance nutrient levels.  
+Additional land preparation may include: 
+• Preparing trenches: In areas with heavy rainfall, trenches may be dug for drainage to 
+prevent water stagnation around the banana roots, which can lead to rot. 
+• Water control through (1) watering to address bananas water needs by setting 
+irrigation facilities (drip irrigation or furrow irrigation works well) and (2) monitor 
+moisture to ensure the soil is moist but not waterlogged. Bananas require consistent 
+moisture for healthy growth. 
+Step 4. Plant spacing and layout 
+Banana roots and leaves grow up to 2 to 3 m in length and radius. Thus, for optimal field 
+occupation and minimal overshading and competition, plant density depends on the variety (2 
+x 2 m, 2 x 2.5 m, 2.5 x 5 m and 2 x 3 m). Plants are usually planted in a rectangular pattern, 
+except on hillsides, where planting is done along contours (to decrease erosion). Further, row 
+orientation is also critical. These should be aligned in a north-south direction to maximize 
+
+4 | P a g e  
+ 
+sunlight exposure. Immediately after cutting the fallow/trees, the pegging (Fig. 2), should 
+follow the assigned spacing and adopted and approved layout.  
+ 
+Figure 2. Pegging the field before plantain and banana planting 
+ 
+Step 5. Time of planting 
+Bananas can be planted throughout the whole rainy season, but for a maximal harvest the 
+moment is picked so that plantlets can grow 3 - 4 months without water stress. Most farmers 
+plant thus at the start of the rainy season, but the harvest peak is than very high about one 
+year later with consequent low prices. However, if one plants when the rainy season is 
+already 2 months old, better prices will be obtained during harvest. With irrigation, planting 
+can be done anytime, even during the dry season. 
+ 
+Step 6. Planting 
+The planting period and the planting materials will depend on the trial objective. The planting 
+materials could be suckers (Fig. 3A), tissue culture materials or plants derived from seeds 
+(Fig. 3B). The pseudostem of identified suckers from healthy plants for planting is cut off a 
+few centimeters above the corm to reduce bulkiness while the corm is peeled (paring) to 
+reduce the soilborne diseases (fungi, bacteria, weevil, nematodes) pressure. Hot water 
+treatment may be applied after paring to further clean suckers from the soil-born posts and 
+diseases. Within a week, suckers must be planted. Suckers that are stored for more than two 
+weeks will have a detrimental impact on their future yields (Hauser & Coyne, 2010; 
+Swennen, 1990). 
+Immediately after pegging, proceed to digging holes (50 x 50 x 50 cm) whereby the topsoil is 
+separated from the rest of the soil. The planting material (sucker, plantlets, …) is placed 
+upright in the hole (Fig. 4A). The side of the corm which used to be connected with the 
+mother corm is placed towards the wall of the plant hole (Fig. 4A), for opposite to this side 
+the axial sucker will appear. This axial sucker is the best sucker for the next cycle, because it 
+is the one which develops first and is the deepest. As such, the axial sucker gets a lot of space 
+
+5 | P a g e  
+ 
+in the plant hole. The plant hole is then filled up, first with topsoil, later with the rest of the 
+soil (Fig. 4B). Thus, roots sprout in the most fertile part of the soil. In a recently planted field, 
+planted material is hardly visible. The first growth above ground is visible after 3-4 weeks. 
+Then checks are performed for replanting.  
+ 
+ 
+Figure 3. Banana planting materials: Suckers (A) and in vitro derived plantlets (B) 
+ 
+ 
+Figure 4. Plantain sucker in the hole (A) and after planting (B) 
+Step 7. Plant labeling 
+After planting is completed, prepare a detailed label/tag according to the field plan, using a 
+combination of barcode/QR code and text information for each plant (Akech, 2023). This can 
+be designed using MusaBase platform (https://musabase.org/) (Fig. 5). 
+
+6 | P a g e  
+ 
+ 
+Figure 5. Screen capture of QR code designing using MusaBase 
+Labels are printed using OL125LP - Weatherproof Polyester Laser - 4" x 2" and fastened on 
+plastic pegs placed about 10 cm from the plant in the field (Fig. 6). 
+ 
+Figure 6. Plantain with the QR code tag at the base of the plant with the plant unique identifier  
+Step 8. Plant management 
+These should include (1) fertilization application and weed control, (2) protection from 
+wind/propping and (3) pests and diseases control 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7 | P a g e  
+ 
+7. References  
+Akech, V . (2023). Standard Operating Procedures (SOPs) for Banana Breeding and Data 
+Management. Introductory paper at the Faculty of Landscape Architecture, Horticulture 
+and Crop Production Science. https://pub.epsilon.slu.se/30703/1/akech-v-2023-
+0418.pdf 
+Hauser, S., & Coyne, D. (2010). A hot bath cleans all: Boiling water treatment of banana and 
+plantain. CGIAR Systemwide Program on Integrated Pest Management (SP-IPM). 
+Technical Innovation Brief. Available Online - Https://Www.Ctc-n.Org/Sites/Www.Ctc-
+n.Org/Files/Resources/4ea6bfcd-2658-4dac-Bf31-03861661b3dc.Pdf, 8, 2. 
+www.spipm.cgiar.org 
+Lescot, T. (2020). Banana genetic diversity. In FruitTrop (Issue 269, pp. 92–96). 
+Simmonds, N. W. (1966). Planting and management. In Bananas (2nd ed., pp. 156–204). 
+Longman Group Limited. 
+Swennen, R. (1990). Plantain Cultivation Under West African Conditions. A reference 
+Manual. IITA. 
+Swennen, R., & Ortiz, R. (1997). Morphology and growth of plantain and banana. IITA 
+Research Guide, 66, 32. https://lirias.kuleuven.be/handle/123456789/169296 
+Vuylsteke, D., Ortiz, R., Pasberg-Gauhl, C., Gauhl, F ., Gold, C., Ferris, S., & Speijer, P . (2013). 
+Plantain and Banana Research at the International Institute of Tropical Agriculture. 
+HortScience, 28(9), 874–971. https://doi.org/10.21273/hortsci.28.9.874 
+ 
+ 
+ 
+ 
+Published by the International Institute of Tropical Agriculture (IITA) 
+in Ibadan, Nigeria 
+ 
+IITA is the leading research partner in Africa facilitating agricultural solutions to hunger and poverty 
+in the tropics. It is a member of the CGIAR Consortium, a global research partnership that brings 
+together organizations committed to research for sustainable development and a food-secure future. 
+ 
+ 
+International Address: 
+Suite 32 
+5th Floor, AMP House 
+Dingwall Road 
+Croydon 
+CR0 2LX, UK 
+ 
+Registered Office: 
+PMB 5320, Oyo Road 
+Ibadan, Oyo State 
+ 
+ 
+Headquarters 
+PMB 5320, Oyo Road, Idi-Oshe 
+Ibadan, Nigeria 
+Tel.: +1 201 6336094 
++234 700 800 4482 
+Fax.: +44 (208) 711 3786 (via UK) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Follow our Social Media Platforms for regular updates on 
+News, Training, Videos, Job openings 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.iita.org

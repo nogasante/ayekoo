@@ -1,0 +1,477 @@
+# Management of Yam Diseases: IITA Research Guide No. 39
+# publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+# year: 1992
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/92e714ab-4f2c-4838-a5f3-5387f685696b/content
+# attribution: IITA, Management of Yam Diseases: Research Guide No. 39 (1992)
+# ghana_specific: False
+# extent: 19 pages
+# CAVEAT: 1992. Disease biology is durable; recommended chemicals may be outdated or now banned. Do not cite for pesticide recommendations without checking current Ghanaian registration.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+IfMfIMi ...... I ..... th\M 01 Tropical Allrtcultw. (IITA) 
+IMtitullnlemelonlll IAtric ....... Troplca" CIITA) 
+IrwtI ..... llrNtNcktnel.Allrtc:ultur. Troplul (IITA) 
+IITA Researdl Guida 39 
+Management 
+of 
+yam diseases 
+Sang Ki Hahn 
+January 1992 
+IITA Research Guide 39 
+Management 
+of 
+yam diseases 
+Sang Ki Hahn 
+January 1992 
+Inlernalianallnsl~ute 01 Tropical Agricutture Tel.: 400300 - 318 
+Training Program Cable: TROPFOUNO Ikeja 
+PMB5320 The 31417+ 31159TROPIB NG 
+Ibadan, Nigeria Fax: (229) 301466 via UTA, Colanau, Benin 
+liT A Research Guides 
+liT A Research Guides provide information and guid­
+ance to scientists and technicians conducting re­
+search essential to agricultural development. Re­
+search Guides can be used in both research and 
+training activities. They are periodically updated to 
+meet advances in Scientific knowledge. 
+liT A permits reproduction of this document for non­
+prolit purposes. For commercial reproduction. con­
+tact the IITA Publications Unit. 
+Text Kehinde Jaiyeoba 
+NancyJadu 
+Rainer zachmann 
+Layout 
+Coordination 
+Hahn. S.K. 1992. Management of yam diseases. UTA Research 
+Guide 39. Training Program. International Insl~ute of Tropical 
+Agricuhure (lfTAl. Ibadan. Nigeria. 17 p. 
+2 
+IITA Research Guide 39 
+Management 
+of 
+yam diseases 
+Objectives. This guide is intended to enable you to: 
+• discuss the importance of yam diseases; 
+• describe foliage and tuber diseases of yams; 
+• control yam diseases . 
+Study materials 
+• Samples of different yam species and varieties . 
+• Diseased plants and tubers. 
+• Yam planting material. 
+Practicals 
+• Identify diseases in field and storage. 
+• Select healthy planting material. 
+• Select healthy yam tubers for storage . 
+3 
+Questionnaire 
+1 Where are yams cultivated? 
+2 What are the major cultivated yam species grown 
+in West Africa? 
+3 What are climatic requirements for yam cultiva-
+tion? 
+4 What is the effect of yam diseases? 
+5 What are the major foliage diseases of yams? 
+6 How is yam mosaic virus transmitted? 
+7 On what yam species is yam anthracnose disease 
+particularly damaging? 
+8 On what yam species is yam fusarium wilt particu­
+larly damaging? 
+9 Which bacteria cause disease in yams? 
+10 What are the causes of invasion by fungi in the 
+field? 
+11 Which fungus causes the most frequent storage rot? 
+12 On what conditions do storage rots depend? 
+13 Which nematodes are of primary importance in 
+causing damage on yams? 
+14 In what parts of the tuber is the yam nematode found 
+before and after harvest? 
+15 What are the symptoms and damage of root knot 
+nematode? 
+16 To what other pathogenic organisms do the yam 
+nematodes provide entrance to? 
+17 What factor determines greatly the health status of 
+yam plants in the field? 
+18 What are the components of integrated control of 
+yam diseases? 
+19 What are the agronomic practices that can reduce 
+yam diseases? 
+20 How are most of the yam diseases transmitted? 
+21 What is the most effective, inexpensive, and practi­
+cal control measure of yam diseases? 
+4 
+UTA Research Guide 39 
+Management 
+of 
+yam diseases 
+1 Importance of yam diseases 
+2 Foliage diseases 
+3 Tuber diseases 
+4 Inregmred control 
+5 Bibliography 
+Abstract . Different species of yams are grown in the 
+"yam zone" of West Africa. In field and storage, yams 
+are exposed to various diseases caused by viruses, bac­
+teria, fungi, and nematodes . Yam diseases can be 
+controlled by several integrated control practices . 
+5 
+1 Imponance of yam diseases 
+Yams (Dioscorea spp.) are tuber crops and a major sta­
+ple only in the "yam zone" of West Africa. They playa 
+central role in the farming systems and they are an 
+important part of traditional culture and religion 
+(Hahn, 1984; Hahn et al. 1987). The economically im­
+portant species grown in West Mrica are white yam 
+(Dioscorea rotundata), yellow yam (D. cayenensis), 
+trifoliate yam (D. dumetorum) and water yam (D. 
+alata). 
+Yams are grown in relatively high rainfall areas with 
+a wet period of more than four months . Since yams 
+grow for five to ten months in the field, the shoots , roots 
+and tubers of the yam plants can be exposed to attacks by 
+various diseases. Tubers require storage for up to six 
+months in an open area and can be further attacked by 
+diseases in storage . 
+Yam diseases are classified into two groups : 
+• diseases occurring from emergence to senes­
+cence of plants in the field; 
+• diseases that affect the tubers and occur from 
+harvest or during storage and shortly after 
+emergence . 
+Yam diseases seriously reduce yield, shelf life, post­
+harvest quality characteristics and market value . 
+Foliar diseases are primary factors that necessitate 
+staking which is costly and labor intensive; often stak­
+ing material is not easily available. 
+6 
+2 Foliage diseases 
+Diseases occurring from emergence to ·senescence of 
+plants include: 
+• viIUses diseases, 
+• yam anthracnose disease, 
+• yam fusarium wilt. 
+Yam mosaic virus (YMV). YMV occurs primarily in 
+white yam and yellow yam in West Africa . This virus 
+is transmitted by the cotton aphid (Aphis gossypii) and 
+mechanical means (Terry, 1976). The causal organ­
+ism of YMV was reported as a potyvirus (Rossel and 
+Thottappilly, 1985). 
+Uncharacterized virus. Water yam virus has been re­
+ported but it has not yet been well characterized (Rossel 
+and Thottappilly, 1985). 
+Yam anthracnose disease (YAD). YAD is caused by 
+Colletotrichum gloesporioides resulting in serious 
+damage to water yam in particular. Yield loss of 30-80 
+% of different cultivars due to YAD was reported in 
+Nigeria (I1oka and lwueke, 1983). Yield loss by YAD 
+was reported in water yam by Mignucci et al (1986) to be 
+as high as 79 % for total yield and 91 % for marketable 
+yield in Puerto Rico. The etiology of the disease of wa­
+ter yam generally described as "anthracnose", 
+"scorch" o. "die back" has never been adequately and 
+convincingly determined at UTA (lIT A, 1981). 
+Yam fusarium wilt (YFW). YFW caused by Fusarium 
+oxysporum is severe particularly in white yam. YFW 
+was reported to cause yield reduction of white yam by 
+60-80 % in Nigeria (Iloka and lwueke, 1983). Yield loss 
+of 32-44 % due to YFW was reported for white yam in 
+Puerto Rico (Mignucci et al. 1986). 
+7 
+3 Tuber diseases 
+Diseases that affect the tubers and that occur from har­
+vest or during storage and shortly after emergence are 
+caused by: 
+• bacteria, 
+• fungi, 
+• nematodes. 
+both before and after harvest. 
+Bacteria. Bacterial disease caused by Corynebacteri­
+um spp. in the field have been recorded only in Nigeria 
+(Ikotun, 1989). 
+After harvest, three pathogenic bacteria have been asso­
+ciated with storage rots (Ikotun, 1981). Erwinia caro­
+tovora pathovar carotovora, a gram-negative bacteri­
+um, was reported by Theberge (1985) and Ikotun (1989) 
+as causing storage rot in which the tissues of infected 
+tubers were turned into water-soaked dirty to white 
+pulp. High humidity and cooler temperature favour the 
+development of disease (Theberge, 1985). 
+Fungi. Yam tubers that are unbruised and have intact 
+peridenn are hardly attacked by fungi in the field. In­
+vasion by fungi into tubers is thus facilitated by acci­
+dental cutting and by bruising of tubers during weed­
+ing, harvesting, and transportation to stores. 
+A total of 13 fungi have been reported to be associated 
+with pre-harvest disease problems in yam tubers (Iko­
+tun, 1989). 
+After harvest, most fungi invade yam tuber tissues and 
+cause rots. A total of 30 different fungi have been re­
+ported to be associated with the storage rots (Ikotun, 
+8 
+1989). Penicillium o:mlicum is the most frequently en­
+countered rot causing organism of yam tubers (lkotun, 
+1989). The fungus caused 57 to 77 % of all rots of YaIII tu­
+bers in Nigeria, while in West Indies, it was responsi­
+ble for 80 % of all rots (Ikotun, 1989). 
+Storage rots depend on storage conditions such as aera­
+tion, relative humidity, light intensity, and 
+temperature. Recent study showed that temperature of 
+15 OC seems to be adequate for storage of tubers and that 
+the relative humidity of 70 % in storage was still high, 
+causing wet rots. The relative humidity regime of 55·65 
+% showed least storage rots . Storage rots also very 
+much depended on origin or source and status -of tubers 
+(Osiru, personal communication, 1990). 
+Nematodes_ Yam nematode (Scutellonema bradys) 
+and root-knot nematode (Meloidogyne spp.) are of pri­
+mary importance for the damage they cause to plants 
+and tubers in field and storage. Root knot nematode 
+mainly attacks roots, reducing growth and yield of 
+yams in the field, while yam nematode causes damage 
+primarily to tubers during storage. 
+Before harvest, yam nematode is found in the perider­
+mal and sub-peridermal layers of tubers, rarely pene­
+trating deeper than 1 to 2 em during growth of the tubers. 
+It does not cause marked yield reduction in the field but 
+it does cause serious surface damage of tubers (Bridge, 
+1982). 
+Root-knot nematode causes galling of yam roots and 
+gives rise to irregular knobby tubers if heavily attacked 
+by the nematode. Marketing quality of the tubers can be 
+affected by both nematodes . 
+9 
+After harvest, although both yam nematode and root 
+knot nematode are associated with storage rots of yam 
+tuber, the former is the primary pest of yam tubers in 
+storage (Bridge, 1982). During storage, the yam nema­
+tode infecting the peridermal and sub-peridermal lay­
+ers of tubers increase its population and can penetrate 
+deeper in parts of the tubers, causing both dry rot and 
+wet rot. This leads to serious storage losses of tubers. 
+Damage to tubers by yam nematode provides entry for 
+pathogenic organisms , particularly fungi and bacteria, 
+which gradually bring about wet rot during storage 
+(Bridge, 1982). Yam nematode is not directly involved 
+in the later stage of wet rot (Adesiyan et al. 1975). Yam 
+nematode can cause 80 to 100 % loss of stored tubers in 
+some parts of Nigeria (Adesiyan and Odihirin, 1978). 
+10 
+4 Integrated control 
+Since yams are normally planted with planting sets or 
+seed yam, their health status greatly determines the 
+health status of plants in the field which in tum deter­
+mines the shelf life of tubers in storage . Therefore, in­
+tegrated control of yam diseases should aim at health­
+ier seed yam and plants and longer shelf life of tubers 
+by preventing or reducing damage caused by the dis­
+eases to shoots, roots and tubers of yam plants in the 
+field and to the tubers in storage. This can eventually 
+lead to high and stable yield, improved shelf life, mar­
+keting and nutritive quality. Some components of inte ­
+grated control of yam diseases are discussed below: 
+. Agronomic practices. Agronomic practices play an 
+important role in determining the extent of plant dam­
+age caused by yam diseases. Development of improved 
+cropping sYstems that provide natural deterrents to dis­
+ease build up are therefore essential for sustainable 
+yam production by small holder yam farms in the hu­
+mid and sub-humid ecologies in West Africa. 
+Agronomic practices include: 
+• use of healthy seed yam, 
+• crop rotation, 
+• cropping sYstem, 
+• careful weeding, harvesting and handling. 
+Use of hotUthy seed yam. Most of the yam diseases, 
+particularly nematodes and viruses, are transmitted 
+through planting material. Therefore, the use of heal· 
+thy and good quality planting material can lead to less 
+disease problems of yam plants in the field and of tu­
+bers in storage. Healthier seed yam can be produced by 
+use of improved seed yam production techniques (Otoo 
+et al. 1985). 
+11 
+Crop rotation. Yam disease pressure can be reduced by 
+keeping land fallow free of all host plants following 
+harvest. Fallow and crop rotation are the most effect­
+ive, inexpensive, and practical control measures of dis­
+eases, if enough land is available. Groundnuts, Sty. 
+losanthes, Centrosema, Leuceana, Mucuna, and nema­
+tode resistant cowpea varieties, reduce nematode popu­
+lation levels to a large extent in the field. Hydromor­
+phic soils saturated for three to four months are almost 
+free of parasitic nematodes . (Hahn et aI. 19B7). Well 
+drained land reduces root and tuber diseases. 
+Cropping systems. Avoiding'mixed cropping with other 
+host crops of the yam diseases alongsIde yam vines will 
+decrease disease pressure. A certain crop combination 
+may reduce population of disease inoculum . This has 
+not been well studied. Sparse population density and 
+training of vines on stakes immediately after emerg­
+ence reduces disease development . Early planting re­
+duces damage caused by the foliage diseases; by escap­
+ing from peak disease pressure and prolonging the leaf 
+area duration. 
+Careful weeding, harvesting and handling. Bruising 
+and wounding of tubers during weeding, harvesting 
+and post-harvest handling should be avoided in order 
+not to open avenues for pathogens to enter tuber tissues. 
+Varieties resistant to diseases and nematodes. Varie­
+tal differences in resistance exist for ¥MY, YAD and 
+nematodes. White yam varieties such as TDr 179, TDr 
+745, TDr 60B and TDr 747 are moderately resistant to 
+YFW and ¥MY. Water yam varieties such as TDa 297, 
+TDa 291 and TDa 310 show a fair level of resistance to 
+YAD. Use of such resistant varieties are recommend­
+ed. 
+12 
+Storage. More yam tubers are lost in storage than in the 
+field. For good storage of yam tubers, selection of the 
+tubers with least damage caused by nematodes and poor 
+post harvest handling is of primary importance. Wood 
+ash and lime wash are often used by farmers for the 
+damaged parts of tubers to reduce storage rots . 
+Curing .the tubers at 35 - 40 °C at relative humidity of 40 -
+100 % for seven days after harvest has been effective in 
+reducing storage losses (Ricci et al. 1979). Also, curing 
+at temperature of 25 DC - 30 °C and at low humidity (be­
+tween 55 and 62 %) for five days before storage has been 
+found effective for controlling rots in stored yam tubers 
+(Adesuyi 1973). The results of recent experiments on 
+white yam storage seem to support the latter. 
+Chemical and physical controL Benomyl foliar sprays 
+at rates of 600 -1100 g/ha at three week intervals were 
+found as effective in controlling YAD of water yam 
+(Mignucii et a1. 1986). However, benomyl application 
+at rates of500 g/ha at 14 day intervals over a period of90 
+days between June and August did not reduce the preva­
+lence and severity of foliar necrosis including YAD in 
+water yam at UTA (UTA 1981). Treatment of tubers 
+with benomyl generally reduced the levels of fungal in­
+fection in stored white yam tubers (lkotun, 1989). 
+Nemagon applied at 35.2 kg/ha considerably suppres­
+sed yam nematodes (lkotun 1989) but is uneconomic. 
+Immersion of nematode infected tubers in hot water at 
+50 - 55 °C for 30-40 minutes was effective in controlling 
+nematodes (Smith 1967; Bridge 1982; Fawole 1982). 
+Heat treatment in water at 50 °C for 40 minutes or 55 °C 
+for 30 minutes was used to control nematodes for seed 
+13 
+yam production (Caveness and Otoo 1988). However, 
+the effectiveness of hot water treatment of tubers for 
+nematodes control of yam is questionable (I1TA 1981). 
+Quarantine. Most yam diseases and nematodes are 
+transmitted through planting materials. Therefore, 
+there are risks of introduction of diseases and nema· 
+todes from foreign countries or other continents. Ac­
+ceptable phytosanitary measures need to be applied 
+when yam tubers are introduced . In vitro meristem tip 
+culture followed by a sensitive and reliable virus in­
+dexing method reduces the risk of introducing unde­
+sirable diseases. Also micro-tubers produced in vitro 
+are most useful for germplasm exchange. 
+14 
+5 Bibliography 
+Adesiyan, S.O. ; Odihirin, RA 1978. Root knot ne­
+matodes as pests of yams (Dioscorea spp.) in Southern 
+Nigeria . Nematologia 24: 132-134. 
+Adesiyan, S.O.; Odihirin , R.A; Adeniji, M.O. 1975. 
+Histopathology studies of the yam tubers (Dioscorea ro­
+tundata Poir) infected with Scutellonema bradY8 
+(Steiner & Lehew). Int. Biodetn. Bull. 11: 48-55. 
+Adesuyi, S.A 1973. Advances in yam storage research 
+in Nigeria Paper presented at the Third International 
+Symposium of International Society of Tropical Root 
+Crops held at UTA 1973. 
+Bridge, J . 1982. Nematodes of yams. p. 253-264. In: 
+Miege, J.; Lyonga, S.N . (eds.). Yams. Clarendon 
+Press, Oxford. 
+Caveness, F.E.; Otoo, J.A 1988. Mother seed yam 
+warm water therapeusis for root-knot, root-lesion and 
+yam nematode control. Unpublished. 3 p. 
+Fawole, B. 1982. Histopathology of root-knot nematode 
+(Meloidogyne incognita ) infection on white yam (Dio­
+scorea rotundata) tubers. Nematology 20: p. 23-28. 
+Hahn, S.K. 1984. Tropical root crops: Their improve ­
+ment and utilization. Paper presented at the conference 
+organized by CAB on n Advancing Agricultural Pro­
+duction in Africa" held 13-17 February, 1984 at Amsha, 
+Tanzania. UTA Conference Paper 2. 28 p. 
+Hahn, S.K.; Caveness, F. K.; Lema, M.; Theberge, 
+R.L. 1987. Breeding cassava and sweet potato for pest 
+and disease resistance in Africa. Paper presented at 
+the workshop on Ststus and Prospects of Integrated Pest 
+15 
+Management for Root and Tuber Crops in the Tropics 
+held at lIT A, Ibadan, Nigeria, 25-30 October 1987. 23 p. 
+Hahn , S.K ; Osiru, D.S.O.; Akoroda, M.O.; Otoo, J.A. 
+1987. Yam production and its future prospects . Outlook 
+on Agriculture 16: 105-110. 
+UTA, 1981. UTA Annual Report for 1980. p. 66-72. 
+Ikotun, T. 1989. Diseases of yam tubers . Int. J. Tropi­
+cal Diseases 7: 1-21. 
+lloka, A.W.; Iwueke, C.C. 1983. Anthracnose and 
+fusarium wilt diseases of yam . Extension Bulletin No. 
+4. National Root Crops Research Institute, Umudike, 
+Nigeria . 9 p. 
+Mignucci, J.S. ; Torres-Lopez, R.; Hepperly , P.R.; 
+Ramos -Dusiyo , D. 1986. Field diseases of tropical 
+yams (Dioscorea spp.) and their control in Puerto 
+Rico. Unpublished. 17 p. 
+Otoo, J.A; Osiru, D.S.O.; Ng, S.Y.; Hahn, S.K 1985. 
+Improved technology for seed yam production. UTA. 
+56p. 
+Ricci, P.; Torregross, J .P_; Amolin, R. 1979. Storage 
+procedures in cush-cush yam. I. Post harvest decay. 
+Tropical Agriculture. 56: 41-48. 
+Rossel, H.W.; Thottappilly, G. 1985. Virus diseases of 
+improved food crops in tropical Africa. UTA- 61 p. 
+Smith, J.J. 1967. Nematodes in yams cited from yams 
+by D.G. Coursey, Longmans, London. p. 115-120. 
+16 
+Terry, E.R. 1976 . Incidence, symptomatology and 
+transmission of a yam virus in Nigeria . Proceedings 
+of the fourth symposium of the International Society for 
+Tropical Root Crops held at Cali, Colombia on 1-7, Au­
+gust, 1976. p. 17()'173. 
+Theberge, R.L. (ed.) 1985. Common African pests and 
+diseases of cassava, yam, sweet potato and cocoyam. 
+UTA. 108 p. 
+Intem.Honal Institute d Tropical Agriculture 
+Institut international d'agriculture troptcakt 
+Institulo Intemacional de Agricultura Tropical 
+(IITA) 
+(lila) 
+(IITA) 
+The Intemlltional Institut. of Tropical Agriculture (liT It) Is an intfK1Ul· 
+lionlll agncunuraJ fflS9IJrc/J O9nl., in ,/wi Consult"""" Groc.JII on 'nlema · 
+Ilona! AgricuNunJI _ (CGlAR). which Is .n usodatlorl of abouf 50 
+countries , intemational and I'9f1lonal organaalloM, and private founds · 
+lioM . IITA seeks to IncrS8SB agricultural product/on in a sustainable 
+way, in order to improlll(l the nufritionaJ status and weII--bsing of people 
+in tropical sub--Saharan Africa. To achieve this goal, IITA conducts 
+ressarch and training, provides information . collBCt5 and exchanges 
+gennplasm , and encourages tramfsr of technology, in partnership with 
+African national agricultural l8Sewch end devslopmBnI programs . 
+L'lnsUtut internal ional d'sgriculture trop ica/s (lita) ssl un csntre 
+inflKTlslionaJ de rschsrche agriools su _in du GfOtp consultstif pour ia 
+rscherchfl agricole internationsle (Gerai), une association regroupanl 
+quelque 50 pays, organisations InlernatlonalflS Bf rrlglonsJes BI tondat ions 
+privSes . l 'lita veut accrortre durablement Is production agricols . atin 
+cfamfj/lorer l'a/im9ntation . , Ie bien -"re des populations de rAfriqu8 
+IroplcaJs subsaharlenne . Pour attBindre eel objectif . l 'lIta mens des 
+activitfjs de I'fICherche eI de fonnation , foumit de flnformation , rtHJnit et 
+Bchangs du mat6riel gBnMique sf fKJCDUrBgII Ie transfett de technologies en 
+collaboration avec les programmes nationaux atrica ins de recherche eI 
+dS""'-""' . 
+o Inst ituto Intefflac ional de Agricultura Tropical (IITA) fj um centro 
+intfimacionaJ de investiga"o agricola pert.ncendo 80 Grupo ConsuJrivo 
+para Invsstiga"o Agricola Intemacionai (GCtAI) , um. associsr;Ao qus 
+conla C8f'C8 de 50 p#Iises, cxganiz~s intemacionais • regionais 9 fun­
+da¢es privadas . 0 IITA procur. aumentar dU(8veiment8 a prodU98o 
+agricola para me/horar a aliment.gao e 0 bem·estar das POPU~Oss ds 
+Africa tropical ao sui do Sahara. Para alcan~ __ obejefivo , 0 IITA 
+conduze PCtlvidades de investig~o ef de lreino, fomece intorma¢jes , 
+reune e ItOC8 msteriaJ genMico e favorecs a transfentncia dB tecnologiBs 
+en ~ com os programas nacionais africanos de invesliga(:80 • 
+dessnvolvimiento .

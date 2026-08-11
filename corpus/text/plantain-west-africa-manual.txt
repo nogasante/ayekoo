@@ -1,0 +1,1078 @@
+# Plantain Cultivation Under West African Conditions: A Reference Manual
+# publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+# year: 1990
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/d9fc03fa-3836-45a2-9d85-0ab1df79de8d/content
+# attribution: Swennen, Plantain Cultivation Under West African Conditions (IITA, 1990)
+# ghana_specific: False
+# extent: 29 pages
+# CAVEAT: 1990, West African scope. Agronomy durable; do not cite for varieties or chemicals.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+PLANTAIN CULTIVATION 
+UNDER WEST AFRICAN 
+CONDITIONS 
+A Reference Manual 
+Rony Swennen 
+INTERNATIONAL INSTITUTE OF TROPICAL AGRICULTURE 
+Ibadan, Nigeria 
+Acknowledgements 
+Research on plantain at IITA has since 1976 been supported by the Belgian Administration for 
+Development Cooperation (BADC) and, from 1981 to 1985, by the International Fund for 
+Agricultural Development (IFAD). As a result of a strategic review at IITA, plantain was in 1986 
+included among the mandated crops in the IITA core research program. All plantain research 
+is performed on the 80-hectare experimental farm of the Onne high-rainfall station near Port 
+Harcourt, Nigeria. 
+Financial support of the liT A core program during 1989 was provided by Australia, Belgium, 
+Canada, China, Denmark, Federal Republic of Germany , Ford Foundation , France , India, Italy, 
+Japan, Netherlands, Nigeria, Norway, Rockefeller Foundation , Sweden , United States and 
+World Bank. In addition, the following organizations and governments provided funds for special 
+projects and specific training activities : African Development Bank, Australia, Austria, Belgium, 
+Canada, Commission of the European Communities in Nigeria, Denmark , Federal Republic of 
+Germany, Food and Agriculture Organization of the United Nations (FAO), Ford Foundation , 
+Gatsby Charitable Foundation , International Development Research Centre (IDRC), IFAD, Italy, 
+Nigeria, Norway, Rockefeller Foundation, Switzerland , United Nations University, United States, 
+University of Hohenheim and World Bank. 
+Illustrations and photographs 
+Benson Fadare - figures 5c, 5d, 12, 14, 15, 22, 23, 24, 25. 
+Rony Swennen - figures 2, 3, 5a, 5b, 6, 7, 8, 9, 10, 11 , 13, 16, 17, 18, 19, 20, 21 , 26. 
+Dirk Vuylsteke - figure 4. 
+Printed and bound by Amarin Printing Group Co., Ltd., Thailand 
+© 1990 
+International Institute of Tropical Agriculture 
+Oyo Road, PMB 5320 
+Ibadan, Nigeria 
+Telephone: (234-22) 400300-400318 
+Cable: TROPFOUND IKEJA 
+Telex: 31417 or 31159 TROPIB NG 
+ISBN 978 131 061 8 
+Part One 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+Part Two 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+o 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+Glossary 
+Contents 
+Plantains and their environment.. ..................................... . 
+Morphology ............... ......... ......... ......... .••.... .........•••............ ..•. 
+Cultivars ........................... ........ ............••.••...........••......... .....•.••....... .... 
+Sources of plant ing material .. ................................... .......................... . 
+Climate ................ .. .... ............................ .•........... ...................••............. 
+Mulch .... ............. ................ ...... .............. ..... ................................ .... .. .. 
+Fertil izer ........ ................................ ...................................... ................ . 
+Weed control ......... .... .......................... ............. ....... .......... .. 
+Disease and pest conetol ........ ........... ............. .... .... ................... ....... .. 
+Fallow ............ ................ ......... ......... ................. .... ......... ... ................... . 
+How to grow plantains .. .... ............... ........................... ..... .. 
+Selecting the site .......... .............. ........... ........... .... .............. ................ . 
+Preparing the field ............. ... ........... ............. ..................... ................. . 
+Spacing ....... ............. ............ .......... ................. ........................ ... ........ . 
+Selecting cultivars ..................... .................... ........... ................. ........ .. 
+Preparing suckers .. .... .... .......... ........ .............. ............ ........... .... .......... . 
+Planting .................................... ............................. .. ......... ............... .. 
+Choosing the time to plant ........ ........ ................ ..................... ............ .. 
+Mulching ..................... .... .................. ........... .............. ................. ....... .. 
+Fertilizing ......... .......... ........ .............. ..................... ...................... ...... ... . 
+Contro lling weeds ........... .................. ........... ... .......... .............. ........... .. 
+Intercropping .......... ........................... ................... ........... .. .. 
+Propping ............... ................... . ...................... ............................... .. . 
+Harvesting ..................... ................................. .......... ................. .... .... .. 
+Thinning ............................ ............................ ... .................. ................ . 
+Controlling high ma!... .......................... .............................. ........... .... . 
+Managing the fallow period ........................ ........................ ................. . 
+1 
+1 
+3 
+3 
+4 
+4 
+6 
+7 
+7 
+11 
+12 
+13 
+13 
+14 
+14 
+14 
+15 
+16 
+16 
+17 
+18 
+19 
+19 
+19 
+19 
+20 
+20 
+22 
+PART 
+ON E Plantains and their environment 
+Plantains are starchy bananas which make up one-quarter 
+of the total world production of bananas (Musa spp.). Unlike 
+the sweet dessert bananas , plantains are a staple food 
+which is fried, baked, boiled (and then sometimes pounded) 
+or roasted , and consumed alone or together with otherfood. 
+About 70 million people in West and Central Africa are 
+estimated to derive more than one-quarter of their food 
+energy requirements from plantains , making them one of 
+the most important sources of food energy throughout the 
+African lowland humid forest zone. 
+In Africa, plantains are grown for home consumption, not for 
+export. The area between the lowlands of Guinea and 
+Liberia in West Africa and the central basin of Zaire in 
+Central Africa produces one-half the total world output of 
+plantains (figure 1). West Africa produces two-thirds and 
+Central Africa one-fifth of the African output. In terms of cost 
+per hectare , per ton and per unit of food energy, plantains 
+are also the cheapest staple crop to produce. 
+1. Morphology 
+Bearing plants (figure 2) consist of : 
+(a) Bunch or inflorescence. Composed of many flowers, the 
+bunch emerges between the leaves and is attached to the 
+plant by a rachis or fruit stalk. The many protuberances on 
+the rachis are called glomerules. Each glomerule bears a 
+group of flowers, also called a hand. Edible fruit (or fingers) 
+develop from female flowers located at the first 10 glomer­
+ules of the bunch. Neutral flowers (also called hermaphro­
+dite or intermediate flowers) appear next but do not develop 
+into fruit as their ovaries cannot swell to form pulp. The 
+purple bud at the end of the bunch is called the "male bud" 
+and consists of bracts covering groups of so-called male 
+flowers . This male bud may be absent or present when the 
+bunch reaches maturity. 
+(b) Pseudostem with foliage leaves. The cylindrical struc­
+ture rising from the soil and carrying the foliage is not a stem 
+in the true sense. It is a "false" stem or pseudostem because 
+the growing tip (or meristem) of the plant remains near soil 
+level. As the false stem consists of overlapping leaf sheaths, 
+~ 
+c:::::::J Africa 49.6% 
+Central America 9.6% 
+_ South America 25.1% 
+c:::::::J As i a 15.7% 
+Figure 1 
+Plantain production by continent 
+Figure 2 
+Schematic view of bearing False 
+Horn plantain (left) and French 
+plantain (right) 
+False Horn plantain 
+2 
+plantains are like giant herbs and not like trees. The leaf 
+sheaths render support to the rachis of the moth.er plant. 
+Young suckers (shoots from the main plant which can 
+develop into bearing plants) have narrow, lanceolated leaves 
+which are called scales and are easily distinguishable from 
+the large foliage leaves. 
+(c) Underground corm with suckers and roots. The corm, 
+sometimes wrongly called a bulb, is the true stem of the 
+plant. 
+Numerous roots emerge from the corm, most of which grow 
+horizontally at a depth of 0 to 15 cm. Roots are whitish if 
+young and healthy and become brown with age. If infested 
+by nematodes , they become brown or even black and/or 
+show protuberances. 
+The growing tip (or meristem) at the top of ·the corm 
+continuously forms new leaves and later becomes the inflo­
+rescence. The corm produces many branches, called 
+suckers, and the whole unit is often referred to as the "mat" 
+or "stool". After the plant crop has been harvested, the 
+mother plant is cut down and the suckers are thinned. 
+Although all suckers are followers or daughter plants, the 
+eUNC H : ['''~~~ NEUTRA L __ 
+FLOWER S il 
+"'ALE BUD 
+WIiIl"HEREO BRACTS 
+French plantain 
+cultivator selects one (the ratoon) to continue the next cyde 
+of production. The second harvest from the plantain mat is 
+called the first ratoon crop. The third harvest is the second 
+ratoon crop, and so on. 
+2. Cultivars 
+At least 116 plantain cultivars have been identified in West 
+and Centra l Africa. Plant size and bunch type are the most 
+important characterist ics for production purposes. 
+Plant size depends on the number of leaves produced 
+before flowering: 
+giant more than 38 foliage leaves ; 
+medium between 32 and 38 foliage leaves; 
+small fewer than 32 foliage leaves. 
+When the plantains flower, leaf production has ended. 
+Bunch morphology provides another method of classifica· 
+tion (figure 2): 
+French plantains: bunch is complete at maturity. Many 
+hands consist of numerous , rather small fingers followed 
+by the bunch axis covered with neutral flowers and male 
+flowers; the male bud is large and persistent. 
+False Horn plantains: bunch is incomplete with no male 
+bud at maturity. Hands consist of large fingers followed 
+by a few neutral flowers . 
+Horn plantains: bunch is incomplete at maturity. Handsare 
+few in number and consist of a few but very large fingers. 
+There are no neutral flowers or male bud; a tailor a de· 
+formed glomerule terminates the bunch axis. The Horn 
+plantain resembles the False Horn but it has no neutral 
+flowers and has larger fingers. 
+3. Sources of planting material 
+Several types of conventional planting material exist: 
+peeper: a small sucker emerging from the soil (figure 3); 
+sword sucker: a large sucker with lanceolated leaves (fig· 
+ure 3), the best conventiona l planting material; 
+maiden sucker: a large sucker with foliage leaves; 
+bits: pieces of a chopped corm. 
+A new and most promising planting material consists of in 
+vitro plants which are small maiden suckers produced from 
+meristem culture (figure 4). 
+Planting material can be collected from: 
+(a) An existing field, preferably an old field which is becom· 
+ing unproductive. Otherwise damage to the roots may be 
+Figure 3 
+Base of a plantain with one 
+sword sucker (tallest sucker) 
+and four peepers 
+Figure 4 
+In vitro produced material ready 
+for planting 
+3 
+Figure 5 
+Rapid sucker multiplication 
+through the technique of 
+decapitation (a, b) and false 
+decapit ation (c, d) 
+Figure 6 
+Plantain field mulched with 
+elephant grass 
+4 
+a 
+caused when the suckers are being dug out and many 
+mother plants may later tip over. 
+(b) A multiplication plot, which is planted only for the 
+production of suckers and not to produce bunches. Plant 
+density (2 m x 2 m) is much higher than in production fields 
+and suckers are obtained by either decapitation or false 
+decapitat ion. Both methods consist of removing the grow­
+ing point (figure 5). In the first method, the pseudostem is 
+removed to get to the growing point. Only a small hole or 
+window is cut for the second method. The foliage can 
+remain active for up to 3 months after the removal of the 
+meristem by the second method. 
+(c) A tissue culture laboratory, where in vitro plants which 
+look like small maiden suckers are produced from meris­
+tems. In vitro plants are healthy, vigorous , free from pests 
+and diseases (figure 4) and have a great future. 
+4. Climate 
+Plantains , like other bananas. require a hot and humid en­
+vironment. Ideally, the average air temperature should be 
+about 30°C and rainfall at least 1 00 mm per month. Rainfall 
+should be well distributed throughout the year and dry 
+seasons should be as short as possible. Irrigation is not 
+suitable nor economica lly worthwhile for plantains grown by 
+the family farmer. but may become necessary when larger 
+fields are cultivated in areas with a long dry season. 
+5. Mulch 
+Organic matter is essential for plantain cultivation (figure 6). 
+External sources of mulch can consist of elephant grass 
+(Pennisetum purpureum) , which is rich in potassium , or 
+c 
+• 
+cassava peelings , wood shavings, palm bunch refuse, dried 
+weeds, kitchen refuse, and so on. Collecting and transporting 
+mulch are expensive in time and labor. The most convenient 
+source consists of plants growing inside the plantain fields 
+if they produce a great deal of organic matter without 
+compet ing with the plantains. 
+Suitable mulch mOlterial can be obtained from trees which 
+were slashed when the fields were cleared and which are 
+growing again (figure 7); or from a deep-rooted legume 
+shrub called Flemingia congesta or F. macrophylla (figure 
+8). F. congesta is seed drilled in the middle of the 3 m 
+plantain alley. It can be difficult to establ ish, but from the 
+second year onwards it grows vigorously. It can reach a 
+height of approximate ly 2.5 to 3 m if left unpruned, but in the 
+field it is cut back 4 times a year to a height of about 1.5 m 
+Figure 7 
+Trees regrowing between the 
+plantains provide mulch 
+5 
+Figure 8 
+Flemingia congesta as an alley 
+crop 
+Table 1 
+Yield of the plant crop and first 
+ratoon of a medium False Horn 
+plantain under four different fertil­
+ity conditions 
+(in Ions per hectare) 
+6 
+(figure 8). The prunings are spread overthe soil. Flemingia 
+is not fertilized as it benefits from fixed nitrogen and leached 
+fertilizers applied to the plantains. Grass growing between 
+the plantains is not suitable as a mulch source because it 
+competes with the plantains. 
+6. Fertilizer 
+The plantain crop always benefits from the use of fertilizer 
+(table 1). The yield from fertilized plants can be up to 10 
+times higher than that from unfertilized plants. The amount 
+of fertilizer needed depends on soil fertility and soil type. 
+General recommendations cannot be made as these should 
+be based on soil or leaf analysis and the results of fertilizer 
+experiments. Since potassium and nitrogen are easily 
+leached, they should always be applied at regular interva ls 
+(split applications) during the growing (rainy) season. Other 
+important nutrients are phosphate , calcium and magnesium 
+which are provided in one application. In some exceptional 
+cases, micro-nutrients (for example, zinc or sulfur) have to 
+be applied. 
+Control Fertilizer8 
+Plant crop 0.6 11.9 
+First ratoon 0.6 2.8 
+14.1 
+10.2 
+Mulch + 
+fertilizer 
+18.8 
+10.4 
+a 550 kg of potassium oxide and 300 kg of nitrogen per hectare 
+b 80 tons per hectare of Pennisetum purpureum (elephant grass) 
+b 
+c 
+7. Weed control 
+Weeds can be hand-pulled orchemica llycontro lled. Paraquat 
+and simazine are appropriate herbicides since they control 
+the weeds without affecting the plantains , unless leaves are 
+accidenta lly sprayed . Glyphosate, diuron and gramuron are 
+not recommended as they can be phytotoxic to plantains. 
+8. Disease and pest control 
+Black sigatoka is the major disease attacking plantains; 
+nematodes and stemborers are the major pests. 
+Black sigatoka is a leaf spot disease (figure 9a-d) caused by 
+the fungus Mycosphaerel/a fijiensis. All known plantain 
+cultivars are susceptible to this wind-borne fungus. Leaves 
+first show yellow spots (9a,b) which later turn brown and 
+black (9b). Ultimately the leaf tissue becomes necrotic (9c) 
+and dies. In this way entire leaves become nonfunctional 
+and in many cases , bearing plants are left with hardly any 
+Figure 9 
+Declining stages of black 
+sigatoka symptoms (counter 
+clockwise, from top right) 
+\f ! 
+~\ 
+7 
+d 
+Figure 10 
+Fougamou 1 (cooking banana) 
+Figure 11 
+Nematode damage 
+8 
+green leaves at maturity (9d). Photosynthesis is reduced 
+and small bunches (sometimes with undeveloped fingers) 
+are produced. Yield losses are estimated at between 30 and 
+50 percent. 
+Black sigatoka can be controlled with aerial applications of 
+fungicides belonging to the groups ofthe benomyl , benzimi­
+dazoles , chlorothalonils, dithiocarbamates, flusilazoles , 
+imazaliles , imidazoles , methylthiophanates , nuarimols , pro­
+chloraz, propiconazoles , triazoles and tridemorph , or soil­
+applied fungicides such as triadimefon and triadimenol. In 
+any case, at least two types of fungicide should be used 
+alternately to preventthe fungus from developing resistance 
+to the active ingredient. 
+Plantain cultivars resistant to black sigatoka provide the 
+only effective means of control since the fungicides are very 
+expensive and can pose health hazards when applied in 
+backyard s. Breeding for resistance began at the Onne 
+station of the International Institute of Tropical Agricu lture 
+(IITA) in Nigeria during 1988. For the time being , cooking 
+bananas ("Fougamou 1 ", "Bom", "Gia Hui", "Foulah 4" and 
+"Nzizi") are available from IITA (figure 10) as a substitute for 
+plantain. These varieties are resistantto black sigatoka and 
+can be prepared and consumed in the same ways as plan­
+tains. 
+Nematodes are minute worms which live in the soil and 
+infest plant roots. Several types of nematodes can exten ­
+sively damage the plantain root system if the land was 
+previously cropped with plantains or if they were introduced 
+with infected planting material (figure 11). Nematodes 
+impair the transpo rt of nutrients and water to the main stem, 
+causing a reduction in yield and weaken ing of the plant. As 
+a result, many plants may be lost through tip-over whenever 
+winds become strong. 
+Nematodes can be controlled by applying nematicides in a 
+circle , 25 cm in diameter , around the plant. 
+Some of these nematicides are: 
+Nematicides 
+isazophos 
+carbofuran 
+ethoprophos 
+phenamiphos 
+a.i. active ingredient 
+Rate per plant 
+(grams) 
+2.5 a.i. 
+4.0 a.i. 
+4.5 a.i. 
+3.0 a.i. 
+No. of applications 
+per year 
+3 
+3 
+3 
+3 
+As carbofuran is effectively degraded by microorganisms , it 
+should be used alternately with other nematicides . 
+The stemborer or banana weevil Cosmopolites sordidus 
+(figure 12) lays its eggs near the corm of the main plant. The 
+larvae attack the underground part of the plant, feeding on 
+I,..,. 
+Figure 12 
+The banana weevil Cosmopolites 
+sordidus: larva (top) and adult 
+(botto m) 
+9 
+Figure 13 
+Stem borer damage to plantain 
+corm 
+Figure 14 
+Stem borer trap from a piece of 
+pseudostem 
+10 
+the corm and boring channels in it (figure 13). Plants 
+become very weak, especially during the dry season , and tip 
+over. Yield can be drastically reduced. 
+Stem borers can be controlled by leaving the land under 
+fallow, by the application of coffee husks and by insecti­
+cides. 
+Insecticides Rate per plant 
+(grams) 
+HCH (50%) 40 
+chlordecone 1 
+isofenphos 1.2 
+aldicarbe 1.5 
+carbofuran 2 
+C.p. = commercial product 
+a.i. = active ingred ient 
+c.p. 
+a.i. 
+a.i. 
+a.i. 
+a.i. 
+No. of applications 
+per year 
+3 
+2 
+3 
+3 
+3 
+The cost of insecticides should determine whether they 
+should be used. The use of traps provides an alternative 
+method for controlling banana weevils which is cheap but 
+time-consuming and not as effective as the use of insecti­
+cides. Traps are made by cutting pseudostems in half 
+longitudinally and laying the pieces cut side down on the soil 
+near the plantains (figure 14). One trap for every 20 to 30 
+plants is the current practice. Traps should be inspected 
+daily early in the morning. The adult black weev ils are then 
+retrieved from between the soil and the cut surface of the 
+pseudostem and killed. Traps remain effective for about 1 or 
+2 weeks and are renewed at harvest when an ample supply 
+of pieces of pseudQstem is available. 
+9, Fallow 
+A field that becomes unproductive should be left fallow when 
+the plantain mats have been destroyed. Good results can be 
+obtained with the use of kerosene , glyphosate or 2-4 0 but 
+the plantain mats can only be completely destroyed by hand. 
+This ensures that no live material remains to harbor pests 
+and reinfect the field. 
+To restore fertility , the organic matter in the soil should be 
+raised as high as possible during the fallow period by 
+planting an improved fallow (for example , a leguminous 
+cover crop). Otherwise the fallow crop can consist of trees 
+which were cut down at planting time and are growing back 
+or of Flemingia congesta which was grown between the 
+plantain rows as a source of mulch. In addition to restoring 
+fertility , the fallow crop should by itself completely eliminate 
+all kinds of weeds , especially grasses. A grass fallow is not 
+suitable as grass easily grows again and becomes a noxious 
+weed. 
+11 
+PART 
+TW 0 How to grow plantains 
+Figure 15 
+Compound garden with plantains 
+12 
+Most plantains produced in West Africa come from com­
+pound gardens or backyards inside villages (figure 15). 
+Backyard soil is very rich in organic matter and nutrients 
+from household refuse which is dumped there. Such gar­
+dens.are permanently in use for plantains which grow there 
+luxuriantly, become very large and produce heavy bunches. 
+They grow in groups or clusters as each bearing plant 
+produces many suckers which are not pruned out. Human 
+activity is limited to manuring, propping and harvesting. 
+Since the demand and thus the price for this crop are con­
+tinuously increasing, many farmers want to grow more 
+plantains in orderto raise their income. However, backyards 
+cannot be readily extended since they are enclosed by 
+houses or fences. The only way, therefore, to expand 
+production is to grow plantains in fields at some distance 
+from the village. In most cases such field-grown plantains 
+are very poorly maintained. The result is a very modest yield 
+from the first year onwards. Different methods of cultivation 
+should accompany the change in site to achieve and sustain 
+high-level yields for several years. 
+1. Selecting the site 
+The site should be easily accessible, especially if the estab­
+lishment of a large field is being planned. It should be well 
+drained but not too steeply sloped. Plantain cultivation is 
+impossible if the land becomes flooded from time to time, or 
+has a water table at a depth of only 50 cm or less. The soil 
+should be rich in organic matter (black soil). Hence fields in 
+a long natural fallow, under an improved established fallow 
+or with a lot of mulch are recommended. 
+2. Preparing the field 
+Fields are to be prepared with minimum disturbance to the 
+soil (no-tillage farming). In consequence, manual clearing 
+should be preferred to mechanical deforestation because 
+bulldozers always remove topsoil with the important organic 
+matter and compact the remaining soil. When an old natural 
+fallow is cleared , the debris from the forest should be burned 
+if plantain cultivation is planned for 1 or 2 cycles only. If 
+perennial CUltivation is being considered, planting should be 
+done through the mulch (figure 16). Young fallows of about 
+3 to 5 years or improved legume fallows should be simply 
+slashed and left without being burned. Trees must be cut but 
+the stumps are not to be removed , and the trees should be 
+left to grow again (figure 7). They can be pruned only when 
+they start to obstruct field activities or shade the plantains. 
+Once the fallow crop is slashed, the field is ready for 
+pegging. Drains should be dug if some spots in the field tend 
+to waterlog after heavy rains. 
+Figure 16 
+Plantains growing on cleared 
+land which was not burned 
+13 
+a 
+Figure 17 
+French (a), False Horn (b) and 
+Horn (c) plantains 
+14 
+c 
+3. Spacing 
+The recommended spacing is 3 m between the plantain 
+rows and 2 m within the row (in other words . 3 m x 2 m). An 
+alternative is 2.5 m x 2.5 m. If spaced 3 m x 2 m, 1 hectare 
+should contain 1667 plants, but with a spacing of 2.5 m x 2.5 
+m, it should conta in 1600 plants . Rows should be straight in 
+flat fields to give plants the maximum amount of sunlight. 
+However, on sloping land, rows should follow the contour 
+lines in order to decrease soil erosion. 
+4. Selecting cultivars 
+For field cultivation, medium plantains should be preferred 
+to giant ones even though giant plantains produce heavier 
+bunches. Giant plantains take longer to produce and are 
+more likely to be damaged by strong winds because of their 
+size. 
+The decision whether to grow a French (figure 17a) or a 
+False Horn (figure 17b) plantain cultivar should depend on 
+which type the consumers prefer. Horn plantains (figure 
+17c) should never be CUltivated as their yield is very low. 
+5. Preparing suckers 
+Suckers are separated from their mother plant with a spade 
+or machete . The sucker corm must not be damaged or 
+chipped. Consequent ly the corm should be careful ly peeled 
+with a machete. The pseudostem of the suckers should be 
+cut off a few centimeters above the corm (figure 18). Peeling 
+of the corm delays the development of nematode infestation , 
+while cutting of the pseudostem reduces bulkiness and im­
+proves early growth of the newly planted sucker. 
+f 
+The peeling process is just like that for cassava. A freshly 
+peeled healthy corm ought to look white, but corms infected 
+by stemborers and nematodes show brown and black spots 
+which have to be removed until only white tissue remains. If 
+the infestation is severe, with many brown and black spots, 
+the sucker should be destroyed. Sucker preparation (peel­
+ing) is carried out in the field where the planting material is 
+collected . This is to avoid contamination of the new field with 
+roots infested with nematodes or corms with stem borers. 
+Prepared corms are transported to their destination where 
+they are left to dry for a few days (not in the sun). Suckers 
+have to be planted within t week. Storage of suckers for 
+more than 2 weeks will adversely affect future yields. 
+6, Planting 
+Suckers are planted immediately after field preparation. 
+Plant holes are prepared with a minimum size of about 30 cm 
+x 30 cm x 30 cm. Care should be taken to separate the topsoil 
+from bottom soil. The sucker is placed in the hole and its 
+corm is covered , first with the topsoil and th'en with the 
+bottom soil (figure (9) . In the plant hole, the side of the 
+sucker corm which was formerly attached to the corm of its 
+mother plant is placed against the wall of the hole. The 
+opposite side of the sucker' corm is placed towards the 
+middle of the plant hole, where the soil is loose (figure (9). 
+The best sucker (the future ratoon) will emerge at the side 
+opposite to where the planted sucker was previously at­
+tached to the mother plant. If the land is sloping, the sucker 
+should be so oriented that its follower will emerge against the 
+slope. That will delay the development of the so-called high 
+Figure 18 
+An unprepared sucker (left) and 
+peeled suckers (right) ready for 
+planting 
+15 
+Figure 19 
+Arrangement of top and bottom 
+soil when a sucker is planted 
+16 
+.. - TOPSOIL RICH IN 
+ORGANIC MATT ER 
+mat when the ratoon crop grows out of the soil and exposes 
+the corm. 
+7. Choosing the time to plant 
+Plantains can be planted throughout the rainy season. How­
+ever, they should grow vigorously and without stress during 
+the first 3 to 4 months after planting, and therefore they 
+should not be planted during the last months of the rainy 
+season. Planting with the first rains seems agronomically 
+sound but not financially advantageous. Most farmers will 
+plant at the onset of the rains, causing the market to be 
+flooded with bunches 9 to 12 months after planting, when 
+prices will be very low. Planting in the middle of the rainy 
+season is a better proposition as plantains will then be 
+produced off-season and get high prices. 
+8. Mulching 
+Organic matter is essential for plantain cultivation (table 1, 
+page 6) if the field is to be very productive for a long time. A 
+high level of organic matter in the soil is beneficial because 
+it stimulates root development, improves soil drainage, de­
+creases soil temperature fluctuations, and increases soil 
+porosity and biological life. 
+Organic matter decays under the influence of microorgan­
+isms in the soil, heavy rainfall and high soil temperature . 
+The amount of organic matter will gradually decrease once 
+the field has been cleared and cause a decrease in yield. 
+Therefore newly established plantains which receive only 
+fertilizer will produce a high yield only in the first year. In the 
+second year the yield will drop because the organic matter 
+will have decomposed (figure 20 and table 1). To compen­
+sate for this continuous decrease in the amount of organic 
+matter, the field needs mulch from plants and/or manure 
+from animals. There are many sources of mulch. It can be 
+either carried into the field or produced between the plants; 
+but to be effective , it should cover the soil completely (figure 
+21 ). Once the field is mulched, weeds are controlled and the 
+topsoil is protected against heavy rainfall and intense sun­
+shine. Poultry, pigs and cows produce suitable manure 
+which is applied only at the base of the mat. 
+9. Fertilizing 
+To produce a heavy bunch, plantains always need some 
+extra nutrients. These can be applied in the form either of 
+inorganic fertilizers or organic fertilizers (mulch, manure or 
+ash from wood fires). Inorganic fertilizers have the advan­
+tages of easy handling and concentrated nutrients. Organic 
+fertilizers are very bulky, yet they manifest many important 
+characteristics. They improve soil moisture retention , weed 
+and erosion control, soil porosity and biological activity. 
+Figure 20 
+Six·month·old plantain field 
+showing deficiencies due to use 
+of fertilizer without mulch 
+17 
+Figure 21 
+Six-month-old plantain field, 
+showing beneficial effects of 
+mulching 
+18 
+The application of fertilizer should start 1 month after 
+planting of plantains or with the first rains in an already 
+existing field. The fertilizer is applied around the main 
+plant in a circle about 50 cm in diameter. Fertilizer is not 
+worked into the soil as that causes extensive damage to 
+the superficial root system. No fertilizer is applied in the dry 
+season. 
+10. Controlling weeds 
+Plantains should always be weed-free . Weed control starts 
+during field preparation. Weeds are initially controlled 
+about every 6 to 8 weeks; but when the plantain canopy 
+closes, about 5 to 6 months after planting, weed infestation 
+declines due to shading. Any plant with a superficial root 
+system should be considered a weed and therefore elimi­
+nated. Grasses or herbs are the most pernicious weeds 
+because they derive their nutrients from the same level of 
+the soil as the plantains. Tree seedlings are not considered 
+to be weeds. 
+Weeds can be controlled through mulching , chemically or 
+manually. Mulching is the most efficient means, because a 
+mulch layer can impede or prevent weed growth. Chemical 
+control is expensive and in some circumstances also dan­
+gerous. Manual weeding is not recommended, although 
+the weeds are thereby effectively controlled, because slash­
+ing or hoe weeding inevitably damages the plantain root 
+system. However, sometimes manual weeding is the only 
+possible method. 
+11. Intercropping 
+Plantain fields are arranged in rows spaced 3 m x 2 m. As the 
+canopy closes only some 5 to 6 months after planting, a fair 
+amount of inter-row space remains un exploited during the 
+first months. This space can be used for plants which have 
+a short life cycle and which do not compete with plantains. 
+Groundnut, yam, cocoyam (figure 22) and maize are suitable 
+intercrops although maize effectively delays the plantain 
+harvest by about 2 months. Cassava and cowpea are not 
+suitable , because their yields are reduced under the shade of 
+plantain rows. Plantains can be used as a shade crop for 
+young cocoa and coffee plants. 
+12. Propping 
+The heavy weight of the plantain bunch bends all bearing 
+plants and can cause doubling (pseudostem breaks), snap­
+off (corm breaks , leaving a part in the ground) or uprooting, 
+also called tip-over (the entire corm with roots comes out of 
+the ground). Plants are genera lly weak during the dry season 
+and strong winds , nematodes and stemborers also increase 
+the rate of loss. For these reasons, bearing plants always 
+need support from 1 or 2 wooden props, usually made of bam­
+boo (figure 23). If a piece of bamboo is used, the support is 
+placed alongside the bearing plant and the top of the plant is 
+tied to the bamboo. A lateral branch at the top of the bamboo 
+prop sometimes forms a natural fork which can be used to 
+support the plantain without being tied to it. When 2 pieces 
+of bamboo are used, the bunch and not the plant is supported 
+in the first place. The bamboo props are crossed and form a 
+fork. This fork is tied together with a rope and placed just 
+underneath the bunch. 
+13. Harvesting 
+The bearing plant is cut and the bunch, 3 to 4 months old, is 
+harvested when 1 or 2 fingertips of the first hand start yellow­
+ing. The bunch usually then ripens within a week. Care has to 
+be taken that the bunch does not drop on the ground when the 
+main plant is cut. The whole of the pseudostem and foliage of 
+the. main plant is then chopped (figure 24) and spread overthe 
+soil as a mulch for the ratoon crop. If this is not done, weevils 
+may live and multiply on the intact pseudostem. 
+14. Thinning 
+Unlike those of most other bananas , plantain suckers de­
+velop very slowly. After harvest, all suckers start to grow at 
+Figure 22 
+Plantain intereropped with 
+cocoyam 
+Figure 23 
+Supporting a bearing plantain 
+19 
+Figure 24 
+Chopped plantain plant after 
+harvest with one sucker 
+remaining 
+Figure 25 
+Thinning of plantain mat 
+20 
+the same time and most have to be eliminated to stop 
+competit ion (figure 25). The tallest is left to guarantee the 
+follow up and maintain the density. Thinning usually has to 
+be repeated a month later, as new suckers will have emerged 
+by that time. Suckers are thinned with a machete . The 
+sucker pseudostem is cut off near its corm and the point of 
+the machete is twisted in the growing tip, thus killing it. 
+15. Controlling high mat 
+After production of severa l ratoon crops, the upper surface 
+of corms in aging plantain fields can be seen above soil 
+level. The exposure of the corms, which is called high mat 
+(figure 26), is believed to have severa l causes . The nature 
+of ratooning in plantains seems to be particularly important. 
+High mat exposes the roots which dry out. The plants 
+become weak and tip over easily because they are no longer 
+firmly based in the soil. Earthing up (adding soil around the 
+plant) does not help much. Howeve r, mulch protects the 
+roots which would otherwise dry out and improves the ' 
+ramification and stability of the plants . 
+16. Managing the fallow period 
+A field which becomes unproductive should be left fallow. If 
+plantains are to be planted again after a fallow period , the 
+following points should be considered . 
+• At the beginning of the fallow, all plantain mats should 
+be entirely destroyed. Otherwise , remaining plants could 
+maintain nematode and stembore r populations which would 
+readily infest newly planted plantains after the fallow period . 
+• Only manual destruction guarantees the complete elimi­
+nation of the existing plantain mats. 
+• The level of organic matter in the soil should be raised 
+as high as possible during the fallow period in order to 
+restore fertility. This can be done by allowing trees to regrow 
+andlor by planting a legume cover crop. 
+• The fallow period should last at least 2 to 3 years. 
+Figure 26 
+High mat 
+21 
+GLOSSARY 
+"C: degrees Celsius, Centigrade 
+2,4 D: a herbicide 
+aldicarbe: an insecticide 
+anchorage: stability of plantains in the soil 
+backyard : compound garden 
+banana weevil : an insect that damages the 
+plantain corm 
+benomyl : a fungicide 
+benzimidazole: a fungicide 
+bits: pieces of chopped corm used in planting 
+black sigatoka: severe leaf spot disease of 
+plantains and bananas 
+" 80m ": a variety of cooking banana resistant 
+to black sigatoka 
+bottom soil: soil from the bottom of a hole dug 
+for planting 
+bract: a purple modified leaf covering a flower 
+cluster 
+breeding : plant improvement 
+canopy : cover formed by leaves 
+carbofuran: a nematicide and insecticide 
+chlordecone : an insecticide 
+chlorothalonil: a fungicide 
+cm: centimeter 
+contour line: a line connecting the points on a 
+land surface that have the same eleva­
+tion 
+cooking bananas: starchy bananas which 
+have to be cooked 
+corm : the (underground) stem of a plantain or 
+banana which produces suckers and 
+roots 
+Cosmopolites sordidus: see banana weevil 
+cultivar: cultivated variety 
+daughter plant: sucker succeeding the bear­
+ing plant 
+decapitation: the process of eliminating the 
+growing tip after cutting the pseudostem ; 
+used in sucker multiplication 
+dithiocarbamate: a fungicide 
+diuron: a herbicide 
+doubling: breaking of the pseudostem 
+22 
+drainage: the gradual disappearance of water 
+in the soil 
+eart hing up: heaping soil in mounds at the 
+base of the main plant 
+ethoprophos : a nematicide 
+fallow : p reviously cultivated land that is al­
+lowed to lie idle, usually in order to re­
+. cover its fertility 
+false decapitation: the process of eliminating 
+the growing tip after an opening (a win­
+dow) has been made in the base of the 
+pseudostem ; used in sucker multiplica­
+tion. See also decapitation 
+False Horn plantains: plantains with an in­
+comp lete inflorescence at maturity; 
+hands consisting of large fingers fol­
+lowed by few hermaphrodite flowers, no 
+male bud at maturity 
+female flowers: those flowers on the bunch 
+whose ovaries develop into fruit 
+fertilizer: a chemica l mixture used to supply 
+nutrients to the soil 
+finger: a single plantain or banana fruit 
+Flemingia congesta (F. macrophyl/a): a 
+legume shrub used as an alley crop in 
+plantain fields; cut regularly to supply 
+mulch 
+flowering: producing flowers 
+flusilazole: a fungicide 
+foliage leaves : the big leaves of a plantain or 
+banana 
+follower: sucker, daughter plant succeeding 
+the bearing plant 
+" Fougamou 1 " , " Foulah 4" : varieties of cook­
+ing banana resistant to black sigatoka 
+French plantains: plantains with a complete 
+inflorescence at maturity . This type has 
+many hands consisting of many, rather 
+small fruits followed by the inflorescence 
+axis covered with persisting hermaphro ­
+dite flowers and male flowers; the male 
+bud is large and persistent 
+fungicide: chemical used to kill fungi 
+fungus: any of a major group of saprophytic 
+and parasitic lower plants that lack chlo­
+rophyll and include molds, rusts and 
+mushrooms, among others 
+g: gram 
+" Gia Hui ": a variety of cooking banana resis­
+tant to black sigatoka 
+giant plantains : tall plantains which produce 
+more than 38 foliage leaves before flow­
+ering 
+glomerule : proluberance on the rachis of a 
+bunch 
+glyphosate: a herbicide 
+gramuron : a herbicide 
+hand: a cluster of fingers borne on the same 
+glomerule 
+HCH: an insecticide 
+hectare: area of land 100 m by 100 m 
+herbicide: chemica l used in killing weeds 
+hermaphrodite flowers: intermediate or neu-
+tral flowers which persist on the bunch 
+but do not develop into fruit 
+high mat: the upper portion of the corm grows 
+o'ut of the soil , exposing a considerab le 
+area of root-bearing tissue 
+Horn plantains: plantains with an incomplete 
+inflorescence at maturity. This type has 
+. few hands consisting of few but very 
+large fingers, no hermaphrodite flowers 
+and no male bud 
+imazalil: a fungicide 
+imidazole: a fungicide 
+inflorescence: a floral axis with clusters of 
+flowers 
+insecticide : chemica l used in killing insects 
+intermediate flowers: see hermaphrodile flow­
+ers 
+in vitro plant : plant produced from a meristem 
+and CUltivated temporarily in a labora­
+tory 
+isazophos: a nematicide 
+isofenphos : an insecticide 
+lanceolated: tapering to a point at the top and 
+sometimes at the base 
+leaf sheath : the lower part of the leaf which 
+forms the pseudostem of the plantain 
+plant 
+legume: a plant which fixes nitrogen from the 
+atmosphe re by interaction with bacteria 
+m: meter 
+maiden sucker: a large sucker with foliage 
+leaves 
+male bud: the big purple terminal protuber­
+ance of the plantain bunch 
+male flowers: flowers which are found in the 
+male bud 
+manure : organic mulch from animal origin; 
+e.g. poultry manure 
+mat: corm with suckers; stool 
+meristem: growing tip which is found on the 
+corm 
+medium plantains: plantains producing be­
+tween 32 and 38 foliage leaves before 
+flowering 
+methylthiophanate: a fungicide 
+micronutrient: nutrient needed in very small 
+amounts for good plant development 
+microorganism: an organism of microscopic 
+size; e.g. fungus, bacterium 
+mm: millimeter 
+morphology : form, structure 
+mother plant : a plantain plant with a bunch 
+mulch: organic matter of plant origin used to 
+. cover soil and improve fertility 
+Musa: genus name of bananas which in­
+cludes dessert bananas, cooking ba­
+nanas and plantains, and their wild rela­
+tives . 
+Mycosphaerel/a fijiensis: wind-borne fun­
+gus causing black sigatoka disease 
+nematicide: chernical used in killing nema­
+todes 
+nematode : minute parasitic worm which 
+damages plant rools 
+neutral flowers: see hermaphrod ite flowers 
+no-till farming : farming without soil distur­
+bance 
+nuarim 'ol: a fungicide 
+"Nzizi " : a variety of cooking banana resistant 
+to black sigatoka 
+ovary: the basal portion of the flower which de­
+velops into a fruit in female flowers, but 
+not in hermaphrodite and male flowers 
+paraquat: a herbicide 
+peduncle: see rachis 
+peeper: a small sucker emerging from the soil 
+pegging: using pegs to mark a field or planting 
+holes 
+23 
+Pennisetum purpureum: elephant grass 
+phenamiphos : a nematicide 
+photosynth~s i s : synthesis of chemical com-
+pounds with the aid of light 
+phytotoxic : poisonous to plants 
+plant crop : the crop which is harvested from 
+the planted sucker 
+porous : having small holes through which 
+liquids can pass 
+prochloraz : a fungicide 
+propiconazole : a fungicide 
+propping : the action of supporting bearing 
+plants 
+protuberance: a lump or projection 
+pseudostem : false stem consisting of enclas-
+ping leaf sheaths 
+pulp: the edible part of the fruit 
+rachis : the peduncle, a stalk which bears fruit 
+ramification : branching 
+ratoon: the sucker succeeding the harvested 
+mother plant 
+scales : narrow leaves which are produced by 
+peepers and sword suckers 
+simazine: a herbicide 
+small plantains: plantains producing fewer 
+than 32 foliage leaves before flowering 
+snap-off: corm breaks, leaving a part in the 
+24 
+ground 
+split application : the application of identical 
+amounts of a substance (e.g. fertilizer) 
+at regular intervals 
+stem borer : see banana weevil 
+stool : see mat 
+sucker : a shoot from the main plant which can 
+develop into a bearing plant 
+sword sucker: a large peeper with lanceo­
+lated leaves 
+thinning : the process of eliminating all but one 
+sucker to avoid competition 
+tip-over : entire corm with the roots comes out 
+0f the ground 
+ton : 1000 kilograms 
+topsoil : soil at the top or on the surface of the 
+field which is usually darker and richer in 
+nutrients than the bottom soil under­
+neath it 
+triadimefon : a fungicide 
+triadimenol : a fungicide 
+triazole: a fungicide 
+tridemorph : a fungicide 
+uprootin g: see tip-over 
+waterlogging: when water remains on the 
+field after rain; this is caused by bad 
+drainage 
+ISBN 978 131 0618 
+International Institute 
+of Tropical Agriculture 
+PMB 5320 
+Oyo Road 
+Ibadan 
+Nigeria

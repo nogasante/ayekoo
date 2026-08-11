@@ -3,7 +3,9 @@
 # year: unknown
 # url: https://www.biorxiv.org/content/10.1101/474247.full.pdf
 # attribution: Sustaining yam yields in the forest–savannah transition zone of Ghana (preprint)
-# pages: 20
+# ghana_specific: True
+# extent: 20 pages
+# CAVEAT: PREPRINT — not peer reviewed. Ghana-specific and zone-specific, which is valuable, but flag any figure taken from it for Kobby's audit.
 #
 # Extracted text follows. Provenance above travels with every chunk
 # derived from this document.

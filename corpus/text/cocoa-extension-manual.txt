@@ -3,7 +3,8 @@
 # year: unknown
 # url: https://cgspace.cgiar.org/bitstream/handle/10568/93355/2nd_Draft_%20Harmonized_Manual.pdf
 # attribution: Manual for Cocoa Extension in Ghana (harmonized draft)
-# pages: 104
+# ghana_specific: True
+# extent: 104 pages
 #
 # Extracted text follows. Provenance above travels with every chunk
 # derived from this document.

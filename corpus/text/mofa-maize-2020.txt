@@ -3,7 +3,8 @@
 # year: 2020
 # url: https://mofa.gov.gh/site/images/pdf/production_guides/GUIDE_TO_MAIZE_PRODUCTION.pdf
 # attribution: MoFA/DAES, Guide to Maize Production (2020)
-# pages: 30
+# ghana_specific: True
+# extent: 30 pages
 #
 # Extracted text follows. Provenance above travels with every chunk
 # derived from this document.

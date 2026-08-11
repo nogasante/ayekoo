@@ -1,0 +1,1147 @@
+# Pest Control in Cassava Farms
+# publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+# year: 2000
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/fb6e188d-a0a8-4635-b691-189579aca9b3/content
+# attribution: IITA, Pest Control in Cassava Farms (2000)
+# ghana_specific: False
+# extent: 20 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+International Institute of T ropical Agriculture
+About this booklet
+This booklet is one in a set of field guides prepared by the International Insti-
+tute of T ropical Agriculture (IITA) to increase the technical knowledge of exten-
+sion agents and enhance the integration of plant protection and plant produc-
+tion practices in farmers’ efforts to grow a healthy crop of cassava. The booklet
+is based largely on the extension and farmer training experience of the regional
+project “Ecologically Sustainable Cassava Plant Protection” (ESCaPP), 1993–
+1997. ESCaPP was executed by IITA’s Plant Health Management Division
+(PHMD), in collaboration with national agricultural research and extension sys-
+tems in Bénin, Cameroon, Ghana, and Nigeria, and funded by the Division of
+Global and Interregional Programmes of the United Nations Development
+Programme (UNDP).
+IITA is one of 16 nonprofit international agricultural research and training cen-
+ters supported by the Consultative Group on International Agricultural Re-
+search (CGIAR). Their shared mission is the alleviation of hunger and poverty in
+tropical developing countries by generating appropriate plant production and
+protection technologies which benefit the poor and enhance agricultural pro-
+duction while preserving the natural resource base.  At IIT A, PHMD is dedicated
+to sustainable plant protection of primary food crops in Africa. The division’s
+research philosophy is to identify and correct the ecological imbalances in agri-
+cultural systems causing pest problems and to provide environmentally and
+economically appropriate options for integrated pest management (IPM).
+For more information contact:
+The Director
+IITA Plant Health Management Division
+Biological Control Center for Africa
+08 B.P . 0932
+Cotonou, Republic of Bénin
+Fax: (229) 35 05 56
+T el: (229) 35 01 88
+E-mail: IITA-benin@cgiar.org
+Or visit IITA’s website at: http://www.cgiar.org/iita
+Braima James, John Yaninek, Peter Neuenschwander,
+Anthony Cudjoe, Wester Modder, Nnamdi Echendu, Muaka Toko
+Pest Control
+in
+Cassava Farms
+Pest Control
+in
+Cassava Farms
+Pest Control
+in Cassava Farms
+IPM Field Guide for Extension Agents
+Braima James
+International Institute of Tropical Agriculture, Plant Health Management Division,
+Cotonou, Bénin
+JohnYaninek
+International Institute of Tropical Agriculture, Plant Health Management Division,
+Cotonou, Bénin
+Peter Neuenschwander
+International Institute of Tropical Agriculture, Plant Health Management Division,
+Cotonou, Bénin
+Anthony Cudjoe
+Department of Plant Protection and Regulatory Services, Ministry of Food and
+Agriculture, Pokoase, Ghana
+Wester Modder
+International Institute of Tropical Agriculture, Plant Health Management Division,
+Cotonou, Bénin
+Nnamdi Echendu
+National Root Crops Research Institute, Umudike, Umuahia, Abia State, Nigeria
+Muaka Toko
+International Institute of Tropical Agriculture, Plant Health Management Division,
+Cotonou, Bénin
+© IITA 2000
+ISBN 978-131-174-6
+Printed in Nigeria by Wordsmithes Printers, Lagos
+Contents
+What are the objectives of this guide? ------------------------------------------- 4
+Introduction -------------------------------------------------------------------------- 4
+What are the common pests in cassava farms? -------------------------------- 6
+Why are cassava pests important? ----------------------------------------------20
+When are cassava pests likely to cause severe losses?-----------------------22
+How can I best control cassava pests? ------------------------------------------24
+Summary -----------------------------------------------------------------------------35
+5
+IPM Field Guide Pest Control in Cassava Farms
+4
+What are the objectives of
+this guide?
+This field guide has been prepared to help you
+to:
+identify pests in cassava farms,
+specify how the pests can damage
+cassava,
+specify how the pests multiply and spread
+in cassava farms,
+identify and recognize the role of the
+natural enemies of cassava pests, and
+combine the most appropriate practices
+to control pests and grow a healthy crop
+of cassava.
+Introduction
+Insects,  mites, spiders, and other creatures oc-
+cur in cassava farms. Some of these creatures
+are harmful while others are beneficial. The
+harmful creatures are called pests because
+they feed on and damage cassava leaves and
+stems (Figures 1 and 2) and roots, causing
+losses to the farmer. Some of these pests are
+easily seen. However, there are others such as
+tiny mites which may not be easily noticed es-
+pecially if you are not trained to look for
+them. Even though the damage caused by
+pests may be obvious, this does not necessar-
+ily mean that the pest is causing yield loss. Pest
+control measures should be undertaken only
+when the pests are becoming very abundant
+and pose a high risk of yield loss, and/or the
+crop looks unhealthy.
+The beneficial creatures do not feed on cas-
+sava at all. Some feed on weeds, flowers, and
+dead plants. Others pollinate flowers or feed
+on pests. Those that feed on pests are called
+“natural enemies” (Figure 3). Natural enemies
+are your friends because they help to control
+pests on the farm.
+Figure 3:
+Ladybird beetle
+feeding on
+cassava mealybug
+(as seen enlarged
+under the
+microscope)
+Figure 2:
+Cassava plants
+debarked by
+variegated
+grasshopper
+Figure 1:
+Cassava leaves
+damaged by cassava
+mealybug
+
+7
+IPM Field Guide Pest Control in Cassava Farms
+6
+Figure 4: Cassava mealybug on the
+under surface of a cassava leaf
+What are the common pests
+in cassava farms?
+The pests of cassava are insects, mites, and
+vertebrates.  The pests attack and feed on dif-
+ferent parts of cassava plants. Some feed on
+the leaves and stems while others feed on the
+stems and roots.
+Leaf and stem feeders
+The common leaf and stem pests of cassava
+are cassava mealybug, cassava green mite, var-
+iegated grasshopper, and whiteflies.
+Cassava mealybug
+Appearance: The cassava mealybug, Phena-
+coccus manihoti is commonly found at cassava
+shoot tips, on the under surfaces of leaves
+(Figure 4), and on stems. The insects are cov-
+ered with large amounts of white waxy mate-
+rials. They are wingless, pink in color, oval in
+shape, and have very short body filaments
+(Figure 5).
+T wo other kinds of mealybugs occur on
+cassava. These are the green mealybug,
+Phenacoccus madeirensis, and the striped mea-
+lybug, Ferrisia virgata. Y ou should not confuse
+these with the cassava mealybug. The green
+mealybug is greenish white and not pink. The
+striped mealybug occurs mostly on surfaces
+of cassava stems (Figure 6). It has two long tail
+filaments, two dark stripes running along its
+upper body surface, and produces longer
+threads of white materials than the cassava
+mealybug. The green mealybug is more com-
+mon on cassava than the striped mealybug.
+Crop damage symptoms: The cassava
+mealybug sucks sap from cassava leaves and
+shoot tips. The pest reduces the lengths of
+the internodes and causes the leaves to clump
+together into “bunchy tops” (Figure 7). The
+pest also distorts the stems (Figure 8), dries
+up the leaves and eventually, if the attack is
+particularly severe, it defoliates the plants (Fig-
+ure 1). The damage is more severe in the dry
+than in the wet season.
+Reproduction: Populations of the cassava
+mealybug are all females. The insect lays eggs
+without mating. A single insect can therefore
+start a severe infestation. Y ou may notice
+masses of golden yellow eggs within colonies
+of the pest. The pest is more abundant in the
+dry than in the wet season.
+Method of spread: Newly hatched cassava
+mealybugs are tiny, light, and easily blown by
+wind from plant to plant. Also, the pest sur-
+vives on stem surfaces and is spread by being
+carried by farmers on cassava stem planting
+materials.
+Other crops attacked: The cassava mealy-
+bug feeds on cassava and no other food crops.
+Figure 8: Cassava stem distorted by
+cassava mealybug
+Figure 6: Striped mealybug on
+cassava stem
+Figure 7: Cassava shoot tip with
+“bunchy top” caused by cassava
+mealybug
+Figure 5: Body form of the cassava
+mealybug (as seen enlarged under the
+microscope)
+
+9
+IPM Field Guide Pest Control in Cassava Farms
+8
+Cassava green mite
+Appearance: Cassava green mite, Monony-
+chellus tanajoa, lives on the under surface of
+young cassava leaves (Figure 9). Mites are
+wingless, very tiny, and appear as specks to the
+naked eye. In the farm, you can see them more
+clearly if you look at them under a hand lens.
+The nymphs (immature mites) are green in
+color and turn yellowish as they get older. Red
+mites also occur on cassava, mostly on the
+older leaves, but they are not common and do
+not cause serious damage.
+Crop damage symptoms: Cassava green
+mite sucks sap from cassava leaves and shoot
+tips. The pest causes tiny yellow chlorotic
+spots the size of pin pricks, on the upper leaf
+surfaces (Figure 10). Y ou should not confuse
+chlorotic spots caused by the pest with the
+chlorotic patches of cassava mosaic disease
+(Figure 11). Y oung leaves attacked by cassava
+green mite become small and narrow (Figure
+12). The pest kills the terminal leaves and as
+these drop the shoot tip looks like a “candle-
+stick” (Figure 13). Cassava crop damage by the
+pest is more severe in the dry than in the wet
+season.
+Reproduction: Populations of cassava green
+mite consist of eggs, nymphs, and adult males
+and females. The pest mates before laying eggs.
+It is more abundant in the dry than in the wet
+season.
+Method of spread: Cassava green mite is
+tiny, light, and easily blown by wind from plant
+to plant. Also, it survives on stem surfaces and
+is spread by being carried by farmers on cas-
+sava stem planting materials.
+Figure 9: Cassava green mite (as seen
+enlarged under the microscope)
+Other crops attacked: The cassava green
+mite feeds only on cassava and not on other
+food crops.
+Figure 12: Cassava shoot tip with
+small and narrow leaves caused by
+cassava green mite
+Figure 10: Cassava leaf with chlorotic (pale)
+spots caused by cassava green mite
+Figure 11: Cassava leaves with chlorotic
+(pale) patches of cassava mosaic disease
+Figure 13: Cassava shoot tip in
+“candlestick” condition caused by
+cassava green mite
+
+11
+IPM Field Guide Pest Control in Cassava Farms
+10
+Variegated grasshopper
+Appearance: Adults of the variegated grass-
+hopper, Zonocerus variegatus, are green and
+have bold yellow, black, white and orange
+markings on their bodies (Figure 14). The
+nymphs are black with yellow markings on the
+body, legs, antennae and wing pads (Figure 15).
+The young nymphs gather in large numbers
+on weeds (Figure 16) and low-growing crops.
+Crop damage symptoms: The variegated
+grasshopper chews cassava leaves, petioles,
+and green stems. It defoliates the plants and
+debarks the stems (Figure 17). The pest dam-
+age is more common on older than on
+younger cassava plants, and is more severe in
+the dry than in the wet season.
+Reproduction: After mating, female varie-
+gated grasshoppers lay many egg pods just
+below the surface of the soil. The egg pods
+look like tiny groundnut pods. The egg laying
+sites always have vegetation which casts shade
+on the ground and keeps it moist, soft, and
+suitable for egg laying. These sites are usually
+close to cassava fields and small in surface
+area. In most of West and Central Africa, adult
+grasshoppers can be seen in large numbers at
+such sites, usually between March and May.
+The eggs start to hatch at the beginning of the
+main dry season, usually in October and No-
+vember.
+Method of spread: The variegated grasshop-
+per spreads by flying from farm to farm. How-
+ever, the insect does not fly over long distances.
+It spreads faster in areas where the forest has
+been cleared than in thick vegetation.
+Other crops attacked: In addition to cas-
+sava, the variegated grasshopper also feeds on
+citrus, cashew, cowpea, plantain, vegetables,
+and many other crops.
+Figure 17: Cassava plants defoliated
+and debarked by the variegated
+grasshopper
+Figure 14: Adult of the variegated
+grasshopper on cassava
+Figure 16: Nymphs of the variegated
+grasshopper on Siam weed,
+Chromolaena odorata
+Figure 15: Nymph of the variegated
+grasshopper
+
+13
+IPM Field Guide Pest Control in Cassava Farms
+12
+Spiraling whitefly
+Appearance: Adults of the spiraling whitefly,
+Aleurodicus dispersus, are bright white in color.
+Adults and nymphs of the insect occur in
+large numbers on the undersurfaces of cas-
+sava leaves covered with large amounts of
+white waxy materials (Figure 18).
+Crop damage symptoms: The spiraling
+whitefly sucks sap from cassava leaves. As it
+feeds, it secretes large amounts of honeydew
+which supports the growth of black mold on
+the plant (Figure 19). The blackened leaves
+dry up and drop.
+Reproduction: After mating, females of the
+spiraling whitefly lay eggs on the undersurface
+of leaves. The eggs occur in spiral patterns
+(like fingerprints) of white material secreted
+by the insect on the leaves (Figure 20). The
+insects are numerous mainly in the dry sea-
+son.
+Method of spread: The spiraling whitefly
+spreads by active flight and by being trans-
+ported on stem planting materials.
+Other crops attacked: In addition to cas-
+sava, the spiraling whitefly feeds on many
+types of fruit trees (for example, citrus, ba-
+nana, plantains), vegetables, and ornamental
+plants.
+Figure 20:
+Spiral pattern of
+white secretions
+within which eggs
+of the spiraling
+whitefly are
+located
+Figure 19:
+Cassava plant
+blackened under
+attack by the spiraling
+whitefly
+Figure 18:
+Adults of the
+spiraling whitefly
+
+15
+IPM Field Guide Pest Control in Cassava Farms
+14
+Bemisia whitefly
+Appearance: Adults of the whitefly, Bemisia
+tabaci, have bright white wings, as in the spiral-
+ing whitefly. The insects are, however, smaller
+than the spiraling whitefly and are not
+covered with white material (Figure 21). The
+adults and nymphs occur on the under-
+surfaces of young leaves. The nymphs appear
+as pale yellow oval specks to the naked eye.
+Crop damage symptoms: Bemisia white-
+flies suck sap from the leaves, but this does
+not cause physical damage to the plant. As
+they feed, the insects inject the plant with vi-
+ruses which cause cassava mosaic disease
+(Figure 11). This is the main reason why the
+insect is an important cassava pest.
+Figure 21: Adults of the Bemisia whitefly (as seen enlarged
+under the microscope)
+17
+IPM Field Guide Pest Control in Cassava Farms
+16
+Stem and root feeders
+The common stem and root pests of cassava
+are termites, cassava root scale, cassava white
+scale, and vertebrates.
+T ermites
+Appearance: Many different kinds of ter-
+mites damage cassava stems and storage
+roots. T ermites live in soil or in nests above
+the ground. They can also be found in tunnels
+on the surface of cassava stems. T ermite nests
+contain worker, soldier, queen, and king ter-
+mites. Worker and soldier termites are the
+ones you normally see when you break open
+the nests. The workers and soldiers are small
+insects with white or brown bodies and
+brown heads. They may or may not have wings.
+Worker termites cause all the damage to
+crops and feed all the other members of the
+nest. The soldier termites fight off other crea-
+tures which may enter or destroy the nest.
+Crop damage symptoms: In newly planted
+cassava farms termites chew and eat stem
+cuttings (Figure 22). These grow poorly, die
+and rot. In older cassava farms, termites chew
+and enter the stems (Figure 23). This weakens
+the stems and causes them to break easily.
+T ermite damage occurs mostly in the dry sea-
+son.
+Reproduction: King and queen termites pro-
+duce all the other members of the termite nest.
+They are always hidden in special chambers in
+the nests, and you are unlikely to see them.
+Other crops attacked:  In addition to cas-
+sava, termites attacks many other crops in-
+cluding maize, yam, and groundnut
+Cassava root scale
+The cassava root scale, Stictococcus vayssierrei,
+seems to be restricted to parts of Central
+Africa.
+Appearance: The cassava root scale lives
+underground on the storage roots, feeder
+roots and submerged stems of cassava. The
+insects are reddish-purple or brown in color,
+oval in shape, and look like ticks on cassava
+(Figure 24). They lack wings and are attached
+firmly to the plant.
+Crop damage symptoms: Cassava root
+scale attack causes the storage roots to be
+smaller than normal and deformed.
+Method of spread: It is not yet known how
+the cassava root scale spreads.
+Other crops attacked:  In addition to cas-
+sava, the cassava root scale attacks yam,
+cocoyam, and groundnut.
+Figure 24: Cassava root scale on
+underground cassava stem
+Figure 22: Cassava stem cutting
+destroyed by termites
+Figure 23:  Stem of a mature cassava
+plant chewed off by termites (termite
+nest in background, center)
+
+19
+IPM Field Guide Pest Control in Cassava Farms
+18
+Cassava white scale
+Appearance: The cassava white scale, Aonido-
+mytilus albus, is found mainly on cassava stem
+surfaces (Figure 25). The females are wingless,
+firmly attached to the stems, and covered
+with white material. The males have wings.
+Crop damage symptoms: The insect sucks
+sap from cassava stems. This causes the stems
+to lose a lot of water and die.
+Method of spread: Males of the cassava
+white scale can fly. However, the pest spreads
+mainly by wind and the transport and planting
+of infested stem cuttings.
+Vertebrate pests
+The common vertebrate pests of cassava are
+birds, rodents, monkeys, pigs, and domestic
+animals. The bird pests are usually bush fowl
+or francolins (Francolinus sp.) and wild guinea
+fowl. These birds feed on storage roots that
+have been exposed. They also scratch the soil
+surface to expose the storage roots (Figure
+26). The remaining portions of the attacked
+roots later rot. Birds are particularly a prob-
+lem where cassava is planted in soils that are
+loose and easy to scratch away.
+The major rodent pests of cassava are
+the grasscutter or cane rat (Thryonomys
+swinderianus), the giant rat (Cricetomys
+gambianus), other rats, mice, and squirrels.
+Among these, the grasscutter (Figure 27)
+causes the greatest damage to cassava. It cuts
+down and chews the stems, and also feeds
+on the storage roots. Pigs dig, uproot, and
+feed on cassava storage roots; monkeys
+damage cassava in a similar manner. Cattle,
+goats, and sheep defoliate cassava by eating
+the leaves and green stems.Figure 26:
+Cassava storage
+root pecked away
+by birds
+Figure 27:
+Grasscutters
+Figure 25:
+Cassava white
+scale on cassava
+stem
+
+21
+IPM Field Guide Pest Control in Cassava Farms
+20
+Why are cassava pests
+important?
+Cassava pests are important because they re-
+duce the yield from the crop. They cause food
+and income losses from cassava in the follow-
+ing ways.
+Loss of roots: Damage caused by pests to
+cassava leaves and green stems interferes with
+the way the plant makes food for storage in
+the roots. This will reduce the growth of the
+plants, the number of storage roots they can
+form, and the ability of the storage roots to
+swell with food and mature for harvest (Fig-
+ures 28 and 29). However, most cassava vari-
+eties can lose a lot of leaves before the root
+yield is reduced. Farmers should be dis-
+couraged from rushing to tackle control mea-
+sures at the first signs of damage.
+Loss of planting material: Some of the
+pests reduce the ability of cassava stem cut-
+tings to sprout. For example, the variegated
+grasshopper kills the axillary buds (“eyes” of
+stem cuttings) by debarking the stem (Figure
+17); the white scale (Figure 25) kills the axillary
+buds by covering and dehydrating the stems;
+cassava mealybug distorts and destroys cassava
+stems (Figure 8); and termites weaken the
+stems by chewing and burrowing into them
+(Figures 22 and 23). Other pests contaminate
+cassava stems and make them unhealthy for
+planting. Examples of such pests are the cassava
+mealybug (Figure 5), cassava green mite (Figure
+9), and spiraling whitefly (Figure 18).
+Loss of leaves: In areas where cassava leaves
+are used as food, leaf-feeding pests “rob”
+farmers and other consumers directly of leafy
+vegetables (Figure 30). For example, the cas-
+sava mealybug and variegated grasshopper de-
+foliate cassava plants (Figures 1 and 2). Cas-
+sava mealybug and cassava green mite distort
+cassava leaf shape and size (Figures 7 and 12).
+Cassava mealybug and spiraling whitefly con-
+taminate cassava leaves with whitish waxy
+materials and sooty mold (Figures 4 and 19).
+Cassava green mite and spiraling whitefly dis-
+color the leaves. These kinds of damage to the
+leaves will also reduce the ability of cassava
+plants to make sufficient food for storage in
+the roots.
+Carrier of cassava diseases: The whitefly,
+Bemisia tabaci (Figure 21), sucks sap from the
+leaves but causes little physical damage to cas-
+sava by doing so. However, during feeding the
+insect picks up viruses which cause cassava
+mosaic disease (Figure 11). It can later spread
+the viruses to other healthy cassava plants as
+it feeds.
+Increase in weed growth and soil ero-
+sion: Pests that defoliate cassava plants en-
+courage weed growth in farms because the
+cassava plants are no longer able to block sun-
+light from reaching the weeds growing under-
+neath. In loose soils, defoliation of cassava
+plants will expose the soil to erosion.
+Damage to other crops: In addition to cas-
+sava, most of the pests also feed on and dam-
+age other crops. Examples of cassava pests
+that feed on a wide range of crops are the
+variegated grasshopper, whiteflies, termites,
+and cassava root scale.
+Figure 29:
+Good cassava
+storage root
+yield
+Figure 30:
+Good cassava
+leaf harvest
+Figure 28:
+Poor cassava
+storage root yield
+
+23
+IPM Field Guide Pest Control in Cassava Farms
+22
+When are cassava pests likely
+to cause severe losses?
+The presence of pests in cassava farms does
+not always mean that they will cause severe
+losses in food and income. The appearances of
+pests and pest damage can be misleading. In
+some cases, cassava plants recover from the
+damage and provide good leaf, stem, and root
+yield. It is therefore very important to know
+the conditions under which pests can be seri-
+ous problems. The following pointers will help
+you to know when pests are likely to cause
+severe losses in cassava farms.
+The origin of pests: Some cassava pests
+have always been in Africa. These are known
+as “native pests”.  Examples of native pests are
+the variegated grasshopper (Figures 14 and
+15), termites, and cassava root scale (Figure
+24). Some other pests are new to Africa, and
+are only recently being seen on cassava plants.
+These kinds of pests were introduced by acci-
+dent to Africa from other continents (Figure
+31). They are called “introduced pests”. Ex-
+amples of introduced pests are the cassava
+mealybug (Figure 5), cassava green mite (Fig-
+ure 9), and spiraling whitefly (Figure 18). These
+pests are frequently introduced without the
+natural enemies which kill them in the areas
+from where they come. Hence they usually
+multiply and spread very rapidly causing se-
+vere crop damage.
+Cassava varieties: Losses caused by pests
+are less severe on some cassava varieties than
+on others. Generally, not much is known
+about cassava varieties which can tolerate
+damage by the pests. However, the IITA vari-
+ety TMS 30572 and the national varieties 8017
+and 8034 in Cameroon, and MS6 and NR
+8082 in Nigeria are good varieties against the
+cassava green mite (T able 1).
+The stage of plant growth at attack: Gen-
+erally, young cassava plants suffer more from
+pest attack than older plants. At 3–4 months
+after planting, the roots of most cassava variet-
+ies start to swell with food. At about 7 months
+after planting, the plants have formed the num-
+ber of storage roots they will carry during
+their growing period. This number will not in-
+crease much after this time, but the storage
+roots will continue to swell with food until
+they are harvested. Therefore, if pests attack
+cassava farms aged 7 months or less, the losses
+will be greater than if older plants are attacked.
+The plant parts attacked: Pests which
+damage the plant parts that you harvest “rob”
+you directly of food and income. For example,
+when cassava storage roots are attacked the
+plants do not replace them with more roots
+nor do the roots become bigger to compen-
+sate for the damage. Pests which cause this
+kind of damage are the cassava root scale and
+vertebrates which feed on the roots. How-
+ever, when pests attack cassava leaves the
+plants may produce new leaves and later pro-
+duce a good root yield.
+The season of attack: Many cassava pests
+are dry season pests. They will cause greater
+yield loss in cassava planted at the end of the
+wet season (late planting) than at the begin-
+ning of the season (early planting).
+The frequency of attack: Cassava plants
+usually recover from initial pest attack by pro-
+ducing new leaves. However, the plants may not
+recover from continued attack by the pest.
+Figure 31:  Map showing the origin and introduction of cassava mealybug and cassava green
+mite from South America to Africa
+
+25
+IPM Field Guide Pest Control in Cassava Farms
+24
+How can I best control
+cassava pests?
+The best way to control pests is to grow a
+healthy crop of cassava rather than simply aim
+at killing pest organisms. In order to grow a
+healthy crop, you will need to combine plant
+production and plant protection practices.
+IPM practices at planting
+Many integrated pest management (IPM) prac-
+tices in cassava are appropriate at planting.
+These include site selection, soil improvement
+practices, selection of appropriate varieties and
+planting materials. These practices are covered
+in the companion field guide “Starting a Cassava
+Farm”. T able 1 lists some cassava varieties that
+can withstand pest attack better than others.
+For example, the IITA variety TMS 30572 and
+the national varieties 8017 and 8034 in
+Cameroon, and MS6 and NR 8082 in Nigeria
+are good against the cassava green mite. In se-
+lecting a variety to grow against pests you
+should find out if the selected variety also has
+other features you may want.
+Many cassava pests are spread by carrying
+and planting infested stem cuttings. The main
+stem-borne pests are cassava mealybug (Fig-
+ure 5), cassava green mite (Figure 9), spiraling
+whitefly (Figure 18) and white scale (Figure
+25). These pests survive on cassava stems
+and leaves and are easily carried to new fields
+in this way. The companion field guide “Start-
+ing a Cassava Farm” presents the general
+guidelines on how to select healthy stem cut-
+tings to grow a healthy cassava crop. In se-
+lecting healthy planting material you should
+look for cassava plants with robust stems
+and stem branches, lush foliage, and minimal
+stem and leaf damage. Y ou should avoid se-
+lecting planting material from cassava plants
+with stem-borne pests or their damage
+symptoms.
+Cassava white scale normally occurs on a few
+cassava plants in cassava farms. During the
+growing period of the plants and after cassava
+root harvest, try and destroy the stems in-
+fested with the pest. Do not store cassava
+stems with any of the stem-borne pests. Re-
+move such infested stems from cassava stem
+bundles in storage.
+If it is difficult to get sufficient quantities of
+healthy stems you should treat the stem cut-
+tings against certain pests. For example, you
+can plant affected stem cuttings in a horizontal
+manner by laying them flat and burying them
+completely in the soil to kill pests on the stem
+surface. Y ou can also dip cassava cuttings in di-
+luted solution of a suitable pesticide (for ex-
+ample, 1% Rogor) to kill the pests. If pesticides
+are to be used, you should consult the label for
+guidelines on their application methods and
+how to avoid personal and environmental haz-
+ards associated with their use. In areas where
+termites are particularly a problem, you can
+smear the cut ends of cassava stem cuttings
+with a watery paste of soil mixed with kero-
+sene. This can limit termite damage.
+When cutting cassava stems into stem cut-
+tings for planting, you should select the middle
+brown-skinned portions of the stems. These
+parts sprout and ensure plant vigour better
+than the top green stem portions. The top
+green stems dehydrate quickly and are easily
+damaged by pests. Avoid unhealthy stem cut-
+tings as planting material.
+Variety
+Expression of selected features
+Yield
+potential % dry matter Cyanogenic
+potential
+Ground
+storability
+Weed
+suppression
+Tolerance to
+CGM
+Tolerance to
+CMD
+Tolerance to
+CBB
+IITA
+TMS 4(2)1425 High High Low Good Good Moderate Moderate Good
+TMS 30572 High High Moderate Moderate Good Moderate Good Good
+Benin
+BEN 86052 High High Low Poor Moderate Good Good Poor
+RB 89509 Moderate Moderate Low Good Poor Poor Good Moderate
+Cameroon
+8017 High High Moderate Poor Good Moderate Moderate Moderate
+8034 High High Moderate Poor Good Moderate Moderate Moderate
+Ghana
+"Afisiafi" High High Moderate Moderate Good Moderate Good Good
+"Abasa fitaa" High High Low Good Good Moderate Moderate Good
+Nigeria
+MS 6 High High Low Poor Poor Good Good Moderate
+NR 8082 High High High Moderate Good Good Good Good
+Source: IITA, INRAB-Benin, MoFA-CSD Ghana, IRAD-Cameroon, and NRCRI-Nigeria
+CGM = Cassava green mite
+CMD = Cassava mosaic disease
+CBB = Cassava bacterial blight
+T able 1: Some features of common cassava varieties in West and Central Africa
+27
+IPM Field Guide Pest Control in Cassava Farms
+26
+Figure 32: “Cassava trees”  for rearing natural enemies of pests
+Figure 33: Wooden sleeve cages for
+rearing natural enemies of  cassava
+pests
+The numbers of most cassava pests are higher
+and their damage is more severe in the dry
+season than in the wet season. It is therefore
+advisable to plant cassava early, at the begin-
+ning of the rains. This allows the crop to grow
+more vigorously and better withstand pest
+damage than in late planting.
+IPM practices after planting
+The common IPM practices after planting are
+biological control, microbial control, and cul-
+tural control.
+Biological control
+Many of the insects that you find in your cas-
+sava fields are “natural enemies”. Natural en-
+emies feed on other insects, including impor-
+tant cassava pests such as mites, mealybugs,
+scale insects, and whiteflies. The natural en-
+emies commonly found in cassava fields in-
+clude several kinds of beetles, predatory
+mites, and tiny wasps. The tiny wasps are called
+“parasitoids”. There are also some microbes
+that cause diseases in pests, but you cannot
+usually see these. Natural enemies are your
+friends in the fight against cassava pests. Using
+(or allowing) natural enemies to control your
+pests is called “biological control”.
+Cassava originally came from South America and
+many of its important pests, including the cas-
+sava mealybug and cassava green mite, were also
+brought to Africa from elsewhere. Biological
+control is especially effective against these “in-
+troduced” pests. In this kind of biological con-
+trol, scientists identify where the pest came
+from and then go to that “home region” and find
+the most effective natural enemies that control
+the pest and prevent it from becoming a pest
+there. The most promising natural enemies are
+then carefully tested to ensure that they will
+cause no harm in the new locality. When scien-
+tists are completely sure that a natural enemy is
+safe, they will bring it to the place where it is to
+be used as a “biological control agent”. Scientists
+initially rear large numbers of natural enemies
+(Figures 32 and 33) and release them in cassava
+farms. Usually natural enemies only have to be
+released once in a particular area and then they
+reproduce, multiply, and spread on their own,
+providing permanent control without farmers
+or plant protection services having to take any
+further action.
+Biological control does not eradicate pests. It
+reduces their numbers to low levels that do
+not cause severe damage to the crop. As the
+numbers of a pest drops, the number of natu-
+ral enemies will also drop. Similarly, if the pest
+numbers increase, the natural enemies will
+also increase. In this way both pest and natural
+enemies remain in balance in the locality. Be-
+cause the natural enemies may take a short
+while to build up, you may sometimes see
+some plants with pest damage symptoms,
+even in farms where biological control is al-
+ready in action. This should not cause any
+alarm. As long as the pest’s natural enemies
+continue to survive in the general area, they
+will soon arrive on the infested plants, multiply,
+and prevent the pest from causing severe
+damage.
+The common natural enemies used in biologi-
+cal control are predators and parasitoids.
+Sometimes, farmers can actively help them to
+work better. For the most part, the farmer
+needs only to avoid doing anything to disrupt
+the good job that natural enemies are doing.
+29
+IPM Field Guide Pest Control in Cassava Farms
+28
+Figure 36:
+Shoot of Mallotus
+oppositifolius
+Figure 35:
+Wild poinsettia,
+Euphorbia
+heterophylla
+Figure 34:
+Predatory mite
+(yellowish) feeding
+on cassava green
+mite (as seen
+enlarged under the
+microscope)
+Above all, farmers should avoid the use of pes-
+ticides on cassava because natural enemies
+are easily killed by pesticides. Wherever pos-
+sible, use pest control measures that do not
+harm natural enemies.
+Predators control pests by feeding on and
+killing them. Predatory ladybird beetles (Figure
+3) can help to control cassava mealybug or
+cassava white scale. Predatory beetles are also
+sometimes seen feeding on cassava green
+mite, but the most important biological con-
+trol agents of mite pests are predatory mites,
+called “phytoseiids” (Figure 34). Phytoseiids on
+cassava resemble the cassava green mite, but
+their body surface is shinier, and they run
+faster than the pests. In the farm you will see
+phytoseiids and the cassava green mite clearly
+only if you looked at them using a magnifying
+glass. Among predatory mites, Typhlodromalus
+aripo is the most effective against the cassava
+green mite. The predator occurs mainly on
+young leaves at cassava shoot tips. It spreads
+by wind and by being carried on stem cuttings.
+Farmers can increase the spread of predatory
+mites by plucking and carrying cassava shoot
+tips with the predator from one field to an-
+other. Farmers can also increase the survival
+and spread of these predators by growing cas-
+sava varieties whose new leaves clump to-
+gether at the shoot tip. These will attract the
+predators better than varieties whose young
+leaves are widely spread. Even though farmers
+may not grow such varieties for food or sale,
+they can grow a few plants in farms to attract
+the predators.
+Farmers can also leave certain weeds such as
+Euphorbia heterophylla (Figure 35) and Mallotus
+oppositifolius (Figure 36) on cassava farms to
+attract phytoseiids. The predators can live on
+these weeds when their food is scarce on cas-
+sava, ensuring that they are there to provide
+biological control when the cassava green
+mite comes up again. During weeding, farmers
+can leave the weeds to grow along the mar-
+gins or in other parts of cassava farms — but,
+of course, not so many that they compete
+with the crop. This cultural practice will be es-
+pecially useful at sites where cassava is grown
+continuously, with little or no fallow.
+
+31
+IPM Field Guide Pest Control in Cassava Farms
+30
+Parasitoids are natural enemies that kill in-
+sect pests by living and growing inside them.
+The parasitoids reared and released against
+cassava pests are mainly tiny wasps which lay
+their eggs inside the pests. The eggs hatch into
+larvae which eat the internal tissues of the
+pest, growing and killing it. The body of the
+dead pest does not rot but it becomes hard.
+This hardened body is called a “mummy”. The
+larvae grow into adult wasps inside the mum-
+mies. Later, tiny wasps emerge from these
+mummies and kill more pests by laying eggs in
+them.
+The wasp Apoanygyrus (= Epidinocarsis) lopezi
+(Figure 37) is the most effective natural en-
+emy against the cassava mealybug, and it has
+controlled the pest in most of Africa. Another
+tiny wasp, Encarsia haitiensis (Figure 39), is a
+common natural enemy of the spiraling white-
+fly. Mummies of the cassava mealybug are
+brown (Figure 38) while those of the spiraling
+whitefly are black (Figure 40).
+The wasp used in the biological control of the
+cassava mealybug prefers mealybugs that are
+large in size. Large mealybugs are found on
+vigorously growing cassava plants.  Soil im-
+provement practices which promote vigorous
+cassava plant growth will therefore improve
+biological control of the mealybug by the
+wasp.
+Biological control is safe because natural en-
+emies attack only the pests against which they
+have been reared and released; they do not
+attack other insects or plants. Biological con-
+trol is effective because natural enemies stay
+on the farm permanently and reproduce
+quickly to respond to any pest outbreak. Bio-
+Figure 38:  Mummy of the cassava
+mealybug (as seen enlarged under the
+microscope)
+Figure 37: A parasitoid wasp of cassava
+mealybug (as seen enlarged under the
+microscope)
+Figure 40: Mummies of the spiraling
+whitefly (as seen enlarged under the
+microscope)
+Figure 39: A parasitoid of spiraling whitefly
+(as seen enlarged under the microscope)
+logical control saves farmers the cost of pesti-
+cides and avoids the dangers of pesticides
+which can poison people, livestock, and the
+environment.
+33
+IPM Field Guide Pest Control in Cassava Farms
+32
+Microbial control
+Microbial control is a special form of biologi-
+cal control in which the natural enemies are
+“microbes” (fungi, bacteria, or viruses) that kill
+the pests by causing diseases in them. These
+“microbial control agents” may occur natu-
+rally on cassava farms and, like other natural
+enemies, they do their job without harming
+the crop or affecting people.
+Fungi have been found that kill the variegated
+grasshopper. The fungi are spread as “spores”
+which are like tiny seeds. The spores land on a
+pest, germinate, and the fungus then pen-
+etrates the body of the pest, growing and kill-
+ing it within a few days. When a diseased grass-
+hopper dies, its dead body may remain firmly
+gripped to the plant (Figure 41) or drop to the
+ground. “Biopesticides” consisting of fungus
+spores mixed in oil are being prepared by sci-
+entists as commercial products against the
+grasshopper. The product can be sprayed on
+weeds such as the Siam weed, Chromolaena
+odorata (Figure 42), to kill newly hatched
+nymphs which gather in large numbers on the
+weed (Figure 16). The product can also be
+sprayed directly on cassava to kill nymphs and
+adults of the grasshopper on the plant.
+Biopesticides can be sprayed using the same
+equipment as ordinary pesticides. However,
+biopesticides are much safer than chemical
+pesticides because they are not poisonous to
+people and domestic animals. Moreover,
+biopesticides do not kill natural enemies, so
+they can be used to kill one kind of pest with-
+out disrupting other kinds of biological con-
+trol in the cassava farm.
+Figure 41: Nymph of the variegated grasshopper killed by
+fungal disease
+Figure 42: Shoots of Siam weed, Chromolaena odorata
+
+35
+IPM Field Guide Pest Control in Cassava Farms
+34
+Cultural control
+The variegated grasshopper can also be
+controlled by cultural practices. In any year,
+the abundance of the variegated grasshopper
+depends largely on the number of egg pods
+that survive in the soil during the wet season.
+The destruction of egg pods will therefore
+reduce the numbers of the pest. Farmers can
+locate and mark egg-laying sites early in the
+wet season. At a later stage they can then dig
+up the soil at the sites to expose and destroy
+the egg pods. The digging up of eggs should be
+done before the eggs start to hatch early in
+the dry season, for example, in October in
+most of West Africa.
+The variegated grasshopper does not lay egg
+pods deep in the soil. Therefore, it is easy to
+dig out the egg pods. However, egg pod de-
+struction needs to be carried out over a wide
+area in the wet season in order to control the
+pest effectively. This will require the participa-
+tion of many farmers on many neighboring
+cassava farms. If only one farmer destroys the
+eggs in and around his/her farm, the pest will
+later invade the farm from the neighboring
+farms and bushes. Extension agents can orga-
+nize the community of villages to dig up and
+destroy the egg pods on as many farms as
+possible.
+Certain weeds, for example, the Siam weed
+Chromolaena odorata (Figure 42), harbor im-
+mature stages of the variegated grasshopper
+(Figure 16). From the weeds the pest will
+move onto cassava plants. Y ou can therefore
+discourage the pests from gathering in your
+farm by removing these weeds in your farm.
+Vertebrate pests of cassava are usually diffi-
+cult to control. A number of cultural practices
+will however help to reduce the damage
+caused by these pests:
+ make good seedbeds for planting cassava
+so that the storage roots will not be easily
+exposed later on; if the storage roots are
+exposed, cover them with soil to prevent
+them from being attacked and eaten by
+birds and rodents;
+ fence farms to prevent entry by grasscut-
+ters, cattle, sheep, and goats; set traps in
+the fence against grasscutters and other
+rodents;
+ weed cassava farms on time and slash
+weeds and vegetation around the farm to
+discourage grasscutters and other ro-
+dents;
+ organize the village community to hunt for
+grasscutters in your area;
+ grow “bitter” cassava varieties where pigs
+and monkeys are a severe problem; pigs
+and monkeys prefer “sweet” cassava vari-
+eties;
+ harvest cassava storage roots as soon as
+they are mature; this will reduce the length
+of time they can be exposed and damaged
+by the pests.
+Summary
+T o control pests and grow a healthy crop of cassava:
+ Identify the common pests, their damage symptoms, and natural enemies
+correctly; know the conditions under which the pests will cause severe losses.
+ Select sites with dense vegetation, deep loamy soils, and flat or gently sloping
+land to plant cassava.
+ Improve the soils by manuring, mulching, and intercropping.
+ Grow cassava varieties that tolerate the common pests in your area.
+ Plant healthy stem cuttings or treat the stem cuttings against pest damage;
+avoid transporting and planting cassava stems infested with stem-borne pests;after
+harvesting, destroy cassava stems infested with stem-borne pests.
+ Plant cassava mainly at the beginning of the wet season; avoid late planting
+ Use natural enemies against cassava pests.
+ Do not spray pesticides on cassava as these will kill the natural enemies of
+cassava pests.
+ Dig egg-laying sites of the variegated grasshopper in the wet season to expose and
+destroy egg pods of the pest.
+ In the control of bird, rodent, and other vertebrate pests of cassava, fence farms and
+set traps in the fence; cover exposed storage roots with soil; organize villages
+to hunt for grasscutters; weed your cassava farm on time to discourage rodent
+pests; and harvest cassava storage roots as soon as they are mature.
+Pest Control in Cassava Farms
+36
+Acknowledgements
+Special thanks to the United Nations Development Programme and the Austrian government
+which provided funds, and to the following institutions which provided materials, information, and
+services for the production of the set of cassava IPM field guides:
+ Agricultural Development Programmes (ADPs) in Abia, Akwa Ibom, Anambra, Benue,
+Cross Rivers, Rivers, Delta, Edo, Enugu, Imo, Kogi, Kwara, Ogun, Ondo, Osun, Oyo, and
+Plateau State Governments, Nigeria
+ Centre d’Action Régionale pour le Développement Rural (CARDER), Bénin
+ Centro International de Agricultura T ropical (CIAT), Cali, Colombia
+ Crop Services Department (CSD), Department of Agricultural Extension Services (DAES),
+and Plant Protection and Regulatory Services Department (PPRSD), Ministry of Food and
+Agriculture, Ghana
+ Federal University of T echnology, Owerri, Nigeria
+ Fourah Bay College, University of Sierra Leone, Freetown, Sierra Leone
+ IITA Eastern and Southern African Regional Centre (ESARC), Uganda
+ Institut de Recherche Agronomique et du Développement (IRAD), Cameroon
+ Institut National de Recherche Agronomique du Bénin (INRAB), Bénin
+ National Root Crops Research Institute (NRCRI), Umudike, Nigeria,
+ Rural T raining Centre (RTC, Presbyterian Church) in Fonta and Kumba, Cameroon
+ Sasakawa Global 2000, Bénin
+ Service de Protection des Végétaux et du Contrôle Phytosanitaire (SPVC), Bénin
+ Southern African Root Crops Research network (SARRNET), Malawi
+ University of Agriculture, Abeokuta, Nigeria
+ University of Buea, Buea, Cameroon
+ University of Cape Coast, Cape Coast, Ghana

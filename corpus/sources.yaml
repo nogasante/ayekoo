@@ -83,7 +83,7 @@ sources:
     attribution: "IITA, Cassava in Tropical Africa: A Reference Manual (1990)"
     ghana_specific: false
     caveat: "Continental scope, 1990. Agronomy is durable; variety names and prices are not. Do not cite for varieties or costs."
-    status: candidate
+    status: dead  # iita.org unreachable; cassava covered by the CGSpace mirrors below
 
   - id: iita-cassava-training
     title: A Comprehensive Training Module on Competitive Cassava Production
@@ -94,7 +94,7 @@ sources:
     topics: [planting_calendar, inputs_costs, pests_diseases]
     attribution: "IITA, Training Module on Competitive Cassava Production"
     ghana_specific: false
-    status: candidate
+    status: dead  # iita.org unreachable from this network; superseded by the CGSpace mirror below
 
   - id: iita-plantain-west-africa
     title: "Plantain Cultivation Under West African Conditions: A Reference Manual"
@@ -106,7 +106,7 @@ sources:
     attribution: "IITA, Plantain Cultivation Under West African Conditions"
     ghana_specific: false
     caveat: "West African scope. Closest available authority for plantain; MoFA has no plantain guide."
-    status: candidate
+    status: dead  # iita.org unreachable; superseded by plantain-west-africa-manual via CGSpace
 
   - id: iaea-cassava-guidelines
     title: Cassava Production Guidelines for Food Security and Adaptation to Climate Change
@@ -129,6 +129,120 @@ sources:
     attribution: "Sustaining yam yields in the forest–savannah transition zone of Ghana (preprint)"
     ghana_specific: true
     caveat: "PREPRINT — not peer reviewed. Ghana-specific and zone-specific, which is valuable, but flag any figure taken from it for Kobby's audit."
+    status: candidate
+
+  # ── IITA material, mirrored on CGSpace ──────────────────────────────────────
+  # iita.org is unreachable from this network (connection failures, not 404s),
+  # but CGSpace hosts the same publications and responds fine. These are the
+  # substantive cassava and yam sources. Still not Ghana-specific — IITA is
+  # Nigeria-based and these are West African / continental in scope.
+
+  - id: cgspace-cassava-growing-manual
+    title: "Growing Cassava: A Training Manual from Production to Postharvest"
+    publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+    year: 2014
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/fb5de9eb-dc75-4449-aaf2-09fe85a0c7ae/content
+    crops: [cassava]
+    topics: [planting_calendar, pests_diseases, inputs_costs, harvest_storage]
+    attribution: "IITA, Growing Cassava: A Training Manual from Production to Postharvest (2014)"
+    ghana_specific: false
+    status: candidate
+
+  - id: cgspace-cassava-starting-farm
+    title: Starting a Cassava Farm
+    publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+    year: 2000
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/235db80f-e404-414e-8a18-579377a84479/content
+    crops: [cassava]
+    topics: [planting_calendar]
+    attribution: "IITA, Starting a Cassava Farm (2000)"
+    ghana_specific: false
+    status: candidate
+
+  - id: cgspace-cassava-pest-control
+    title: Pest Control in Cassava Farms
+    publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+    year: 2000
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/fb6e188d-a0a8-4635-b691-189579aca9b3/content
+    crops: [cassava]
+    topics: [pests_diseases]
+    attribution: "IITA, Pest Control in Cassava Farms (2000)"
+    ghana_specific: false
+    status: candidate
+
+  - id: cgspace-yam-minisetts
+    title: "Seed Yam Production from Minisetts: A Training Manual"
+    publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+    year: 2014
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/be8b070e-34cc-4f06-b3a9-6b07df418f74/content
+    crops: [yam]
+    topics: [planting_calendar, inputs_costs]
+    attribution: "IITA, Seed Yam Production from Minisetts: A Training Manual (2014)"
+    ghana_specific: false
+    status: candidate
+
+  - id: cgspace-yam-diseases
+    title: "Management of Yam Diseases: IITA Research Guide No. 39"
+    publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+    year: 1992
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/92e714ab-4f2c-4838-a5f3-5387f685696b/content
+    crops: [yam]
+    topics: [pests_diseases]
+    attribution: "IITA, Management of Yam Diseases: Research Guide No. 39 (1992)"
+    ghana_specific: false
+    caveat: "1992. Disease biology is durable; recommended chemicals may be outdated or now banned. Do not cite for pesticide recommendations without checking current Ghanaian registration."
+    status: candidate
+
+  # ── Plantain, via CGSpace ───────────────────────────────────────────────────
+  # MoFA has no plantain guide. These are the substitute. Not Ghana-specific,
+  # but Swennen's manual is the standard West African reference and black
+  # sigatoka is the disease that matters most to Ghanaian plantain farmers —
+  # every Ghanaian landrace is susceptible to it.
+
+  - id: plantain-west-africa-manual
+    title: "Plantain Cultivation Under West African Conditions: A Reference Manual"
+    publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+    year: 1990
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/d9fc03fa-3836-45a2-9d85-0ab1df79de8d/content
+    crops: [plantain]
+    topics: [planting_calendar, pests_diseases, harvest_storage]
+    attribution: "Swennen, Plantain Cultivation Under West African Conditions (IITA, 1990)"
+    ghana_specific: false
+    caveat: "1990, West African scope. Agronomy durable; do not cite for varieties or chemicals."
+    status: candidate
+
+  - id: plantain-black-sigatoka
+    title: Black Sigatoka in Plantain and Banana
+    publisher: CGIAR / IITA, via CGSpace
+    year: 2015
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/bf0ebc2d-4e27-424a-b0e6-6020c4faf887/content
+    crops: [plantain]
+    topics: [pests_diseases]
+    attribution: "Black Sigatoka in Plantain and Banana (CGIAR/IITA, 2015)"
+    ghana_specific: false
+    status: candidate
+
+  - id: plantain-sop-planting
+    title: Standard Operating Procedure for Land Preparation and Planting Banana and Plantain
+    publisher: CGIAR, via CGSpace
+    year: 2025
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/2fbaac32-3fdb-4c2a-b083-aaa0dc68662c/content
+    crops: [plantain]
+    topics: [planting_calendar]
+    attribution: "CGIAR, SOP for Land Preparation and Planting Banana and Plantain (2025)"
+    ghana_specific: false
+    status: candidate
+
+  - id: plantain-macropropagation
+    title: "Rapid Multiplication of Plantain and Banana: Macropropagation Techniques — A Pictorial Guide"
+    publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+    year: 2002
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/7138c34e-802e-4267-ac82-d170a7607721/content
+    crops: [plantain]
+    topics: [planting_calendar]
+    attribution: "IITA, Rapid Multiplication of Plantain and Banana (2002)"
+    ghana_specific: false
+    caveat: "Pictorial guide — text extraction may be thin relative to page count."
     status: candidate
 
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────

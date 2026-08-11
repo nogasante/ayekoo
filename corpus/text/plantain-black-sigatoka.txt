@@ -1,0 +1,179 @@
+# Black Sigatoka in Plantain and Banana
+# publisher: CGIAR / IITA, via CGSpace
+# year: 2015
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/bf0ebc2d-4e27-424a-b0e6-6020c4faf887/content
+# attribution: Black Sigatoka in Plantain and Banana (CGIAR/IITA, 2015)
+# ghana_specific: False
+# extent: 2 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Although plantain variety Africa is susceptible to black sigatoka, its 
+production is precocious, enabling it to tolerate disease attack and attain 
+harvest with a higher number of functional leaves.
+Chemical control. Applications of chemical fungicides can reduce 
+damage caused by black sigatoka, but its use must be justified and 
+supervised to prevent cost overruns, harm to human health, and damage 
+to the environment. Recommendations are to:
+•	Apply fungicides only under conditions of high inoculum pressure 
+(e.g.,	susceptible	variety,	or	rainy	season	with	temperatures	at	≥23	°C).
+•	Consult	an	agronomist	for	recommendations	on	chemical	control.
+•	Before applying, remove leaves or conduct leaf surgery.
+•	Alternate the fungicides’ mode of action (e.g., systemic  contact  
+systemic 	contact)	to	prevent	the	appearance	of	fungal	populations	
+resistant to fungicide applications.
+•	Use dispersants and additives to improve the effectiveness of 
+applications.
+•	Carry	out	applications	either	in	the	mornings	or	evenings,	and	use	
+protective equipment.
+Additional reading
+Cuéllar	A;	Álvarez	E;	Castaño	J.	2011.	Evaluación	de	resistencia	de	
+genotipos de plátano y banano a la sigatoka negra (Mycosphaerella 
+fijiensis	Morelet).	Rev	Fac	Nac	Agron	Medellín	64(1):5853–5865.
+FHIA	(Fundación	Hondureña	de	Investigación	Agrícola).	2014.	
+Homepage.	Available	at	www.fhia.org.hn/.
+Ganry	J;	Fouré	E;	de	Lapeyre	de	Bellaire	L;	Lescot	T .	2012.	An	integrated	
+approach	to	control	the	black	leaf	streak	disease	(BLSD)	of	bananas,	
+while	reducing	fungicide	use	and	environmental	impact.	In:	
+Dhanasekaran	D;	Thajuddin	N;	Panneerselvam	A,	eds.	Fungicides	for	
+plant	and	animal	diseases.	DOI:	10.5772/29794.
+Gañán	L;	León	J;	Aristizábal	M;	Castaño	J.	2007.	Prácticas	de	manejo	de	
+las sigatokas amarilla (Mycosphaerella musicola) y negra 
+(Mycosphaerella fijiensis)	en	plátano	Dominico	Hartón	(Musa AAB 
+Simmonds).	Agronomía	15(2):39–48.
+Hoyos	JE;	Castaño	J.	2007.	Evaluación	de	resistencia	de	Mbouroukou	
+(África	1)	y	FHIA03	a	la	sigatoka	negra	(Mycosphaerella fijiensis 
+Morelet)	y	sigatoka	amarilla	(Mycosphaerella musicola	Leach).	
+Agronomía	15(2):67–76.
+Marín	D;	Romero	R;	Guzmán	M;	Sutton	TB.	2003.	Black	sigatoka:	an	
+increasing	threat	to	banana	cultivation.	Plant	Disease	87(3):208–222.
+Orozco-Santos	M;	Orozco-Romero	J;	Pérez-Zamora	O;	Manzo-Sánchez	
+G;	Farías-Larios	J;	da	Silva	Moraes	W .	2008.	Prácticas	culturales	para	
+el	manejo	de	la	sigatoka	negra	en	bananos	y	plátanos.	T ropical	Plant	
+Pathology	33(3):189–196.
+This	brochure	was	produced	with	the	support	of	the	Food	and	Agriculture	Organization	
+(FAO)	of	the	United	Nations	under	the	CIAT–FAO	Support	Agreement	to	validate	risk	
+management strategies for transboundary pest movement, focusing on managing Moko 
+disease and black sigatoka in Musaceae.
+Photos:	Neil	Palmer	(CIAT)	and	Alejandra	Cuéllar
+Figure	3.	 The	reactions	of	different	banana	and	plantain	materials	
+to black sigatoka.
+Varieties with partial resistance:                        
+Plantain:	FHIA-21,	FHIA-20,	T opocho,	Maqueño.
+Banana:	 Fougamou,	Sedita,	Pisang	Mas,	Pisang	Ceylan,	FHIA-02, 
+	 FHIA-03,	FHIA-17,	FHIA-23	(Figure	3).
+A guide for recognizing and managing
+the disease in family agriculture
+Black Sigatoka in Plantain 
+and Banana
+For more information
+Elizabeth Álvarez, Ph.D., Plant Pathologist 
+International	Center	for	T ropical	Agriculture	(CIAT) 
+Km	17	Recta	Cali-Palmira,	Valle	del	Cauca,	Colombia	 
+Phone:	+57	2	4450000	Ext.	3385 
+E-mail:	e.alvarez@cgiar .org
+Alberto Pantoja, Ph.D. 
+Regional	Plant	Production	and	Protection	Officer 
+FAO–Regional	Office	for	Latin	America	and	the	Caribbean 
+Phone:	+56	2	9232295 
+E-mail:	alberto.pantoja@fao.org
+ Sedita FHIA-23 Gran Enano Valery
+ FHIA-21 Topocho D. Hartón Africa
+Elizabeth	Álvarez,	Alberto	Pantoja,	Lederson	Gañán	and 
+Germán	Ceballos
+March	2015
+
+Importance
+Black	sigatoka,	also	known	as	black	leaf	streak	disease	or	BLSD,	is	
+caused by the fungus Mycosphaerella fijiensis.	This	leaf	disease	
+represents the principal limitation to the production of musaceas, that 
+is,	plantains	and	bananas,	worldwide.	The	disease	affects	leaves	and	
+thus	the	plant’s	ability	to	photosynthesize,	resulting	in	bunches	and	
+fruits	that	weigh	less	than	those	from	healthy	plants.	Severe	infections	
+of black sigatoka can also cause premature ripening of fruit.
+Symptoms
+According	to	Fouré’s	scale,	symptoms	of	black	sigatoka	pass	through	
+six	stages	of	development	(Figure	1):
+Stage 1.	 Small	(<1	mm)	lesions	or	spots,	yellowish-white	to	brown	
+in color, that are barely visible on the  lower surfaces of 
+leaves.
+Stage 2.		 Chlorotic	brown	streaks,	3–4	x	1	mm	in	size.
+Stage 3.		 The	streaks	lengthen	by	as	much	as	2	cm	and	also	widen,	
+giving the impression of having been painted on by brush. 
+Edges	are	brown	but	not	well-defined.
+Stage 4.	 Oval-shaped	blotches,	coffee-colored	on	the	lower	surfaces	
+and black on the upper surfaces of leaves. 
+Stage 5. Black blotches, each surrounded by a black ring and 
+sometimes	a	yellowish	halo;	centers	are	dry	and	semi-
+sunken.
+Stage 6.	 Light	brown	blotches	surrounded	by	chlorotic	tissue;	
+centers are dry and sunken.
+Epidemiology
+Disease	development	is	directly	influenced	by	climatic	conditions,	
+varietal susceptibility, and crop management. Geographical areas 
+most affected by black sigatoka typically have rainfall of more than 
+1400	mm	per	year ,	relative	humidity	of	more	than	80%,	and	
+temperatures	averaging	between	23	and	28	°C.	The	disease	is	most	
+aggressive during rainy seasons because of the continuous presence 
+of water films on leaves, thus favoring the release and infestation of 
+spores.	How	black	sigatoka	develops	on	a	Musa	plant	is	shown	in	
+Figure	2.
+Figure	1.		Six	stages	of	symptomatology	of	black	sigatoka.
+1 and 2 2 and 3 4 and 5 6
+Spores	are	dispersed	by	wind	
+or water splash onto a new leaf 
+(e.g.,	cigar	leaf)
+Fungal	spores	are	produced	
+during	stages	3	to	6
+Spores	germinate	
+and infect the leaf 
+through stomata
+Asymptomatic but 
+infected tissue
+Stages	1	and	2	are	first	
+observed on the lower 
+surface	of	leaf	3	at	10	to	30	
+days after infection
+10	to	30	
+days
+10	to	30	
+days
+2	to	4	 
+days
+Figure	2.	 Disease	cycle	of	black	sigatoka.
+Management
+Black sigatoka can be controlled through integrated disease 
+management	(IDM),	an	approach	that	offers	farmers	effective,	safe,	
+and	sustainable	solutions.	Success	depends	on	skill	in	combining	
+different practices that are compatible and applicable to the 
+agroecosystem according to ecological, economic, and technical 
+principles.	The	main	methods	for	managing	the	disease	are	
+described below.
+Cultural Control. Seeks	to	reduce	pathogen	inoculum	sources	and	improve	
+growing	conditions	for	plantain	or	banana	plants	to	minimize	impact	from	the	
+disease.	The	following	practices	are	used:
+•	Use of healthy or certified planting materials.
+•	Construction	of	drains	to	prevent	water-saturated	soil.
+•	Planting	of	associated crops	such	as	maize	and	coffee.
+•	Applications of mineral fertilizer that contribute, in particular, phosphorus 
+(P),	potassium	(K),	and	calcium	(Ca),	together	with	supplements	of	
+organic	matter ,	plantain	rachis	lixiviates,	and	biofertilizers.
+•	Deleafing	is	recommended	where	leaves	are	more	than	50%	affected.	
+Otherwise,	surgery is performed, where fragments of affected leaves 
+(stages	3	to	6)	are	removed	every	15	days	during	rainy	seasons	and	every	
+20	to	30	days	during	dry	seasons.	The	leaves	must	then	be	chopped	up	to	
+accelerate their degradation in soil.
+•	Management of weeds and pests, including phytoparasitic nematodes 
+and crop diseases.
+•	Suckers	and	male	buds	pruned, dried plant materials trimmed, and 
+bunches dehanded and covered with translucent plastic bags.
+Genetic resistance.	Some	varieties	of	musaceas	have	shown	partial	
+resistance to black sigatoka, that is, the plant may be affected by the disease, 
+but lesion areas and sporulation capacity are reduced, and the time of 
+symptom evolution is slower than in more susceptible varieties.
+Institutions	such	as	the	Honduras	Foundation	for	Agricultural	Research	(FHIA)	
+have developed plantain and banana cultivars with partial resistance to black 
+sigatoka.
+It	should	be	remembered	that	known	resistant	varieties	differ	in	characteristics	
+such	as	appearance,	size,	flavor ,	texture,	and	post-harvest	maturation.

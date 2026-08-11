@@ -1,0 +1,803 @@
+# Starting a Cassava Farm
+# publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+# year: 2000
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/235db80f-e404-414e-8a18-579377a84479/content
+# attribution: IITA, Starting a Cassava Farm (2000)
+# ghana_specific: False
+# extent: 12 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Braima James, John Yaninek, Ambe Tumanteh,
+Norbert Maroya, Alfred Dixon, Rasaq Salawu, Joseph Kwarteng
+Starting
+a
+Cassava Farm
+Starting
+a
+Cassava Farm
+International Institute of T ropical Agriculture
+About this booklet
+This booklet is one in a set of field guides prepared by the International Insti-
+tute of T ropical Agriculture (IITA) to increase the technical knowledge of exten-
+sion agents and enhance the integration of plant protection and plant produc-
+tion practices in farmers’ efforts to grow a healthy crop of cassava. The booklet
+is based largely on the extension and farmer training experience of the regional
+project “Ecologically Sustainable Cassava Plant Protection” (ESCaPP), 1993–
+1997. ESCaPP was executed by IITA’s Plant Health Management Division
+(PHMD), in collaboration with national agricultural research and extension sys-
+tems in Bénin, Cameroon, Ghana, and Nigeria, and funded by the Division of
+Global and Interregional Programmes of the United Nations Development
+Programme (UNDP).
+IITA is one of 16 nonprofit international agricultural research and training cen-
+ters supported by the Consultative Group on International Agricultural Re-
+search (CGIAR). Their shared mission is the alleviation of hunger and poverty in
+tropical developing countries by generating appropriate plant production and
+protection technologies which benefit the poor and enhance agricultural pro-
+duction while preserving the natural resource base. At IITA, PHMD is dedicated
+to sustainable plant protection of primary food crops in Africa. The division’s
+research philosophy is to identify and correct the ecological imbalances in agri-
+cultural systems causing pest problems and to provide environmentally and
+economically appropriate options for integrated pest management. (IPM)
+For more information contact:
+The Director
+IITA Plant Health Management Division
+Biological Control Center for Africa
+08 B.P . 0932
+Cotonou, Republic of Bénin
+Fax: (229) 35 05 56
+T el: (229) 35 01 88
+E-mail: IITA-benin@cgiar.org
+Or visit IITA’s website at: http://www.cgiar.org/iita
+Starting a Cassava Farm
+IPM Field Guide for Extension Agents
+Braima James
+International Institute of Tropical Agriculture, Plant Health Management Division,
+Cotonou, Bénin
+John Yaninek
+International Institute of Tropical Agriculture, Plant Health Management Division,
+Cotonou, Bénin
+Ambe Tumanteh
+Institut de Recherche Agronomique et du Développement, Ekona, Cameroon
+Norbert Maroya
+Institut National des Recherches Agricoles du Bénin, Niaouli, Bénin
+Rasaq Salawu
+Ogun State Agricultural Development Project, Ogun State, Abeokuta, Nigeria
+Alfred Dixon
+International Institute of Tropical Agriculture, Crop Improvement Division, Ibadan,
+Nigeria
+Joseph A. Kwarteng
+Department of Agricultural Economics and Extension, University of Cape Coast,
+Cape Coast, Ghana
+© IITA 2000
+ISBN 978-131-173-8
+Printed in Nigeria by Wordsmithes Printers, Lagos
+Contents
+What are the objectives of this guide? ------------------------------------------- 4
+Introduction -------------------------------------------------------------------------- 4
+How do I select a good site for planting cassava?------------------------------ 6
+How do I improve the soil for planting cassava? ------------------------------- 8
+How do I select the best cassava varieties to plant? --------------------------10
+How do I select healthy cassava stem cuttings? -------------------------------12
+How do I best plant cassava? -----------------------------------------------------16
+Summary -----------------------------------------------------------------------------19
+5
+IPM Field Guide Starting a Cassava Farm
+4
+What are the objectives of this
+guide?
+This field guide has been prepared to help you
+to:
+select good sites for cassava farms,
+improve soils for good cassava growth,
+select suitable cassava varieties for plant-
+ing, and
+select, prepare, and plant healthy cassava
+stem cuttings.
+Introduction
+Cassava is one of the most common food
+crops grown and consumed in many parts of
+Africa. The crop grows well in various soil
+types and ecologies. It can be planted alone or
+in association with many other crops, like
+maize, groundnuts, vegetables, and rice. Grow-
+ing cassava is not very labor intensive and usu-
+ally requires 75–125 person-days per hectare
+from land preparation to harvesting. The stor-
+age roots can be harvested 9–18 months after
+planting. Under traditional farming practices,
+one can expect between 8 and 15 tonnes of
+storage roots per hectare of land planted only
+with cassava. Even under harsh environmental
+conditions cassava will provide some food
+when other crops fail. In most places there is a
+good market for cassava. The storage roots
+can be processed into various food products
+(Figures 1 and 2), and starch for domestic
+consumption, local, and/or export markets.
+Cassava leaves are nutritious vegetables (Fig-
+ure 3). The leaves and storage roots can also
+be used as animal feed. The stems can be sold
+as planting material.
+In order to grow a healthy crop of cassava
+you will need to combine plant production
+and plant protection practices. These include
+site selection, soil improvement, variety and
+planting material selection, and planting and
+post-planting measures against weeds, pests,
+and diseases. The companion field guides on
+“Weed Control in Cassava Farms”, “Pest Con-
+trol in Cassava Farms”, and  “Disease Control
+in Cassava Farms” cover specific details of
+weeds, pests and diseases.
+Figure 2:
+Gari preparation
+Figure 3:
+Good cassava leaf
+harvest
+Figure 1:
+Assorted
+cassava products
+
+7
+IPM Field Guide Starting a Cassava Farm
+6
+Figure 4:  T esting soil texture by the “feel”
+method
+How do I select a good site for
+planting cassava?
+Cassava grows best in areas with deep and
+well-drained loamy soils, adequate rainfall, and
+warm and moist climatic conditions. The fac-
+tors which guide you to determine if an area
+will be suitable for growing cassava include veg-
+etation cover, soil texture and fertility, topogra-
+phy of land, and the field history of the area.
+Look for an area with thick vegetation
+cover: Sites with dense vegetation cover are
+likely to have fertile soils. The dense vegetation
+shades the soil from direct sunlight, reduces
+the amount of moisture that is lost from the
+soil through evaporation, and minimizes run-off
+water which may otherwise cause soil erosion.
+The dense vegetation also drops a lot of leaves
+which rot and add nutrients to the soil. In addi-
+tion, decaying leaves encourage an increase in
+the number of earthworms and other small in-
+vertebrates in the soil, which in turn help to
+increase the air in the soil and make it better
+for growing cassava.
+Look for an area with good soil texture:
+The best soil for growing cassava is deep,
+loamy soil. Such soils are rich in nutrients, low
+in gravel, hold water well, and are easy to work
+or till. The way to tell if the soil is loamy is to
+moisten a small amount of it and try to shape
+it into a ball (Figure 4). If you press the ball and
+it falls apart, then your soil is loamy. If it feels
+gritty and you are not able to shape the
+moistened soil into a ball, then the soil is
+sandy. If you shape the soil into a ball, and the
+soil does not fall apart when pressed, then the
+soil contains a lot of clay and is a clayey soil.
+Sandy and clayey soils are not the most suit-
+able soils for growing cassava.
+Look for an area with fertile soil: Fertile
+soils usually have a dark color, for example,
+dark red or dark brown. The dark color shows
+that the soil has a lot of organic matter. If the
+soil looks gray and sometimes contains green
+or blue spots, it means that there is poor
+drainage and waterlogging. Do not grow cas-
+sava on soils that get waterlogged.
+Look for an area with flat or gently slop-
+ing land: The best farmland for cassava is flat
+or gently sloping. Steep slopes are easily
+eroded and are therefore not very good areas
+for growing cassava. Valleys and depression ar-
+eas are also not very suitable because they
+usually get waterlogged and do not allow cas-
+sava roots to develop well. Y ou may, however,
+plant early maturing cassava varieties on
+mounds or ridges in inland valleys during the
+dry season.
+Know the history of the site: Information
+such as how the land was previously used, and
+the types of weeds, diseases, and pests in the
+area, can help you in selecting a site for your
+cassava farm. Such information can help you
+to avoid a site with problems or make good
+plans for plant protection. T able 1 can be used
+to summarize the agronomic and cassava
+plant protection history of a site.
+For site description, tick (+) appropriate boxes.
+For pests, diseases and weeds, indicate importance of the problem as:
++= not serious
+++= serious
++++= very serious
+Pests, diseases, and weeds
+T able 1: Site description and history
+Site description
+Vegetation cover
+Scanty
+Dense natural fallow
+Dense improved fallow
+Soil texture
+Sandy
+Loamy
+Clayey
+Soil fertility
+Poor
+Good
+T opography
+Flat
+Hilly/steep slopes
+Depression area
+Previous crop
+Cassava
+Ya m
+Sweetpotato
+Rice
+Maize
+Sorghum
+Cowpea/legumes
+Other (specify)
+Cassava pests in the locality
+Cassava green mite
+Cassava mealybug
+Variegated grasshopper
+Spiraling whitefly
+Cassava root scale
+T ermites
+White scale insects
+Vertebrates
+Other (specify)
+Cassava diseases in the locality
+Cassava mosaic disease
+Cassava bacterial blight
+Cassava anthracnose disease
+Cassava bud necrosis
+Root rots
+Leaf spots
+Other (specify)
+Common weeds in the locality
+Spear grass
+Bermuda grass
+Guinea grass
+Feathery pennisetum
+Sedges
+Siam weed
+Giant sensitive weed
+Wild poinsettia
+T ridax
+Goat weed
+Parasitic weeds
+Other (specify)
+9
+IPM Field Guide Starting a Cassava Farm
+8
+How do I improve the soil for
+planting cassava?
+If you do not select a good site for growing
+cassava you may have to spend a lot of time and
+materials to improve the soil. Cassava plants on
+good soils grow vigorously and are able to
+withstand some damage by pests and diseases.
+The following are examples of cultural prac-
+tices you can use to improve soil properties.
+Manure your farm: At land preparation, you
+can add organic manure to the soil to increase
+soil nutrients, improve soil structure, and im-
+prove the ability of the soil to hold water. Or-
+ganic manure can be in the form of green ma-
+nure or other dead plant or animal manure. In
+green manuring, plant foliage (fresh leaves and
+young green stems) is ploughed into the soil.
+Green manure improves soil properties as the
+foliage rots. Egusi melon and leguminous crops,
+for example, groundnuts and beans, make
+good green manure. Inorganic fertilizers can
+also be applied to increase soil fertility. For
+example, in southeast Nigeria, the recom-
+mended rate for NPK application is 400 kg.
+per hectare of land.
+Prepare suitable seedbeds: Cassava fields
+on hilly sites with steep slopes are frequently
+eroded. The erosion will be severe if the leaf
+canopy of cassava plants is not thick enough to
+cover the ground against rain splashes. This
+happens in young cassava farms and if the vari-
+eties have a tall and less branching habit (Figure
+5). If you cannot avoid growing cassava on
+steep slopes you can grow cassava varieties
+with early, low, and much branching habit (Fig-
+ure 6) to cover the ground quickly and prop-
+erly against rain erosion. Y ou can also make
+ridges across the slopes and mulch the ridges
+to reduce erosion.
+Mulch cassava seedbeds: Mulching involves
+covering the soil surface with plant materials.
+Mulching improves the fertility of the soil, in-
+creases the ability of the soil to hold sufficient
+water for plant growth, and reduces erosion
+and weed problems.  Mulching cassava seed-
+beds is especially valuable when growing cas-
+sava in dry areas and on slopes.
+Mulching requires very large amounts of plant
+foliage. Dead plant foliage can be used as
+“dead mulch”. Sources of good dead mulch
+are foliage from alley crops, leguminous plants,
+rice husk, coffee hull and general crop and
+weed residues. Avoid using weed residues
+containing weed seeds, rhizomes, stolons, or
+tubers as mulch because these can increase
+weed problems on your farm. Straws of maize
+and guinea grass (Figure 7) are bad mulch ma-
+terials because they take too long to rot and
+use up soil nitrogen as they do so.
+Y ou can grow plants as “live mulches”. For ex-
+ample, egusi melon (a food crop) planted at
+very close spacing on cassava seedbeds is a
+good live mulch. Nonfood crops can also be
+used as live mulches, but these are normally
+grown as improved fallow plants. For example,
+during fallow periods you can grow Mucuna
+pruriens var. utilis on land you have selected for
+growing cassava in the next season (Figure 8).
+Mucuna pruriens var. utilis is, however, a fire haz-
+ard in the dry season when its foliage dries.
+Plant cassava in association with other
+crops: Appropriate intercrops improve soil
+properties in a manner similar to live mulches.
+Crops that are commonly intercropped with
+cassava are maize, rice, legumes,  and veg-
+etables. Legumes, for example, cowpea and
+groundnuts, are a particularly good intercrop
+because these plants make and release nutri-
+ents into the soil.
+Figure 7:  Shoots of guinea grass,
+Panicum maximum
+Figure 6: Cassava variety with early, low, and
+much branching habit
+Figure 5: Cassava variety with late,
+high, and less branching habit
+Figure 8:  Live mulch of Mucuna on fallow land
+
+11
+IPM Field Guide Starting a Cassava Farm
+10
+How do I select the best
+cassava varieties to plant?
+The best cassava varieties are those that are
+liked by consumers, grow fast, give good yields,
+store well in the soil and are tolerant to major
+pests, and diseases. The particular variety cho-
+sen by a farmer depends on her/his objectives
+for planting the crop, and the factors looked
+for in selecting cassava varieties usually in-
+clude the following.
+Look for varieties with high dry matter
+and good food quality: Cassava storage
+roots consist mainly of water and dry matter.
+The dry matter is mainly starch and a little bit
+of fiber.  The percentage of dry matter in the
+roots determines the quantity and quality of
+the products obtained after the roots are
+processed. Cassava varieties whose storage
+roots have 30% or more dry matter are said
+to have high dry matter content. Such variet-
+ies produce good quality products and are
+profitable for growers and market women.
+Look for varieties with good mealiness:
+Mealiness refers to the cooking ability of cassava
+storage roots without processing. Mealy variet-
+ies are commonly called “sweet” cassava whilst
+non-mealy varieties are called “bitter” cassava.
+Bitter cassava requires processing before con-
+sumption and this is related to the total cyanide
+content (referred to as cyanogenic potential,
+CNP) in the storage roots. The higher the CNP
+of a variety, the greater the need to process its
+storage roots for safe consumption. If cassava
+leaves will be eaten, you can also consider the
+cooking quality of the leaves.
+Look for varieties that bulk early: Bulking
+refers to the swelling of the storage roots as
+they are filled with stored food. Varieties that
+bulk early are better able to offset losses in
+storage root yield caused by weed competi-
+tion, leaf-feeding pests, and disease than late
+maturing varieties.
+Look for varieties with good ground
+storability: Ground storability is the ability
+of the mature cassava storage roots to stay in
+the ground for a long time without getting
+spoiled. Good ground storability prolongs the
+period over which the crop can be harvested.
+This reduces the duration of postharvest
+storage problems of fresh roots.
+Look for varieties that are tolerant to
+weeds, pests, and diseases: Some cassava
+varieties tolerate weeds, pests, and diseases
+better than others. In selecting a variety to
+grow, it is advisable to consider how well the
+variety can compete with weeds, and resist
+pests and diseases. For example, if weeds are a
+problem you can look for adapted varieties
+which branch early, low, and often (Figure 6).
+Such varieties are able to develop a lot of
+branches and leaves quickly to shade the
+ground and prevent weeds from growing vig-
+orously and becoming a problem. Y ou can also
+find out if the variety has other features you
+may want.
+T able 2 lists some features of cassava varieties
+commonly grown in West and Central Africa.
+Scientists and extension agents can prepare a
+list similar to T able 2 for the cassava varieties
+growing in the locality.
+Variety
+Expression of selected features
+Yield
+potential % dry matter Cyanogenic
+potential
+Ground
+storability
+Weed
+suppression
+Tol era nce  to
+CGM
+Tol era nce  to
+CMD
+Tol era nce  to
+CBB
+IITAIITAIITAIITA
+TMS 4(2)1425 High High Low Good Good Moderate Moderate Good
+TMS 30572 High High Moderate Moderate Good Moderate Good Good
+BeninBeninBeninBenin
+BEN 86052 High High Low Poor Moderate Good Good Poor
+RB 89509 Moderate Moderate Low Good Poor Poor Good Moderate
+CameroonCameroonCameroonCameroon
+8017 High High Moderate Poor Good Moderate Moderate Moderate
+8034 High High Moderate Poor Good Moderate Moderate Moderate
+GhanaGhanaGhanaGhana
+"Afisiafi" High High Moderate Moderate Good Moderate Good Good
+"Abasa fitaa" High High Low Good Good Moderate Moderate Good
+NigeriaNigeriaNigeriaNigeria
+MS 6 High High Low Poor Poor Good Good Moderate
+NR 8082 High High High Moderate Good Good Good Good
+T able 2: Some features of common cassava varieties in West and Central Africa
+Source: IITA, INRAB-Benin, MoFA-CSD Ghana, IRAD-Cameroon, and NRCRI-Nigeria
+CGM = Cassava green mite
+CMD = Cassava mosaic disease
+CBB = Cassava bacterial blight
+13
+IPM Field Guide Starting a Cassava Farm
+12
+How do I select healthy cassava
+stem cuttings?
+The most common sources of cassava stem
+planting material are farmers’ own farms. Oc-
+casionally, cassava stem cuttings are sold at vil-
+lage and town markets. Researchers and ex-
+tension agents sometimes provide their con-
+tact farmers with cassava stem cuttings. Many
+cassava pests and diseases are stem-borne
+and spread by distribution, sale, and planting of
+infested or diseased stem cuttings. By planting
+healthy stem cuttings, you can greatly reduce
+the spread and damage caused by these cas-
+sava pests and diseases. The following guide-
+lines will assist you to avoid unhealthy stem
+cuttings and to select healthy planting material
+for a healthy crop of cassava.
+Look for healthy cassava plants: Select
+healthy cassava plants in the farm. Healthy cas-
+sava plants have robust stems and branches,
+lush foliage, and minimal stem and leaf damage
+by pests and diseases. From each plant select
+the middle brown-skinned portions of stems
+as stem cuttings. These parts sprout and en-
+sure plant vigor better than the top green
+stem portions. Stem cuttings taken from the
+top green portions of stems or extreme top
+and bottom of stored stems are unsuitable.
+They will dehydrate quickly, produce un-
+healthy sprouts, and are easily damaged by
+pests and diseases.
+Avoid plants with pests and diseases: In
+selecting cassava plants as sources of stem
+cuttings, you should avoid those infected with
+these pests and diseases. The common stem-
+borne cassava pests and diseases are cassava
+mealybug, cassava green mite, spiraling white-
+fly, white scale insect, cassava mosaic disease,
+cassava bacterial blight, cassava anthracnose
+disease, and cassava bud necrosis.
+The cassava mealybug, Phenacoccus mani-
+hoti, occurs on cassava leaves, shoot tips, peti-
+oles, and stems. The mealybugs are covered
+with white waxy secretions. Cassava mealy-
+bug damage symptoms include shortened in-
+ternode lengths, compression of terminal
+leaves together into “bunchy tops” (Figure 9),
+distortion of stem portions, defoliation, and
+“candlestick” appearance of shoot tip. The in-
+sects survive on cassava stems and leaves and
+are easily carried to new fields in this way.
+The cassava green mite, Mononychellus
+tanajoa, occurs on the undersurfaces of young
+leaves, green stems, and axilliary buds of cas-
+sava. The mites appear as yellowish green
+specks to the naked eye. Mites survive on cas-
+sava stems and leaves and are easily carried to
+new fields in this way. Cassava green mite
+damage symptoms include yellow chlorotic
+leaf spots (like pin pricks) on the upper leaf
+surfaces, narrowed and smaller leaves (Figure
+10), “candlestick” appearance of the shoot tip,
+and stunted cassava plants.
+The spiraling whitefly, Aleurodicus dispersus,
+damages cassava by sucking sap from the leaves.
+Colonies of the insect occur on the under-
+surfaces of cassava leaves and are covered with
+white waxy secretions similar to those of the
+cassava mealybug. Spiraling whitefly eggs occur
+in spiral patterns of wax tracks, mostly on the
+undersurfaces of leaves. Symptoms of whitefly
+damage are black sooty mold on the upper leaf
+surfaces, petioles, and stems (Figure 11), and
+premature leaf fall of older leaves. The insects
+survive on cassava leaves and stems and are
+easily carried to new fields in this way.
+Figure 10:  Cassava shoot tip with
+small and narrow leaves caused by
+cassava green mite
+Figure 9: Cassava shoot tip with
+“bunchy top” caused by cassava
+mealybug
+Figure 11: Cassava stem and leaves
+blackened under attack by spiraling
+whitefly
+Figure 12: Cassava white scale on
+cassava stem
+
+15
+IPM Field Guide Starting a Cassava Farm
+14
+The white scale, Aonidomytilus albus, covers
+cassava stem surfaces with conspicuous white
+waxy secretions (Figure 12). The insect sucks
+sap from the stem and dehydrates it. Stem
+cuttings derived from affected stem portions
+normally do not sprout. The insects survive
+on cassava stems and leaf petioles and are eas-
+ily carried to new fields in this way.
+Cassava mosaic disease is caused by a vi-
+rus which occurs inside cassava stems. Symp-
+toms of cassava mosaic disease damage are
+patches of normal green leaf color mixed with
+light green and yellow chlorotic areas in a
+mosaic pattern (Figure 13). Generally, plants
+with these symptoms should be avoided as
+sources of stem planting material. However,
+the disease is very common in Africa and it is
+sometimes difficult to find cassava plants that
+are completely free from the disease. Y ou can,
+however, reduce cassava mosaic disease prob-
+lems by selecting stem cuttings from cassava
+stem branches and not from the main stems.
+Stem cuttings from the branches are more
+likely to sprout into disease-free plants than
+stem cuttings from the main stems.
+Cassava bacterial blight is caused by a bac-
+terium which occurs inside cassava stems. The
+disease damage symptoms are angular leaf
+spots on the under leaf surfaces, leaf blighting
+and wilting (Figure 14), gum exudate on the
+stems, and shoot tip die-back. Avoid selecting
+stem cuttings from plants with these symp-
+toms.
+Cassava anthracnose disease is caused by
+a fungus which occurs on the surface of cas-
+sava stems. The disease damage symptoms are
+cankers (“sores”) on the stem and bases of
+leaf petioles (Figure 15). The disease reduces
+the sprouting ability of stem cuttings.
+Cassava bud necrosis is caused by a fungus
+which grows on the surface of cassava stems
+covering the axilliary buds or the “eyes” of
+stem cuttings (Figure 16). The affected buds
+die, and the sprouting ability of stem cuttings
+is reduced.
+Figure 13: Cassava plant with cassava
+mosaic disease
+Figure 15: Cankers of cassava
+anthracnose disease on stem
+Figure 14: Leaf blighting and wilting
+caused by cassava bacterial blight
+Figure 16: Fungal patch (arrow) of
+bud necrosis disease
+p
+17
+IPM Field Guide Starting a Cassava Farm
+16
+How do I best plant cassava?
+The important factors to consider when
+planting cassava are time of year, land tillage
+methods, seedbed type and preparation, and
+preparation, handling, and planting mode of
+stem cuttings.
+Select suitable planting dates: Y ou should
+try to plant cassava early, at the beginning of
+the rainy season. This ensures healthy sprout-
+ing and good crop establishment which helps
+the plant to better withstand damage by dry
+season pests like the cassava green mite, cas-
+sava mealybug, and termites. Late planting at
+the end of wet season exposes the crop to
+severe damage by these pests as the dry sea-
+son progresses. However, planting date rec-
+ommendations should fit within local farming
+calendars and farmers’ choice of crops to en-
+hance their adoption.
+Use suitable land and seedbed prepara-
+tion methods: In cassava cultivation, land is
+usually tilled to loosen up the soil, improve
+soil drainage, make it easy for roots to de-
+velop, and promote healthier storage root de-
+velopment. Mounds and ridges are commonly
+made to gather top soil material for cassava
+root development, limit prolonged contact
+between the storage roots and stagnant wa-
+ter, and protect storage roots from rodent
+and bird pests.
+The soil texture at the site you select for cas-
+sava cultivation will be an important factor in
+determining the level of tillage and type of
+seedbeds required for your cassava farm. In
+deep loamy soils, tillage may be essential but it
+does not matter which seedbed type is
+adopted and cassava can be planted on the flat
+(Figure 17), mounds (Figure 18), or ridges (Fig-
+ure 19).
+However, if the loamy soil is shallow and cas-
+sava is planted on the flat, the storage roots
+will quickly reach hard ground or rocks giving
+poor yields. In sandy soils, minimum tillage and
+planting cassava on the flat are appropriate
+because the soil is sufficiently loose to allow
+for faster drainage and normal storage root
+development. At sites where the sandy soil
+gets waterlogged, it is however better to make
+ridges or mounds than to plant on the flat. In
+clayey and poorly drained soils, tillage and
+planting of cassava on mounds or ridges are
+also essential to limit the effects of waterlog-
+ging.
+Prepare and handle stem cuttings prop-
+erly: When cutting up cassava stems into
+stem cuttings for planting,  make sure each
+cutting is at least 20–25 cm long and has ab-
+out 5–8 nodes. Y ou should handle cuttings
+carefully during transportation to prevent
+bruises and damage to the nodes. This can be
+done by packing them on cushions of dry
+leaves.
+Sometimes, when planting material is slightly
+infested with cassava green mites, cassava
+mealybugs, and other stem-borne pests, the
+stem cuttings can be treated by immersing
+them in heated water for 5–10 minutes just
+before planting. This treatment will kill pests
+on the surface of the cuttings. Y ou can prepare
+the heated water by mixing equal volumes of
+boiling and cold water. Alternatively, you can
+dip the stem cuttings into a dilute pesticide
+solution (for example, 1% Rogor solution) to
+kill stem-borne pests. Y ou can also reduce the
+incidence of cassava anthracnose and other
+Figure 18:
+Cassava growing
+on mounds
+Figure 19:
+Cassava growing
+on ridges
+Figure 17:
+Planting
+cassava on
+the flat
+
+19
+IPM Field Guide Starting a Cassava Farm
+18
+stem-borne fungal diseases if a solution of
+pesticide (for example, Décis) and fungicide
+(for example, Benlate) is used. If pesticides are
+to be used, you should consult the label for
+guidelines on their application methods and
+how to avoid personal and environmental haz-
+ards associated with their use.
+Adopt suitable planting mode: In order
+to get the best sprouting and growth from
+cassava stem cuttings, it is important to plant
+them properly. Cassava stem cuttings may be
+planted vertically, at an angle, or horizontally.
+When planted vertically, the storage roots
+develop deeper in the soil, more closely to-
+gether, and are more difficult to harvest by
+pulling. Vertical planting is best in sandy soils.
+In such soils, plant stem cuttings vertically
+with 2/3 of the length of the cutting below
+the soil. When planted horizontally, the stor-
+age roots develop more closely to the sur-
+face and are more likely to be exposed and
+attacked by rodent and birds. Also, in hori-
+zontal planting several weak stems develop
+from the stem cutting. Horizontal planting,
+however, has the advantage of killing insect
+and mite pests which occur on the surface of
+stem cuttings. In loamy soil it is probably best
+to plant at an angle.
+The spacing between plants will depend on
+whether you are growing cassava alone (sole
+crop) or with other crops (intercropping). If
+cassava is being grown alone, plant 1 meter
+apart from each other. If cassava is being
+grown as an intercrop, consider the branching
+habit of both the cassava and the other crops
+and make sure there is enough space for the
+plants. Y ou should also make sure there is
+enough space for you to work between the
+plants during weeding and other activities.
+Summary
+ T o select a good site for a cassava farm, look for an area with dense vegetation
+cover, good soil texture, fertile soils, and flat or gently sloping land; also examine the
+field history to plan for plant protection measures.
+ Improve the soil by manuring, mulching, and intercropping to encourage cassava
+plants to grow vigorously and offset damage by cassava diseases.
+ T o select good cassava varieties for planting, look for varieties with high dry matter,
+good mealiness, good ground storability and which are well adapted to your area;
+the variety should also bulk early and be easy to process.
+ T o select healthy cassava stem cuttings, choose healthy cassava plants as sources of
+planting materials; use stem cuttings taken from the middle, brown portions of the
+stem and free of stem-borne pests and diseases.
+ T o prepare cassava stem cuttings for planting, cut each stem cutting to a length of
+at least 20–25 cm; use stem cuttings with about 5–8 nodes; treat stem cuttings
+slightly infested with stem-borne pests by immersing them in heated water for 5–
+10 minutes, dipping them into a dilute pesticide solution, or by planting them hori-
+zontally.
+ T o plant cassava stem cuttings properly consider the type of soil; prepare ridges
+and mounds in areas where soil gets waterlogged; use minimum tillage in sandy soil;
+plant cassava stem cuttings vertically in sandy soil; plant cassava stem cuttings at an
+angle in loamy soil; plant cassava stem cuttings 1 meter apart from each other in
+sole cropping; and in cassava intercrops make sure there is enough space for the
+plants.
+Starting a Cassava Farm
+20
+Acknowledgements
+Special thanks to the United Nations Development Programme and the Austrian government
+which provided funds, and to the following institutions which provided materials, information and
+services for the production of the set of cassava IPM field guides:
+ Agricultural Development Programmes (ADPs) in Abia, Akwa Ibom, Anambra,
+Benue, Cross Rivers, Rivers, Delta, Edo, Enugu, Imo, Kogi, Kwara, Ogun, Ondo, Osun,
+Oyo, and Plateau State Governments, Nigeria
+ Centre d’Action Régionale pour le Développement Rural (CARDER), Bénin
+ Centro International de Agricultura T ropical (CIAT), Cali, Colombia
+ Crop Services Department (CSD), Department of Agricultural Extension Services
+(DAES), and Plant Protection and Regulatory Services Department (PPRSD), Minis-
+try of Food and Agriculture, Ghana
+ Federal University of T echnology, Owerri, Nigeria
+ Fourah Bay College, University of Sierra Leone, Freetown, Sierra Leone
+ IITA Eastern and Southern African Regional Centre (ESARC), Uganda
+ Institut de Recherche Agronomique et du Développement (IRAD), Cameroon
+ Institut National de Recherche Agronomique du Bénin (INRAB), Bénin
+ National Root Crops Research Institute (NRCRI), Umudike, Nigeria,
+ Rural T raining Centre (RTC, Presbyterian Church) in Fonta and Kumba, Cameroon
+ Sasakawa Global 2000, Bénin
+ Service de Protection des Végétaux et du Contrôle Phytosanitaire (SPVC), Bénin
+ Southern African Root Crops Research network (SARRNET), Malawi
+ University of Agriculture, Abeokuta, Nigeria
+ University of Buea, Buea, Cameroon
+ University of Cape Coast, Cape Coast, Ghana

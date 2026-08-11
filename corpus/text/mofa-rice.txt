@@ -3,7 +3,8 @@
 # year: unknown
 # url: https://mofa.gov.gh/site/images/pdf/production_guides/RICE_Production_Guide.pdf
 # attribution: MoFA, Rice Production Guide
-# pages: 23
+# ghana_specific: True
+# extent: 23 pages
 #
 # Extracted text follows. Provenance above travels with every chunk
 # derived from this document.

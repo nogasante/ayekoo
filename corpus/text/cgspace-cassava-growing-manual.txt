@@ -1,0 +1,1966 @@
+# Growing Cassava: A Training Manual from Production to Postharvest
+# publisher: International Institute of Tropical Agriculture (IITA), via CGSpace
+# year: 2014
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/fb5de9eb-dc75-4449-aaf2-09fe85a0c7ae/content
+# attribution: IITA, Growing Cassava: A Training Manual from Production to Postharvest (2014)
+# ghana_specific: False
+# extent: 36 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+GROWING CASSAVA
+Adebayo B. Abass, Elifatio Towo, 
+Ivor Mukuka, Richardson 
+Okechukwu, Roger Ranaivoson, 
+Gbassey Tarawali and Edward Kanju
+A training manual from production to 
+postharvest
+
+Acknowledgement
+We would like to acknowledge G. Asumugha, U. Udensi and T. Osun for their technical inputs to the IITA 
+materials used for developing  parts of this manual. We acknowledge the financial support received 
+from the Common Fund for Commodities of the Netherlands (CFC), USAID-Nigeria, Africa Development Bank 
+(AfDB) and the International Fund for Agriculture Development (IFAD).
+© International Institute of Tropical Agriculture (IITA), 2014. 
+Ibadan, Nigeria
+To Headquarters from outside Nigeria: 
+IITA, Carolyn House,
+26 Dingwall Road,
+Croydon CR9 3EE, UK
+Within Nigeria: 
+PMB 5320, Oyo Road 
+Ibadan, Oyo State
+Illustrated by Athman H. Mgumia and Mosher  Chande
+ISBN: 978-978-8444-50-3
+Correct citation: Adebayo B. Abass, Elifatio Towo, Ivor Mukuka, Richardson Okechukwu, Roger Ranaivoson, 
+Gbassey Tarawali and Edward Kanju. 2014. Growing cassava: A training manual from production to postharvest. 
+IITA, Ibadan, Nigeria.
+GROWING CASSAVA
+A training manual from production to postharvest
+Adebayo B. Abass, Elifatio Towo, 
+Ivor Mukuka, Richardson 
+Okechukwu, Roger Ranaivoson, 
+Gbassey Tarawali and Edward Kanju
+Acknowledgement
+We would like to acknowledge G. Asumugha, U. Udensi and T. Osun for their technical inputs to the IITA 
+materials used for developing  parts of this manual. We acknowledge the financial support received 
+from the Common Fund for Commodities of the Netherlands (CFC), USAID-Nigeria, Africa Development Bank 
+(AfDB) and the International Fund for Agriculture Development (IFAD).
+© International Institute of Tropical Agriculture (IITA), 2014. 
+Ibadan, Nigeria
+To Headquarters from outside Nigeria: 
+IITA, Carolyn House,
+26 Dingwall Road,
+Croydon CR9 3EE, UK
+Within Nigeria: 
+PMB 5320, Oyo Road 
+Ibadan, Oyo State
+Illustrated by Athman H. Mgumia and Mosher  Chande
+ISBN: 978-978-8444-50-3
+Correct citation: Adebayo B. Abass, Elifatio Towo, Ivor Mukuka, Richardson Okechukwu, Roger Ranaivoson, 
+Gbassey Tarawali and Edward Kanju. 2014. Growing cassava: A training manual from production to postharvest. 
+IITA, Ibadan, Nigeria.
+GROWING CASSAVA
+A training manual from production to postharvest
+Adebayo B. Abass, Elifatio Towo, 
+Ivor Mukuka, Richardson 
+Okechukwu, Roger Ranaivoson, 
+Gbassey Tarawali and Edward Kanju
+Content
+1
+Cassava stem handling for increased yield     2
+Background  
+Preparing healthy cassava stems for planting 
+How to plant cassava cuttings
+How to produce large quantities of cassava stems 
+Highlights
+Zero input technologies to increase yield 
+in cassava production
+6
+Zero input
+Qualities of improved cassava varieties  
+How to use zero input technologies to get good yields
+Inter cropping cassava under zero input 
+How to increase yield without inputs  
+Highlights
+Weed control practices in cassava
+production  9
+ 
+Common weeds found on cassava farms 
+When and how control weed 
+Chemical control 
+Weed control groups
+Highlights
+Cost-effective mechanization in
+cassava production 
+12
+Introduction 
+operations 
+Available machines for commercial to small-to medium-scale
+cassava production
+Highlights
+Harvesting 16
+When to harvest
+How to harvest cassava
+Highlights 
+Postharvest handling and storage
+ stoor hserf  fo
+19
+Transporting cassava roots
+Storing cassava roots
+Highlights 
+Highlights 
+Processing operations and machinery 23
+Why cassava is processed  
+Operations in cassava processing 
+Cost-effective mechanization practices and farm
+299 Conclusion
+1 Introduction
+            
+ 
+1
+Cassava is either the first or the second most important staple food in 
+many sub-Saharan African countries. Cassava production and 
+processing practices remain largely habitual in most of the producing 
+countries despite the high potentials for its commercial production and 
+processing, its export potential, and its use in local industries to reduce 
+import expenditure on substitute imported products. Most cassava 
+farmers are either not aware of available modern technologies for 
+growing and processing cassava or lack the ability to use them. 
+There is also paucity of cassava production specialists, agribusiness 
+experts, processing and, agro-machinery experts to provide advice to 
+farmers, processors, product assemblers, and other value chain 
+actors. The lack of technical advice hinders the ability of small and 
+medium scale farmers to improve value chain efficiency and 
+profitability of their cassava enterprises. It contributes to the inability of 
+most farmers to manage cassava production as a business and 
+hinders processors from upgrading from the traditional rudimentary 
+processing methods to mechanical, high capacity, efficient and 
+profitable processing enterprises. Consequently, cassava value 
+chain actors in Africa are not competitive enough to participate in the 
+global market. 
+Although new commercial, medium-scale cassava farmers are 
+beginning to emerge in some cassava growing countries, such as in 
+DRC, Ghana and Nigeria, most of them use only some and not all 
+available or recently developed modern techniques that can increase 
+efficiency of growing and processing cassava. Inability to apply modern 
+technologies in a holistic or consolidated manner for cassava growing 
+and processing operations reduces the prospect to maximize profit. 
+This training manual was developed based on research results and 
+field experiences of cassava value chain development experts. It 
+provides consolidated and relevant set of techno-commercial oriented 
+information presented with simple annotated drawings to explain the 
+step-by-step use of improved techniques and tools of cassava 
+production, handling, processing, storage, quality assurance and 
+marketing. 
+The manual will be useful to farmers, processors, marketers, extension 
+agents and other experts who are supporting cassava 
+commercialization in Africa. The use of the manual by value chain 
+actors will  enhance    their knowledge and capacity to improve efficiency 
+of their cassava related operations and can increase profitability. 
+Content
+1
+Cassava stem handling for increased yield     2
+Background  
+Preparing healthy cassava stems for planting 
+How to plant cassava cuttings
+How to produce large quantities of cassava stems 
+Highlights
+Zero input technologies to increase yield 
+in cassava production
+6
+Zero input
+Qualities of improved cassava varieties  
+How to use zero input technologies to get good yields
+Inter cropping cassava under zero input 
+How to increase yield without inputs  
+Highlights
+Weed control practices in cassava
+production  9
+ 
+Common weeds found on cassava farms 
+When and how control weed 
+Chemical control 
+Weed control groups
+Highlights
+Cost-effective mechanization in
+cassava production 
+12
+Introduction 
+operations 
+Available machines for commercial to small-to medium-scale
+cassava production
+Highlights
+Harvesting 16
+When to harvest
+How to harvest cassava
+Highlights 
+Postharvest handling and storage
+ stoor hserf  fo
+19
+Transporting cassava roots
+Storing cassava roots
+Highlights 
+Highlights 
+Processing operations and machinery 23
+Why cassava is processed  
+Operations in cassava processing 
+Cost-effective mechanization practices and farm
+299 Conclusion
+1 Introduction
+            
+ 
+1
+Cassava is either the first or the second most important staple food in 
+many sub-Saharan African countries. Cassava production and 
+processing practices remain largely habitual in most of the producing 
+countries despite the high potentials for its commercial production and 
+processing, its export potential, and its use in local industries to reduce 
+import expenditure on substitute imported products. Most cassava 
+farmers are either not aware of available modern technologies for 
+growing and processing cassava or lack the ability to use them. 
+There is also paucity of cassava production specialists, agribusiness 
+experts, processing and, agro-machinery experts to provide advice to 
+farmers, processors, product assemblers, and other value chain 
+actors. The lack of technical advice hinders the ability of small and 
+medium scale farmers to improve value chain efficiency and 
+profitability of their cassava enterprises. It contributes to the inability of 
+most farmers to manage cassava production as a business and 
+hinders processors from upgrading from the traditional rudimentary 
+processing methods to mechanical, high capacity, efficient and 
+profitable processing enterprises. Consequently, cassava value 
+chain actors in Africa are not competitive enough to participate in the 
+global market. 
+Although new commercial, medium-scale cassava farmers are 
+beginning to emerge in some cassava growing countries, such as in 
+DRC, Ghana and Nigeria, most of them use only some and not all 
+available or recently developed modern techniques that can increase 
+efficiency of growing and processing cassava. Inability to apply modern 
+technologies in a holistic or consolidated manner for cassava growing 
+and processing operations reduces the prospect to maximize profit. 
+This training manual was developed based on research results and 
+field experiences of cassava value chain development experts. It 
+provides consolidated and relevant set of techno-commercial oriented 
+information presented with simple annotated drawings to explain the 
+step-by-step use of improved techniques and tools of cassava 
+production, handling, processing, storage, quality assurance and 
+marketing. 
+The manual will be useful to farmers, processors, marketers, extension 
+agents and other experts who are supporting cassava 
+commercialization in Africa. The use of the manual by value chain 
+actors will  enhance    their knowledge and capacity to improve efficiency 
+of their cassava related operations and can increase profitability. 
+1
+2 Cassava stem handling  for increased yield
+Background 
+Cassava is propagated by stem cuttings. These cuttings must be 
+handled properly for good sprouting and establishment. In this section 
+we look at the best practices in stem handling for increased yield.
+Preparing healthy cassava stems for planting  
+m 
+m  
+m 
+m
+m
+ 
+How to plant cassava cuttings
+m 
+Figure 1. Stored cassava stems under the shed
+Figure 3. Cassava cuttings
+Figure 2. Avoid destroying 
+nodes and jagged cuts
+m  
+2
+Stems should be stored vertically on the soil under a shade. The 
+distal end of the stems should touch the soil, which is moistened 
+regularly, with the surroundings kept free from weeds (Figure 1).
+Handle the stems with care not to destroy the nodes that may 
+result in losses. Do not make jagged cut surfaces or keep stems 
+in the open (leading to drying) (Figure 2).
+Cut stems, with sharp tools, preferably secateurs or cutlasses, 
+into 25-cm cuttings with 5–7 nodes (Figure 3). 
+o
+Obtain stems for planting from mature plants 10–12 months old. 
+Store under the shade for 2–5 days (never   more than 2 weeks) 
+before  cutting and planting. This makes the stems sprout faster 
+than when they are planted freshly cut from the field.
+Cassava cuttings can be planted in a slanting or angular position 
+(45  ).  In this case, the cuttings are buried in the soil with one-third 
+above the soil surface. Ensure that the buds point upwards. This 
+is where the cuttings sprout (Fig 4a). 
+Cuttings can also be planted in a horizontal position in which the 
+cuttings are completely buried in the soil to a depth of 5 cm (Fig 4b).
+2
+m 
+m 
+m 
+m 
+m 
+Figure 4a. Planting at 45o
+Figure 4b. Planting horizontally
+Step 2: 
+How to produce large quantities of cassava stems 
+Rapid multiplication in a nursery using 2-node cassava 
+stakes:  
+Step 1:
+3
+Plant the cuttings at a spacing of 1 m × 1 m on the crest of ridges 
+or mounds as conventionally recommended. This will give a plant 
+population of 10,000 stands/ha. 
+Vertical or angular planting is recommended in areas of high 
+rainfall 
+Horizontal planting is better in dry areas.
+Rapid multiplication technique can be used to produce large quantities 
+of cassava stems as planting materials for subsequent seasons. 
+Select and use improved, healthy, and pest/disease free cassava 
+stems.
+Cut the stems into several 2-node or 3-node stakes using 
+secateurs, a sharp knife/machete, or a stake cutting machine. 
+Treat the stakes with available insecticides or fungicides by 
+measuring out the quantities into a container, add water and 
+mix thoroughly. For example, 1kg of Neem leaf powder in 5L of 
+water. Put the stakes into the solution for 10 minutes.  
+Remove from the solution and place in perforated transparent 
+polythene bags for pre-sprouting. 
+Step 3: Store in the polythene bags under the shade of a tree or under 
+the cassava canopy or in a farm shed for 7–10 days to sprout.
+1
+2 Cassava stem handling  for increased yield
+Background 
+Cassava is propagated by stem cuttings. These cuttings must be 
+handled properly for good sprouting and establishment. In this section 
+we look at the best practices in stem handling for increased yield.
+Preparing healthy cassava stems for planting  
+m 
+m  
+m 
+m
+m
+ 
+How to plant cassava cuttings
+m 
+Figure 1. Stored cassava stems under the shed
+Figure 3. Cassava cuttings
+Figure 2. Avoid destroying 
+nodes and jagged cuts
+m  
+2
+Stems should be stored vertically on the soil under a shade. The 
+distal end of the stems should touch the soil, which is moistened 
+regularly, with the surroundings kept free from weeds (Figure 1).
+Handle the stems with care not to destroy the nodes that may 
+result in losses. Do not make jagged cut surfaces or keep stems 
+in the open (leading to drying) (Figure 2).
+Cut stems, with sharp tools, preferably secateurs or cutlasses, 
+into 25-cm cuttings with 5–7 nodes (Figure 3). 
+o
+Obtain stems for planting from mature plants 10–12 months old. 
+Store under the shade for 2–5 days (never   more than 2 weeks) 
+before  cutting and planting. This makes the stems sprout faster 
+than when they are planted freshly cut from the field.
+Cassava cuttings can be planted in a slanting or angular position 
+(45  ).  In this case, the cuttings are buried in the soil with one-third 
+above the soil surface. Ensure that the buds point upwards. This 
+is where the cuttings sprout (Fig 4a). 
+Cuttings can also be planted in a horizontal position in which the 
+cuttings are completely buried in the soil to a depth of 5 cm (Fig 4b).
+2
+m 
+m 
+m 
+m 
+m 
+Figure 4a. Planting at 45o
+Figure 4b. Planting horizontally
+Step 2: 
+How to produce large quantities of cassava stems 
+Rapid multiplication in a nursery using 2-node cassava 
+stakes:  
+Step 1:
+3
+Plant the cuttings at a spacing of 1 m × 1 m on the crest of ridges 
+or mounds as conventionally recommended. This will give a plant 
+population of 10,000 stands/ha. 
+Vertical or angular planting is recommended in areas of high 
+rainfall 
+Horizontal planting is better in dry areas.
+Rapid multiplication technique can be used to produce large quantities 
+of cassava stems as planting materials for subsequent seasons. 
+Select and use improved, healthy, and pest/disease free cassava 
+stems.
+Cut the stems into several 2-node or 3-node stakes using 
+secateurs, a sharp knife/machete, or a stake cutting machine. 
+Treat the stakes with available insecticides or fungicides by 
+measuring out the quantities into a container, add water and 
+mix thoroughly. For example, 1kg of Neem leaf powder in 5L of 
+water. Put the stakes into the solution for 10 minutes.  
+Remove from the solution and place in perforated transparent 
+polythene bags for pre-sprouting. 
+Step 3: 
+Store in the polythene bags under the shade of a tree or under 
+the cassava canopy or in a farm shed for 7–10 days to sprout.
+
+3
+Step 4:
+Step 5: 
+:Step 6: Step 8:
+Step 7:
+ 
+4
+Prepare the nursery for planting.
+ Expose the polythene bags in the field by placing them on 
+ ridges               and mounds, or on the flat ground for 20 minutes. 
+Plant on the main farm. 
+Transplant only when there is enough moisture in the soil.
+Avoid bruising the harvested stems
+20–25 cm
+Transplant the sprouted stakes into the nursery at 2–4 cm 
+depth at a spacing of 100 cm × 50 cm or 50 cm × 50 cm 
+in a well prepared rapid multiplication field. Handle the stakes 
+carefully to avoid breakage. 
+Harvest cassava stems at 6–8 months after planting. To 
+harvest, cut the stems at a height of 20–25 cm above the 
+ground level with a sharp machete. 
+planting:  
+Step 1: 
+Step 2: 
+Treat the stakes with insecticides or fungicides as for the 
+  2-node cuttings treatment.
+Plant the treated stakes directly on the multiplication field using 
+  the appropriate  spacing  as  described  in  the  2-node
+ cuttings method (Step 6).
+4
+Figure 5. 3-node pieces
+5
+Highlights 
+Achieving increased yields of 20–45 t/ha from improved 
+varieties starts with this critical stage of stem handling. To 
+ensure increased cassava yields, start right by following the 
+recommended steps. 
+5
+Zero input 
+How to use zero input technologies  to get good yields 
+Choose a good soil with medium fertility and good drainage.m 
+       Avoid stony, clayey or water-logged soils. 
+ m
+ m
+ m
+m 
+m 
+m Select planting materials from healthy cassava plants (9-15      
+m Handle the stems carefully to avoid bruising or damaging the     
+Do not use force when tying the stems in bundles and when 
+loading vehicles (Figure 7). 
+Zero input technologies to increase yield in cassava 
+production 3
+Figure 6b. In shallow soils       
+cassava is planted on mounds to 
+increase the topsoil volume per 
+plant
+Figure 6a. In deep soils cassava
+is planted on flat land 
+Figure 7. Using force when tying the stems in bundles may cause 
+breakage
+6
+nodes and to improve sprouting.
+months old) without stem or leaf damage  from pests or 
+diseases.
+Use a farm that has been well maintained. 
+You can grow cassava using zero input technology. This does not 
+need chemicals, such as fertilizers and herbicides, or organic 
+compost. The zero input method encourages biological activity in the 
+soil and provides natural protection from diseases. It can guarantee 
+good yields, provided that you select a land with adequate organic 
+matter, use the right varieties, plant at the right spacing and time, 
+and ensure a weed-free farm. In this section we look at this 
+environmentally-friendly farming practice.  
+Practice minimum tillage in sandy soils to conserve organic 
+matter, and moisture, and to reduce soil erosion.
+In shallow or hard soils, make ridges or mounds to increase  
+the topsoil volume per plant  for a better establishment (Figure 
+6a & 6b).     
+Choose improved varieties with the highest and most stable 
+yield performance in the particular farm locations. 
+6
+ 
+ 
+ 
+ 
+Qualities of improved cassava varieties
+ Grow fast and mature early
+ T olerate major diseases and pests. 
+ Give high root yields (fresh and dry).
+ Meet end-user s’ quality needs.
+ Store well in the ground for 12–15 months. 
+Intercropping cassava under zero input 
+ Cassava/maize and cassava/legume intercrops have been found 
+to make better use of the land, reduce soil erosion and the risk of 
+crop loss. 
+ Cassava can also be intercropped with yam, sweet potato, okra, 
+and leafy vegetables. Figure 9a. Branching type
+1m 
+1m 
+25 cm
+Figure 8. Better cuttings are from the middle portion of the stem 
+Figure 9b. Non-branching type
+1m 
+0.8 m
+7
+Cut the middles of the stems into 25 cm lengths with 5–7 nodes. 
+Middle portions establish better than the tips and basal parts 
+(Figure 8). 
+Plant at the right time to ensure healthy sprouting and good crop 
+establishment. Dry season planting is not recommended when 
+the rains stop early or where the water table is low. There may not 
+be enough moisture to allow sprouting and the stems to survive. 
+In general, cassava should be planted when 2 months of 
+adequate soil moisture is expected after planting. 
+Plant at the correct spacing. The recommended planting space is 
+1m × 1m  for branching types and 1m × 0.8m for non-branching 
+types (Figure 9a & b). 
+Weed the farm early. Early weeding is easier, and prevents weeds 
+from competing with the crop for  nutrients, water, light, and space 
+at that important period. If planting early in the rainy season, weed 
+at 4, 8 and 12 weeks after planting. If the rainy season ends before 
+this schedule can be completed, continue weeding during the 
+following rainy season at 6–10 weeks after the rains begin. 
+6
+ 
+ 
+ 
+ 
+Qualities of improved cassava varieties
+ Grow fast and mature early
+ T olerate major diseases and pests. 
+ Give high root yields (fresh and dry).
+ Meet end-user s’ quality needs.
+ Store well in the ground for 12–15 months. 
+Intercropping cassava under zero input 
+ Cassava/maize and cassava/legume intercrops have been found 
+to make better use of the land, reduce soil erosion and the risk of 
+crop loss. 
+ Cassava can also be intercropped with yam, sweet potato, okra, 
+and leafy vegetables. 
+Figure 9a. Branching type
+1m 
+1m 
+25 cm
+Figure 8. Better cuttings are from the middle portion of the stem 
+Figure 9b. Non-branching type
+1m 
+0.8 m
+7
+Cut the middles of the stems into 25 cm lengths with 5–7 nodes. 
+Middle portions establish better than the tips and basal parts 
+(Figure 8). 
+Plant at the right time to ensure healthy sprouting and good crop 
+establishment. Dry season planting is not recommended when 
+the rains stop early or where the water table is low. There may not 
+be enough moisture to allow sprouting and the stems to survive. 
+In general, cassava should be planted when 2 months of 
+adequate soil moisture is expected after planting. 
+Plant at the correct spacing. The recommended planting space is 
+1m × 1m  for branching types and 1m × 0.8m for non-branching 
+types (Figure 9a & b). 
+Weed the farm early. Early weeding is easier, and prevents weeds 
+from competing with the crop for  nutrients, water, light, and space 
+at that important period. If planting early in the rainy season, weed 
+at 4, 8 and 12 weeks after planting. If the rainy season ends before 
+this schedule can be completed, continue weeding during the 
+following rainy season at 6–10 weeks after the rains begin. 
+7
+m For sole crop cassava, plant on the top of the ridge or heap. When 
+intercropped with maize, plant cassava on the top and maize on 
+the side of the ridge or mound.  
+m Where cassava is grown as an intercrop, adjust the spacing from 
+0.8m × 1m to 1m × 1m to suit the branching habits of cassava and 
+the other crop(s). 
+How to increase yield without purchasing soil    
+nutrient-enhancing inputs 
+m  Plant leguminous crops such as soybean in rotations or intercrops, 
+or Mucuna in fallows. This helps to sustain soil fertility and quality, 
+and to manage water, noxious weeds (spear grass), pests  and 
+diseases. 
+m  Mulch cassava seedbeds: This means covering the soil surface 
+with plant materials. It is especially valuable when growing 
+cassava in dry areas and on slopes. It has these advantages: 
+l
+Improves the fertility of the soil.l
+Increases the ability of the soil to hold water
+for plant growth.
+l Reduces erosion and weed problems.
+m Sources of good mulching material include dead leaves from 
+alley crops, rice husks, coffee hulls, crop/weed residues and 
+leguminous plants (live mulch). 
+m 
+m
+m 
+m
+Cover crops such as Mucuna, Centrosema, and Aeschynomene,
+when used as live mulch are usually incorporated into the soil 
+before the crop is planted. 
+Highlights
+much technical knowledge from the small-scale farmer. But you 
+must use the crop husbandry practices mentioned in this 
+manual. This environmentally-friendly farming strategy is more 
+suitable for cassava than crops such as maize, rice, and 
+sorghum that have a high demand for fertilizer. 
+High yielding and healthy planting materials can be received or 
+purchased from your country’s cassava Research Institutes, 
+Cassava Program or Root and Tuber Programs. 
+8
+A good yield of cassava can be achieved without chemicals since 
+these are often unavailable or too expensive, and demand too  
+Good planting materials can be purchased from trained and 
+individual farmers, farmers’ associations or seed companies 
+which multiply cassava for sale in your area.
+7
+m For sole crop cassava, plant on the top of the ridge or heap. When 
+intercropped with maize, plant cassava on the top and maize on 
+the side of the ridge or mound.  
+m Where cassava is grown as an intercrop, adjust the spacing from 
+0.8m × 1m to 1m × 1m to suit the branching habits of cassava and 
+the other crop(s). 
+How to increase yield without purchasing soil    
+nutrient-enhancing inputs 
+m  Plant leguminous crops such as soybean in rotations or intercrops, 
+or Mucuna in fallows. This helps to sustain soil fertility and quality, 
+and to manage water, noxious weeds (spear grass), pests  and 
+diseases. 
+m  Mulch cassava seedbeds: This means covering the soil surface 
+with plant materials. It is especially valuable when growing 
+cassava in dry areas and on slopes. It has these advantages: 
+l
+Improves the fertility of the soil.l
+Increases the ability of the soil to hold water
+for plant growth.
+l Reduces erosion and weed problems.
+m Sources of good mulching material include dead leaves from 
+alley crops, rice husks, coffee hulls, crop/weed residues and 
+leguminous plants (live mulch). 
+m 
+m
+m 
+m
+Cover crops such as Mucuna, Centrosema, and Aeschynomene,
+when used as live mulch are usually incorporated into the soil 
+before the crop is planted. 
+Highlights
+much technical knowledge from the small-scale farmer. But you 
+must use the crop husbandry practices mentioned in this 
+manual. This environmentally-friendly farming strategy is more 
+suitable for cassava than crops such as maize, rice, and 
+sorghum that have a high demand for fertilizer. 
+High yielding and healthy planting materials can be received or 
+purchased from your country’s cassava Research Institutes, 
+Cassava Program or Root and Tuber Programs. 
+8
+A good yield of cassava can be achieved without chemicals since 
+these are often unavailable or too expensive, and demand too  
+Good planting materials can be purchased from trained and 
+individual farmers, farmers’ associations or seed companies 
+which multiply cassava for sale in your area.
+8
+3
+Weed control practices in cassava production4
+Controlling weeds in sub-Saharan Africa takes up to 60% of the labor 
+in crop production and more than 40% of the total cost of growing 
+cassava. In this section we look at efficient and cost-effective weed 
+control practices in cassava production.
+Common weeds found on cassava farms 
+There are two broad categories: annual and perennial weeds. Weeds 
+can further be grouped into broad leaved weeds, grasses, and sedges 
+Broad leaved weeds – Chromolaena odorata, Commelina 
+benghalensis, Euphorbia heterophylla, Aspilia africana and 
+Mimosa spp. 
+Grasses – Imperata cylindrica, Cynodon dactylon, Panicum 
+maximum, and Pennisetum polystachion 
+Sedges – Cyperus rotundus, Cyperus sculentus, Mariscus 
+alternifolius, and Mariscus labelliformis 
+When and how to control weed
+Weeds are controlled so that cassava grows and develops well.  
+Control weeds in the  3-4 months after planting (MAP).
+Biological method: Biological weed control techniques suppress 
+weed growth.
+ Fallowing  
+ Plant density and canopy management 
+Cultural method: Good crop husbandry minimizes weed 
+interference:
+ Hand/hoe weeding (Fig 10)
+ T illage  
+ Mulching  
+ Burning  
+ Cropping system such as cover crops (Figur e 11) 
+Figure 10. Hand/hoe weeding
+Figure 11. Cover crop
+9
+m Preventing the spread of weed seeds 
+Chemical method:  Herbicides kill or damage weeds .   
+Herbicides  can be applied before land preparation   
+(pre-tillage), immediately after land preparation (pre-planting), 
+and 4–8 months after planting (post-emergence). 
+Chemical control 
+m To control hard-to-kill perennial weeds that hand-pulling 
+      cannot remove.  
+m To avoid damaging cassava roots.  
+m To control annual weeds that grow quickly and produce many 
+       seeds.  
+m To increase yield, reduce labor and weed interference 
+m To cost-effectively and quickly cultivate large farms.
+ When and how to apply chemicals 
+m Pre-planting:
+m Post-emergence : Use Fusilade Forte 150EC recommended at
+Figure 12. Pre-planting 
+application
+Figure 13. Pre-emergence 
+application
+Figure 14. Post-emergence 
+application
+10
+ Use herbicides containing glyph sate at (3–4 L/ha), 
+10 days before land preparation (Figure 12). 
+ m Pre-emergence : Depending on availability, use (Atropine + 
+Metolachlor) at 4 L/ha, or Atrazine + Pendimethalin at 4-6 
+L/ha, or Fluometuron + Metolachlor at 5 L/ ha, or Fluome-
+turon+ Pendimethalin at 4 L/ha (Figure 13).
+5–6 L/ha at 12 weeks after planting,  for grasses. Apply Diuron 
++ Paraquat at 7 L/ha (directed spray) 4–8 weeks after planting 
+(early post emergence) for broad leaved weeds. Avoid direct or 
+drift damage to the crop (Figure 14). 
+m Preventing the spread of weed seeds 
+Chemical method:  Herbicides kill or damage weeds .   
+Herbicides  can be applied before land preparation   
+(pre-tillage), immediately after land preparation (pre-planting), 
+and 4–8 months after planting (post-emergence). 
+Chemical control 
+m To control hard-to-kill perennial weeds that hand-pulling 
+      cannot remove.  
+m To avoid damaging cassava roots.  
+m To control annual weeds that grow quickly and produce many 
+       seeds.  
+m To increase yield, reduce labor and weed interference 
+m To cost-effectively and quickly cultivate large farms.
+ When and how to apply chemicals 
+m Pre-planting:
+m Post-emergence : Use Fusilade Forte 150EC recommended at
+Figure 12. Pre-planting 
+application
+Figure 13. Pre-emergence 
+application
+Figure 14. Post-emergence 
+application
+10
+ Use herbicides containing glyph sate at (3–4 L/ha), 
+10 days before land preparation (Figure 12). 
+ m Pre-emergence : Depending on availability, use (Atropine + 
+Metolachlor) at 4 L/ha, or Atrazine + Pendimethalin at 4-6 
+L/ha, or Fluometuron + Metolachlor at 5 L/ ha, or Fluome-
+turon+ Pendimethalin at 4 L/ha (Figure 13).
+5–6 L/ha at 12 weeks after planting,  for grasses. Apply Diuron 
++ Paraquat at 7 L/ha (directed spray) 4–8 weeks after planting 
+(early post emergence) for broad leaved weeds. Avoid direct or 
+drift damage to the crop (Figure 14). 
+11
+Tips for successful chemical weed control 
+m Choose the right herbicide for the job.  
+m Check and calibrate the spray er.  
+m Know the spray volume needed. Standard spray volume is 200 L/
+ha, speed and walking is 1 m/sec or 3.6 km/h.  
+m Wear the right protective clothing.  
+m Follow the maker’s instruction for every herbicide. READ THE 
+LABEL AND HEED THE LABEL (Five times: 1 before purchase, 
+2 before mixing, 3 before application, 4 at storage and 5 before
+disposing of the excess herbicide) (Fig 15).  
+m 
+m 
+m 
+Dilute the herbicide correctly. Too much is dangerous: too little 
+does not work.  
+m Store herbicides correctly.  
+m Maintain the sprayer in good condition. 
+Weed control groups
+Agricultural extension departments of Ministry of Agriculture or Local 
+Government Administration are encouraged to organize trainable youth 
+to     become weed control groups in various localities. These groups and 
+herbicide                 companies should be linked. The  companies  can  provide 
+training to                    the  youth  to  help  farmers  choose  and  apply herbicides 
+correctly.
+Highlights
+Figure 15. Read the label and 
+b) Before mixing
+a) Before purchase
+egarots tA  )d
+e) Before disposing of the
+excess herbicide
+c) Before application
+A combination of cost-effective cultural, biological, and chemical 
+methods is needed for good, affordable weed management in cassava 
+production. Chemical and biological control methods require technical 
+knowledge.
+Watch the weather. Do not spray on windy days or in very dry 
+weather or when heavy rain is likely.  
+Buy the amount needed for one spraying or for one growing 
+season.  
+
+12
+ Cost-effective mechanization in cassava production5
+Introduction 
+Cassava production in Africa is mostly in the hands of small-
+holder farmers who depend on costly manual labor. Full  of 
+using improved inputs, such as improved varieties, fertilizers, and 
+herbicides in boosting cassava production, cannot be achieved 
+ no ediug a sedivorp ,noitces sihT   .noitazinahcem tuohtiw
+mechanization in cassava production and focuses on small-scale 
+mechanization for farms between 1–20 ha. 
+m  Cost-efficient mechanization means that all costs 
+      are covered and the farmer enjoys a good 
+m 
+m The level of mechanization can be small, medium, 
+       or large, depending on the land area. 
+m Careful planning is required because buying or hiring 
+machinery is an expensive undertaking for a small holder. 
+m The right machines and a suitable schedule for 
+    operations are needed. 
+m T errain, soil type, and rainfall are all important when 
+       the farmer is choosing machines. 
+1. Land clearing
+m Land clearing can be mechanized using light bulldozers, monkey 
+winches, monkey jacks and chain saws. 
+Figure 16 : 
+D6 light bulldozer
+Land clearing, tillage,  planting, fertilizer application, 
+weed control, and harvesting can be mechanized.
+ Available machines for commercial small- to 
+medium-scale cassava production
+Cost-efficient mechanization practices and farm 
+operations
+m
+m 
+m 
+m 
+m 
+Light bulldozers such as D6 or D65, can clear 2 or more ha in 1  
+day in fallow areas, depending on the vegetation. The bulldozers  
+push down the trees and shrubs and the blade is not allowed to 
+touch the topsoil. 
+m 
+m  For higher efficiency, it is usually combined with the monkey
+winch, or the stumps are removed by hand. 
+m  The brush-cutter is designed to clear grasses, small bushes, and 
+shrubs. 
+m     With a medium powered brush-cutte r  , a farmer can clear 1 ha of   
+land in less than 2 hours. 
+The chain saw is portable and very useful for felling trees and 
+cutting down shrubs but it cannot be used to uproot stumps.  
+It can clear 1 ha in half the time that would be taken to do the
+work by hand. 
+Bulldozers are used only on dry soils, particularly during the dry  
+season, to avoid compaction.
+Monkey winch is usefull in felling trees, pulling out roots of the 
+trees without damaging the soil and it is easy to take to the field 
+because of its light weight.
+Whenever bulldozers are not necessary or not available, the   
+monkey winch is the next most efficient machine for land clearing. 
+13
+2. Tillage
+ Tillage loosens and aerates the soil, and mixes organic matter 
+and nutrients fairly evenly; roots can penetrate more deeply and 
+plants are established better. 
+ In fallow land, it takes 40 to 50 people one day to till one ha by 
+hand and make mounds. In the savannas, it takes 25% less labor 
+to do the same work.  
+ Soil tillage can be mechanized using tractor-mounted plows or 
+power tillers (Figure 22).
+ The most common plows in Tanzania, for example, are the disc 
+type. They are designed to break, turn, mix, and raise soil.
+  A trained operator can plow 4 ha in a day. A disc plow is cost 
+saving and faster than tillage by hand.
+  The use of a power tiller is the next most efficient  machine for soil
+tillage whenever tractor-mounted plows are not necessary or not 
+available (Fig 23).
+  It can till 1.0–1.8 ha in 8 hours, depending on how wet and heavy 
+the soil is.
+  Many small farmers could contribute funds to buy 1 power tiller 
+that can service at least 250 ha of land in a year.  
+Figure 17. Monkey winch
+Uprooting a stump 
+with monkey jack
+Felling a tree with 
+monkey winch
+Rolling a heavy log 
+with monkey jack
+Figure 18. Using monkey winch 
+and monkey jack 
+Figure 19. Chain saw
+Figure 21 a and b. Clearing grasses and bushes using a brush 
+cutter
+Figure 20. Cutting tree by chain 
+saw
+Figure 22. Tractor-mounted 
+plough
+Figure 23. Power tiller
+13
+2. Tillage
+ Tillage loosens and aerates the soil, and mixes organic matter 
+and nutrients fairly evenly; roots can penetrate more deeply and 
+plants are established better. 
+ In fallow land, it takes 40 to 50 people one day to till one ha by 
+hand and make mounds. In the savannas, it takes 25% less labor 
+to do the same work.  
+ Soil tillage can be mechanized using tractor-mounted plows or 
+power tillers (Figure 22).
+ The most common plows in Tanzania, for example, are the disc 
+type. They are designed to break, turn, mix, and raise soil.
+  A trained operator can plow 4 ha in a day. A disc plow is cost 
+saving and faster than tillage by hand.
+  The use of a power tiller is the next most efficient  machine for soil
+tillage whenever tractor-mounted plows are not necessary or not 
+available (Fig 23).
+  It can till 1.0–1.8 ha in 8 hours, depending on how wet and heavy 
+the soil is.
+  Many small farmers could contribute funds to buy 1 power tiller 
+that can service at least 250 ha of land in a year.  
+Figure 17. Monkey winch
+Uprooting a stump 
+with monkey jack
+Felling a tree with 
+monkey winch
+Rolling a heavy log 
+with monkey jack
+Figure 18. Using monkey winch 
+and monkey jack 
+Figure 19. Chain saw
+Figure 21 a and b. Clearing grasses and bushes using a brush 
+cutter
+Figure 20. Cutting tree by chain 
+saw
+Figure 22. Tractor-mounted 
+plough
+Figure 23. Power tiller
+
+14
+How to plant cassava by machine 
+m The cuttings need to be the same length, size, and shape 
+with cleanly cut ends.
+m  Stem cuttings could be prepared by hand using simple tools such 
+as hacksaws or a small motorized chain saw.  A cassava stem 
+cutting machine has also been developed. 
+5. Weeding
+m Weeds reduce crop yield. Weeding is the most expensive item in 
+cassava production.
+m  Weeds can be controlled with use of herbicides and a boom 
+sprayer mounted on a tractor.
+m Boom sprayers have a tank which can carry 400–610 liters of 
+m  It is faster and 50% less expensive than planting by hand. 
+m 
+m 
+m 
+ The planter requires a tractor 60–70 hp, especially in soils likely 
+to become compacted. Four people are often required to 
+operate a 2-row planter: a tractor driver, two people to feed the 
+stakes into the planter and one person on the ground.
+The cuttings need to be the same length, size, and shape with 
+cleanly cut ends. Stem cuttings could be prepared by hand 
+using simple tools such as hacksaws or a small motorized 
+chain saw. A cassava stem cutting machine has also been 
+developed. 
+Some mechanical planters can simultaneously cut cassava 
+stems to stakes of constant length, plant at equidistance, apply 
+fertilizer, and cover the planted stakes. Generally this type of 
+mechanical planter can plant 3–6ha in 1 day.
+3. Planting
+m 
+m  
+m 
+m  A 2-row planter can plant 7–10 ha in 1 day, depending on 
+the terrain. 
+Depending on the type of planter, cassava stems are usually 
+cut into 20–25 cm long stakes or cuttings stakes or cuttings 
+which are planted horizontally, inclined, or vertically on 
+Generally farmers plant by hand and it takes 8–10 persons 
+to plant 1 ha in 1 day (Figure 24). 
+Cassava planting can be mechanized using tractor-powered 
+planters (Figure 25). Mechanical planters are suitable for 
+large-scale planting. For small- or medium-scale farmers, hiring 
+a mechanical planter and paying a fee for planting could be 
+more cost-effective.
+Figure 24. Farmers planting cassava by hand
+15
+the chemical. They reduce the cost of labor, and save time and 
+energy. 
+ The knapsack sprayer is also used and is hand-operated. It takes 
+a lot of time and is not cost-effective but it works well for small-
+scale farmers. 
+Highlights 
+A suitable mechanized production system developed with care 
+can reduce the labor requirement and operational costs. Farmers 
+are advised to carefully select the machines required for the 
+operations, depending on their scale of production, to avoid 
+choosing a production method too expensive for the work. Many 
+of the States/Local Government Areas and the private sector in 
+many countries have institutions responsible for mechanical 
+machine hiring services. African governments are encouraged to 
+make agriculture machine hiring services to be functional, 
+organized, and accessible. Farmers are therefore encouraged to 
+take advantage of these services.
+Figure 25. 
+Mechanical cassava
+planting
+
+14
+How to plant cassava by machine 
+m The cuttings need to be the same length, size, and shape 
+with cleanly cut ends.
+m  Stem cuttings could be prepared by hand using simple tools such 
+as hacksaws or a small motorized chain saw.  A cassava stem 
+cutting machine has also been developed. 
+5. Weeding
+m Weeds reduce crop yield. Weeding is the most expensive item in 
+cassava production.
+m  Weeds can be controlled with use of herbicides and a boom 
+sprayer mounted on a tractor.
+m Boom sprayers have a tank which can carry 400–610 liters of 
+m  It is faster and 50% less expensive than planting by hand. 
+m 
+m 
+m 
+ The planter requires a tractor 60–70 hp, especially in soils likely 
+to become compacted. Four people are often required to 
+operate a 2-row planter: a tractor driver, two people to feed the 
+stakes into the planter and one person on the ground.
+The cuttings need to be the same length, size, and shape with 
+cleanly cut ends. Stem cuttings could be prepared by hand 
+using simple tools such as hacksaws or a small motorized 
+chain saw. A cassava stem cutting machine has also been 
+developed. 
+Some mechanical planters can simultaneously cut cassava 
+stems to stakes of constant length, plant at equidistance, apply 
+fertilizer, and cover the planted stakes. Generally this type of 
+mechanical planter can plant 3–6ha in 1 day.
+3. Planting
+m 
+m  
+m 
+m  A 2-row planter can plant 7–10 ha in 1 day, depending on 
+the terrain. 
+Depending on the type of planter, cassava stems are usually 
+cut into 20–25 cm long stakes or cuttings stakes or cuttings 
+which are planted horizontally, inclined, or vertically on 
+Generally farmers plant by hand and it takes 8–10 persons 
+to plant 1 ha in 1 day (Figure 24). 
+Cassava planting can be mechanized using tractor-powered 
+planters (Figure 25). Mechanical planters are suitable for 
+large-scale planting. For small- or medium-scale farmers, hiring 
+a mechanical planter and paying a fee for planting could be 
+more cost-effective.
+Figure 24. Farmers planting cassava by hand
+15
+the chemical. They reduce the cost of labor, and save time and 
+energy. 
+ The knapsack sprayer is also used and is hand-operated. It takes 
+a lot of time and is not cost-effective but it works well for small-
+scale farmers. 
+Highlights 
+A suitable mechanized production system developed with care 
+can reduce the labor requirement and operational costs. Farmers 
+are advised to carefully select the machines required for the 
+operations, depending on their scale of production, to avoid 
+choosing a production method too expensive for the work. Many 
+of the States/Local Government Areas and the private sector in 
+many countries have institutions responsible for mechanical 
+machine hiring services. African governments are encouraged to 
+make agriculture machine hiring services to be functional, 
+organized, and accessible. Farmers are therefore encouraged to 
+take advantage of these services.
+Figure 25. 
+Mechanical cassava
+planting
+
+16
+Harvesting6
+When to harvest
+m 
+m 
+ m Harvesting too early results in a low yield while delayed harvesting 
+could reduce yield.  
+m 
+to inaccurate weight records. Also, the roots may be very dirty and 
+highly contaminated when peeled, thereby requiring large volume 
+of water and extended time to wash the peeled roots thoroughly. 
+How to harvest cassava 
+Cassava roots are harvested by pulling the stem which carries the 
+roots out of the ground. Harvesting could be done manually or by 
+mechanical methods.
+Manual method: 
+ m Cut the plant at about 30 – 50 cm above the ground; use the stem 
+to lift the roots.
+m Pull the plant gently and do not drag the roots. Dragging can cause 
+bruises and cuts which may lead to early deterioration (Figure 
+26).   
+Figure 26. Harvesting
+Cassava roots should be harvested at peak of maturity or at the right 
+age, size and tenderness required for fresh market (use of roots as a 
+snack or home cooking). Fully matured cassava roots should be 
+harvested  for processing. 
+Cassava roots may lose the valuable starch, rot or become woody if 
+not harvested at maturity. They are exposed to rodents and the land 
+cannot be put into productive use in the next season if the roots are 
+not harvested. This contributes to the general agriculture outputs in 
+smallholder systems and can cause shortage of land and increase 
+production costs, especially in places where land is scarce. 
+This section provides a guide on proper harvesting and postharvest 
+handling of cassava. 
+The optimum age when the starch and dry matter yields are 
+highest is 9 – 12 months after planting, depending on the variety 
+and the climate. Some varieties mature in 15 – 18 months. 
+Extended cold season may delay the  maturity of cassava.
+Harvest cassava when the soil is slightly soft but has no excessive 
+water so hat you can easily remove soil from the roots. Harvesting 
+in soft soil is easier than when the soil is harder. Roots harvested 
+in soggy conditions get soil stuck between them and this can lead 
+Harvest cassava roots when they are mature to have accumu-
+lated enough starch but have not yet become fibrous.  
+17
+m  Separate the roots from the stem using a sharp knife or cutlass. 
+Cut each root near to the stem. Do not break the roots from the 
+stump by hand. This will cause injuries which lead to root rot 
+(Figure 28). 
+Figure 27. Loosen hard soils
+Figure 28. Cut each root near to the stem
+m After harvesting, do not leave the roots under the sun. Too much 
+heat causes weight loss and early deterioration.
+ m Manual method of harvesting usually requires 40-60 persons, 
+depending on the season, to harvest 1 ha of cassava in 1 day. 
+Mechanical methods: 
+Cassava lifter  
+m 
+m  
+m  
+m  
+m  If the soil is compact, loosen it  but take care not to damage 
+the roots (Figure 27). 
+This equipment is manually operated and reduces the drudgery 
+in lifting tubers (Figure 29). 
+The jaws will grip the base of the stem tightly. 
+The lever is then used to lift the roots.  
+The lifter can harvest up to 200 plants/hour. 
+Figure 29 Cassava lifter .
+17
+m  Separate the roots from the stem using a sharp knife or cutlass. 
+Cut each root near to the stem. Do not break the roots from the 
+stump by hand. This will cause injuries which lead to root rot 
+(Figure 28). 
+Figure 27. Loosen hard soils
+Figure 28. Cut each root near to the stem
+m After harvesting, do not leave the roots under the sun. Too much 
+heat causes weight loss and early deterioration.
+ m Manual method of harvesting usually requires 40-60 persons, 
+depending on the season, to harvest 1 ha of cassava in 1 day. 
+Mechanical methods: 
+Cassava lifter  
+m 
+m  
+m  
+m  
+m  If the soil is compact, loosen it  but take care not to damage 
+the roots (Figure 27). 
+This equipment is manually operated and reduces the drudgery 
+in lifting tubers (Figure 29). 
+The jaws will grip the base of the stem tightly. 
+The lever is then used to lift the roots.  
+The lifter can harvest up to 200 plants/hour. 
+Figure 29 Cassava lifter 
+.
+18
+Figure 30. Motorized cassava harvester 
+Highlights 
+Harvesting requires proper planning in terms of timing and method 
+to be used. Manual harvesting is labor intensive and expensive. 
+To reduce cost in a commercial operation, farmers are advised to 
+harvest the roots using mechanical methods. To avoid loss of quality 
+and quantity of roots (postharvest losses), the amount of roots to be 
+harvested should be gauged depending on immediate market demand 
+or quantity needed for immediate processing. 
+Motorized cassava harvester 
+m The mechanical harvester cuts, digs, and raises up soil containing 
+the cassava root cluster.   
+m The equipment is usually pulled by a tractor and used by large-
+scale farmers (Figure 30).  
+m A 2-row mechanical harvester can harvest 3-5 ha cassava farm in 
+1 day, depending on the terrain. It is faster and 50% cheaper than 
+harvesting by hand. Mechanical harvesters can be imported or 
+bought locally. 
+119
+Transporting cassava roots
+To avoid root deterioration and loss of quality, transport to the homestead, 
+market or processing plant immediately after harvesting.
+How  to transport cassava roots 
+m  Use wheel barrows or  any other suitable container to transport 
+roots in small quantities and short distances, such as from the 
+farm to road side or bulking center where they will be loaded on a 
+vehicle for long distance transportation.  
+m  Gently off load the roots from the wheelbarrow or container without 
+causing bruises or damage to the roots 
+m Vehicles  transporting  cassava a long distance should be covered 
+with tarpaulin to avoid rapid  moisture loss from the roots (Figure 
+31). 
+m  Use oxen-cart for transportation especially in the rural areas 
+where there are no paved roads or the roads are not passable to 
+vehicles (Figure 32)
+ m  Carefully sort and arrange roots neatly in the vehicle or cart to 
+save space 
+m Do not seat or put heavy objects such as vehicle tyre s  on  roots 
+after loading.  
+Postharvest handling and  storage of  fresh roots7
+Cassava tubers attached to the main stem can remain safely in the 
+ground for several months. However, after harvest the roots start 
+deteriorating within 2 – 3 days, and rapidly become of little value for 
+consumption or industrial use. 
+This section, provides a guide on post-harvest handling and storage 
+of cassava. 
+Storing cassava roots
+Cassava roots start deteriorating soon after harvesting. Internal 
+discoloration and loss of marketing value occur if they are not cooked 
+or processed within 24 – 48 hour of harvesting. Secondary fungi and 
+bacteria infection may cause rot in untreated roots.
+Figure 31. Transportation of cassava roots
+Figure 32. Oxen-cart loaded with cassava roots
+18
+Figure 30. Motorized cassava harvester 
+Highlights 
+Harvesting requires proper planning in terms of timing and method 
+to be used. Manual harvesting is labor intensive and expensive. 
+To reduce cost in a commercial operation, farmers are advised to 
+harvest the roots using mechanical methods. To avoid loss of quality 
+and quantity of roots (postharvest losses), the amount of roots to be 
+harvested should be gauged depending on immediate market demand 
+or quantity needed for immediate processing. 
+Motorized cassava harvester 
+m The mechanical harvester cuts, digs, and raises up soil containing 
+the cassava root cluster.   
+m The equipment is usually pulled by a tractor and used by large-
+scale farmers (Figure 30).  
+m A 2-row mechanical harvester can harvest 3-5 ha cassava farm in 
+1 day, depending on the terrain. It is faster and 50% cheaper than 
+harvesting by hand. Mechanical harvesters can be imported or 
+bought locally. 
+1
+19
+Transporting cassava roots
+To avoid root deterioration and loss of quality, transport to the homestead, 
+market or processing plant immediately after harvesting.
+How  to transport cassava roots 
+m  Use wheel barrows or  any other suitable container to transport 
+roots in small quantities and short distances, such as from the 
+farm to road side or bulking center where they will be loaded on a 
+vehicle for long distance transportation.  
+m  Gently off load the roots from the wheelbarrow or container without 
+causing bruises or damage to the roots 
+m Vehicles  transporting  cassava a long distance should be covered 
+with tarpaulin to avoid rapid  moisture loss from the roots (Figure 
+31). 
+m  Use oxen-cart for transportation especially in the rural areas 
+where there are no paved roads or the roads are not passable to 
+vehicles (Figure 32)
+ m  Carefully sort and arrange roots neatly in the vehicle or cart to 
+save space 
+m Do not seat or put heavy objects such as vehicle tyre s  on  roots 
+after loading.  
+Postharvest handling and  storage of  fresh roots7
+Cassava tubers attached to the main stem can remain safely in the 
+ground for several months. However, after harvest the roots start 
+deteriorating within 2 – 3 days, and rapidly become of little value for 
+consumption or industrial use. 
+This section, provides a guide on post-harvest handling and storage 
+of cassava. 
+Storing cassava roots
+Cassava roots start deteriorating soon after harvesting. Internal 
+discoloration and loss of marketing value occur if they are not cooked 
+or processed within 24 – 48 hour of harvesting. Secondary fungi and 
+bacteria infection may cause rot in untreated roots.
+Figure 31. Transportation of cassava roots
+Figure 32. Oxen-cart loaded with cassava roots
+1
+20
+How to store cassava roots  
+Traditional storage methods
+m  
+m  Cassava roots are heaped under shade and watered everyday.
+m Undamaged roots are stored in pits or trenches(usually 1 meter 
+long and 30-40cm wide) dug in well drained soils, sloppy and 
+shaded area. The trenches, with the long side directed downhill 
+are lined with straw and dried leaves before roots are arranged 
+in them after which the roots are covered with soil, preferably 
+river-sand or sea-sand. Water-logged areas and heavy clay for 
+covering should be avoided.
+m  Cassava roots are coated with clay or mud.
+m  Freshly harvested or peeled roots are stored for 1 – 2 days by 
+completely submerging in water. The roots are simultaneously
+ 
+m  Storage by heaping or soaking, in pits, or by coating extends
+the shelf life of the roots by only 2–3 days. This is not suitable 
+for commercial operations.
+How to reduce postharvest losses 
+m  Harvest when the soil is wet or loose.
+m  When harvesting, cut the roots from the stem leaving 2-5cm of 
+the stuck on the roots.
+m  Avoid bruises or damage to the roots during harvesting and 
+transportation.
+m  Select uninjured roots if storage of more than 1 week is desired.
+m  Treat unpeeled roots with fungicides before storage.
+Improved storage methods 
+m Select a well-drained area, preferably shaded, 
+       and slightly sloping. 
+m  Dig trenches measuring 1 meter (m) wide and 30–40 cm deep. 
+The length varies according to the volume of roots. A trench 1 m 
+long can contain 70–80 kg of roots.  
+m  Dig the trenches in such a way that the length is directed 
+downhill.  
+m  At the lower end of the trench, make a drainage ditch, at least 20 
+cm wide and 5 to 10 cm deeper than the storage trench. 
+m  Arrange mature, undamaged roots inside the trench. Cover each 
+layer with soil, preferably  river- sand or sea- sand. Clay-loam soil 
+can also be used if it is not too wet. 
+m Do not use heavy clay. Soil of this type could speed up root 
+deterioration. 
+m  Do not keep cassava in a waterlogged area because roots will rot 
+easily. 
+Storage in sawdust
+m  Select healthy roots that were not damaged or bruised and were 
+harvested no longer than 24 hours.
+m  Put a layer of damp sawdust in wooden crates or baskets lined 
+with plastic foils that prevent the sawdust from drying up.
+m  Arrange the roots in alternate layers of damp sawdust in the 
+wooden crate and store (Figure 33). 
+m To avoid microbial spoilage, the sawdust must be damp, not too 
+wet.
+Figure 33. Storage in sawdust
+detoxified but may ferment or spoil after 3 days,
+Cassava roots are left underground after maturity and harvested 
+in piecemeal when needed. This practice is common when 
+cassava is used for food security. However, it is not 
+recommended for commercial practice.
+Storage in clamps
+m  
+m  
+m  Place a layer of straw, add a layer of selected undamaged 
+roots to form a cone or mound shape (Figure  34). 
+m 
+m Ensure  proper  ventilation and that the floor  remains dry.
+Figure 35. Fungicide treated roots stored in polythene bags
+Storage in polythene bags
+m  Treat non-bruised or undamaged roots with fungicide such as 
+thiabendazole solution (0.4% w/w) to avoid microbial spoilage. 
+Alternatively, household bleach (0.95% active chlorine) could be 
+used.
+m 
+m Keep the package at ambient temperatures
+m The storage period is 2 – 4 weeks.
+Storage in refrigerators
+m  Select healthy (non-bruised or undamaged) roots.
+m  Wash with cool chlorinated water
+m  Pack or vacuum pack in nylon bags 
+m  Store in the refrigerator at below 4oC.
+21
+Figure 34. Field clamp with cassava
+Straw
+Soil
+Choose a dry spot in the farm or processing area and dig 
+a shallow trench.
+The method is practical where fresh (sweet) roots are 
+marketed over many days for fresh uses or transported 
+over long distances. The storage period is about 1 month.
+Add 20cms of straw, then cover the clamp with soil, leaving 
+openings at the bottom for ventilation, to maintain temperature 
+below 40°C for curing wounds and for the storage.
+Vacuum pack in polythene bags, which makes it air tight  and
+creates the atmosphere (reduced oxygen and appropriate 
+humidity) for the storage. (Figure 35).
+This method works best for farmers, marketers or processors to hold 
+large stocks of non-bruised or undamaged roots for up to 4 weeks 
+without  quality loss. 
+Storage in clamps
+m  
+m  
+m  Place a layer of straw, add a layer of selected undamaged 
+roots to form a cone or mound shape (Figure  34). 
+m 
+m Ensure  proper  ventilation and that the floor  remains dry.
+Figure 35. Fungicide treated roots stored in polythene bags
+Storage in polythene bags
+m  Treat non-bruised or undamaged roots with fungicide such as 
+thiabendazole solution (0.4% w/w) to avoid microbial spoilage. 
+Alternatively, household bleach (0.95% active chlorine) could be 
+used.
+m 
+m Keep the package at ambient temperatures
+m The storage period is 2 – 4 weeks.
+Storage in refrigerators
+m  Select healthy (non-bruised or undamaged) roots.
+m  Wash with cool chlorinated water
+m  Pack or vacuum pack in nylon bags 
+m  Store in the refrigerator at below 4oC.
+21
+Figure 34. Field clamp with cassava
+Straw
+Soil
+Choose a dry spot in the farm or processing area and dig 
+a shallow trench.
+The method is practical where fresh (sweet) roots are 
+marketed over many days for fresh uses or transported 
+over long distances. The storage period is about 1 month.
+Add 20cms of straw, then cover the clamp with soil, leaving 
+openings at the bottom for ventilation, to maintain temperature 
+below 40°C for curing wounds and for the storage.
+Vacuum pack in polythene bags, which makes it air tight  and
+creates the atmosphere (reduced oxygen and appropriate 
+humidity) for the storage. (Figure 35).
+This method works best for farmers, marketers or processors to hold 
+large stocks of non-bruised or undamaged roots for up to 4 weeks 
+without  quality loss. 
+1
+22
+Figure 36. avassac nezorF  
+Figure 37. Waxed cassava in ventilated cartons. 
+Freezing
+m  Select healthy roots 
+m 
+Freezing is suitable for long term storage and long distance marketing 
+but the textural quality of the frozen roots may be affected. To reduce 
+texture damage, apply blast freezing to quickly freeze the roots.
+Waxing
+m  Wash non-bruised or undamaged roots in chlorinated cooled 
+water.
+m  
+carnauba wax and stearic acid have been tested for waxing of 
+cassava roots and were found suitable.  
+m Pack in well ventilated cartons (Figure 37)
+Waxing is done for commercial export of roots.Waxing slows down 
+respiration rate and transpiration, and prevents physiological 
+deterioration. 
+Highlights 
+The improved storage methods for roots help to extend shelf life of 
+stocks of fresh roots by 2 – 6 weeks. The methods are suitable for 
+storing small amounts of roots by consumers, restaurant operators 
+and itinerant food vendors. Low temperature storage can be combined 
+with fungicide treatment or waxing and is suitable for export of large 
+amount of roots. In this case, the processors or exporters can afford 
+the needed specialized equipment and have the necessary technical 
+skills while the consumers can afford the higher cost.
+The cassava roots can be stored for about a month but they may lose 
+same moisture. However, their texture and taste may not be 
+significantly affected.
+m 
+Wash and freeze the roots. Peeling and/or cutting into small 
+sizes are optional. Store the roots whole or cut up in frozen 
+condition (Figure 36). 
+Dip in melted paraffin wax at a temperature of 51.5°C–52.5°C. 
+Edible coating/film formulated with cassava starch, glycerol, 
+Peeling is labor intensive, slow and is done manually mostly by 
+women. A woman may peel 20 -25 kg roots in one hour and 
+peeling loss could be between 22% and 30%.
+Mechanical peelers are now available in countries such as 
+Brazil, DRC and Nigeria (Figure 38a & 38b).Peelers that peel 
+and wash cassava are also available (Figure 39).
+Mechanical peelers in Nigeria, although they are still being 
+improved, can peel between 600kg and 800k roots per hour, 
+removing 60-90% of the peels. 
+23
+Processing operations and machinery8
+Why cassava is processed
+Cassava is processed for many reasons. These include:
+m To increase shelf life of roots and prevent spoilage or food loss
+m To reduce bulkiness, ease transportation and reduce the cost
+m To remove the toxic compounds in cassava
+m To create varieties of foods with acceptable taste, aroma and  
+texture
+m To produce industrial raw materials.
+Operations in cassava processing
+Peeling
+m  
+m 
+m 
+Figure 38a. Mechanical peeler
+Figure 38b. Mechanical peeler
+Figure 39. Mechanical peeler and washer
+This section provides a guide on processing of cassava into highly 
+valuable products at both large and small scale. 
+There are many operations used for processing cassava. These 
+operations include peeling, washing, size reduction, drying, 
+fermenting, cooking by steaming, roasting, frying, etc. These 
+processing operations are combined in different sequence to make 
+different products such as granules, dried chips/flour, pastes, 
+fermented starch, etc.     
+Cassava is peeled to improve the quality and safety of cassava foods. 
+Nearly all cassava products are made by first peeling the roots.
+Peeling is labor intensive, slow and is done manually mostly by 
+women. A woman may peel 20 -25 kg roots in one hour and 
+peeling loss could be between 22% and 30%.
+Mechanical peelers are now available in countries such as 
+Brazil, DRC and Nigeria (Figure 38a & 38b).Peelers that peel 
+and wash cassava are also available (Figure 39).
+Mechanical peelers in Nigeria, although they are still being 
+improved, can peel between 600kg and 800k roots per hour, 
+removing 60-90% of the peels. 
+23
+Processing operations and machinery8
+Why cassava is processed
+Cassava is processed for many reasons. These include:
+m To increase shelf life of roots and prevent spoilage or food loss
+m To reduce bulkiness, ease transportation and reduce the cost
+m To remove the toxic compounds in cassava
+m To create varieties of foods with acceptable taste, aroma and  
+texture
+m To produce industrial raw materials.
+Operations in cassava processing
+Peeling
+m  
+m 
+m 
+Figure 38a. Mechanical peeler
+Figure 38b. Mechanical peeler
+Figure 39. Mechanical peeler and washer
+This section provides a guide on processing of cassava into highly 
+valuable products at both large and small scale. 
+There are many operations used for processing cassava. These 
+operations include peeling, washing, size reduction, drying, 
+fermenting, cooking by steaming, roasting, frying, etc. These 
+processing operations are combined in different sequence to make 
+different products such as granules, dried chips/flour, pastes, 
+fermented starch, etc.     
+Cassava is peeled to improve the quality and safety of cassava foods. 
+Nearly all cassava products are made by first peeling the roots.
+1
+24
+Figure 40
+ . Mechanical chipper
+Figure 41. Mechanical grater
+Efforts are ongoing to reducethe high (up to 30%) peeling loss for 
+some of the designs.
+Some mechanical peelers (and graters) in Nigeria are mobile. The 
+machines are transported with power tillers or tricycles to the farm or 
+remote villages to carry out the two or three processing operations - 
+peeling, grating and pressing at farm gate. This approach can 
+eliminate transportation of bulky fresh roots to long distances before 
+processing and can reduce the cost of the processing operation by 
+nearly 50%. It can significantly increase access of farmers in remote 
+villages to mechanical processing machines and increase the 
+amount of processed products produced by such farmers.
+Size reduction
+ Size reduction facilitates detoxification and drying of cassava.
+ Size reduction is mostly by chipping, slicing, and grating.
+ Grating is widely used for making gari or rale, starch, flour, 
+and some other products. Manual grating is labor-intensive 
+and exposes the women processors to injuries.
+ Grating is very efficient in hydrolyzing more than 95% of the 
+toxic compounds within 3 hrs, after which the compounds can 
+be almost entirely removed by dewatering.
+ Chipping, although is a new technique compared to grating, is 
+used for making dried chips that could be milled to flour if 
+lowcyanide cassava variety is processed or for making animal 
+feed from any cassava variety.
+ Commercial mechanical chippers (Figure 40) and graters 
+(Figure 41) could process 2-3 tons of fresh roots per hour, 
+significantly reducing labor inputs and saving time for women
+Dewatering
+  Dewatering or removal of water facilitates of cassava, drying 
+of fermented or fresh mash.
+ Processed cassava is dewatered during making of gari, high 
+quality flour starch, fufu, etc.
+ 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+125
+Figure 42. Hydraulic dewatering machine
+ Traditional methods of dewatering cassava with heavy stones 
+and logs are dangerous, labor-intensive and slow.
+ Mechanized single-screw, double-screw, hydraulic, and 
+double basket presses have replaced the traditional methods 
+(Figure 42).
+   
+ There are on-going research efforts at IITA and some 
+Nigerian universities to develop machines that will grate and 
+dewater cassava in a single operation.
+Drying
+ Cassava is traditionally dried to increase storability. Roots are 
+dried to 12-14% moisture before storage. The most 
+commontraditional method of drying cassava is sun-drying 
+(sun-heat and wind) on the ground in the farm, road-side, 
+around the homestead, on roof tops, etc. Sometimes the roots 
+are dried on-top of or cooking places in the homes.
+ These methods are prone to microbial contamination, 
+infestation by insects and is slow, especially during the rainy 
+season when drying could take 2-3 weeks. These promote 
+poor quality and insect infestation.
+ The poor quality of the product (discolored, changed tastes, 
+offensive smell, etc) lead to poor market acceptability and low 
+prices.
+ An improvement to this is the drying of cassava on raised 
+platformson black polythene sheet (Figure 43).
+ 
+ For large scale processing, mechanical drying of cassava is 
+the most suitable. It hastens the drying operation thereby 
+saving  time, preventing insect infestation, and preserving 
+color, taste and smell.
+ Many types of mechanical cassava dryers are now available,
+ these include cabinet, rotary, tunnel, solar, and flash dryers.
+  Sources of heat energy for dryers are electricity, sun, wood, 
+charcoal, gas, diesel, etc. 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+1
+24
+Figure 40
+ . Mechanical chipper
+Figure 41. Mechanical grater
+Efforts are ongoing to reducethe high (up to 30%) peeling loss for 
+some of the designs.
+Some mechanical peelers (and graters) in Nigeria are mobile. The 
+machines are transported with power tillers or tricycles to the farm or 
+remote villages to carry out the two or three processing operations - 
+peeling, grating and pressing at farm gate. This approach can 
+eliminate transportation of bulky fresh roots to long distances before 
+processing and can reduce the cost of the processing operation by 
+nearly 50%. It can significantly increase access of farmers in remote 
+villages to mechanical processing machines and increase the 
+amount of processed products produced by such farmers.
+Size reduction
+ Size reduction facilitates detoxification and drying of cassava.
+ Size reduction is mostly by chipping, slicing, and grating.
+ Grating is widely used for making gari or rale, starch, flour, 
+and some other products. Manual grating is labor-intensive 
+and exposes the women processors to injuries.
+ Grating is very efficient in hydrolyzing more than 95% of the 
+toxic compounds within 3 hrs, after which the compounds can 
+be almost entirely removed by dewatering.
+ Chipping, although is a new technique compared to grating, is 
+used for making dried chips that could be milled to flour if 
+lowcyanide cassava variety is processed or for making animal 
+feed from any cassava variety.
+ Commercial mechanical chippers (Figure 40) and graters 
+(Figure 41) could process 2-3 tons of fresh roots per hour, 
+significantly reducing labor inputs and saving time for women
+Dewatering
+  Dewatering or removal of water facilitates of cassava, drying 
+of fermented or fresh mash.
+ Processed cassava is dewatered during making of gari, high 
+quality flour starch, fufu, etc.
+ 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+1
+25
+Figure 42. Hydraulic dewatering machine
+ Traditional methods of dewatering cassava with heavy stones 
+and logs are dangerous, labor-intensive and slow.
+ Mechanized single-screw, double-screw, hydraulic, and 
+double basket presses have replaced the traditional methods 
+(Figure 42).
+   
+ There are on-going research efforts at IITA and some 
+Nigerian universities to develop machines that will grate and 
+dewater cassava in a single operation.
+Drying
+ Cassava is traditionally dried to increase storability. Roots are 
+dried to 12-14% moisture before storage. The most 
+commontraditional method of drying cassava is sun-drying 
+(sun-heat and wind) on the ground in the farm, road-side, 
+around the homestead, on roof tops, etc. Sometimes the roots 
+are dried on-top of or cooking places in the homes.
+ These methods are prone to microbial contamination, 
+infestation by insects and is slow, especially during the rainy 
+season when drying could take 2-3 weeks. These promote 
+poor quality and insect infestation.
+ The poor quality of the product (discolored, changed tastes, 
+offensive smell, etc) lead to poor market acceptability and low 
+prices.
+ An improvement to this is the drying of cassava on raised 
+platformson black polythene sheet (Figure 43).
+ 
+ For large scale processing, mechanical drying of cassava is 
+the most suitable. It hastens the drying operation thereby 
+saving  time, preventing insect infestation, and preserving 
+color, taste and smell.
+ Many types of mechanical cassava dryers are now available,
+ these include cabinet, rotary, tunnel, solar, and flash dryers.
+  Sources of heat energy for dryers are electricity, sun, wood, 
+charcoal, gas, diesel, etc. 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+m 
+Figure 43. Raised platform drying
+Figure 44. Cabinet dryer
+Milling
+26
+Some of the factors that increase the profitability of cassava drying 
+operations are:
+Use of dryers with the appropriate drying capacity
+high drying efficiency through low energy-use, lowfuel-consumption,
+or low heat-loss.
+ Cabinet (Figure 44 ) and rotary dryers using charcoal, wood or 
+agricultural wastes are being tested in Nigeria, Ghana, 
+Madagascar, Tanzania and Zambia.
+ Flash dryers (Figure 45) are used for large-volume rapid drying 
+of cassava starch, fermented pulp (fufu), grated and pressed 
+cassava into flour, etc.
+ The amount of roots that can be sourced should be considered 
+when choosing a dryer. Drying capacity excessively higher than 
+the available cassava roots will be wasteful and might make the 
+drying operation too expensive, reducing profitability.
+m
+m
+m
+ Dried cassava is mostly made into flour before home or 
+industrial use.
+ The traditional method of milling dried cassava for home use is 
+pounding. The method is labor-intensive and slow.
+ Milling machines for grains and other crops are very common 
+and are used for milling of cassava. The appropriate fineness of
+ milled cassava depends on its final use (Figure 46).
+ Cassava for animal feed should be milled gritty, flour for home 
+use needs to be fine while the flour for bread baking and starch 
+must be very fine.
+m 
+m 
+m 
+m 
+Figure 43. Raised platform drying
+Figure 44. Cabinet dryer
+Milling
+26
+Some of the factors that increase the profitability of cassava drying 
+operations are:
+Use of dryers with the appropriate drying capacity
+high drying efficiency through low energy-use, lowfuel-consumption,
+or low heat-loss.
+ Cabinet (Figure 44 ) and rotary dryers using charcoal, wood or 
+agricultural wastes are being tested in Nigeria, Ghana, 
+Madagascar, Tanzania and Zambia.
+ Flash dryers (Figure 45) are used for large-volume rapid drying 
+of cassava starch, fermented pulp (fufu), grated and pressed 
+cassava into flour, etc.
+ The amount of roots that can be sourced should be considered 
+when choosing a dryer. Drying capacity excessively higher than 
+the available cassava roots will be wasteful and might make the 
+drying operation too expensive, reducing profitability.
+m
+m
+m
+ Dried cassava is mostly made into flour before home or 
+industrial use.
+ The traditional method of milling dried cassava for home use is 
+pounding. The method is labor-intensive and slow.
+ Milling machines for grains and other crops are very common 
+and are used for milling of cassava. The appropriate fineness of
+ milled cassava depends on its final use (Figure 46).
+ Cassava for animal feed should be milled gritty, flour for home 
+use needs to be fine while the flour for bread baking and starch 
+must be very fine.
+m 
+m 
+m 
+m 
+Figure 46. Milling machine
+Figure 45. Flash dryer
+27
+Gari frying:
+Gari is made by roasting or frying cassava granules until cooked and 
+dried (Figure 47 & 48). The traditional frying method exposes women 
+to heat, smoke and possible inhaling of free cyanide. Mechanical fryers 
+reduce these risks and increase gari output. 
+Packaging and storage:
+Cassava products, fermented or unfermented chips, flour, starch, 
+etc. are hygroscopic. The moisture absorbed from the atmosphere 
+promotes mould growth and spoilage. The growth of mycotoxigenic 
+fungi such as Aspergillus flavus may increase the risk of mycotoxin 
+contamination of mouldy cassava products.
+m The traditional methods of storing dried cassava exposed to the 
+moisture in the atmosphere in porous bags, on the floor, orin the 
+arctic. The methods are not effective against moisture absorption, 
+mould growth, and insect damage.Prostephanustruncatus(Horn), 
+Dinoderusminutusand Tribolium sp. are the common insects that
+damage dried cassava. 
+Figure 47. Mechanical gari fryer
+Figure 49. Improved packaging for supermarket sale
+28
+Figure 48. Firewood stove
+ 
+ 
+ 
+ 
+m 
+m 
+m 
+ Proper packaging and appropriate storage conditions will preserve 
+quality characteristics and shelf life of cassava products. 
+ Packaging materials and storage conditions to be used for 
+cassava products must prevent the products from reabsorbing 
+moisture, andshould avoid infestation by pest insects.
+ Polythene bags, paper or polypropylene bags lined with 
+polytheneare suitable for packaging of cassava products. (Figure 
+Highlights:
+ The traditional processing techniques are laborious, time wasting 
+and may result in poor products. Mechanization of cassava 
+processing can solve these constraints of cassava processing. 
+The choice of machines for making a cassava product depends 
+on the unit operations involved in its production process. Machine 
+capacity should be selected based on quantity of roots available or 
+that can be sourced while packaging and storage systems should 
+aim at preventingprocessed cassava products from reabsorbing 
+moisture, mould growth and infestation by spoilage insects.
+29
+Conclusion9
+Achieving increased yields starts with the selection of high 
+quality planting materials and adopting proper planting 
+procedures. The use of good agronomic practices that eliminate 
+the use of chemicals or fertilizers can guarantee good yields of 
+cassava at low costs and at the same time be friendly to the 
+environment. A good agronomic practice starts with selecting 
+varieties that are high yielding and by sourcing healthy planting 
+materials from specialized institutions, certified individual 
+farmers, farmers associations, or seed companies. In addition, 
+cassava farmers need to seek advice or service on weed control 
+from trained personnel who have the relevant technical 
+knowledge and experience. Such expertises are usually 
+available at research and extension centers specializing on 
+cassava. Therefore, these subject matter specialists are either 
+very few or are located too from majority of the farmers. In order 
+to increase the quality of service provision to farmers, the 
+agriculture ministries of cassava producing countries may 
+consider establishing training programs to transfer these skills to 
+educated youth in the rural areas and equip them with the 
+necessary tools to provide these services to farmers in their 
+localities.  
+Cost-efficient mechanization of cassava production up to 
+harvesting and bulk transportation of harvested roots to point of 
+processing or sale is necessary to enable farmers have the full 
+benefits of using improved inputs, such as improved varieties, 
+fertilizers, and herbicides. To reduce the labor requirement, a 
+farmer may choose to hire his/her implements or processing 
+machinery from implement hiring institutions or buy them. A 
+careful selection of such implement will enable farmers and 
+processors reduce operational costs. 
+In the case of storage and packaging of fresh cassava, for a short 
+or long time, the choice of storage technique depends on the 
+form in which the cassava will be used or consumed at the end of 
+storage, the intended storage period, and the level of freshness 
+required. In any case, it is beneficial to use improved storage 
+methods that are cost effective. If processing is desired, 
+improved mechanized processing methods are preferred to the 
+traditional processing techniques, which are labor and time wast-
+ing, and may not guarantee quality and safety. The use of 
+efficient and low-cost machinery and packaging system can 
+guarantee the demand for the products high profitability for the 
+processor.
+References
+ICS-Nigeria (2003) Growing cassava in Nigeria, IITA Ibadan, 
+Nigeria.
+29
+Conclusion9
+Achieving increased yields starts with the selection of high 
+quality planting materials and adopting proper planting 
+procedures. The use of good agronomic practices that eliminate 
+the use of chemicals or fertilizers can guarantee good yields of 
+cassava at low costs and at the same time be friendly to the 
+environment. A good agronomic practice starts with selecting 
+varieties that are high yielding and by sourcing healthy planting 
+materials from specialized institutions, certified individual 
+farmers, farmers associations, or seed companies. In addition, 
+cassava farmers need to seek advice or service on weed control 
+from trained personnel who have the relevant technical 
+knowledge and experience. Such expertises are usually 
+available at research and extension centers specializing on 
+cassava. Therefore, these subject matter specialists are either 
+very few or are located too from majority of the farmers. In order 
+to increase the quality of service provision to farmers, the 
+agriculture ministries of cassava producing countries may 
+consider establishing training programs to transfer these skills to 
+educated youth in the rural areas and equip them with the 
+necessary tools to provide these services to farmers in their 
+localities.  
+Cost-efficient mechanization of cassava production up to 
+harvesting and bulk transportation of harvested roots to point of 
+processing or sale is necessary to enable farmers have the full 
+benefits of using improved inputs, such as improved varieties, 
+fertilizers, and herbicides. To reduce the labor requirement, a 
+farmer may choose to hire his/her implements or processing 
+machinery from implement hiring institutions or buy them. A 
+careful selection of such implement will enable farmers and 
+processors reduce operational costs. 
+In the case of storage and packaging of fresh cassava, for a short 
+or long time, the choice of storage technique depends on the 
+form in which the cassava will be used or consumed at the end of 
+storage, the intended storage period, and the level of freshness 
+required. In any case, it is beneficial to use improved storage 
+methods that are cost effective. If processing is desired, 
+improved mechanized processing methods are preferred to the 
+traditional processing techniques, which are labor and time wast-
+ing, and may not guarantee quality and safety. The use of 
+efficient and low-cost machinery and packaging system can 
+guarantee the demand for the products high profitability for the 
+processor.
+References
+ICS-Nigeria (2003) Growing cassava in Nigeria, IITA Ibadan, 
+Nigeria.
+NOTES
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+
+This training manual was developed based on research results and field experiences of cassava value chain 
+development experts. It provides consolidated and relevant set of techno-commercial oriented information 
+presented with simple annotated drawings to explain the step-by-step use of improved techniques and tools of 
+cassava production, handling, processing, storage, quality assurance and marketing. The manual will be useful 
+to farmers, processors, marketers, extension agents and other experts who are supporting cassava 
+commercialization in Africa. The use of the manual by value chain actors will enhance their knowledge and 
+capacity to improve efficiency of their cassava related operations and can increase profitability.  
+The manual will be useful to farmers, processors, marketers, extension agents and other experts who are  
+suporting cassava commercialization in Africa.
