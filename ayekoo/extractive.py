@@ -38,6 +38,21 @@ CALENDAR_INTENT = re.compile(
 
 PLANTING_TERMS = re.compile(r"\b(plant|planting|sow|sowing|season)\b", re.I)
 
+# Price questions get the same treatment as dates, and for the same reason.
+# Asked "how much is yam selling for", the model produced correct figures and
+# then looped — "has increased due to inflation rather than real gain" eight
+# times over. Asked "what is the price of maize", it retrieved tomato text and
+# reported a 130kg crate at GHS 700, along with maize having "high brix
+# content", which is a tomato measure. A price is a figure to be quoted.
+PRICE_INTENT = re.compile(
+    r"\b(price|prices|cost|costs|selling for|sell for|worth|how much|"
+    r"market rate|going rate)\b",
+    re.I,
+)
+
+CROPS = ("maize", "cassava", "yam", "cocoyam", "plantain", "rice", "tomato",
+         "sorghum", "millet", "groundnut")
+
 # Zone vocabulary, matched against both question and source lines.
 ZONES = {
     "forest": ("forest zone", "rain forest", "deciduous"),
@@ -65,6 +80,58 @@ PLACE_TO_ZONE: dict[str, str] = {
 
 def is_calendar_question(question: str) -> bool:
     return bool(CALENDAR_INTENT.search(question) and PLANTING_TERMS.search(question))
+
+
+def is_price_question(question: str) -> bool:
+    return bool(PRICE_INTENT.search(question))
+
+
+def extract_prices(question: str, retriever) -> tuple[str, list] | None:
+    """Quote the price lines for whichever crops the question names."""
+    if retriever is None or not is_price_question(question):
+        return None
+
+    low = question.lower()
+    # Word boundaries matter here: "rice" is a substring of "price", so a plain
+    # containment check made every price question also return the rice figure.
+    wanted = [c for c in CROPS if re.search(rf"\b{c}s?\b", low)]
+    if not wanted:
+        return None
+
+    from .retrieve import Hit
+
+    lines: list[str] = []
+    used: list = []
+    for chunk in retriever.chunks:
+        if chunk["source_id"] != "derived-market-prices":
+            continue
+        for sentence in re.split(r"(?<=\.)\s+", chunk["text"]):
+            s = " ".join(sentence.split())
+            if not re.match(r"^[A-Z]", s):
+                continue
+            # Only the per-crop price statements, which name a crop, a cedi
+            # figure and a year.
+            if not any(s.lower().startswith(c) for c in wanted):
+                continue
+            if "GH" not in s:
+                continue
+            if s not in lines:
+                lines.append(s)
+                hit = Hit(chunk=chunk, score=0.0, dense_rank=None, lexical_rank=None)
+                if not any(h.chunk["chunk_id"] == chunk["chunk_id"] for h in used):
+                    used.append(hit)
+
+    if not lines:
+        return None
+
+    body = "\n".join(f"- {line}" for line in lines)
+    return (
+        "From the source, word for word:\n\n"
+        f"{body}\n\n"
+        "These are annual national average wholesale prices, not today's market "
+        "price and not a farm-gate price. Prices vary by region and by season.\n\n"
+        "(Quoted exactly rather than summarised, so the figures are not altered.)"
+    ), used
 
 
 def zones_in(text: str) -> set[str]:

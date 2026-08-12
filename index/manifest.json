@@ -1,5 +1,5 @@
 {
-  "n_chunks": 5902,
+  "n_chunks": 5905,
   "dim": 384,
   "embed_model": "bge-small-en-v1.5-f16.gguf",
   "query_prefix": "Represent this sentence for searching relevant passages: ",
@@ -13,6 +13,7 @@
     "cocoa-extension-manual",
     "derived-agroecological-zones",
     "derived-maize-planting-calendar",
+    "derived-market-prices",
     "fao-cassava-africa-review",
     "fao-fertilizer-ghana",
     "fao-newcastle-village-poultry",

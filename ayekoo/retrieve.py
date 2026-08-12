@@ -167,8 +167,15 @@ class Retriever:
         question: str,
         query_vector: np.ndarray | None,
         top_k: int = 4,
-        candidates: int = 20,
+        # How deep each ranker is consulted before fusion. Was 20, which was too
+        # shallow: the passage naming Newcastle disease as the cause of "very
+        # sudden, very high mortality" sat at dense rank 32 and never entered
+        # the fusion at all, so a poultry question the corpus answers well came
+        # back as "my sources do not cover this". Both rankers are already
+        # computed over every chunk, so widening the window costs only a sort.
+        candidates: int = 80,
         prefer_ghana: bool = True,
+        max_per_source: int = 2,
     ) -> list[Hit]:
         # Expand only the lexical query: BM25 needs the document's vocabulary,
         # while the dense side is better served by the farmer's own phrasing.
@@ -216,7 +223,25 @@ class Retriever:
                 if self.chunks[idx].get("ghana_specific", True):
                     fused[idx] *= 1.15
 
-        ordered = sorted(fused.items(), key=lambda kv: -kv[1])[:top_k]
+        # Cap how many chunks any single document may contribute.
+        #
+        # "My chickens are dying suddenly" returned four chunks from the village
+        # chicken manual — two of them noise, including a decision-tree table
+        # that extracts as "yes yes No No" — while the Newcastle disease guide,
+        # which is precisely about sudden poultry deaths, never appeared. The
+        # manual is five times larger, so it simply has more chances to rank.
+        # Spreading across documents gives the model corroboration from
+        # independent sources instead of four views of one page.
+        ordered: list[tuple[int, float]] = []
+        per_source: Counter = Counter()
+        for idx, score in sorted(fused.items(), key=lambda kv: -kv[1]):
+            source = self.chunks[idx]["source_id"]
+            if per_source[source] >= max_per_source:
+                continue
+            per_source[source] += 1
+            ordered.append((idx, score))
+            if len(ordered) >= top_k:
+                break
         return [
             Hit(
                 chunk=self.chunks[idx],

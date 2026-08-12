@@ -64,6 +64,20 @@ ALIASES: dict[str, list[str]] = {
     "sigatoka": ["sigatoka", "leaf spot"],
     "banana weevil": ["weevil", "cosmopolites"],
     "suckers": ["sucker", "planting material"],
+    # ── poultry & livestock ──────────────────────────────────────────────────
+    # A farmer describes what they see: birds dying fast, with no warning. The
+    # manuals call it "sudden, very high mortality" and name Newcastle disease.
+    # Without this bridge, "my chickens are dying suddenly" retrieved general
+    # husbandry pages and the system declined a question it could answer.
+    "dying suddenly": ["sudden", "mortality", "newcastle"],
+    "dying fast": ["sudden", "mortality", "newcastle"],
+    "sudden death": ["sudden", "mortality", "newcastle"],
+    "many died": ["mortality", "newcastle"],
+    "birds dying": ["mortality", "newcastle", "disease"],
+    "chickens dying": ["mortality", "newcastle", "disease"],
+    "fowl disease": ["newcastle", "disease"],
+    "nd": ["newcastle"],
+    "not laying": ["egg production", "laying"],
     # ── general ──────────────────────────────────────────────────────────────
     "eelworm": ["nematode"],
     "eelworms": ["nematode"],

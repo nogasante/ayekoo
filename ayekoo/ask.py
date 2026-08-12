@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -67,6 +68,26 @@ REFUSAL = (
 )
 
 
+def _tidy(text: str) -> str:
+    """Drop a leading part-sentence so the model is not handed broken text.
+
+    Chunks carry an overlap tail from the previous chunk, so many begin
+    mid-word: "irds affected, and the severity...", "us, the survival rates
+    were...". Given four passages that all start like that, the model concluded
+    the sources were unusable and refused a poultry question it had perfectly
+    good material to answer. Nothing is lost by trimming — the overlap exists
+    precisely so the full sentence survives in the neighbouring chunk.
+    """
+    stripped = text.lstrip()
+    if not stripped or stripped[0].isupper() or stripped[0] in "•-—(":
+        return text
+    # Cut to the first sentence boundary or bullet, if there is one.
+    match = re.search(r"(?:(?<=[.!?])\s+|\n)(?=[A-Z•(])", stripped)
+    trimmed = stripped[match.end():] if match else stripped
+    # If trimming would leave almost nothing, keep the original.
+    return trimmed if len(trimmed) > 120 else text
+
+
 def build_prompt(question: str, hits) -> str:
     blocks = []
     for n, hit in enumerate(hits, 1):
@@ -74,7 +95,7 @@ def build_prompt(question: str, hits) -> str:
         label = c["attribution"]
         if not c.get("ghana_specific", True):
             label += " [regional source, not Ghana-specific]"
-        blocks.append(f"[{n}] {label}\n{c['text']}")
+        blocks.append(f"[{n}] {label}\n{_tidy(c['text'])}")
     sources = "\n\n".join(blocks)
     # Question first, sources second, an explicit `ANSWER:` cue last.
     #
@@ -153,8 +174,30 @@ def call_model(system: str, user: str, max_tokens: int = 320, temperature: float
             body = json.load(resp)
     except urllib.error.URLError:
         # No server running — fall back to loading the model in this process.
-        return _generate_in_process(system, user, max_tokens, temperature)
-    return body["choices"][0]["message"]["content"].strip()
+        return _stop_repeating(_generate_in_process(system, user, max_tokens, temperature))
+    return _stop_repeating(body["choices"][0]["message"]["content"].strip())
+
+
+def _stop_repeating(text: str) -> str:
+    """Cut a generated answer at the point it starts repeating itself.
+
+    Small models loop. Asked "how much is yam selling for", this one produced
+    correct figures and then wrote "has increased due to inflation rather than
+    real gain" eight times over. The information was right; the answer was
+    unusable. Truncating at the first repeated sentence keeps the good part and
+    drops the loop, rather than showing a farmer a wall of duplicated text.
+    """
+    sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+", text) if s.strip()]
+    seen: set[str] = set()
+    kept: list[str] = []
+    for sentence in sentences:
+        key = re.sub(r"[^a-z0-9 ]", "", sentence.lower())
+        # Short fragments repeat harmlessly; only guard substantial sentences.
+        if len(key) > 25 and key in seen:
+            break
+        seen.add(key)
+        kept.append(sentence)
+    return " ".join(kept)
 
 
 def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
@@ -184,7 +227,7 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
     # window corrupts it ("End of May-early July" became "early May to end of
     # July"), and no verifier can catch that because every month present is
     # legitimately there.
-    extracted = extractive.extract(question, hits, retriever)
+    extracted = extractive.extract_prices(question, retriever) or extractive.extract(question, hits, retriever)
     if extracted is not None:
         text, used = extracted
         return {
