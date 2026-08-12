@@ -119,3 +119,31 @@ quoting them well needs its own extraction. Recorded rather than rushed.
 **Deliberate consequence:** neither submitted test prompt asks a system to
 classify a variety. `tp_001` asks which varieties are recommended for a zone,
 which is answered by quoting MoFA's list verbatim.
+
+## 6. OPEN — vegetables have vocabulary but no content
+
+Okra, garden egg, onion and pepper now have local-language aliases pointing at
+them — `fetri`, `nkruma`, `nyaadewa`, `ntrowa`, `mako` — and there is nothing
+behind those words. Measured after adding them:
+
+    fetri pests                       0.69   weak
+    nkruma farming                    0.71   weak
+    nyaadewa farming                  0.68   weak
+    akyimkyimakyimkyim on my onions   0.61   refused
+
+The last one is the clearest case. Ghanaian field surveys record
+*akyimkyimakyimkyim* as the farmer name for onion leaf-twisting disease in
+Fanteakwa and Kwahu South. The alias resolves it to "twisting" and "leaf curl",
+and the corpus contains two mentions of "twisting" in any context. There is
+nothing to retrieve.
+
+**The lesson is worth keeping: an alias bridges vocabulary to content, it
+cannot create content.** Adding these words made the gap visible — a farmer
+asking about okra is now routed accurately to nothing — which is more honest
+than the previous behaviour of matching a poultry manual, but it is not a fix.
+
+Ghana grows a great deal of pepper, okra, garden egg and onion, and MoFA has
+published a production guide for none of them. The tomato guide is the only
+vegetable source in the corpus. Closing this needs a real vegetable production
+manual, Ghanaian or West African; searches of MoFA, CSIR, CGSpace and FAO have
+not turned one up.
