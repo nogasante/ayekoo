@@ -68,6 +68,32 @@ class Hit:
         return self.chunk["attribution"]
 
 
+# Subjects a question can be *about*. A source that declares one of these and a
+# question that names a different one are talking past each other.
+SUBJECT_TERMS = {
+    "poultry": ("chicken", "chickens", "poultry", "fowl", "cockerel", "hen", "hens", "layer", "broiler"),
+    "goat": ("goat", "goats"),
+    "sheep": ("sheep", "ram", "ewe", "lamb"),
+    "cattle": ("cattle", "cow", "cows", "bull", "calf"),
+    "maize": ("maize", "corn"),
+    "cassava": ("cassava",),
+    "yam": ("yam", "yams"),
+    "cocoa": ("cocoa",),
+    "tomato": ("tomato", "tomatoes"),
+    "plantain": ("plantain", "plantains"),
+    "rice": ("rice",),
+}
+
+
+def subjects_in(text: str) -> set[str]:
+    low = f" {text.lower()} "
+    found = set()
+    for subject, terms in SUBJECT_TERMS.items():
+        if any(f" {t} " in low or f" {t}," in low or f" {t}." in low for t in terms):
+            found.add(subject)
+    return found
+
+
 class Retriever:
     def __init__(self) -> None:
         chunks_path = INDEX / "chunks.jsonl"
@@ -85,6 +111,24 @@ class Retriever:
                 f"{self.vectors.shape[0]} vectors — rebuild it"
             )
         self._build_bm25()
+        self._load_source_subjects()
+
+    def _load_source_subjects(self) -> None:
+        """Map each source id to the crops/livestock it declares in sources.yaml.
+
+        Read at query time rather than baked into the chunks, so that changing
+        it does not require re-embedding 5,900 chunks.
+        """
+        import yaml
+
+        path = ROOT / "corpus" / "sources.yaml"
+        self.source_subjects: dict[str, set[str]] = {}
+        if not path.exists():
+            return
+        for src in yaml.safe_load(path.read_text(encoding="utf-8"))["sources"]:
+            subjects = set(src.get("crops") or []) | set(src.get("livestock") or [])
+            if subjects:
+                self.source_subjects[src["id"]] = subjects
 
     # ── BM25 ──────────────────────────────────────────────────────────────────
 
@@ -143,6 +187,25 @@ class Retriever:
             fused[idx] = fused.get(idx, 0.0) + 1.0 / (RRF_K + r + 1)
         for idx, r in lex_rank.items():
             fused[idx] = fused.get(idx, 0.0) + 1.0 / (RRF_K + r + 1)
+
+        # Subject match. Without this, "my goat is sick" returned four chunks
+        # from the village chicken manual and no goat content at all: the corpus
+        # holds roughly ten times more poultry text than goat text, and RRF
+        # rewards a document that appears mid-rank in BOTH rankers over one that
+        # ranks first in only one. So a question naming an animal or crop lifts
+        # sources about that subject and pushes down sources about a different
+        # one. Sources that declare no subject (general agronomy, weather) are
+        # left alone — they are often exactly what a broad question needs.
+        asked_subjects = subjects_in(question)
+        if asked_subjects:
+            for idx in list(fused):
+                declared = self.source_subjects.get(self.chunks[idx]["source_id"])
+                if not declared:
+                    continue
+                if declared & asked_subjects:
+                    fused[idx] *= 1.6
+                else:
+                    fused[idx] *= 0.4
 
         if prefer_ghana:
             # A mild nudge, not an override. Where a Ghanaian and a regional

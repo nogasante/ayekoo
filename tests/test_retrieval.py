@@ -80,3 +80,15 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
+
+# Subject-routing cases: a question naming an animal or crop must retrieve
+# documents about THAT subject. Added after "my goat is sick" returned four
+# chunks from the village chicken manual and no goat content at all.
+SUBJECT_CASES: list[tuple[str, str]] = [
+    ("how should I feed my goats in the dry season", "fao-sheep-goats"),
+    ("my goat is sick, what should I check", "fao-sheep-goats"),
+    ("my chickens are dying suddenly", "fao-village-chicken-manual"),
+    ("how do I control armyworm in maize", "mofa-maize-2020"),
+    ("when do the rains start in northern Ghana", "rainfall-onset-north-ghana"),
+]
