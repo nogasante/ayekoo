@@ -1,0 +1,59 @@
+# Rural Wholesale Prices of Major Crops in Ghana, GH cedis per tonne (restructured table)
+# publisher: Statistics, Research and Information Directorate (SRID), Ministry of Food and Agriculture, Ghana
+# year: 2024
+# url: https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRICULTURE IN GHANA (Facts & Figures) 2024.pdf
+# attribution: MoFA/SRID, Agriculture in Ghana: Facts & Figures (2024), Table 7.1
+# ghana_specific: True
+# extent: derived document
+# DERIVED: retyped from Table 7.1, annual nominal weighted average rural
+# wholesale price in GH cedis per metric tonne. No figures added, removed or
+# changed. Values are quoted per tonne exactly as the source states them; they
+# are NOT converted to per-bag or per-maxi-bag, because the source does not give
+# a bag weight and inventing one would put a number in a farmer's hands that no
+# document supports.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+
+RURAL WHOLESALE PRICES IN GHANA, 2024 (GH CEDIS PER TONNE)
+
+These are annual nominal weighted average rural wholesale prices for 2024, the
+most recent year in the source. They are national averages across the year, not
+a price for today and not a price at any particular market.
+
+Cassava: GH 5,044.56 per tonne in 2024.
+Yam: GH 9,975.71 per tonne in 2024.
+Plantain: GH 7,556.76 per tonne in 2024.
+Cocoyam: GH 13,893.8 per tonne in 2024.
+Maize: GH 9,285.91 per tonne in 2024.
+Sorghum: GH 8,761.91 per tonne in 2024.
+Groundnut: GH 16,792.6 per tonne in 2024.
+Millet: GH 9,797.51 per tonne in 2024.
+Rice: GH 11,164.9 per tonne in 2024.
+Tomato: GH 16,704.4 per tonne in 2024.
+
+PRICES THE YEAR BEFORE, 2023 (GH CEDIS PER TONNE)
+
+Cassava 3,869.88. Yam 6,650.69. Plantain 6,202.81. Cocoyam 7,126.25.
+Maize 5,757.09. Sorghum 7,526.19. Groundnut 16,663.86. Millet 8,259.83.
+Rice 10,311.20. Tomato 10,618.49.
+
+HOW PRICES HAVE MOVED SINCE 2015
+
+Nominal maize prices rose from GH 1,421.69 per tonne in 2015 to GH 9,285.91 per
+tonne in 2024. Yam rose from GH 1,220.63 to GH 9,975.71 over the same period.
+Cassava rose from GH 526.86 to GH 5,044.56.
+
+Much of that rise is inflation rather than real gain. The source also publishes
+real prices at constant value in its Table 7.2: in real terms maize moved from
+GH 941.45 per tonne in 2015 to GH 4,116.09 in 2024, and cassava from GH 348.89
+to GH 2,236.07. Nominal figures overstate how much better off a farmer is.
+
+WHAT THESE PRICES ARE NOT
+
+They are annual national averages for 2024. They are not current market prices,
+they are not farm-gate prices, and they do not reflect what any particular
+market or buyer pays on a given day. Prices vary by region, by season, and
+sharply between harvest and lean periods. A farmer deciding when to sell should
+treat these as a reference point, not a quote.

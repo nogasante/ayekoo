@@ -186,6 +186,18 @@
     "url": "https://mofa.gov.gh/site/images/pdf/production_guides/GUIDE_TO_MAIZE_PRODUCTION.pdf"
   },
   {
+    "id": "derived-agroecological-zones",
+    "ok": true,
+    "message": "derived",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/46e4e69d-caab-42e6-8f66-3d7888feebc3/content"
+  },
+  {
+    "id": "derived-market-prices",
+    "ok": true,
+    "message": "derived",
+    "url": "https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRICULTURE IN GHANA (Facts & Figures) 2024.pdf"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",

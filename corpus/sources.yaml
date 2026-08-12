@@ -484,6 +484,20 @@ sources:
     caveat: "Restructured table. Rainfall figures and season windows are climatological averages from 2005, not a forecast for any particular year."
     status: confirmed
 
+  - id: derived-market-prices
+    title: "Rural Wholesale Prices of Major Crops in Ghana, GH cedis per tonne (restructured from SRID Table 7.1)"
+    publisher: Statistics, Research and Information Directorate (SRID), Ministry of Food and Agriculture, Ghana
+    year: 2024
+    url: "https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRICULTURE IN GHANA (Facts & Figures) 2024.pdf"
+    derived: true
+    derived_from: srid-facts-figures-2024
+    crops: [maize, cassava, yam, plantain, rice, tomato]
+    topics: [market_advisory, prices_ghs]
+    attribution: "MoFA/SRID, Agriculture in Ghana: Facts & Figures (2024), Table 7.1"
+    ghana_specific: true
+    caveat: "Annual national average wholesale prices for 2024, not current market prices and not farm-gate prices. Quoted per tonne exactly as published; never converted to per-bag, since the source gives no bag weight."
+    status: confirmed
+
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper
