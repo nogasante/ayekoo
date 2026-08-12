@@ -27,6 +27,7 @@ sees the farmer's original phrasing, which is what it is good at.
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
 # farmer-facing term  ->  terms used in the documents
@@ -111,23 +112,44 @@ ALIASES: dict[str, list[str]] = {
     # A wrong key costs nothing (it simply never fires) but it also must not be
     # presented as evidence of local-language coverage. Correct or delete
     # anything that is wrong, and add the ones I have missed.
-    "aburo": ["maize"],
+    # SOURCED — Akan lexicon, Burkill's Useful Plants of West Tropical Africa
+    # (Kew/JSTOR), University of Ghana repository. Spellings follow the sources.
     "aburoo": ["maize"],
-    "abele": ["maize"],
+    "aburo": ["maize"],
     "bankye": ["cassava"],
-    "bayere": ["yam"],
-    "kooko": ["cocoyam"],
+    "borodee": ["plantain"],
+    "amankani": ["cocoyam"],
     "mankani": ["cocoyam"],
+    "nkatee": ["groundnut"],
     "nkate": ["groundnut"],
-    "nkatie": ["groundnut"],
     "ntoosi": ["tomato"],
-    "mako": ["pepper", "capsicum"],
+    "mako": ["pepper"],
+    "moko": ["pepper"],
     "gyeene": ["onion"],
+    "nkruma": ["okra"],
+    "abe": ["oil palm"],
+    # Ghanaian English, not a local language, but what a farmer actually types.
+    "garden egg": ["garden egg", "eggplant"],
+    "garden eggs": ["garden egg", "eggplant"],
+
+    # UNSOURCED — my own recollection, no citation found. Kept because a key
+    # asserts nothing and simply never fires if wrong, but NOT to be counted as
+    # local-language coverage. "kooko" was removed from this list entirely: I had
+    # mapped it to cocoyam and the sources give amankani, so I had it wrong.
+    "abele": ["maize"],        # believed Ga; not confirmed by any source found
+    "bayere": ["yam"],
     "emo": ["rice"],
-    "ayuo": ["millet"],
-    "asikyire": ["sugarcane"],
     "kwadu": ["banana"],
-    "adua": ["cowpea", "beans"],
+    "adua": ["cowpea"],
+    "ayuo": ["millet"],
+
+    # Local pest terms. "Ntontom" is a catch-all for small flying insects, so it
+    # is mapped broadly rather than to one species. "Ayoyo worms" is Ghanaian
+    # English for armyworm larvae, from the local name for jute mallow.
+    "ntontom": ["whitefly", "whiteflies", "insect"],
+    "ntontome": ["whitefly", "whiteflies", "insect"],
+    "ayoyo worm": ["armyworm"],
+    "ayoyo worms": ["armyworm"],
     # ── Ghanaian variety names ───────────────────────────────────────────────
     # A farmer asks for a variety by name. The name alone embeds poorly in an
     # English model — "Obatanpa" scored 0.596 against a 0.65 gate — so it is
@@ -168,7 +190,11 @@ def expand(question: str) -> str:
     lowered = question.lower()
     extra: list[str] = []
     for term, targets in ALIASES.items():
-        if term in lowered:
+        # Word boundaries, not substring containment. "abe" (oil palm) sits
+        # inside "abele" (maize), so plain containment expanded a maize question
+        # with oil palm. Short keys — abe, emo, nd — are exactly the ones that
+        # matter for local vocabulary and exactly the ones substrings break.
+        if re.search(rf"\b{re.escape(term)}\b", lowered):
             extra.extend(t for t in targets if t not in lowered)
     if not extra:
         return question
