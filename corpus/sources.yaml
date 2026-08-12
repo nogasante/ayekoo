@@ -601,6 +601,32 @@ sources:
     ghana_specific: true
     status: candidate
 
+  - id: gmet-weather-climate-manual
+    title: Weather and Climate Manual for Agriculture
+    publisher: Ghana Meteorological Agency (GMet) with AICCRA/CGIAR
+    year: 2022
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/3cb7b779-cd15-4643-b999-148a021a45c6/content
+    crops: []
+    topics: [weather, planting_calendar]
+    attribution: "Ghana Meteorological Agency, Weather and Climate Manual for Agriculture (2022)"
+    ghana_specific: true
+    caveat: "Uses the pre-2018 ten-region names. Brong Ahafo has since been split into Bono, Bono East and Ahafo; Western North, Oti, Savannah, North East and Ahafo did not exist when this was written. Its rainfall figures for the Coastal Savannah differ from FAO's."
+    status: candidate
+
+  - id: derived-region-zone-mapping
+    title: Which Agro-Ecological Zone a Region Falls In (restructured from GMet)
+    publisher: Ghana Meteorological Agency (GMet)
+    year: 2022
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/3cb7b779-cd15-4643-b999-148a021a45c6/content
+    derived: true
+    derived_from: gmet-weather-climate-manual
+    crops: []
+    topics: [weather, planting_calendar]
+    attribution: "Ghana Meteorological Agency, Weather and Climate Manual for Agriculture (2022)"
+    ghana_specific: true
+    caveat: "Region names are pre-2018. Zones do not follow regional borders, and several regions span more than one zone."
+    status: confirmed
+
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper

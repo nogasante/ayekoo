@@ -1,0 +1,1215 @@
+# Weather and Climate Manual for Agriculture
+# publisher: Ghana Meteorological Agency (GMet) with AICCRA/CGIAR
+# year: 2022
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/3cb7b779-cd15-4643-b999-148a021a45c6/content
+# attribution: Ghana Meteorological Agency, Weather and Climate Manual for Agriculture (2022)
+# ghana_specific: True
+# extent: 36 pages
+# CAVEAT: Uses the pre-2018 ten-region names. Brong Ahafo has since been split into Bono, Bono East and Ahafo; Western North, Oti, Savannah, North East and Ahafo did not exist when this was written. Its rainfall figures for the Coastal Savannah differ from FAO's.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Weather /Climate Manual 
+for Agriculture 
+ 
+ 
+Authors: Francisca Martey 
+Ghana Meteorological Agency  
+ 
+ 
+AICCRA Ghana Report 2022 
+ 
+2 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+ 
+Correct citation to this document: 
+ Francisca Martey (2022). Weather and Climate Manual for Agriculture. Accelerating Impacts of CGIAR 
+Climate Research for Africa (AICCRA) Training Manual. 
+ 
+TABLE OF CONTENT 
+ 
+SOME USEFUL DEFINITIONS…………………………………………………………………..3  
+THE VARIOUS SYNOPTIC STATIONS IN GHANA……………………………………...7 
+THE ATMOSPHERE …………………………………………………………………………………8 
+THE WEATHER………………………………………………………………………...……………10 
+COMPONENTS OF WEATHER………………………………………………………...……..13 
+WEST AFRICAN MONSOON…………………………………………………………….........21 
+CLIMATE TYPES ACROSS THE WORLD…………………………………………….……..22 
+WEATHER PATTERNS IN GHANA…………………………………………………….……..22 
+PRESSURE AND MEAN SEA LEVEL PRESSURE………………………………….…....24 
+SEASONS…………………………………………………………………………………...............25 
+THE RAINY (WET) SEASON……………………………………………………………..........25 
+THE DRY (HARMATTAN) SEASON………………………………………………………….26 
+CLIMATE AND AGRICULTURE…………………………………………………….………….26 
+FARMING SYSTEMS IN GHANA………………………………………………………....... 28 
+EFFECT OF WEATHER AND CLIMATE CHANGES ON AGRICULTURE……... 31 
+CROP CALENDAR IN GHANA………………………………………………………...………33 
+GROWING SEASON IN GHANA…………………………………………………….……….34 
+REFERENCES……………………………………………………………………………..............38 
+ 
+ 
+ 
+ 
+ 
+3 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+SOME USEFUL DEFINITIONS 
+ 
+WATER VAPOR - It is the gaseous state of water and it's often invisible to the human eye. 
+DEW POINT - It refers to the temperature that air needs to be cooled (at constant pressure) to reach a 
+relative humidity of 100%. At this point, the air is fully saturated and cannot hold any more water vapor. 
+When the air temperature matches the dew point, the air is as saturated as it can be without 
+condensation forming. 
+DOWNPOUR - It is the sudden and unexpected heavy fall of rain. 
+RAINFALL AMOUNT - It is the amount of pr ecipitation in the form of rain (water droplets from the 
+clouds) that descends onto the surface of the Earth, either on land or waters. 
+MIST - It is a cloud of tiny water droplets suspended in the atmosphere at or near the Earth' s surface 
+that limits visibility (to a lesser extent than fog; strictly with visibility remaining above 1km). 
+FOG - It is a thick cloud of tiny water droplets suspended in the atmosphere at or near the Eart h's 
+surface which obscures or restricts visibility (to a greater extent than most; strictly reducing visiting to 
+below 1km). 
+DEW - It is a water in the form of droplets that appears on thin exposed objects in the morning or 
+evening due to condensation. As the exposed surface cools by radiating its heat, atmospheric moisture 
+condenses at a  rate greater than that at which it can evaporate, resulting in the formation of water 
+droplets. 
+AEROSOL - It is a suspension of tiny particles or droplets in air such as dust or fumes. 
+EVAPORATION - It is the process of turning liquid into a gas. 
+CONDENSATION - It is  the process where water vapor becomes liquid. It is actually the reverse of 
+evaporation.  
+CONCENTRATION - It refers to the amount of substance in a defined space. 
+SATURATION - It is a physical and chemical state where a system can take no more. 
+CESSATION OF RAINFALL - This is a period that is characterized by the end of rainfall in a year, this 
+also means the scanty few days of rainfall which may occasionally occur. 
+ONSET OF RAINFALL - It can be described as the possible start of rainfall in a year.   
+ 
+CLIMATE ZONE - These are areas with distinct climates. These zones might correspond to weather 
+patterns, latitude, or communities of plants and animals. C limate zones can even help farmers and 
+ 
+4 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+gardeners understand which plants will grow best in their area. So, in Ghana our agro-ecological zones 
+help farmers to know the kind of crop to plant at a specific geographical location and what to expect at 
+a particular time of the year in respect to the climate. 
+PROBABILITY - Chance of a weather occurring. 
+VISIBILITY - How far ahead one can see. 
+PRECIPITATION - Weather in the form of Rain, snow, hail, drizzle, showers. 
+THUNDERSTORM - Series of thunder usually accompanied by rain or hail 
+ISOLATED - The weather is expected over few areas. Usually less than a quarter of the area 
+SCATTERED - More than a quarter of the area will be affected by the weather but less than half. 
+WIDESPREAD - The weather is expected over  more areas, usually more than half of the area u nder 
+consideration. 
+INTERMITTENT - A weather that is expected to occur in aggregates (not continuous) but could last for 
+a long period of time. 
+OCCASIONAL - The weather is expected to occur some times within the day. 
+GUST - It is an occasional increase in wind speed 
+PREVAILING WEATHER - The weather that is dominating an area at a time. 
+SLIGHT, MODERATE, HEAVY -Tells the intensity of the weather. The least is slight, followed by moderate 
+and the highest is heavy. 
+SQUALL - A line of intense thunder. 
+DRY - Less amount of moisture in the atmosphere. 
+MOSTLY CLOUDY - More cloud than sun. 
+FEW CLOUDS - More sun than clouds. 
+CLEAR SKY - No cloud in the sky 
+OVERCAST - Entire sky covered with cloud 
+FAIR WEATHER - Weather void of rain, thunder 
+UNSTABLE ATMOSPHERE - Atmosphere favourable for cloud formation and/or precipitation. 
+HAZE - Weather that causes obscuration in a relatively dry atmosphere. 
+STRONG/WEAK - used to describe the intensity of a weather condition. 
+ 
+5 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+PARTLY CLOUDY - An atmosphere with cloud and sun existing together. 
+WINDY - Strong winds persisting for a period of time. 
+STORM - rain that comes with strong winds. 
+PERIODIC - Weather condition that will occur during some times within the day. 
+CLIMATE VARIABILITY - It refers to variations in the mean state and other statistics (such as standard 
+deviations, the occurrence of extremes, etc.) of the climate on all temporal and spatial scale beyond 
+that of the individual weather events. 
+AGROMETEOROLOGY - It is an abbreviated from agricultural meteoro logy, put s the science of 
+meteorology to the service of agriculture, in its various forms and facets, to help with the sensible use 
+of land, to accelerate the production of food, and to avoid the irreversible abuse of land resources  
+AGROCLIMATOLOGY - It is the study of climate an d its effect on agriculture. It mainly  deals with the 
+interaction between climatological and hydrological factors. Its main aim is to apply climatological 
+information for the purpos e of improving farming practices and increasing a gricultural productivity 
+both in ter ms of quantity and quality. Even though agrometeorology and agroclimatology deal with 
+almost similar fields, they differ in their approach as agrometeorology mainly deals with weather 
+forecasting dealing with daily problems, while the agroclimatology deals with the use of mean data as 
+a guide to long range planning. 
+SYNOPTIC WEATHER STATIONS - They collect meteorological information at synoptic time 00h00, 
+06h00, 12h00, 18h00(UTC) and at intermediate synoptic hours 03h00, 09h00, 15h00, 21h00(UTC). The 
+instruments used for gathering t he information at the stations are the anemometer, wind vane, 
+pressure sensor, thermometer, hygrometer and rain gauge. The purpose of the synoptic observations 
+includes mapping large scale weather systems (in real time and for climatology) and also to provide the 
+basis needed for proper analysis and verification of operational weather models. 
+ 
+6 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+                           THE VARIOUS SYNOPTIC STATIONS IN GHANA 
+ 
+ 
+  
+Figure 1: The above image shows the various synoptic stations in Ghana 
+
+ 
+7 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+THE ATMOSPHERE 
+ 
+Our planet's atmosphere is a layer of gases that surrounds it and is held in place by gravity and its own 
+weight. Gases like Nitrogen (78%), oxygen (21) and other percent gases, make up the atmosphere. The 
+Atmosphere shields life on Earth from harmf ul ultraviolet (UV) radiation, insulates the plan et to 
+maintain a comfortable temperature, and limits the extremes of day and night.  
+The atmosphere is made of four layers namely; Troposphere, Stratosphere, Mesosphere, 
+Thermosphere and Exosphere in their respective increase other of height. 
+ 
+TROPOSPHERE 
+The lowest layer of the atmosphere, the troposphere, is located about 9 km above Earth's surface and 
+contains the majority of the atmosphere's mass (about 75–80%).  
+• The majority of weather-related activities occur in the troposphere.  
+• We are located in this layer, which also contains all other living things.  
+• The majority of the gases in the atmosphere are found in the troposphere.  
+• In this layer, temperature falls with height.  
+ 
+STRATOSPHERE  
+Most of the ozo ne in the atmosphere is found in this second laye r, which is the second layer of t he 
+atmospheric. The temperature rises vertically in this layer. The UV light from the sun is absorbed by the 
+ozone in this layer, preventing it from reaching the Earth's surface.  
+From the tropopause, it spreads out by around 10 to 30 kilometers (layer between the troposphere and 
+the stratosphere).  
+MESOSPHERE  
+Between 30 and 50 km above the stratosphere, this layer of the atmosphere is relatively large.  
+At the mesopause, temperatures drop with height to a minimum of roughly -90 degrees Celsius (layer 
+separating the mesosphere and the thermosphere).  
+THERMOSPHERE  
+Due to the sun's powerful ultraviolet and x-ray light being absorbed, the thermosphere is a layer of the 
+atmosphere where temperature rises with height. It is loca ted between 50 and 400 kilometers above 
+the mesopause.  
+ 
+ 
+ 
+ 
+ 
+8 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+ 
+EXOSPHERE  
+This layer of the atmosphere is the bottom one and is primarily made up of oxygen and hydrogen 
+atoms. It is located above the thermosphere at a distance of around 400 km.  
+ 
+ 
+A DIAGRAM SHOWING THE LAYERS OF THE ATMOSPHERE 
+ 
+ 
+  
+Figure 2: The layers of the atmosphere. 
+
+ 
+9 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+THE WEATHER 
+ 
+We shall focus on the troposphere, which is where the majority of our weather-related activities occur, 
+from the upper layers of the atmosphere. The variet y of activities that take place daily in our 
+atmosphere make up the weat her. Because of the dynamic nature o f the atmosphere, the weather 
+varies across the globe and changes over the course of a few minutes, hours, days, and weeks.  
+Air temperature, atmospheric pressure, humidity, precipitation, solar ra diation, wind, and clou diness 
+are just a few of the variables that make up the weather. 
+A meteorologist measures and examines these meteorological variables in order to forecast or 
+anticipate the weather. The type of air mass affects weather as well.  
+AIR MASSES 
+Air masses are generally a parcel of air with uniform temperature and humidity moving in the same 
+direction. An air mass is known based on their source of origin  
+TYPES OF AIR MASSES 
+• Tropical continental air mass 
+• Tropical maritime air mass 
+• Polar continental air mass 
+• Polar maritime air mass 
+• Arctic maritime air mass 
+• Returning polar maritime air mass 
+Because we are taking of our weather and climate our concentration will on tropical continental and 
+tropical maritime. These are the two types of air masses that have impact on our climate. 
+PROPERTIES OF AN AIR MASS 
+ All air masses have the following properties: 
+• Temperature 
+• Moisture content 
+• Stability 
+• Weather 
+• Visibility 
+• Change of lapse rate 
+ 
+ 
+ 
+ 
+10 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+TROPICAL CONTINENTAL 
+This particular air mass is primarily resp onsible for the countr y's dry se ason, often known as the 
+Harmattan season.  It is accompanied by a great deal of dust, which causes the atmosphere to become 
+quite dry. Visibility is also moderate to poor, an d the temperature rises quickly with a steady 
+atmosphere. The Sahara Desert in North Africa is where these air masses originated.  
+ 
+TROPICAL MARITIME 
+This kind of air mass blows across the nation from the sea. It typically comes with chilly temperatures, an 
+unstable atmosphere, good visibility, and moist, rainy weather.  
+ 
+ WHAT IS WEATHER 
+Weather refers to the state of the atmosphere at a particular place. Weather can also be referred to as the 
+short-term changes in the atmosphere. 
+ 
+WHAT IS CLIMATE 
+Climate refers to the long-term state of the atmosphere at a particular place at a particular time. Climate 
+describes what the weather is like over a long period of time in a specific area. 
+ 
+DIFFERENCES BETWEEN WEATHER AND CLIMATE 
+WEATHER CLIMATE 
+1.Weather refers to the short-term changes in the 
+atmosphere. 
+  1.Climate refers to the long-term state of the 
+atmosphere. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Weather affects only a small geographical area.  2. Climate affects a large geographical area. 
+3. Weather is what you get. 3. Climate is what you expect to happen in some 
+years to come. 
+ 
+11 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+WHAT CAUSES WEATHER 
+Weather is made up to 6 m ain components namely temperature, atmospheric pressure, cloud formation, 
+wind, humidity and precipitation. The atmosphere is dynamic so is the weather and any slightest change in 
+any of the aforementioned components can change the pattern of the weather. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For instance, we could be experiencing a fair and clear weather in the morning but in the afternoon, there 
+can be heavy rains with thundering and lightening. The weather keeps on changing due to smallest change 
+in any of the weather components. These weather components are measured, analyzed and forecasted by 
+meteorologist to give awareness to the general public to know the state of the atmosphere. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3: An Image Showing the Variations of Temperature 
+ 
+12 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+COMPONENTS OF WEATHER 
+ 
+ 
+1. TEMPERATURE 
+ 
+Temperature is the main param eter which determines or defines the stability of the atmosphere. 
+Temperature basically describes how hot or cold a body or an object is. Temperature decreases with  
+altitude in the troposphere. The atmosphere absorbs energy from the sun and this makes the air at the 
+surface rise and then cool and condense. It then forms clouds and later fall as rain. 
+Since air mass brings about the weather change, the temperature of the air mass will determine the kind 
+of weather we will be experiencing.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4:The above showing the Atmosphere Factors. 
+ 
+13 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+2. ATMOSPHERIC PRESSURE 
+This is an indicator of the weather. Atmospheric pressure generally refers to the weight of the air. Air 
+masses move from high pressure zone to a low-pressure zone.   
+ 
+LOW PRESSURE SYSTEM 
+Low pressure systems are normally found in the 1012mb to 1000mb isobars. For low pressure zones, 
+the winds move inward in a circular motion from a high-pressure zone and it normally rotates  in an 
+anticlockwise direction in the Northern hemisphere. In low pressure systems, the air is lighter than the 
+surrounding air masses and so rises causing an unstable environment. This rising air makes water vapor 
+in the air condense and form clouds which fall as rain. This is what causes active weather like the rains, 
+winds(whirlwind,) and severe weather conditions such as cyclones, tornadoes, hurricanes, typhoons. It 
+is also associated with clouds and precipitation that minimize temperature change throughout the day. 
+HIGH PRESSURE SYSTEM 
+High pressure means the air is heavy and it sinks. Sinking air makes the environment very stable. Under 
+high pressure, you can expect sunny skies and calm weather. High pressure systems lead to anticyclones 
+were the winds rotates in the clockwise direction. The winds blow out of the s ystem to a low-pressure 
+system. High pressure systems have descending air/winds which reduces the formation of clouds and 
+leads to light winds and settled weather conditions. High pressures are mostly from 1016mb to 1050mb 
+isobars.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5:The above image shows Low Pressure System and High-Pressure System respective. 
+ 
+14 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+HUMIDITY 
+ 
+Humidity is t he measure of the amount of water vapor present in the atmosphere. Water can be 
+solid(ice), liquid(water) or gas(vapor). The vapor components make up to about 99% of all the water held 
+in the atmosphere. Humidity has an important influence on our atmosphere affecting water vapor and 
+rainfall. 
+When there's a lot of water vapor present in the atmosphere (air), humidity is high and the higher the 
+humidity, the wetter it feels outside. Humidity is greatly influenced by temperature so the more water 
+evaporates in a given area, the more water vapor rises into the atmosphere (air), and the higher the 
+humidity of that area. Hot places or areas tend to be more humid than cool places because heat causes 
+water to evaporate faster. For instance, a fixed quantity of water vapor will result in higher humidity in 
+cool air and it will be in warm air. Plus, as the temperature increases so does the amount of water vapor 
+required to reach saturation. 
+Humidity is measured in three main ways or methods; absolute, relative and specific humidity. 
+ABSOLUTE HUMIDITY (A.H) 
+Absolute humidity refers to the concentration (amount) of water vapor in the air, regardless of 
+temperature. This on scientific terms is the most accurate measurement of humidity since the amount 
+of water vapor in th e air directly determine humidity. It is measured in grams of moisture per cubic 
+meter of air (g/m³). 
+ 
+RELATIVE HUMIDITY (R.H) 
+Relative humidity refers to the concentration (amount) of water vapor in the air, compared to how much 
+it could hold at that temp erature. Its value is expressed in percentage (%). For instance, R.H of 50% 
+means the air is holding one half of the water vapor it can hold while a R.H of  100% means the air is 
+totally saturated with water vapor and c an't hold any more water (it has reach ed the dew point). This 
+also means that (100% R.H) the air is so moist that a mist or dew could form.  
+The higher the temperature the more water vapor air can hold. However, a R.H of 0% means that the air 
+is totally dry but R.H of 0% is impossible in the a tmosphere we find ourselves in ( i.e. the troposphere) 
+because air always contain Sr amount of water vapor. R.H is metric most commonly used in weather 
+reports, as it's an indicator of the likelihood of precipitation, dew, mist and fog. 
+ 
+SPECIFIC HUMIDITY (S.H) 
+ 
+Specific humidity refers to the ratio of the mass of water vapor to the mass of moist air. S.H is used for 
+very precise calculations. 
+ 
+ 
+15 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+NOTE: The method of reporting humidity is considered "relative" because it doesn't actually measure how 
+much water vapor is in the air relative to how much that volume of air can hold. So, the closer the dew point 
+is to 100%, the more humid the air feels. The instrument used in measuring humidity is the hygrometer. 
+ 
+ 
+ 
+3. CLOUD FORMATION 
+ 
+ 
+Figure 6: The image shows the various types of clouds at their various height 
+ 
+Clouds are made up of water droplets or ice crystals that are so small and light and are able to stay up in 
+the air. Clouds are made in different ways but same process of lifting of air; 
+• some clouds form when air warms up near the Earth's surface and rises. Heated by the sun, the 
+ground heats the air just above it. Then warm air starts to rise because when warm, it is lighter and 
+less dense than the surrounding air.  
+As it rises, it's pressure and temperature drops causing water vapor to condense. Eventually, enough 
+moisture will condense out of the air to form a cloud. Several t ypes of clouds form in this way 
+including cumulus, cumulonimbus, mammatus and stratocumulus clouds 
+ 
+• some also form when wind blows into the side of a mountain range or other terrain and is forced 
+upwards, higher in the atmosphere. This process can also hap pen without a mountain range, just 
+when air travels over land that slopes upward and is forced to rise.  
+
+ 
+16 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+The air cools as it rises and eventually clouds forms. Most clouds that are formed are lenticular 
+stratus clouds but other clouds such as cumulus clouds can be formed above mountains too as air 
+is warmed at the ground and rises. 
+ 
+• clouds are also formed when air  is forced upwards at areas of low pressure. Winds meet and 
+converge at the center of a low-pressure system and have nowhere to go but up.  All types of clouds 
+are formed by these processes especially altocumulus, altostratus, cirrocumulus, stratocumulus and 
+stratus clouds. 
+ 
+• We also have the weather fronts, where two large air masses of air collide at the Earth's surface, this 
+form clouds by causing the air to rise. For the weather fronts we have warm and cold fronts; 
+ 
+ 
+• At a warm front, a warm air mass slide over a cold air mass, the warm air is pushed upward forming 
+many different types of clouds, from low stratus clouds to a mid -level altocumulus and altostratus 
+clouds to high cirrus, cirrocumul us and cirrostratus c louds. Clouds that produce rains like 
+nimbostratus and cumulonimbus are also common at warm fronts. 
+ 
+• At cold front where a heavy cold air mass pushes a warm air mass upward, cumulus cloud s are 
+common. They often grow into cumulonimbus clouds, which produce s thun derstorms. 
+Nimbostratus, stratocumulus and stratus clouds can also form at a cold front. 
+ 
+ 
+4. PRECIPITATION 
+ 
+Precipitation is any liquid or frozen water that forms in the atmosphere and falls to the Earth. It comes in 
+many forms like rain, sleet, hails and snow. It forms in the clouds when water vapor condenses into bigger 
+and bigger droplets of water. Then when the drops are heavy enough, they fall to the Earth like any of the 
+above forms. 
+ 
+FORMATION OF PRECIPITATION 
+ 
+When water vapor condenses into increasing-sized droplets of water, precipitation develops in the clouds. 
+The drips hit the Earth when they are heavy enough. 
+Water droplets may freeze to create ice in clouds if the tempera ture is lower, as it would be at higher 
+altitudes. Depending on the  cloud's internal temperature and the Earth 's surface temperature, these ice 
+ 
+17 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+crystals subsequently descend to the Earth as snow, hail, or rain. Most rain actually starts as snow in the 
+clouds, high up. Raindrops form as snowflakes pass through warmer air.  
+Precipitation requires smoke or dust parti cles in the atmosphere. These "condensation nuclei" serve as a 
+surface on which water vapor can condense. This encourages water droplets to congregate and enlarge until 
+they are large enough to fall to the ground.  
+Even if the water came from the ocean, pr ecipitation is always fresh water. This is so because water does 
+not cause sea salt to evaporate. However, occasionally, airborne toxins can pollu te water droplets before 
+they fall to the ground. Acid rain is the term for the precipitation that arises from this. 
+Although it does not directly injure people, acid rain can increase the acidity of lakes and streams. 
+Because plants and animals frequently cannot adjust to the acidity, this damages aquatic ecosystem. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7:The above image shows the various types of precipitation we have. 
+ 
+18 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+ 
+ 
+ 
+ 
+5. WINDS 
+ 
+ 
+Wind is the movement of air caused by the uneven heating of the Earth by the sun and the Earth's own 
+rotation. It cannot be seen or held but it's force can be felt. Wind is a gre at equalizer if the atmosphere; 
+transporting heat, moisture, pollutants and dust to a great distance around the globe. Winds occur because 
+of the horizontal and vertical differences (gradients) in atmospheric pressure, the distribution of winds is 
+closed related to that of pressure. Near the Earth's surface, winds generally flow around regions of relatively 
+low and high pressure -cyclones and anticyclones respectively. Winds play a significant role in determining 
+and controlling climate and weather. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8:The image shows the direction and force of a wind. 
+ 
+19 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+WEST AFRICAN MONSOON 
+ 
+The West African monsoon is a major wind system that impacts parts of West Africa between latitudes 9° 
+and 20° N. It is distinguished by winds that blow southwesterly in the summer and northeasterly in the 
+winter. The West African monsoon is the surface harmattan and southwesterly wind alternation. Only south 
+westerlies occur farther south, but north easterlies are constantly present farther north. 
+ 
+The West African summer monsoon is characterized by a large-scale inflow of warm, very humid, 
+conditionally and convectively unstable air streams from the equatorial Atlantic across the entire sub region 
+from March to October/November. It is generally a period of widespread and prolonged precipitation. 
+ 
+The West African winter monsoon is a similar large-scale flow but in the reverse direction i.e. from land to 
+the ocean from the subtropical (Sahara) high -pressure system. Unlike the summer component, the winter 
+monsoon is a period of near total dryness. It is also the period of the harmattan 
+ 
+The West African monsoon winds have a significant influence on Ghana's tropical climate. The seasons and 
+height hide the temperature variations, which are generally warm. The northern region of the country 
+usually experiences just one rainy season, whi ch lasts from May until September. There are t wo rainy 
+seasons in Southern Ghana: a main one from April to July and a lesser one from September to November.  
+WEATHER PATTERNS IN GHANA 
+ 
+In the wetter center and south of Ghana, rains usually fall in April, m ay, and June, with a brief respite from 
+July to August. There is then a shorter rainy season in September, October and first half of November. In the 
+more desert-like north, the rains arrive from March to September. But thanks to the dry earth, when the 
+rain does fall it can cause terrible flooding and block roads in the north. 
+ 
+ How can it be raining on one spot, but not be raining on a spot that is a couple meters away? This is because 
+the rain has stop somewhere. The cloud producing the rain is not infinite. It covers a specific area, so it won’t 
+be raining outside it. Logic would suggest that you are at the edge of a rain-bearing cloud. Everything has an 
+end to it. 
+ 
+ 
+ 
+ 
+ 
+20 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+CLIMATE TYPES ACROSS THE WORLD 
+ 
+There are approximately five main climate types on Earth:  
+• Tropical  
+• Dry  
+• Temperate  
+• Continental  
+• Polar  
+A: Tropical. In this hot and humid zone, the average temperatures are greater than 64°F (18°C) year-round 
+and there is more than 59 inches of precipitation each year. 
+B: Dry. These climate zones are so dry because moisture is rapidly evaporated from the air and there is very 
+little precipitation.  
+C: Temperate. In this zone, there are typically warm and humid summers with thunderstorms and mild 
+winters.  
+D. Continental. These regions have warm to cool summers a nd very cold winters. In the winter, this zone  
+can experience snowstorms, strong winds, and very cold temperatures —sometimes falling below -22°F (-
+30°C)!  
+E: Polar. In the polar climate zones, it’s extremely cold. Even in summer, the temperatures here neve r go 
+higher than 50°F (10°C)! 
+THE CLIMATE TYPE IN GHANA 
+ 
+The West African monsoon winds have a significant impact on Ghana's tropical climate. The seasons and 
+elevation hide the fluctuating temperatures, which are generally warm.  
+ 
+INTER-TROPICAL CONVERGENCE ZONE (ITCZ) 
+The ITCZ appears as a band of  clouds consisting of showers with occasional thunderstorms that encircles 
+the globe near the equator. It is also a narrow zone where trade winds of two hemispheres collide (meet) 
+which causes erratic weather patterns with stagnant calms. It is caused by the convergence of northeast and 
+southeast trade winds (tropical continental and tropical maritime winds respectively) in the area encircling 
+Earth near the equator.  
+ 
+It is basically a low pressure belt encirclin g Earth near the equator. It's a zone betwee n the northern and 
+southern hemispheres where winds blowing equator -ward from the mid latitude and winds flowing 
+ 
+21 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+poleward from the tropics meet. It shifts from north and east seasonally according to the movement of the 
+sun. It is generally characterized by convective activities which generates often vigorous thunderstorms over 
+large areas. It's is most active over continental land masses by day and relatively less active over the ocean. 
+ 
+
+ 
+22 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+PRESSURE AND MEAN SEA LEVEL PRESSURE 
+ 
+Pressure is “cumulative force per unit area” du e to milli ons of gas molecules which are bouncing off the 
+“sides” of any container. However, Earth’s atmosphere has no “container” but is a 360-degree shell 
+completely surrounding the globe. So net force of gas molecules appears as surface “pressure”. The average 
+force is called a BAR and daily variations due to ripples in force are in “millibars”.  
+ 
+Absolute pressure -  The actual pressure at a given position is called the absolute pressure, and it is 
+measured relative to absolute vacuum (i.e., absolute zero pressure). 
+         
+Gage pressure -  Gage pressure is the pressure relative to the atmospheric pressure. In other words, 
+how much above or below is the pressure with respect to the atmospheric pressure. 
+ 
+Vacuum pressure -  Pressures below atmospheric pressure is called vacuum pressures and are measured 
+by vacuum gages that indicate the difference between the atmospheric pressure and 
+the absolute pressure. 
+ 
+Atmospheric pressure -  The atmospheric pressure is the pressure that an area experiences due to the 
+force exerted by the atmosphere. The atmospheric pressure at mean sea level, 
+either directly measured or, most commonly, empirically determined from the 
+observed station pressure.  
+In regions w here the earth's surface is above sea level,  it i s standard 
+observational practice to reduce the observed surface pressure to the value 
+that would exist at a point at sea level directly below if air of a temperature 
+corresponding to that actually present at the surface were present all the way 
+down to sea level.  
+In actual pr actice, the mean temperature for the preceding 12 hours is 
+employed, rather than the current temperature. This "reduction of pressure to 
+sea level" is responsible for many anomalies in the pressure field in 
+mountainous areas on the surface synoptic chart. 
+ 
+Mean sea level pressure -   
+ This is the pressure reading most commonly used by meteorologists to track weather systems at the 
+surface. Like altimeter setting, it is a "reduced" pressure which uses observed conditions rather than 
+"standard" conditions to remove the effects of elevation from pressure readings.  
+ 
+23 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+This reduction estimates the pressure that would exist at sea level at a point directly below the station 
+using a temperature pr ofile based on temperatures that actually exis t at the station. In practice the 
+temperature used in the reduction is a mean temperature for the preceding twelve hours.  
+Mean sea level pressure should be used with caution at high elevations as temperatures can have a 
+very profound effect on the reduced  pressures, sometimes giving rise to fictitious pressure patterns 
+and anomalous mean sea level pressure values. 
+SEASONS 
+ 
+Ghana is located in the tropics and we are strongly influenced by the West Africa Monsoon  winds (WAM). 
+Our season is basically depende nt on the position of the I TCZ and from the diagram above we can notice 
+that the is beneath the country or is at the coast in January and by July it is above the country. Ghana has 
+two seasons; dry season (the harmattan) and wet season (rainy). 
+ 
+THE RAINY (WET) SEASON 
+The northern part of the country usually records one main rainy season which begins in March and ends in 
+November. Squalls usually occur in the northern part of Ghana during March and April which is followed by 
+occasional rain until August, S eptember, and somewhere mid-October when the rainfall reaches its peak. 
+The northern part has a relatively shorter rainy season of about six months, and therefore only one cropping 
+season.  
+In the southern part of Ghana, there is a prolonged rainy season as a result creating two cropping seasons 
+in most places. The southern experiences the major and the minor rainy seasons. The major rainy season 
+starts from April and ends in July then they experience some little dryness in August. Heavy rainfall is usually 
+observed and recorded in June to July where most parts of the southern gets flooded and causes a lot of 
+destruction and damages to properties and there is sometimes loss of life. The minor rainy season starts 
+from September to mid-November. The minor rainy season doesn't usually cause flooding compared to the 
+major rainy season. 
+In short, the rainy season last from March to mid-October in the north, from April to October in the central 
+belt and from April to November in the south. 
+ 
+THE DRY (HARMATTAN) SEASON 
+The dry season starts from mid-November to March in Ghana. The harmattan wind blows from the Sahara 
+from mid-November or early December through to March. During this period, there are more dust in the 
+atmosphere with less humidity. Visibility is very bad in the harmattan season l. The northern part of Ghana 
+experience more of the harmattan than the southern part of Ghana due to their closeness to the Sahara 
+Desert. 
+ 
+24 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+CLIMATE AND AGRICULTURE 
+ 
+Agriculture is an e conomic activity that produ ce food  necessary for human livelihood and it is highly 
+dependent upon weather and climate; however, agriculture is also likely to be very vulnerable to climate 
+variability and change. Climate variability and climate change are t he main causes of stress on  food 
+production and availability. Depending on the level of development, roughly 20 to 80 percent of the inter -
+annual variability of yields is caused by the change in weather and 5 to 10 percent of national agricultural 
+production is lost annually due to weather variability. Chronic losses and indirect negative effect such as 
+diseases, pests and so on exceed by far the effects of extreme climate events. In fact, production losses due 
+to pest, diseases and weeds are estimated at 2 6 to 30 percent for sugar b eet, barley, soybean, wheat and 
+cotton, and about 35 to 40 percent for maize, potatoes and rice respectively. However, post-harvest losses 
+are also of the same order of magnitude. At the same time, climate should be considered as  a "resource" 
+and not merel y as a hazard. If reso urces are to be used in a sustainable way, they must be assessed in 
+quantitative terms and properly managed. 
+ 
+Solar radiation, rainfall and temperature conditions are the primary production potential and together with 
+mineral nutrition and management they influence the attainable production. The main factors determining 
+the availability of agricultural products at the local level (farm, village) are environmental conditions and 
+management. The environment cov ers biophysical factors ( i.e. weather, climate, p ests, soil, water, land 
+availability, etc.) while management involves decisions taken by the farmers themselves. Decisions related 
+to these management practices can be made in response to the weather to opti mize the production or 
+minimize the risk of farming systems. Climate information is generally used for for planning the crop season 
+and for making strategic decisions such as defining the crop, the variety, planting date, total water demand 
+for irrigation and other weather informations on the other hand is used for operational decision as in 
+knowing the exact date to plant based on soil water content, whether to make an application, anticipated 
+harvest (in case of forecast of rainfall), irrigation management and others.  
+Exploiting climate information and serviced for decision-makers, the agriculture sector will be better placed 
+to provide food for a more highly populated and increasing urban world. In today's constantly changing 
+environment, farmers need accessible as well as executable climate services to adequately manage climate 
+risks and exploit climate resources, so as to take advantage of favorable weather and minimize problems 
+due to unfavorable weather conditions. 
+ 
+The main factors that have the strongest influence on crop production and need to be considered are in 
+particular, those that influence cr op growth and development. The two most important elements are 
+temperature and water availability; in both situations daily and seasonal variations are common and 
+ 
+25 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+temporal and spatial quantity are crucial. The agroclimate zones help with the planning of agriculture on a 
+regional or national scale and should include adaptation that may be necessary due to climate variability 
+and climate change. Weather and climate information amassed through observation, data and diagnostics 
+can be used to assist farmers with planning their activities. 
+ 
+AGRO-ECOLOGICAL ZONES IN GHANA 
+ 
+An agro-ecological zone is a land resource mapping unit defined in terms of climate, landforms and soils, 
+and/or landcover, and having a specific range of potentials and constraints for land use. But agro-ecological 
+zoning refers to the division of an area of land into smaller units which have similar characteristics related 
+to land suitability, potential production and environmental impact.  
+Ghana is divided into six (6) ecological zones namely; Sudan Savannah, Guinea Savannah, Transition Zone, 
+Deciduous Forest, Evergreen (moist and wet evergreen) or Rainforest and Coastal Savannah. 
+ 
+The Guinea Savannah zone covers the whole of Upper West and Northern regions. It also occupies parts of 
+Upper East region and the northern part of Brong Ahafo and Volta region. This zone has a single rainfall 
+season lasting from May to October and it records an annual rainfall of about 1000mm. The Sudan Savannah 
+also spreads f rom north -eastern part of Upper East regio n with an annual rainfall between 500mm to 
+700mm. The Transition Zone falls within the middle portion of Brong Ahafo region, northern part of both 
+Ashanti and Eastern regions and the western part of the Volta region.  
+This zone experiences two rainy season s, recording an annual rainfall of about 1200mm. The Decidous 
+Forest cuts across the northern part of Western region through southern Brong Ahafo, Ashanti and Eastern 
+regions. It also spreads to the Volta region and most part of the Central region. It also experiences a double 
+rainy season with an annual rainfall of about 1400mm been recorded.  
+Most parts of the Western region are within the Evergreen Zone. It also captures a small part of Central 
+region. This zone records the most annual rainfall of about 2000mm; having the same rainfall pattern as 
+Transition Zone and Deciduous Forest. The Coastal Savannah also stretches from Central region through to 
+Greater Accra to Volta regions. It has a single rainy season and records an annual rainfall of about 600mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+Figure 9: shows the various agro-ecological zones in Ghana 
+ 
+FARMING SYSTEMS IN GHANA 
+ 
+ 
+ 
+ 
+
+ 
+27 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+The farming systems represent the combination of cropping and livestock activities and the r esources 
+available (pedoclimatic conditions) to the farmers to raise them for their production purposes. 
+The philosophy behind this approach is to secure a judicious mix of cropping system with associated 
+enterprises like animal husbandry suited to the given pedo/agro climatic conditions in accord with the socio-
+economic status of farmers in order to bring prosperity to the farm. In Ghana, there are about seven (7) 
+different farming systems practiced by farmers and some other h ouseholds. These are arab le fa rming, 
+mixed farming, subsistence cultivation, shifting cultivation, plantation farming, pastoral/livestock cultivating 
+and nomadic cultivating. 
+Arable farming -  is a crop production system that include different variety of crops from foliage crops. 
+In this system, the land  must neither be too wet or dry and it is practiced on gently 
+slope or flat lands with deep and fertile soil under a warm climate. Some crops that 
+are cultivated include vegetables, plantain, cassava, grains and so on. 
+Mixed farming -  is a farming method in which farmers grow crops and raise livestock on the same piece 
+of land. This can be practiced in a region with great precipitation or water system 
+offices. 
+Plantation farming  - is when one type of crop is cultivated on a large plot of land for commercial purposes. 
+Some crops practiced with is system are coconut, plantain, palm nuts, avocados, 
+cassava and so on. 
+Shifting cultivation  - in this system, the farmers cultivate on a piece of land for like two t o three seasons 
+then abandon the land when soil loss it's fertility and plant on a different land for the 
+previous land to heal. 
+Nomadic cultivating -  this is similar to pastoral/livestock cultivating but this system, livestock are 
+herded in order to seek for fresh pastures on which they graze and for water. 
+Animals such as cow, sheep, goats, camel, ponies and jackasses are normally 
+seen by herdsmen. 
+Subsistence cultivation -  it is the practice of growing crops or livestock or both sufficient for one's own 
+use and not for trade or business. 
+Pastoral/livestock cultivating - in this system, animals are the only produce and not crops. This system 
+can be used for commercial purpose or household purpose. Animals 
+raise are the rabbits, grass cutter, poultry, goats and so on. 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+EFFECT OF WEATHER AND CLIMATE CHANGES ON AGRICULTURE 
+ 
+IMPACT ON CROP PRODUCTION 
+Crop yields may be significantly impacted by changes in temperature, atmospheric carbon dioxide (CO2), 
+and the frequency and severity of extreme weather. Depending on the crop's ideal temperature for growth 
+and reproduction, an increase in temperature will have different effects on different crops. The types of 
+crops that are traditionally cultivated there may benefit from warming in some areas, or farmers may b e 
+able to switch to crops that are now grown in warmer regions. 
+Conversely, production will decrease if the higher temperature exceeds the crop's optimal temperature.  
+ 
+IMPACT ON LIVESTOCK 
+Animals may be impacted by climatic changes both directly and indirectly. 
+1. High temperatures, which a re expected to b ecome more frequent as a result of climate change, 
+might seriously endanger livestock.  
+2011 saw approximately $1 billion in heat -related losses for agricultural producers as a result of 
+exposure to high temperature occurrences. Animals are impacted by heat stress both directly and 
+indirectly. Heat stress over time can lower fertility, decrease milk production, and make people more 
+susceptible to illness.  
+ 
+2. A drought might put pasture and feed supplies at danger. 
+The amount of high-quality fodder available to grazing livestock is decreased by drought. 
+Due to hotter summers and less precipitation, certain locations may endure longer and more severe 
+droughts. Changes in agricultural production brought on by drou ght could also cause issues for 
+animals that depend on grains. 
+ 
+3. The prevalence of illnesses and parasites that afflict livestock may rise as a result of climate change. 
+Winters that are warmer and spring that arrive earlier may make it easier for some para sites and 
+pathogens to survive. Increased rainfall may encourage the growth of diseases that require moisture. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+CROP CALENDAR IN GHANA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+30 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+ 
+GROWING SEASON IN GHANA 
+ 
+The time of year when crops and other plants effectively develop is known as a growth seaso n. A growth 
+season's length varies depending on where you live. A growth season of at least 90 days is required for most 
+crops. 
+The growing season might span the entire year in tropical areas where it is warm all year long.  However, a 
+wet season might stop the growing season in some tropical regions. Crops cannot be grown at this time due 
+to the flooding.  This kind of irregular growing season is typical of coffee, which grows in tropical 
+environments. Coffee is harvested all year long in Colombia. 
+Heavy downpours frequently cut short the coffee-growing season in Indonesia. 
+Sometimes the climate is too dry for crops to flourish in other tropical regions. The Sahel, a tropical region 
+of northern Africa, frequently endures dry spells. The Sahel is a region that lies between the savanna in the 
+south and the Sahara Desert in the north. The likelihood of a successful harvest in the Sahel is quite unclear 
+due to dramatic weather patterns. 
+The length of the growing season in temperate countries, which have chilly win ters and mild s ummers, is 
+mostly influenced by te mperature. The length of some growth seasons might reach eight months. Such 
+extended growing seasons are common in Europe and the majority of America. The length of the growing 
+season decreases with distance from the Equator. The growth season might be as short as two months in 
+areas close to the polar regions.  
+The growing season can be identified in two ways. The growing season in temperate countries is typically 
+determined by the average number of days between the final spring frost and the first severe fall frost. The 
+typical number of days that the temperature rises high enough for a specific crop to sprout and grow can 
+also be used to calculate the growing season. The crop determines how much to measure. The temperature 
+must be at least  20 degrees Cels ius for ric e to grow (68 degrees Fahrenheit). However, at just 5 degrees 
+Celsius, wheat will sprout (40 degrees Fahrenheit). 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+31 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+SOME METEOROLOGICAL INSTRUMENTS 
+ 
+1. ANEMOMETER 
+The instrument used to gauge wi nd direction an d speed is called an anemometer. I n weather 
+stations, it is a typical instrument. The measurement unit for anemometer is m/s, km/hr, mph  and 
+knots. 
+      
+ 
+ 
+ 
+ 
+ 
+1. BAROMETER 
+Barometer is an instrument used for measuring atmospheric pressure.  The unit measured in is the 
+millibar (mb).  
+ 
+ 
+ 
+
+ 
+32 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+ 
+ 
+ 
+ 
+1. HYGROMETER 
+A hygrometer is a device that gauges the moisture content of soil, air, or restricted spaces. 
+Instruments used to measure humidity typically rely on measurements of other values, such as 
+temperature, pressure, mass, and changes in a substance's mechanical or electrical properties as a 
+result of absorbing moisture.  
+ 
+ 
+ 
+ 
+4. THEMOMETER 
+ 
+ 
+ 
+ 
+ 
+
+ 
+33 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+Devices that measure temperature or a temperature gradient are known as thermometers (the degree 
+of hotness or coldness of an object). Two crucial components make up a thermometer:  
+(1) a temperature sensor that changes in response to changes in temperature, such as the bulb of a 
+mercury-in-glass thermometer or the pyrometric sensor in an infrared thermometer; an d (2) a way to 
+translate this change into a numerical value (e.g. the visible scale that is marked on a mercury -in-glass 
+thermometer or the digital readout on an infrared model).  
+ 
+5. RAIN GAUGE 
+A rain gauge, also referred to by the names udometer, pluviometer, pluviometer, ombrometer, and 
+hyetometer, is a tool that hydrologists and meteorologists use to collect and measure the amount of 
+liquid precipitation over a certain region over time. It is used to calculate the amount of rainfall by 
+measuring the depth of the precipitation (often measured in mm) that falls over a given area.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. SUNSHINE RECORDER 
+A sunlight recorder is a tool that captures the quantity of sunshine present in a specific area or time 
+period. The outcomes offer details about a region's temperature as well as its weather and climate. 
+In addition to other disciplines, meteorology, science, agriculture, and tourism all benefit from this 
+knowledge. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+34 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+7. EVAPORATING PAN 
+During observations to estimate the a mount of evaporati on at a certain pla ce, water  is kept in an 
+evaporation pan. These pans come in a variety of sizes and shapes, with circles and squares being the 
+most popular. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+35 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+REFERENCES 
+ 
+• Roland Nuhu Issaka, Moro Mohammed Buri, Satoshi Tobita, Satoshi Nakamura and Eric Owusu-Adjei 
+(February 2012): Indigenou s Fert ilizing Materials for Enhancing Soil Productivity in Ghana; Soil 
+Fertility Improvement and Integrated Nutrient Management - A Global Perspective 
+• Andersen, E (2010) Regional typologies of farming systems contexts. System for Environmental and 
+Agricultural Modelling; Linking European Science and Society (SEAMLESS) Report. PD.4.4.3. 
+• Andersen, E., Elbersen, B., Godeschalk, F., Verhoog, D. (2007) Farm management indicators and farm 
+typologies as a basis for assessments in a ch anging policy environment. Journal of Environmental 
+Management. 82, 353–362. 
+• https://thefarmdreams.com/list-of-farming-systems-in-ghana-ultimate-guide/ 
+• FAO. 2019.Handbook on Climate Information for Farming Communities - What farmers Need  and 
+What is Available:pg 2-5. Rome. 184pp.Licence:CC BY-NC-SA 3.0 IGO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+36 
+•   
+WEATHER A ND CLIMATE MANUAL FOR AGRICULTURE  
+ 
+ 
+ Building on 50 years of CGIAR innovation, AICCRA works to 
+scale climate-smart agriculture and climate information 
+services that reach millions of smallholder farmers in Africa. 
+For more information, visit us at https://aiccra.cgiar.org/  
+ 
+AICCRA is led by: 
+AICCRA is supported by the International 
+Development Association of the World Bank:

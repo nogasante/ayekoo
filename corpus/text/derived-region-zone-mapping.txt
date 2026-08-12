@@ -1,0 +1,86 @@
+# Which Agro-Ecological Zone a Region Falls In (restructured)
+# publisher: Ghana Meteorological Agency (GMet) with AICCRA/CGIAR
+# year: 2022
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/3cb7b779-cd15-4643-b999-148a021a45c6/content
+# attribution: Ghana Meteorological Agency, Weather and Climate Manual for Agriculture (2022)
+# ghana_specific: True
+# extent: derived document
+# DERIVED: retyped from the agro-ecological zoning section of GMet's Weather and
+# Climate Manual for Agriculture. No facts added, removed or changed — the
+# statements below are GMet's, reorganised so a region can be looked up directly
+# instead of read out of continuous prose.
+#
+# This closes a gap that was previously recorded as unfillable: a farmer names a
+# region or town, not an agro-ecological zone, and until now no source in this
+# corpus stated which was which.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+
+WHICH AGRO-ECOLOGICAL ZONE A REGION FALLS IN
+
+Source: Ghana Meteorological Agency, Weather and Climate Manual for Agriculture
+(2022). Ghana is divided into six ecological zones: Sudan Savannah, Guinea
+Savannah, Transition Zone, Deciduous Forest, Evergreen (moist and wet evergreen)
+or Rainforest, and Coastal Savannah.
+
+IMPORTANT — READ THIS BEFORE USING THE LIST
+
+Zones do not follow regional borders. Several regions lie across two or more
+zones, so a region name narrows the answer without always settling it.
+
+GMet writes with the ten regions that existed before 2018. Ghana now has
+sixteen. In particular, the former Brong Ahafo region was split into Bono, Bono
+East and Ahafo, and Western North, Oti, Savannah and North East were created.
+Where this document says "Brong Ahafo", it covers what are now Bono, Bono East
+and Ahafo.
+
+GUINEA SAVANNAH ZONE
+
+Covers the whole of Upper West and Northern regions. Also occupies parts of
+Upper East region, and the northern part of Brong Ahafo and Volta region.
+One rainfall season, lasting from May to October. Annual rainfall about 1000mm.
+
+SUDAN SAVANNAH ZONE
+
+Spreads from the north-eastern part of Upper East region.
+Annual rainfall between 500mm and 700mm.
+
+TRANSITION ZONE
+
+Falls within the middle portion of Brong Ahafo region, the northern part of both
+Ashanti and Eastern regions, and the western part of the Volta region.
+Two rainy seasons. Annual rainfall about 1200mm.
+
+DECIDUOUS FOREST ZONE
+
+Cuts across the northern part of Western region, through southern Brong Ahafo,
+Ashanti and Eastern regions. Also spreads to the Volta region and most part of
+the Central region.
+Two rainy seasons. Annual rainfall about 1400mm.
+
+EVERGREEN OR RAINFOREST ZONE
+
+Most parts of the Western region are within the Evergreen zone. It also captures
+a small part of Central region.
+Records the most annual rainfall, about 2000mm. Same rainfall pattern as the
+Transition Zone and Deciduous Forest, that is two rainy seasons.
+
+COASTAL SAVANNAH ZONE
+
+Stretches from Central region through Greater Accra to Volta regions.
+GMet records one rainy season and annual rainfall of about 600mm.
+
+WHERE SOURCES DISAGREE
+
+GMet and FAO do not agree about the Coastal Savannah. GMet states it has a
+single rainy season with about 600mm of rain a year. FAO's *Fertilizer Use by
+Crop in Ghana* records the Coastal Savannah as bi-modal — a major season from
+March to July and a minor season from September to October — with mean annual
+rainfall of 800mm and a range of 600 to 1200mm.
+
+Both figures are reproduced here rather than reconciled, because reconciling
+them would mean choosing between two national institutions on no authority. A
+farmer in the coastal strip planning a minor-season crop should treat the
+question as open and ask an extension officer.

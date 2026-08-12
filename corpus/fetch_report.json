@@ -240,6 +240,18 @@
     "url": "https://cropsresearch.org/2023/06/cassava-farmers-exposed-to-healthy-improved-cassava-varieties-and-planting-materials-for-production/"
   },
   {
+    "id": "gmet-weather-climate-manual",
+    "ok": true,
+    "message": "51,282 chars from 36 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/3cb7b779-cd15-4643-b999-148a021a45c6/content"
+  },
+  {
+    "id": "derived-region-zone-mapping",
+    "ok": true,
+    "message": "derived",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/3cb7b779-cd15-4643-b999-148a021a45c6/content"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",

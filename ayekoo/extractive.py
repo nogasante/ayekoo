@@ -62,19 +62,53 @@ ZONES = {
     "sudan": ("sudan savannah", "sudan"),
 }
 
-# What a farmer actually types, mapped to a zone key.
+# Region-to-zone mapping, taken from the Ghana Meteorological Agency's Weather
+# and Climate Manual for Agriculture (2022) — see
+# corpus/text/derived-region-zone-mapping.txt for the quoted source text.
 #
-# Only entries corroborated by a document in this corpus appear here. The FAO
-# fertilizer report states that the Sudan Savannah Zone includes districts in
-# the Upper East Region; that is the one region-to-zone statement we have.
+# This was previously recorded as an unfillable gap. It is filled now because a
+# Ghanaian government source states it, not because the geography is obvious.
 #
-# Everything else a farmer might say — "Tamale", "Kumasi", "Ashanti" — is
-# deliberately ABSENT, because filling it in would mean writing Ghanaian
-# geography from general knowledge into a system whose whole claim is that its
-# facts are traceable. When no zone can be resolved, we say so and show the
-# whole calendar rather than guess which row applies.
-PLACE_TO_ZONE: dict[str, str] = {
-    "upper east": "sudan",
+# A region can map to several zones, and most do: zones follow rainfall, not
+# administrative borders. Where a region spans zones we return all of them and
+# say so, rather than picking the largest and sounding more certain than the
+# source.
+PLACE_TO_ZONES: dict[str, tuple[str, ...]] = {
+    # Stated as covering the whole region
+    "upper west": ("guinea",),
+    "northern region": ("guinea",),
+    "greater accra": ("coastal",),
+    # Stated as spanning more than one zone
+    "upper east": ("guinea", "sudan"),
+    "ashanti": ("transition", "forest"),
+    "eastern region": ("transition", "forest"),
+    "western region": ("forest",),
+    "western north": ("forest",),
+    "central region": ("forest", "coastal"),
+    "volta": ("guinea", "transition", "forest", "coastal"),
+    # Former Brong Ahafo, now Bono / Bono East / Ahafo
+    "brong ahafo": ("guinea", "transition", "forest"),
+    "bono east": ("guinea", "transition", "forest"),
+    "ahafo": ("guinea", "transition", "forest"),
+    "bono": ("guinea", "transition", "forest"),
+}
+
+# Town-to-region is NOT stated by any source in this corpus. These are included
+# because a farmer types a town name, but the answer must disclose that this
+# step is not sourced — only the region-to-zone step is.
+TOWN_TO_REGION: dict[str, str] = {
+    "tamale": "northern region",
+    "bolgatanga": "upper east",
+    "wa": "upper west",
+    "kumasi": "ashanti",
+    "accra": "greater accra",
+    "tema": "greater accra",
+    "koforidua": "eastern region",
+    "cape coast": "central region",
+    "takoradi": "western region",
+    "sunyani": "bono",
+    "techiman": "bono east",
+    "ho": "volta",
 }
 
 
@@ -140,10 +174,54 @@ def zones_in(text: str) -> set[str]:
     for key, terms in ZONES.items():
         if any(t in low for t in terms):
             found.add(key)
-    for place, zone in PLACE_TO_ZONE.items():
+    for place, zones in PLACE_TO_ZONES.items():
         if place in low:
-            found.add(zone)
+            found.update(zones)
     return found
+
+
+def resolve_place(question: str) -> tuple[set[str], str | None]:
+    """Resolve a question's place name to zones, and explain how we got there.
+
+    Returns (zones, note). The note is shown to the farmer when the resolution
+    passed through an unsourced step or landed on more than one zone — both are
+    things they need to know before acting on a planting date.
+    """
+    low = question.lower()
+
+    zones = zones_in(question)
+    if zones:
+        for region, region_zones in PLACE_TO_ZONES.items():
+            if region in low and len(region_zones) > 1:
+                return zones, (
+                    f"The {region.title()} area lies across more than one "
+                    "agro-ecological zone, so more than one planting window is "
+                    "shown. Check which zone your farm is in."
+                )
+        return zones, None
+
+    for town, region in TOWN_TO_REGION.items():
+        if re.search(rf"\b{town}\b", low):
+            region_zones = PLACE_TO_ZONES.get(region, ())
+            if not region_zones:
+                continue
+            label = region.title()
+            if not label.lower().endswith("region"):
+                label += " Region"
+            note = (
+                f"I have taken {town.title()} to be in the {label}. "
+                "That step is not from my sources — only the link from region to "
+                "agro-ecological zone is, and it comes from the Ghana "
+                "Meteorological Agency."
+            )
+            if len(region_zones) > 1:
+                note += (
+                    " That region lies across more than one zone, so more than "
+                    "one planting window is shown."
+                )
+            return set(region_zones), note
+
+    return set(), None
 
 
 # A place name we recognise as Ghanaian but cannot map to a zone. Used to tell
@@ -292,7 +370,7 @@ def extract(question: str, hits, retriever=None) -> tuple[str, list] | None:
     if not is_calendar_question(question):
         return None
 
-    asked = zones_in(question)
+    asked, place_note = resolve_place(question)
     lines: list[str] = []
     used = []
 
@@ -379,6 +457,8 @@ def extract(question: str, hits, retriever=None) -> tuple[str, list] | None:
             "sources do not record which zone that place is in. Here is the full "
             "calendar — find your zone:"
         )
+    elif place_note:
+        preamble = f"{place_note}\n\nFrom the source, word for word:"
 
     return (
         f"{preamble}\n\n"
