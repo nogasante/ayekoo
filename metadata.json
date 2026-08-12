@@ -17,11 +17,11 @@
   "test_prompts": [
     {
       "prompt_id": "tp_001",
-      "prompt": "PLACEHOLDER - replace on day 9-10 once the corpus exists. When should I plant maize in the Northern Region of Ghana, and how does the harmattan affect the timing?"
+      "prompt": "When should I plant maize in Tamale, and which varieties are recommended?"
     },
     {
       "prompt_id": "tp_002",
-      "prompt": "PLACEHOLDER - replace on day 9-10 once the corpus exists. My cassava leaves are curling and turning yellow. What is likely wrong and what should I do about it?"
+      "prompt": "What is kokoo kokoram and how do I manage it?"
     }
   ],
   "model": {

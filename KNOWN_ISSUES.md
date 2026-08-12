@@ -95,3 +95,27 @@ retrieval testing or by reading answers. Nothing about the passage looks wrong
 in isolation — it is a well-formed dosage table from a reputable institution.
 Any corpus of agricultural documents older than about five years should be
 checked the same way.
+
+## 5. OPEN — categorical claims are not verified, only numbers and months
+
+Asked "what is Obatanpa", the system answered "Obatanpa is a hybrid maize
+variety released in Ghana". No document in this corpus calls Obatanpa a hybrid;
+the model inferred it. (Obatanpa is in fact an open-pollinated variety, so the
+inference is also wrong.)
+
+`verify.py` did not catch it because it checks numbers and months. A claim of
+category — hybrid versus open-pollinated, resistant versus susceptible, annual
+versus perennial — passes untouched.
+
+This is the same class of failure as the corrupted planting windows, and it has
+the same answer: where a distinction matters, quote rather than paraphrase.
+Variety questions should probably join dates, prices and symptoms on the
+extractive path.
+
+Not fixed because it was found late and the fix is not a one-liner: the variety
+catalogue's entries are structured records rather than prose sentences, so
+quoting them well needs its own extraction. Recorded rather than rushed.
+
+**Deliberate consequence:** neither submitted test prompt asks a system to
+classify a variety. `tp_001` asks which varieties are recommended for a zone,
+which is answered by quoting MoFA's list verbatim.

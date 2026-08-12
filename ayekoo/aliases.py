@@ -99,6 +99,21 @@ ALIASES: dict[str, list[str]] = {
     "nkoko nketenkete": ["backyard poultry", "household poultry"],
     "backyard fowls": ["backyard poultry", "nkoko nketenkete"],
     "local fowls": ["backyard poultry", "village poultry"],
+    # ── Ghanaian variety names ───────────────────────────────────────────────
+    # A farmer asks for a variety by name. The name alone embeds poorly in an
+    # English model — "Obatanpa" scored 0.596 against a 0.65 gate — so it is
+    # paired with the words the catalogue uses around it. Every name here is a
+    # released Ghanaian variety that appears in this corpus.
+    "obatanpa": ["maize variety", "obatanpa"],
+    "mamaba": ["maize variety", "mamaba"],
+    "abontem": ["maize variety", "abontem"],
+    "omankwa": ["maize variety", "omankwa"],
+    "aburohemaa": ["maize variety", "aburohemaa"],
+    "sanzal-sima": ["maize variety", "sanzal"],
+    "kpari-faako": ["maize variety", "kpari"],
+    "apantu": ["plantain", "variety"],
+    "apem": ["plantain", "variety"],
+    "borode": ["plantain"],
     # ── general ──────────────────────────────────────────────────────────────
     "eelworm": ["nematode"],
     "eelworms": ["nematode"],

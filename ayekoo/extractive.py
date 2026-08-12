@@ -441,6 +441,33 @@ def extract(question: str, hits, retriever=None) -> tuple[str, list] | None:
                 if hit not in used:
                     used.append(hit)
 
+    # If the question also asks about varieties, quote the variety lines for the
+    # same zone. "When should I plant maize in Tamale, and which varieties are
+    # recommended?" previously answered only the first half: variety lines carry
+    # no month, so the date filter above dropped them, and the farmer got a
+    # window with no seed to put in the ground.
+    if re.search(r"\b(variet|variety|varieties|seed|which maize|what maize)\b", question, re.I):
+        for hit in candidates:
+            chunk = hit.chunk
+            if not chunk["source_id"].startswith("derived-"):
+                continue
+            for sentence in re.split(r"(?<=\.)\s+", chunk["text"]):
+                s = " ".join(sentence.split())
+                if not re.match(r"^[A-Z]", s) or ":" not in s:
+                    continue
+                # Variety lines name a zone and list cultivars, with no month.
+                if re.search(r"(january|february|march|april|may|june|july|august|"
+                             r"september|october|november|december)", s, re.I):
+                    continue
+                if not re.search(r"\bzones?\b", s, re.I):
+                    continue
+                if asked and not (zones_in(s) & asked):
+                    continue
+                if s not in lines:
+                    lines.append(s)
+                    if not any(h.chunk["chunk_id"] == chunk["chunk_id"] for h in used):
+                        used.append(hit)
+
     if not lines:
         return None
 

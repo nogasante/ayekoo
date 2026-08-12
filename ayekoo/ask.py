@@ -43,6 +43,27 @@ SERVER = "http://127.0.0.1:8080"
 # questions; it is the single most safety-relevant number in the system.
 MIN_COSINE = 0.65
 
+# The gate had an English-language bias, and fixing it took two attempts worth
+# recording.
+#
+# "What is kokoo kokoram?" — the Twi name for cocoa stem canker — scored cosine
+# 0.594 against this 0.65 gate and was refused, even though the chunk naming
+# kokoo kokoram was rank 0 of 8,169. The embedding model is bge-small-en; a Twi
+# phrase has no meaningful English embedding. A submission whose localisation
+# claim rests on Ghanaian vocabulary must not refuse Ghanaian vocabulary.
+#
+# First attempt: also admit a question containing a rare word that occurs in the
+# corpus. That failed on measurement. "Write me a Python function" scored cosine
+# 0.595 and idf 8.09, against kokoo kokoram's 0.594 and 8.60 — indistinguishable.
+# "Who won the world cup" scored a HIGHER cosine than the Twi query. No
+# threshold on those two signals separates them.
+#
+# What works is translating the vernacular before embedding, using the same
+# corpus-verified alias map that already serves BM25. Expanded, "kokoo kokoram"
+# embeds at 0.784 because it now carries "stem canker" and "phytophthora" —
+# terms the corpus actually uses. "Python function" and "Mongolia" contain no
+# alias keys, are left untouched, and stay refused.
+
 # Note what this prompt does NOT ask for: citations.
 #
 # Instructing a 0.5B model to "put [1] after each fact" reliably collapses it
@@ -203,9 +224,13 @@ def _stop_repeating(text: str) -> str:
 def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
     from .index import embed_query, load_embedder
 
+    from .aliases import expand
+
     retriever = Retriever()
     llm = load_embedder()
-    qvec = embed_query(llm, question)
+    # Embed the alias-expanded question, so vernacular and abbreviations reach
+    # the corpus's own vocabulary. See the note on MIN_COSINE above.
+    qvec = embed_query(llm, expand(question))
     hits = retriever.search(question, qvec, top_k=top_k)
 
     # Absolute semantic similarity of the best-matching chunk in the whole index,
