@@ -93,6 +93,45 @@ def build_prompt(question: str, hits) -> str:
     )
 
 
+_INPROC = None  # lazily-loaded in-process generation model
+
+
+def _generate_in_process(system: str, user: str, max_tokens: int, temperature: float) -> str:
+    """Run generation through the llama-cpp-python bindings, no server needed.
+
+    The HTTP path is the primary one — llama-server keeps the model resident, so
+    repeated questions do not pay the load cost. But requiring a separately
+    compiled llama-server binary means `pip install -r requirements.txt` is not
+    enough to run this repo, which is a poor experience for anyone evaluating it.
+    Same llama.cpp underneath either way.
+    """
+    global _INPROC
+    if _INPROC is None:
+        from llama_cpp import Llama
+
+        from .index import ROOT
+
+        gen_model = ROOT / "model" / "qwen2.5-0.5b-instruct-q4_k_m.gguf"
+        if not gen_model.exists():
+            sys.exit(f"generation model missing: {gen_model}\nrun: bash download_model.sh")
+        _INPROC = Llama(
+            model_path=str(gen_model),
+            n_ctx=4096,
+            n_threads=4,
+            verbose=False,
+            seed=42,
+        )
+    out = _INPROC.create_chat_completion(
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+        max_tokens=max_tokens,
+        temperature=temperature,
+    )
+    return out["choices"][0]["message"]["content"].strip()
+
+
 def call_model(system: str, user: str, max_tokens: int = 320, temperature: float = 0.2) -> str:
     payload = {
         "messages": [
@@ -112,11 +151,9 @@ def call_model(system: str, user: str, max_tokens: int = 320, temperature: float
     try:
         with urllib.request.urlopen(req, timeout=300) as resp:
             body = json.load(resp)
-    except urllib.error.URLError as exc:
-        sys.exit(
-            f"cannot reach llama-server at {SERVER} ({exc}).\nStart it with:\n"
-            "  llama-server -m model/qwen2.5-0.5b-instruct-q4_k_m.gguf -c 4096 -t 4 --port 8080"
-        )
+    except urllib.error.URLError:
+        # No server running — fall back to loading the model in this process.
+        return _generate_in_process(system, user, max_tokens, temperature)
     return body["choices"][0]["message"]["content"].strip()
 
 

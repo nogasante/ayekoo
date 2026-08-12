@@ -1,0 +1,23 @@
+# Ayekoo runtime dependencies.
+#
+# llama-cpp-python is the only inference dependency: it is llama.cpp with Python
+# bindings, and it serves BOTH the generation model and the embedding model.
+# There is deliberately no torch, no sentence-transformers, no second inference
+# stack — the challenge accepts llama.cpp only, and a 2 GB framework install has
+# no place on an 8 GB target machine.
+#
+# It builds from source if no wheel matches your platform. On a 2-core box that
+# takes ~20 minutes; prebuilt CPU wheels are available from:
+#   pip install llama-cpp-python \
+#     --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+
+llama-cpp-python>=0.3.0
+numpy>=1.26
+PyYAML>=6.0
+
+# Corpus ingestion only — not needed to answer questions, only to rebuild the
+# corpus from corpus/sources.yaml.
+pypdf>=5.0
+beautifulsoup4>=4.12
+lxml>=5.0
+cryptography>=42.0   # pypdf needs this for AES-encrypted PDFs (the IAEA one)

@@ -338,6 +338,107 @@ sources:
     caveat: "Seed-system policy, not agronomy. Useful for institutional context only; a farmer will never ask this."
     status: candidate
 
+  # ── Livestock ───────────────────────────────────────────────────────────────
+  # Added Aug 12 after reading the ADTC domain definition: Agriculture is
+  # "Crop, livestock, weather, and market advisory". An earlier decision to skip
+  # livestock was made from guesses about hidden prompts rather than from the
+  # organizers' published scope, and was wrong. Hidden prompts are drawn from
+  # within the domain, so a poultry question is fair game and a refusal on one
+  # scores as a miss.
+  #
+  # These are FAO manuals, not Ghanaian extension guidance. Depth here is
+  # deliberately lower than the crop grid: enough to answer rather than decline.
+
+  - id: fao-smallscale-poultry
+    title: Small-scale Poultry Production
+    publisher: Food and Agriculture Organization of the United Nations (FAO)
+    year: null
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/73edfce9-c9a1-4814-b907-d86917967ed3/content
+    crops: []
+    livestock: [poultry]
+    topics: [husbandry, pests_diseases, inputs_costs]
+    attribution: "FAO, Small-scale Poultry Production"
+    ghana_specific: false
+    status: candidate
+
+  - id: fao-village-chicken-manual
+    title: "Improving Village Chicken Production: A Manual for Field Workers and Trainers"
+    publisher: FAO / ACIAR
+    year: null
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/2abd5aaf-c298-4f71-966c-e1fcf6f9432a/content
+    crops: []
+    livestock: [poultry]
+    topics: [husbandry, pests_diseases]
+    attribution: "Improving Village Chicken Production: A Manual for Field Workers and Trainers"
+    ghana_specific: false
+    status: candidate
+
+  - id: fao-newcastle-village-poultry
+    title: Sustainable Control of Newcastle Disease in Village Poultry
+    publisher: FAO
+    year: null
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/ec37807d-fb8e-4333-8058-1ff06644813b/content
+    crops: []
+    livestock: [poultry]
+    topics: [pests_diseases]
+    attribution: "FAO, Sustainable Control of Newcastle Disease in Village Poultry"
+    ghana_specific: false
+    # Newcastle disease is the single biggest killer of village poultry in West
+    # Africa, so this is the most likely livestock question a farmer asks.
+    status: candidate
+
+  - id: fao-sheep-goats
+    title: Sheep and Goats for Diverse Products and Profits
+    publisher: FAO
+    year: null
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/9214102e-3a35-48ad-9c53-ec825f55961e/content
+    crops: []
+    livestock: [sheep, goat]
+    topics: [husbandry, inputs_costs]
+    attribution: "FAO, Sheep and Goats for Diverse Products and Profits"
+    ghana_specific: false
+    status: candidate
+
+  - id: fao-small-ruminant-ssa
+    title: Cattle and Small Ruminant Systems in Sub-Saharan Africa
+    publisher: FAO
+    year: null
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/a20fe6e8-1c70-4eca-9f8f-6ba84ece1879/content
+    crops: []
+    livestock: [cattle, sheep, goat]
+    topics: [husbandry]
+    attribution: "FAO, Cattle and Small Ruminant Systems in Sub-Saharan Africa"
+    ghana_specific: false
+    status: candidate
+
+  # ── Weather & season timing ─────────────────────────────────────────────────
+  # The other missing sub-domain. Rainfall onset is the single most consequential
+  # thing a Ghanaian farmer needs to time correctly, and it is exactly what a
+  # generic model cannot know for a specific zone.
+
+  - id: rainfall-onset-north-ghana
+    title: Trends of Rainfall Onset, Cessation, and Length of Growing Season in Northern Ghana
+    publisher: CGIAR, via CGSpace
+    year: 2021
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/20bab928-7998-4576-b9e6-760fa8c5b8c0/content
+    crops: []
+    topics: [weather, planting_calendar]
+    attribution: "Trends of Rainfall Onset, Cessation and Length of Growing Season in Northern Ghana (CGIAR, 2021)"
+    ghana_specific: true
+    caveat: "Research paper on TRENDS, not a forecast. Ayekoo must never present it as a prediction for a coming season."
+    status: candidate
+
+  - id: ghana-agric-situational-2020
+    title: Situational Analysis Study for the Agriculture Sector in Ghana
+    publisher: CGIAR, via CGSpace
+    year: 2020
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/6a34ddb8-146f-4a0a-b6ef-b79d0017e032/content
+    crops: []
+    topics: [weather, market_advisory, policy]
+    attribution: "Situational Analysis Study for the Agriculture Sector in Ghana (CGIAR, 2020)"
+    ghana_specific: true
+    status: candidate
+
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper

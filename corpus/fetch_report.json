@@ -138,6 +138,48 @@
     "url": "https://cessa.agra.org/wp-content/uploads/2023/09/GHANA-BVRM-COUNTRY-PROFILE-2022.pdf"
   },
   {
+    "id": "fao-smallscale-poultry",
+    "ok": true,
+    "message": "379,712 chars from 120 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/73edfce9-c9a1-4814-b907-d86917967ed3/content"
+  },
+  {
+    "id": "fao-village-chicken-manual",
+    "ok": true,
+    "message": "367,693 chars from 198 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/2abd5aaf-c298-4f71-966c-e1fcf6f9432a/content"
+  },
+  {
+    "id": "fao-newcastle-village-poultry",
+    "ok": true,
+    "message": "21,908 chars from 11 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/ec37807d-fb8e-4333-8058-1ff06644813b/content"
+  },
+  {
+    "id": "fao-sheep-goats",
+    "ok": true,
+    "message": "74,316 chars from 54 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/9214102e-3a35-48ad-9c53-ec825f55961e/content"
+  },
+  {
+    "id": "fao-small-ruminant-ssa",
+    "ok": true,
+    "message": "196,793 chars from 105 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/a20fe6e8-1c70-4eca-9f8f-6ba84ece1879/content"
+  },
+  {
+    "id": "rainfall-onset-north-ghana",
+    "ok": true,
+    "message": "59,075 chars from 20 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/20bab928-7998-4576-b9e6-760fa8c5b8c0/content"
+  },
+  {
+    "id": "ghana-agric-situational-2020",
+    "ok": true,
+    "message": "264,170 chars from 126 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/6a34ddb8-146f-4a0a-b6ef-b79d0017e032/content"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",

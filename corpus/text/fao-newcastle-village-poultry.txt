@@ -1,0 +1,555 @@
+# Sustainable Control of Newcastle Disease in Village Poultry
+# publisher: FAO
+# year: unknown
+# url: https://openknowledge.fao.org/server/api/core/bitstreams/ec37807d-fb8e-4333-8058-1ff06644813b/content
+# attribution: FAO, Sustainable Control of Newcastle Disease in Village Poultry
+# ghana_specific: False
+# extent: 11 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+GPFPP Note No 05 
+ 
+ 
+International Network for Family Poultry Development  
+Réseau International pour le Développement de l'Aviculture 
+Familiale 
+Red Internacional Para El Desarrollo de la Avicultura Familiar  
+www.fao.org/ag/againfo/themes/en/infpd/home.html 
+http://www.infpd.net/ 
+  
+ 
+Good Practices for Family Poultry Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sustainable Control of Newcastle Disease in 
+Village Poultry 
+ 
+by 
+Robyn G. Alders, Brigitte Bagnol, Rosa Costa and Mary P. Young 
+ 
+ 
+Country: Australia and Mozambique 
+
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+1 
+ 
+Authors 
+Associate Professor Robyn G. Alders is a Director of the International 
+Rural Poultry Centre, Kyeema Foundation 
+(http://www.kyeemafoundation.org) and a Principal Research Fellow at the 
+Faculty of Veterinary Science, University of Sydney, Australia. 
+(http://sydney.edu.au/vetscience/about/staff/profiles/robyn.alders.php ).  
+Email: robyn.alders@gmail.com 
+ 
+Dr. Brigitte Bagnol is a Social Anthropologist with the International Rural 
+Poultry Centre, Kyeema Foundation and a visiting Lecturer at the 
+Department of Anthropology, Wits University, Johannesburg, South Africa. 
+ 
+Dr. Rosa Costa is the Regional Manager of the Kyeema Foundation based in 
+Maputo, Mozambique. 
+ 
+Dr. Mary P. Young is a Senior Technical Advisor with the Kyeema 
+Foundation based in Brisbane, Australia. 
+ 
+Recommended Citation 
+Alders, R.G., Bagnol, B., Costa, R.  and Young , M.P ., 2012. Sustainable 
+Control of Newcastle Disease in Village Poultry. INFPD Good Practices for 
+Family Poultry Production Note No 05. 
+ 
+Keywords 
+Disease control, vaccination, participatory methods, family poultry 
+ 
+Date of publication: 
+October 2012 
+ 
+The designations employed and the presentation of material in this  information 
+product do not imply the expression of any opinion whatsoever  on the part of 
+the Food and Agriculture Organization of the United Nations  (FAO) or the 
+International Fund for Agricultural Development  of the  United Nations (IFAD) 
+concerning the legal or development status of any country, territory, city or area 
+or of its authorities, or concerning the delimitation of its  frontiers or boundaries. 
+The mention of specific companies or products of manufacturers,  whether or not 
+these have been patented, does not imply that these have  been endorsed or 
+recommended by FAO or IFAD in preference to others of a similar  nature that 
+are not mentioned. The views expressed in this information product are those of 
+the author(s) and do not necessarily reflect the views of FAO or IFAD. 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+2 
+ 
+Acknowledgements 
+The purpose of the International Network for Family Poultry Development 
+(INFPD) is to share information about poultry production among  scientists, 
+researchers, policy makers, educationists, students and  development 
+workers and to promote the cause of family poultry production.  
+ 
+Good Practices of Family Poultry Production  (GPFPP) are "practices that 
+address environmental, economic and social sustainability for on -farm 
+processes, and result in safe and quality food and non -food agricultural 
+products" (FAO COAG 2003 GAP paper).  Sharing information about “G ood 
+Practices for Family Poultry Production” that are successfully implemented 
+in countries, regions or development projects is an important objective of the 
+INFPD so that these practices can be replicated in different region based on 
+the farmers’ demand. 
+ 
+Dr. Md. A. Saleque, the co ordinator of the FAO/IFAD/INFPD project 
+“Support for Smallholder Poultry Development” formulated guidelines for the 
+documentation of GPFPP based on experience for the documentation of good 
+practices by other institutions, including the South Asia Pro Poor Livestock 
+Policy Programme (SA PPLPP). Special thanks are due to Dr. Fallou Gueye 
+(FAO), Dr. Olaf Thieme (FAO), Professor Dr. E. B Sonaiya (Obafemi Awolowo 
+University, Nigeria), Dr. Robyn Alders (Kyeema Foundation) and Mr. Antonio 
+Rota (IFAD) for their con tinuous efforts to finalize the guidelines. The INFPD 
+encourages all members to collect and document GPFPP and to make 
+knowledge of them available to a wide audience. 
+ 
+The GPFPP about “ Sustainable Control of Newcastle Disease in Family 
+Poultry” was prepared by Robyn G. Alders, Brigitte Bagnol, Rosa Costa and 
+Mary P. Young of the International Rural Poultry Centre, KYEEMA 
+Foundation based on their works and experiences in  Australia and 
+Mozambique. It was reviewed and edited by Dr. Md. A. Saleque and A uvijit 
+Saha Apu from Bangladesh and Dr. Olaf Thieme (FAO) . Their valuable 
+comments helped to finalize this note. 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+3 
+ 
+1. Introduction 
+ 
+Rural poultry production is recognized as an important activity in all 
+developing countries. They are generally owned and managed by women and 
+children (Guèye 2000; Spradbrow 1993 –94). Although the output of 
+traditional village chickens in terms of weight gain and number of eggs per 
+hen per year is low, it is obtained with minimum input in terms of housing, 
+disease control, management and supplementary feeding. There are many 
+constraints to village chicken production (Sonaiya et al. 1999) including a 
+range of bacterial and other viral diseases,  internal and external parasites 
+(Permin and Hansen 1998), poor nutrition and predation. The major 
+constraint to production of village chickens in many developing countries is 
+Newcastle disease (ND) (Alexander 1991, Spradbrow 1988). In these 
+countries, cir culating strains of ND virus are capable of causing 100% 
+mortality in unprotected flocks. Outbreaks of ND are unpredictable and 
+discourage villagers from paying proper attention to the husbandry and 
+welfare of their chickens. However, in areas where ND is endemic, ND 
+control through vaccination is generally a very cost -effective intervention 
+and given a high priority by farmers. 
+ 
+Besides these, a comprehensive and sustainable Newcastle disease (ND) 
+control program requires a multi -faceted approach that is a dapted to local 
+conditions. The table on the following pages  provides an overview of the 
+components of a sustainable ND control program, the inputs required and 
+references that provide information on good practices associated with each 
+component. 
+ 
+2. Use of thermotolerant ND vaccines in rural poultry 
+ 
+Experience gained during the implementation of ND control activities 
+involving thermotolerant ND vaccines has shown that a sustainable program 
+is composed of five essential elements: 
+ 
+1. An appropriate vaccine, vaccine technology and vaccine distribution 
+mechanisms; 
+2. Effective extension materials and methodologies that target veterinary 
+and extension staff as well as community vaccinators and farmers; 
+3. Simple evaluation and monitoring systems of both technical and 
+socio-economic indicators; 
+4. Economic sustainability based on the commercialization of the vaccine 
+and vaccination services and the marketing of surplus chickens and 
+eggs; and 
+5. Support and coordination by relevant government agencies for the 
+promotion and implementation of vaccination programs (Copland and 
+Alders, 2005). 
+ 
+ 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+4 
+ 
+Component/activity Inputs References 
+ND identified as a 
+major constraint 
+Constraint 
+identification 
+through 
+participatory 
+epidemiology and 
+diagnostic tests 
+Alders, R.G. and Spradbrow, P.B. 2001. Controlling Newcastle Disease in Village 
+Chickens: a field manual. Canberra. Australian Centre for International 
+Agricultural Research. Monograph 82. 112pp. 
+http://aciar.gov.au/publication/mn082 
+Ameri, A., Hendrickx, S., Jones, B., Mariner, J., Mehta, P. & Pissang, C. 2009. 
+Participatory epidemiology and its application to highly pathogenic avian 
+influenza participatory disease surveillance. A Manual for Participatory 
+Disease Surveillance Practitioners. Nairobi: ILRI/AU-IBAR/VSF-B 
+http://mahider.ilri.org/bitstream/handle/10568/367/BirdFlu-
+Manual_final.pdf?sequence=2    
+Catley, A., Alders R.G. & Wood, J L.N. 2012. Participatory epidemiology: 
+approaches, methods, experiences. The Veterinary Journal, 191(2), 151-
+160. 
+http://www.sciencedirect.com/science/article/pii/S1090023311001134 
+FAO. 2000. Manual on participatory epidemiology – methods for the collection of 
+action-oriented epidemiological intelligence. Rome: FAO Animal Health 
+Manual 10. http://www.fao.org/DOCREP/003/X8833E/X8833E00.HTM 
+Mariner, J.C. 1999. Participatory epidemiology: methods for the collection of 
+action-oriented epidemiological intelligence. Vetwork UK, RDP Livestock 
+Services B.V. and FAO 
+http://www.participatoryepidemiology.info/Resource/training.html 
+OIE. 2008. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals.  
+http://www.oie.int/international-standard-setting/terrestrial-manual/ 
+Identification and 
+procurement of 
+appropriate vaccine 
+ Live or inactivated 
+vaccine? 
+ Thermotolerant or 
+thermolabile? 
+Risk assessment 
+Information and 
+training 
+Laboratory 
+equipment and 
+consumables 
+Alexander, D.J., Bell, J.G. and Alders, R.G.  2004. Technology Review: Newcastle 
+disease with special emphasis on its effect on village chickens. FAO Animal 
+Production and Health Paper No. 161. Rome, FAO. 63pp. 
+http://www.fao.org/docrep/006/y5162e/y5162e00.htm 
+OIE. 2008. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals. 
+http://www.oie.int/international-standard-setting/terrestrial-manual/ 
+ 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+5 
+ 
+Component/activity Inputs References 
+ Import? 
+ Produce locally? 
+Young, M., Alders, R., Spradbrow, P., Grimes, S., Dias, P., da Silva, A. and Lobo, 
+Q. 2002. Controlling Newcastle Disease in Village Chickens: A Laboratory 
+Manual.  ACIAR Monograph Nº 87, 142pp. 
+http://aciar.gov.au/publication/mn087 
+Vaccine quality 
+control 
+ Efficacy 
+ Potency 
+ Safety 
+ Registration with 
+national 
+authorities 
+Training and 
+information 
+Laboratory 
+equipment and 
+consumables 
+OIE. 2008. Manual of Diagnostic Tests and Vaccines for Terrestrial Animals. 
+http://www.oie.int/international-standard-setting/terrestrial-manual/ 
+Young, M., Alders, R., Spradbrow, P., Grimes, S., Dias, P., da Silva, A. and Lobo, 
+Q. 2012. 2nd edn. Controlling Newcastle Disease in Village Chickens: A 
+Laboratory Manual. ACIAR Monograph Nº 87, 143pp. 
+http://aciar.gov.au/publication/mn087 
+Central store of 
+vaccine 
+Establishment 
+and/or 
+maintenance of 
+cold chain 
+Chicamisse, M., Harun, M., Alders, R.G. and Young, M.P. 2009. Evaluation of 
+the cold chain encountered by ‘wet’ I-2 Newcastle disease vaccine from the 
+Vaccine Production Department to the village chicken in Mozambique. In: 
+Alders R.G., Spradbrow P.B. and Young M.P. (eds) Village chickens, 
+poverty alleviation and the sustainable control of Newcastle disease. 
+Proceedings of an international conference held in Dar es Salaam, 
+Tanzania, 5–7 October 2005. ACIAR Proceedings No. 131, pp 113-119. 
+http://aciar.gov.au/files/node/11133/PR131%20part%201.pdf 
+DHA. 2005. National Vaccine Storage Guidelines: Strive for Five. Australian 
+Department of Health and Aging, Canberra. 
+http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/c
+ontent/DF94731AD8CBF34ECA2575BD001C8129/$File/strive-4-five.pdf 
+Young, M., Alders, R., Spradbrow, P., Grimes, S., Dias, P., da Silva, A. and Lobo, 
+Q.  2012. 2nd edn. Controlling Newcastle Disease in Village Chickens: A 
+Laboratory Manual. ACIAR Monograph Nº 87, 143pp. 
+http://aciar.gov.au/publication/mn087 
+Distribution of 
+effective vaccine and 
+Training and 
+extension material 
+Alders, R., dos Anjos, F., Bagnol, B., Fumo, A., Mata, B. and Young, M. 2002; 2nd 
+edn 2003. Controlling Newcastle Disease in Village Chickens: A Training 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+6 
+ 
+Component/activity Inputs References 
+extension material 
+ Appropriate 
+accounting and 
+cost-recovery 
+procedures 
+ Improved 
+husbandry 
+practices 
+Establishment 
+and/or 
+maintenance of 
+cold chain to 
+provincial, district 
+and community 
+levels 
+Establish and 
+maintain cost 
+recovery system 
+Manual. ACIAR Monograph Nº 86, 128 pp. 
+http://aciar.gov.au/publication/mn086 
+Alders, R.G., Bagnol, B. and Young, M.P.  2010. Technically sound and 
+sustainable Newcastle disease control in village chickens: lessons learnt 
+over fifteen years.  World’s Poultry Science Journal 66:433-440. 
+Informed and 
+motivated support 
+personnel (men and 
+women) 
+Continuing 
+education for 
+veterinarians, 
+subject matter 
+specialists, 
+livestock officers, 
+extension workers 
+Gender sensitive 
+methodologies 
+Ahlers, C., Alders, R.G., Bagnol, B., Cambaza, A.B., Harun, M., Mgomezulu, R., 
+Msami, H., Pym, B., Wegener, P., Wethli, E. and Young, M. 2009. 
+Improving village chicken production: a manual for field workers and 
+trainers. ACIAR Monograph No. 139, 194 pp. 
+http://aciar.gov.au/publication/mn139 
+Alders, R., dos Anjos, F., Bagnol, B., Fumo, A., Mata, B. and Young, M.  2002; 
+2nd edn 2003. Controlling Newcastle Disease in Village Chickens: A 
+Training Manual. ACIAR Monograph Nº 86, 128 pp. 
+http://aciar.gov.au/publication/mn086 
+Informed and 
+enthusiastic farmers 
+(men and women) 
+Awareness raising 
+of farmers 
+Selection and 
+training of 
+community 
+vaccinators  
+(50% female) 
+Gender sensitive 
+methodologies 
+Bagnol, B. 2009. Bicycles, Boots, T-shirts and Percentage Over Payment of 
+Vaccination: What Role for Community Leaders? In: Alders, R.G.; 
+Spradbrow, P. B. and Young, M. P (eds). 2009. Village Chickens, Poverty 
+Alleviation and Sustainable Control of Newcastle Disease. Canberra: 
+Australian Centre for International Agricultural Research. ACIAR 
+Proceedings Nº 131: 102-107. 
+http://aciar.gov.au/publication/pr131 
+Bagnol, B. 2009. Improving Village Chicken Production by Employing Effective 
+Gender Sensitive Methodologies. In: Alders, R.G.; Spradbrow, P. B. and 
+Young, M. P (eds). Village Chickens, Poverty Alleviation and Sustainable 
+Control of Newcastle Disease. Canberra: Australian Centre for 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+7 
+ 
+Component/activity Inputs References 
+International Agricultural Research. ACIAR Proceedings Nº 131: 35-42. 
+http://aciar.gov.au/publication/pr131 
+Alders, R.G. and Bagnol, B. 2007. Effective communication: the key to efficient 
+HPAI prevention and control. World’s Poultry Science Journal 63:139-147. 
+Alders, R.G. and Bagnol, B. 2000. Communicating with farmers - a vital element 
+in the control of Newcastle disease in village chickens.  Proceedings of the 
+XXI World’s Poultry Congress, Montreal, August 20 -24, 2000. Abstract 
+13.01. 
+Administration of 
+effective vaccine to 
+healthy chickens 
+Well-organized 
+vaccination 
+campaigns 
+Well-trained and 
+equipped 
+vaccinators 
+Alders, R., dos Anjos, F., Bagnol, B., Fumo, A., Mata, B. and Young, M. 2002; 2nd 
+edn 2003. Controlling Newcastle Disease in Village Chickens: A Training 
+Manual. ACIAR Monograph Nº 86, 128 pp. 
+http://aciar.gov.au/publication/mn086 
+SAPPLPP. 2012. South Asia Pro-Poor Livestock Policy Programme 
+(www.sapplpp.org). Lessons learnt related to backyard poultry keeping. 
+http://sapplpp.org/lessonslearnt. 
+Gender sensitive 
+monitoring and 
+evaluation of the ND 
+control program 
+ Vaccine quality, 
+distribution and 
+administration 
+ ND surveillance 
+data 
+ Socio-economic 
+data 
+ Participatory 
+M&E with 
+communities 
+ND control data 
+and analysis 
+ Vaccine quality 
+control 
+ No. of vaccine 
+doses 
+distributed 
+ No. of vaccines 
+doses 
+administered 
+ ND surveillance 
+data and 
+poultry 
+mortality 
+ Household and 
+Bagnol, B. 2007. Participatory tools for assessment and monitoring of poultry 
+raising activities and animal disease control. FAO HPAI Communication 
+Workshop 22 January 2007, Bangkok: FAO. 
+http://www.participatoryepidemiology.info/userfiles/Participatory%20Tool
+s_9_03_08.pdf   
+Catley, A. 2005. Participatory epidemiology. A guide for trainers. Nairobi: African 
+Union/Interafrican Bureau for Animal Resources. 
+http://www.participatoryepidemiology.info/PE%20Guide%20electronic%2
+0copy.pdf  
+Catley, A., Burns, J., Abebe, D. & Suji, O. 2007. Participatory impact 
+assessment. A guide for practitioners. Boston: Tufts University. Feinstein 
+International Center  
+http://sites.tufts.edu/feinstein/2008/participatory-impact-assessment   
+ 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+8 
+ 
+Component/activity Inputs References 
+community 
+socio-economic 
+data 
+ Participatory 
+rural appraisal 
+and 
+participatory 
+impact 
+assessment 
+Central data bases 
+(veterinary and socio-
+economic) 
+Training and 
+information 
+OIE. 2012. World Animal Health Information Database (WAHID) Interface. 
+http://web.oie.int/wahis/public.php?page=home 
+Response to 
+outbreaks of ND 
+Policy 
+development 
+Training and 
+equipment supply 
+AHA. 2011. Newcastle disease strategy. Animal Health Australia, Canberra. 
+http://www.animalhealthaustralia.com.au/wp-
+content/uploads/2011/04/ND3-2-21FINAL2May11.pdf 
+FAO. 2011. Good Emergency Management Practices: The Essentials. Edited by 
+Nick Honhold, Ian Douglas, William Geering, Arnon Shimshoni and Juan 
+Lubroth. FAO Animal Production and Health Manual No. 11. Rome. 
+http://www.fao.org/docrep/014/ba0137e/ba0137e00.pdf 
+OIE. 2012. Disease Control Measures. 
+http://web.oie.int/wahis/public.php?page=control 
+ 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+9 
+ 
+3. Why has this good practice worked? 
+ 
+The good practice has worked because the key in-country stakeholders (from 
+Ministries of Agriculture to animal health technicians to male and female 
+farmers) have  recognised ND as a serious constraint to village poultry 
+production and have  been involved in the implementation of the program 
+from the beginning. The model was developed over 10 years and so provided 
+time to learn lessons along the way while evaluating the robustness of the 
+approach. Particular attention was paid to capacity building of all key actors 
+and to involving them in the mon itoring and evaluation process.  The 
+importance of setting up cost -recovery mechanisms that ensure that the 
+vaccine production laboratory or importing institution always ha s funds to 
+supply the vaccine at key times during the year has been found t o be a key 
+element of success. Significant attention was also paid to training in the 
+conservation and transport of the thermotoleran t vaccine as it is important 
+for distributors and users to understand the thermal lim its of the biological 
+product. For the thermotolerant ND vaccine to deliver optimal results, it is 
+important that the recommended storage temperatures and shelf -life be 
+observed and that freeze-thaw cycles are avoided. 
+ 
+4. Scope of replication and sustainability 
+ 
+Key recommendations to support technically sound and sustainable ND 
+control programs in village chickens include: 
+ 
+ Veterinary pharmaceutical companies should be encouraged to 
+develop and observe a code of conduct that supports the supply of 
+appropriate vaccine with an adequate shelf life, instructions in local 
+languages, the use of temperature indicators in the vaccine containers 
+and discourages the payment of com mission on the purchase of 
+vaccine; 
+ Quality assurance activities should be built into all vaccination 
+programs to improve cost -efficiency. These activities should include 
+post-vaccination serological monitoring on a representative sample of 
+birds especially when a new vaccine or new disease control program is 
+introduced; 
+ Participation of farmers (male and female) in the monitoring and 
+evaluation of the effectiveness of vaccination campaigns; and 
+ Active collaboration with the Ministries of Agricultu re, Health and 
+Education in village poultry improvement programs (Alders et al. 
+2010). 
+ 
+5. Conclusion and lessons learnt 
+ 
+The implementation of effective ND control programs in village poultry in 
+Asia, Africa and Latin America has resulted in increased pou ltry numbers, 
+increased household purchasing power, increased home consumption of 
+Sustainable Control of Newcastle Disease in Village Poultry 
+ 
+10 
+ 
+poultry products and increased de cision-making power for women. The use 
+of participatory methodologies and robust attention to quality assurance 
+activities has been critical to the success of these programs. 
+ 
+Additional Bibliography 
+ 
+Alders, R.G., Bag nol, B. and Young, M.P.  2010. Technically sound and 
+sustainable Newcastle disease control in village chickens: lessons 
+learnt over fifteen years. World’s Poultry Science Journal 66:433-440. 
+Alexander, D.J. 1991. Newcastle disease. In: Rweyemamu, M.M., Palya, V., 
+Win, T. and Sylla, D., ed. Newcastle Disease Vaccines for Rural Africa. 
+Debre Zeit, Ethiopia, Pan African Veterinary Vaccine Centre, 7–45. 
+Copland, J.W. and Alders, R.G. 2005. The Australian village poultry 
+development programme in Asia and Africa . World’s Poultry Science 
+Journal 61:31-37. 
+Guèye, E.F. 2000. The role of family poultry in poverty alleviation, food 
+security and the promotion of gender equality in rural Africa . Outlook 
+on Agriculture, 29 (2): 129–136. 
+Permin, A. and Hansen, J.W. 1998. Epidemiology, Diagnosis and Control of 
+Poultry Parasites. FAO Animal Health Manual No. 4. Rome, FAO. 
+Sonaiya, E.B., Branckaert, R.D.S. and Guèye, E.F. 1999. Research and 
+development options for family poultry. First INFPD/FAO Electronic 
+Conference on Family Poultry, Guèye, E.F., (Ed). 
+(http://www.fao.org/ag/againfo/themes/en/infpd/econf_scope.html) 
+Spradbrow, P.B. 1988. Geographical distribution. In: Alexander, D.J., ed. 
+Newcastle disease. Boston, MA, Kluwer Academic Publishers, 247. 
+Spradbrow, P.B. 1993 –94. Newcastle Disease in Village Chickens. Poultry 
+Science Review, 5, 57–96.
