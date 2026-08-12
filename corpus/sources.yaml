@@ -20,6 +20,7 @@ sources:
     attribution: "MoFA/DAES, Guide to Maize Production (2020)"
     licence_note: "Short extracts reproducible in non-advertising, non-profit context provided the source is acknowledged (stated in the document)."
     status: confirmed
+    doc_type: practical
 
   - id: mofa-tomato
     title: Tomato Production Guide
@@ -30,6 +31,7 @@ sources:
     topics: [planting_calendar, pests_diseases, inputs_costs, harvest_storage]
     attribution: "MoFA, Tomato Production Guide"
     status: confirmed
+    doc_type: practical
 
   - id: mofa-rice
     title: Rice Production Guide
@@ -42,6 +44,7 @@ sources:
     # Rice is not one of the six target crops, but it is a Ghanaian staple and
     # a plausible hidden-prompt subject. Cheap to include.
     status: confirmed
+    doc_type: practical
 
   - id: mofa-feed-ghana
     title: Feed Ghana Programme — A Four-Year Agricultural Transformation
@@ -53,6 +56,7 @@ sources:
     attribution: "MoFA, Feed Ghana Programme"
     # Policy document. Useful for current-programme context, not agronomy.
     status: confirmed
+    doc_type: research
 
   - id: srid-facts-figures-2024
     title: Agriculture in Ghana — Facts & Figures 2024
@@ -64,6 +68,7 @@ sources:
     attribution: "MoFA/SRID, Agriculture in Ghana: Facts & Figures (2024)"
     # The primary source for GHS prices and production figures.
     status: candidate
+    doc_type: reference
 
   # ── Regional (West Africa) sources ──────────────────────────────────────────
   # These are NOT Ghana-specific. They carry solid agronomy for crops MoFA has
@@ -84,6 +89,7 @@ sources:
     ghana_specific: false
     caveat: "Continental scope, 1990. Agronomy is durable; variety names and prices are not. Do not cite for varieties or costs."
     status: dead  # iita.org unreachable; cassava covered by the CGSpace mirrors below
+    doc_type: research
 
   - id: iita-cassava-training
     title: A Comprehensive Training Module on Competitive Cassava Production
@@ -95,6 +101,7 @@ sources:
     attribution: "IITA, Training Module on Competitive Cassava Production"
     ghana_specific: false
     status: dead  # iita.org unreachable from this network; superseded by the CGSpace mirror below
+    doc_type: research
 
   - id: iita-plantain-west-africa
     title: "Plantain Cultivation Under West African Conditions: A Reference Manual"
@@ -107,6 +114,7 @@ sources:
     ghana_specific: false
     caveat: "West African scope. Closest available authority for plantain; MoFA has no plantain guide."
     status: dead  # iita.org unreachable; superseded by plantain-west-africa-manual via CGSpace
+    doc_type: research
 
   - id: iaea-cassava-guidelines
     title: Cassava Production Guidelines for Food Security and Adaptation to Climate Change
@@ -118,6 +126,7 @@ sources:
     attribution: "IAEA, Cassava Production Guidelines"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: yam-transition-zone-ghana
     title: Sustaining yam yields amidst climate threat in the forest–savannah transition zone of Ghana
@@ -130,6 +139,7 @@ sources:
     ghana_specific: true
     caveat: "PREPRINT — not peer reviewed. Ghana-specific and zone-specific, which is valuable, but flag any figure taken from it for Kobby's audit."
     status: candidate
+    doc_type: research
 
   # ── IITA material, mirrored on CGSpace ──────────────────────────────────────
   # iita.org is unreachable from this network (connection failures, not 404s),
@@ -147,6 +157,7 @@ sources:
     attribution: "IITA, Growing Cassava: A Training Manual from Production to Postharvest (2014)"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: cgspace-cassava-starting-farm
     title: Starting a Cassava Farm
@@ -158,6 +169,7 @@ sources:
     attribution: "IITA, Starting a Cassava Farm (2000)"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: cgspace-cassava-pest-control
     title: Pest Control in Cassava Farms
@@ -169,6 +181,7 @@ sources:
     attribution: "IITA, Pest Control in Cassava Farms (2000)"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: cgspace-yam-minisetts
     title: "Seed Yam Production from Minisetts: A Training Manual"
@@ -180,6 +193,7 @@ sources:
     attribution: "IITA, Seed Yam Production from Minisetts: A Training Manual (2014)"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: cgspace-yam-diseases
     title: "Management of Yam Diseases: IITA Research Guide No. 39"
@@ -192,6 +206,7 @@ sources:
     ghana_specific: false
     caveat: "1992. Disease biology is durable; recommended chemicals may be outdated or now banned. Do not cite for pesticide recommendations without checking current Ghanaian registration."
     status: candidate
+    doc_type: practical
 
   # ── Plantain, via CGSpace ───────────────────────────────────────────────────
   # MoFA has no plantain guide. These are the substitute. Not Ghana-specific,
@@ -210,6 +225,7 @@ sources:
     ghana_specific: false
     caveat: "1990, West African scope. Agronomy durable; do not cite for varieties or chemicals."
     status: candidate
+    doc_type: practical
 
   - id: plantain-black-sigatoka
     title: Black Sigatoka in Plantain and Banana
@@ -221,6 +237,7 @@ sources:
     attribution: "Black Sigatoka in Plantain and Banana (CGIAR/IITA, 2015)"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: plantain-sop-planting
     title: Standard Operating Procedure for Land Preparation and Planting Banana and Plantain
@@ -232,6 +249,7 @@ sources:
     attribution: "CGIAR, SOP for Land Preparation and Planting Banana and Plantain (2025)"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: plantain-macropropagation
     title: "Rapid Multiplication of Plantain and Banana: Macropropagation Techniques — A Pictorial Guide"
@@ -244,6 +262,7 @@ sources:
     ghana_specific: false
     caveat: "Pictorial guide — text extraction may be thin relative to page count."
     status: candidate
+    doc_type: practical
 
   # ── FAO ─────────────────────────────────────────────────────────────────────
   # FAO OpenKnowledge runs the same DSpace API as CGSpace. The fertilizer
@@ -262,6 +281,7 @@ sources:
     ghana_specific: true
     caveat: "2005. Fertilizer RATES are agronomic and durable; any PRICES in it are two decades stale and must never be quoted as current GHS costs. Use SRID Facts & Figures 2024 for prices."
     status: candidate
+    doc_type: practical
 
   - id: fao-yam-postharvest
     title: "Yams: Post-Harvest Operation"
@@ -273,6 +293,7 @@ sources:
     attribution: "FAO/INPhO, Yams: Post-Harvest Operation"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: fao-cassava-africa-review
     title: A Review of Cassava in Africa, with Country Case Studies on Nigeria, Ghana, Tanzania, Uganda and Benin
@@ -285,6 +306,7 @@ sources:
     ghana_specific: true
     caveat: "Contains a dedicated Ghana chapter — that is the part worth retrieving. The rest is other countries and should not be presented as Ghanaian."
     status: candidate
+    doc_type: research
 
   - id: fao-save-and-grow-cassava
     title: "Save and Grow: Cassava — A Guide to Sustainable Production Intensification"
@@ -296,6 +318,7 @@ sources:
     attribution: "FAO, Save and Grow: Cassava (2013)"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   # ── Ghanaian seed & variety authority ───────────────────────────────────────
   # This is the category no international source can substitute for: which
@@ -314,6 +337,7 @@ sources:
     ghana_specific: true
     caveat: "2019. Varieties released AFTER 2019 are absent — CSIR-CRI has released more since (hybrid maize, yellow-fleshed cassava). Do not state this is the complete current list."
     status: candidate
+    doc_type: practical
 
   - id: mofa-hybrid-maize-manual
     title: Hybrid Maize Seed Production Manual
@@ -325,6 +349,7 @@ sources:
     attribution: "MoFA Ghana, Hybrid Maize Seed Production Manual"
     ghana_specific: true
     status: candidate
+    doc_type: practical
 
   - id: agra-ghana-seed-system-2022
     title: "Breeding, Variety Release & Maintenance: Ghana Country Profile 2022"
@@ -337,6 +362,7 @@ sources:
     ghana_specific: true
     caveat: "Seed-system policy, not agronomy. Useful for institutional context only; a farmer will never ask this."
     status: candidate
+    doc_type: research
 
   # ── Livestock ───────────────────────────────────────────────────────────────
   # Added Aug 12 after reading the ADTC domain definition: Agriculture is
@@ -360,6 +386,7 @@ sources:
     attribution: "FAO, Small-scale Poultry Production"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: fao-village-chicken-manual
     title: "Improving Village Chicken Production: A Manual for Field Workers and Trainers"
@@ -372,6 +399,7 @@ sources:
     attribution: "Improving Village Chicken Production: A Manual for Field Workers and Trainers"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: fao-newcastle-village-poultry
     title: Sustainable Control of Newcastle Disease in Village Poultry
@@ -386,6 +414,7 @@ sources:
     # Newcastle disease is the single biggest killer of village poultry in West
     # Africa, so this is the most likely livestock question a farmer asks.
     status: candidate
+    doc_type: practical
 
   - id: fao-sheep-goats
     title: Sheep and Goats for Diverse Products and Profits
@@ -398,6 +427,7 @@ sources:
     attribution: "FAO, Sheep and Goats for Diverse Products and Profits"
     ghana_specific: false
     status: candidate
+    doc_type: practical
 
   - id: fao-small-ruminant-ssa
     title: Cattle and Small Ruminant Systems in Sub-Saharan Africa
@@ -410,6 +440,7 @@ sources:
     attribution: "FAO, Cattle and Small Ruminant Systems in Sub-Saharan Africa"
     ghana_specific: false
     status: candidate
+    doc_type: research
 
   - id: fao-ghana-poultry-sector
     title: "Livestock Country Reviews: Poultry Sector Ghana"
@@ -425,6 +456,7 @@ sources:
     # under livestock is FAO or CGIAR material at continental scope, which is
     # sound husbandry but not Ghanaian practice.
     status: candidate
+    doc_type: research
 
   - id: iaea-farmyard-poultry-africa
     title: "Improving Farmyard Poultry Production in Africa: Interventions and their Economic Assessment"
@@ -437,6 +469,7 @@ sources:
     attribution: "IAEA, Improving Farmyard Poultry Production in Africa"
     ghana_specific: false
     status: candidate
+    doc_type: research
 
   # ── Weather & season timing ─────────────────────────────────────────────────
   # The other missing sub-domain. Rainfall onset is the single most consequential
@@ -454,6 +487,7 @@ sources:
     ghana_specific: true
     caveat: "Research paper on TRENDS, not a forecast. Ayekoo must never present it as a prediction for a coming season."
     status: candidate
+    doc_type: research
 
   - id: ghana-agric-situational-2020
     title: Situational Analysis Study for the Agriculture Sector in Ghana
@@ -465,6 +499,7 @@ sources:
     attribution: "Situational Analysis Study for the Agriculture Sector in Ghana (CGIAR, 2020)"
     ghana_specific: true
     status: candidate
+    doc_type: research
 
   # ── Derived documents ───────────────────────────────────────────────────────
   # Restructured from a source already in this corpus. No facts added, removed
@@ -496,6 +531,7 @@ sources:
     ghana_specific: true
     caveat: "Restructured table, not a raw extraction. Content is retyped from MoFA section 5.1 and must remain verifiable against the source PDF."
     status: confirmed
+    doc_type: reference
 
   - id: derived-agroecological-zones
     title: "Agro-Ecological Zones of Ghana: Rainfall and Season Structure (restructured from FAO Table 4)"
@@ -510,6 +546,7 @@ sources:
     ghana_specific: true
     caveat: "Restructured table. Rainfall figures and season windows are climatological averages from 2005, not a forecast for any particular year."
     status: confirmed
+    doc_type: reference
 
   - id: derived-market-prices
     title: "Rural Wholesale Prices of Major Crops in Ghana, GH cedis per tonne (restructured from SRID Table 7.1)"
@@ -524,6 +561,7 @@ sources:
     ghana_specific: true
     caveat: "Annual national average wholesale prices for 2024, not current market prices and not farm-gate prices. Quoted per tonne exactly as published; never converted to per-bag, since the source gives no bag weight."
     status: confirmed
+    doc_type: reference
 
   # ── Recent market conditions ────────────────────────────────────────────────
   # The annual Facts & Figures series lags: the 2024 edition is the newest
@@ -544,6 +582,7 @@ sources:
     ghana_specific: true
     caveat: "Describes conditions in the first quarter of 2025 specifically. Not current prices and not an annual average — it reports a period, and answers must say which."
     status: candidate
+    doc_type: research
 
   - id: agra-grain-bulletin-q3-2025
     title: AGRA Grain Stocks and Prices Bulletin, Q3 2025
@@ -556,6 +595,7 @@ sources:
     ghana_specific: true
     caveat: "District-level grain prices per kilo for Q3 2025, in the programme's zone of influence rather than nationwide. Not a national figure and not current."
     status: candidate
+    doc_type: research
 
   # ── CSIR-CRI variety releases after the 2019 catalogue ──────────────────────
   # The NVRRC catalogue in this corpus is the 2019 edition, and its caveat says
@@ -576,6 +616,7 @@ sources:
     # Also one of very few Ghanaian cassava sources: cassava otherwise rests
     # mainly on IITA material at West African scope.
     status: candidate
+    doc_type: practical
 
   - id: csir-hybrid-maize-2021
     title: High-Yielding Hybrid Maize Varieties Released by CSIR-Crops Research Institute
@@ -588,6 +629,7 @@ sources:
     attribution: "CSIR-Crops Research Institute, hybrid maize variety release (2021)"
     ghana_specific: true
     status: candidate
+    doc_type: practical
 
   - id: csir-improved-cassava-2023
     title: Cassava Farmers Exposed to Healthy Improved Cassava Varieties and Planting Materials for Production
@@ -600,6 +642,7 @@ sources:
     attribution: "CSIR-Crops Research Institute, improved cassava varieties and planting materials (2023)"
     ghana_specific: true
     status: candidate
+    doc_type: practical
 
   - id: gmet-weather-climate-manual
     title: Weather and Climate Manual for Agriculture
@@ -612,6 +655,7 @@ sources:
     ghana_specific: true
     caveat: "Uses the pre-2018 ten-region names. Brong Ahafo has since been split into Bono, Bono East and Ahafo; Western North, Oti, Savannah, North East and Ahafo did not exist when this was written. Its rainfall figures for the Coastal Savannah differ from FAO's."
     status: candidate
+    doc_type: practical
 
   - id: derived-region-zone-mapping
     title: Which Agro-Ecological Zone a Region Falls In (restructured from GMet)
@@ -626,6 +670,7 @@ sources:
     ghana_specific: true
     caveat: "Region names are pre-2018. Zones do not follow regional borders, and several regions span more than one zone."
     status: confirmed
+    doc_type: reference
 
   # ── Regulatory ──────────────────────────────────────────────────────────────
   # Not agronomy. This is the register that decides whether a chemical named in
@@ -645,6 +690,7 @@ sources:
     ghana_specific: true
     caveat: "Regulatory register, not agronomic guidance. Names which pesticides are registered, restricted or banned in Ghana. Registration status changes; this is the December 2023 edition."
     status: candidate
+    doc_type: reference
 
   # ── Soil fertility ──────────────────────────────────────────────────────────
 
@@ -660,6 +706,7 @@ sources:
     # Sits on the same production_guides path as the maize, tomato and rice
     # guides; missed on the first sweep because the filename follows no pattern.
     status: candidate
+    doc_type: practical
 
   - id: csir-clean-planting-material
     title: Clean Planting Material and Macro-propagation (CSIR-CRI / MoFA)
@@ -672,6 +719,7 @@ sources:
     ghana_specific: true
     caveat: "Conference poster, not a full manual. Thin on detail by format."
     status: candidate
+    doc_type: research
 
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
@@ -692,6 +740,7 @@ sources:
     ghana_specific: true
     caveat: "Survey of farmer practice, 2007, three regions. Describes what farmers do, which is not always what is recommended. Useful for local pest names and real practice; do not read as official guidance."
     status: candidate
+    doc_type: research
 
   - id: cocoa-extension-manual
     title: Manual for Cocoa Extension in Ghana
@@ -702,3 +751,4 @@ sources:
     topics: [planting_calendar, pests_diseases, inputs_costs, harvest_storage]
     attribution: "Manual for Cocoa Extension in Ghana (harmonized draft)"
     status: candidate
+    doc_type: practical

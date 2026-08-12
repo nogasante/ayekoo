@@ -125,10 +125,12 @@ class Retriever:
         self.source_subjects: dict[str, set[str]] = {}
         if not path.exists():
             return
+        self.source_doc_type: dict[str, str] = {}
         for src in yaml.safe_load(path.read_text(encoding="utf-8"))["sources"]:
             subjects = set(src.get("crops") or []) | set(src.get("livestock") or [])
             if subjects:
                 self.source_subjects[src["id"]] = subjects
+            self.source_doc_type[src["id"]] = src.get("doc_type", "practical")
 
     # ── BM25 ──────────────────────────────────────────────────────────────────
 
@@ -213,6 +215,25 @@ class Retriever:
                     fused[idx] *= 1.6
                 else:
                     fused[idx] *= 0.4
+
+        # Prefer documents written to be FOLLOWED over documents written to be
+        # READ. A research report and an extension manual can look equally
+        # relevant to a similarity score and are worlds apart to a farmer.
+        #
+        # Observed: "how to become a poultry farmer" returned the methodology
+        # section of an IAEA study — "a total of 72 farmers were selected in the
+        # 6 villages on the basis of household poultry characteristics" — which
+        # is a description of how a survey was run, not advice anyone can act on.
+        # The study is legitimately in the corpus; it just should never win a
+        # practical question.
+        for idx in list(fused):
+            dt = self.source_doc_type.get(self.chunks[idx]["source_id"], "practical")
+            if dt == "research":
+                fused[idx] *= 0.35
+            elif dt == "reference":
+                # Prices, registers and the derived tables: exactly right for a
+                # question that wants a figure, wrong for "how do I grow this".
+                fused[idx] *= 0.9
 
         if prefer_ghana:
             # A mild nudge, not an override. Where a Ghanaian and a regional

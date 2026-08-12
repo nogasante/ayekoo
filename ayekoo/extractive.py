@@ -112,8 +112,168 @@ TOWN_TO_REGION: dict[str, str] = {
 }
 
 
+MONTHS = ("january february march april may june july august september october "
+          "november december").split()
+
+# "We are in August, what can I plant?" is a calendar question that names no
+# crop and asks nothing my regexes recognised, so it went to the model, which
+# answered "you can plant maize in August after rains have established good soil
+# moisture". Nothing in the sources says that. August is the minor season in the
+# south only, and northern Ghana has no minor season at all — so the answer was
+# wrong for half the country and unsupported everywhere.
+MONTH_INTENT = re.compile(
+    r"\b(" + "|".join(MONTHS) + r")\b.{0,60}\b(plant|sow|grow|crop)\b"
+    r"|\b(plant|sow|grow)\b.{0,40}\b(" + "|".join(MONTHS) + r")\b"
+    r"|\b(this|next|which) month\b|\bright now\b|\bthis season\b",
+    re.I,
+)
+
+
 def is_calendar_question(question: str) -> bool:
-    return bool(CALENDAR_INTENT.search(question) and PLANTING_TERMS.search(question))
+    return bool(
+        (CALENDAR_INTENT.search(question) and PLANTING_TERMS.search(question))
+        or MONTH_INTENT.search(question)
+    )
+
+
+# "I want to plant maize" is not a question, it is an intent — and it is
+# probably the most common thing a farmer would type. Treated as a query it
+# matches plant-anatomy prose: the first answer this system gave was "maize is a
+# monoecious plant with separate male and female parts", followed by grain
+# physiological maturity. True, sourced, and no use to anyone holding seed.
+#
+# What that farmer needs is the practical starting set: when to plant, how far
+# apart, how much seed, which varieties. So we assemble it rather than retrieve
+# it.
+GETTING_STARTED_INTENT = re.compile(
+    r"\b(i want to|i wish to|i plan to|planning to|how (do i|to|can i)|"
+    r"want to start|how to start|thinking of|advice on)\b.{0,40}"
+    r"\b(plant|grow|farm|cultivat\w*|start)\b"
+    r"|\b(plant|grow|farm|cultivat\w*)\b.{0,20}\b(how|advice|help)\b",
+    re.I,
+)
+
+# Facts worth surfacing for someone about to plant, and the shapes they take in
+# the documents.
+STARTER_PATTERNS = (
+    ("Spacing", re.compile(r"\b\d{2,3}\s?cm\b.{0,80}\b(apart|spacing|rows?|between)\b|"
+                           r"\b(spacing|space)\b.{0,60}\b\d{2,3}\s?cm\b", re.I)),
+    ("Seed rate", re.compile(r"\b\d+(\.\d+)?\s?kg\s?/?\s?(acre|ha|hectare)\b", re.I)),
+    ("Fertilizer", re.compile(r"\bNPK\b|\b\d+-\d+-\d+\b|\bbags?\b.{0,40}\b(acre|hectare|ha)\b", re.I)),
+    ("Depth", re.compile(r"\b\d{1,2}\s?cm\b.{0,40}\bdeep\b|\bdeep\b.{0,30}\b\d{1,2}\s?cm\b", re.I)),
+)
+
+
+def extract_getting_started(question: str, retriever, hits) -> tuple[str, list] | None:
+    """Assemble the practical basics for a crop someone wants to plant."""
+    if not GETTING_STARTED_INTENT.search(question):
+        return None
+
+    low = question.lower()
+    crops = [c for c in CROPS if re.search(rf"\b{c}s?\b", low)]
+    if not crops:
+        return None
+    crop = crops[0]
+
+    from .retrieve import Hit
+
+    sections: dict[str, str] = {}
+    used: list = []
+    calendar_lines: list[str] = []
+
+    practical = getattr(retriever, "source_doc_type", {})
+
+    # Other things a sentence might really be about. The FAO fertilizer report is
+    # tagged with all seven crops, so a cocoa yield figure passed the crop filter
+    # and was offered as maize's seed rate.
+    other_crops = tuple(c for c in CROPS if c != crop) + (
+        "mucuna", "cowpea", "soybean", "groundnut", "cocoyam", "banana")
+
+    def about_this_crop(sentence: str) -> bool:
+        low = sentence.lower()
+        # Reject anything naming another crop, even if ours appears too. The
+        # sentence "plant mucuna at 60 cm x 40 cm as a pre-maize cover legume"
+        # mentions maize and is about mucuna's spacing, not maize's — offering
+        # it as maize spacing would send a farmer to the field with the wrong
+        # numbers.
+        if any(re.search(rf"\b{o}\b", low) for o in other_crops):
+            return False
+        return True
+
+    # Single-crop sources first, and Ghanaian ones before regional: a maize
+    # guide is a better source for maize spacing than a seven-crop fertilizer
+    # survey that merely mentions maize.
+    def source_rank(chunk: dict) -> tuple:
+        tags = chunk.get("crops") or []
+        return (len(tags), 0 if chunk.get("ghana_specific", True) else 1)
+
+    for chunk in sorted(retriever.chunks, key=source_rank):
+        sid = chunk["source_id"]
+        crop_tags = chunk.get("crops") or []
+        # Must be a document about THIS crop. An earlier version skipped only
+        # chunks tagged with a different crop, which let untagged sources
+        # through — so "I want to plant maize" answered with "perching space of
+        # 15 to 20 cm should be allowed for each bird" from a poultry manual,
+        # and a cocoa yield figure as the seed rate.
+        if crop not in crop_tags:
+            continue
+        # And a document meant to be followed, not a study.
+        if practical.get(sid) == "research":
+            continue
+
+        # Planting windows come from the derived calendar, quoted.
+        if sid.startswith("derived-") and crop in crop_tags:
+            for sentence in re.split(r"(?<=\.)\s+", chunk["text"]):
+                s = " ".join(sentence.split())
+                if re.match(r"^[A-Z]", s) and "plant" in s.lower() and re.search(
+                    r"(january|february|march|april|may|june|july|august|september|"
+                    r"october|november|december)", s, re.I):
+                    if s not in calendar_lines:
+                        calendar_lines.append(s)
+            continue
+
+        # Everything else: the first clean sentence matching each starter fact.
+        for label, pattern in STARTER_PATTERNS:
+            if label in sections:
+                continue
+            for sentence in re.split(r"(?<=[.;])\s+", chunk["text"]):
+                s = " ".join(sentence.split())
+                if len(s) < 30 or len(s) > 240 or not re.match(r"^[A-Z(]", s):
+                    continue
+                if pattern.search(s) and about_this_crop(s):
+                    sections[label] = s
+                    hit = Hit(chunk=chunk, score=0.0, dense_rank=None, lexical_rank=None)
+                    if not any(h.chunk["chunk_id"] == chunk["chunk_id"] for h in used):
+                        used.append(hit)
+                    break
+
+    if not calendar_lines and not sections:
+        return None
+
+    parts = [f"Here is what my sources say about planting {crop}, word for word."]
+    if calendar_lines:
+        parts.append("\nWhen to plant:")
+        parts.extend(f"- {ln}" for ln in calendar_lines[:6])
+    for label, _ in STARTER_PATTERNS:
+        if label in sections:
+            parts.append(f"\n{label}:\n- {sections[label]}")
+    parts.append(
+        "\nAsk me about varieties, pests, fertilizer or storage for more detail, "
+        "and tell me your region so I can give the right planting window."
+    )
+    return "\n".join(parts), (used + list(hits))[:6]
+
+
+def asked_zones_named(question: str) -> bool:
+    """Did the farmer name a zone, region or town we can resolve?"""
+    return bool(resolve_place(question)[0])
+
+
+def month_in(question: str) -> str | None:
+    for m in MONTHS:
+        if re.search(rf"\b{m}", question, re.I):
+            return m
+    return None
 
 
 def is_price_question(question: str) -> bool:
@@ -249,10 +409,15 @@ UNMAPPED_PLACE = re.compile(
 # All three are unacceptable for animal health advice. So we quote: list the
 # signs the sources actually record, name the diseases the sources name, and
 # tell the farmer to get a veterinary officer. Ayekoo does not diagnose.
+# Kept deliberately wide. "What killed my chicken" was refused because the
+# trigger list had "dying" and "died" but not "killed" — a farmer describing a
+# dead animal in the past tense fell straight through to the generic path.
 SYMPTOM_INTENT = re.compile(
-    r"\b(dying|die|died|sick|sickness|disease|symptom|symptoms|signs?|"
-    r"what is wrong|what could it be|droppings|diarrh|gasping|coughing|"
-    r"swollen|wilting|curling|yellowing|rotting|spots?)\b",
+    r"\b(dying|die|died|dead|killed|killing|kill|losing|lost|sick|sickness|ill|"
+    r"disease|diseased|infect\w*|symptom|symptoms|signs?|pest|attack\w*|"
+    r"what is wrong|what.s wrong|what could it be|why (is|are|did)|"
+    r"droppings|diarrh\w*|gasping|coughing|sneez\w*|limping|"
+    r"swollen|swelling|wilting|curling|yellowing|rotting|rot\b|spots?|holes?)\b",
     re.I,
 )
 
@@ -471,8 +636,21 @@ def extract(question: str, hits, retriever=None) -> tuple[str, list] | None:
     if not lines:
         return None
 
+    # If the question named a month, keep the windows that actually include it.
+    # "We are in August, what can I plant?" should not print the whole calendar.
+    asked_month = month_in(question)
+    if asked_month:
+        matching = [ln for ln in lines if re.search(rf"\b{asked_month}", ln, re.I)]
+        if matching:
+            lines = matching
+
     body = "\n".join(f"- {line}" for line in lines)
     preamble = "From the source, word for word:"
+    if asked_month and not asked_zones_named(question):
+        preamble = (
+            f"Planting depends on your agro-ecological zone. These are the "
+            f"windows my sources record that include {asked_month.title()}:"
+        )
 
     # The farmer named a place we recognise but cannot resolve to an
     # agro-ecological zone. Say that plainly and show every zone, rather than

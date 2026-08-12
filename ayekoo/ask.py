@@ -110,13 +110,16 @@ def _tidy(text: str) -> str:
 
 
 def build_prompt(question: str, hits) -> str:
-    blocks = []
-    for n, hit in enumerate(hits, 1):
-        c = hit.chunk
-        label = c["attribution"]
-        if not c.get("ghana_specific", True):
-            label += " [regional source, not Ghana-specific]"
-        blocks.append(f"[{n}] {label}\n{_tidy(c['text'])}")
+    # Deliberately no attribution labels in the prompt.
+    #
+    # They used to be included, and the model read them as content: asked about
+    # kokoo kokoram it answered "consult the manual for Yam Diseases: Research
+    # Guide No. 39 (1992)" — turning a citation label from a neighbouring
+    # passage into advice, complete with a document number it had no business
+    # recommending. Since the model is not asked to cite (attribution is emitted
+    # by the system from the chunks actually retrieved), the labels bought
+    # nothing and cost that.
+    blocks = [f"[{n}]\n{_tidy(hit.chunk['text'])}" for n, hit in enumerate(hits, 1)]
     sources = "\n\n".join(blocks)
     # Question first, sources second, an explicit `ANSWER:` cue last.
     #
@@ -174,7 +177,7 @@ def _generate_in_process(system: str, user: str, max_tokens: int, temperature: f
     return out["choices"][0]["message"]["content"].strip()
 
 
-def call_model(system: str, user: str, max_tokens: int = 320, temperature: float = 0.2) -> str:
+def call_model(system: str, user: str, max_tokens: int = 220, temperature: float = 0.2) -> str:
     payload = {
         "messages": [
             {"role": "system", "content": system},
@@ -276,6 +279,7 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True,
     # legitimately there.
     extracted = (
         extractive.extract_prices(question, retriever)
+        or extractive.extract_getting_started(question, retriever, hits)
         or extractive.extract(question, hits, retriever)
         or extractive.extract_symptoms(question, hits)
     )
@@ -369,7 +373,33 @@ def repl() -> int:
             print("ayekoo.")
             return 0
 
-        result = answer(question, _retriever=retriever, _llm=llm)
+        # A generative answer takes fifteen to twenty seconds on a four-core
+        # laptop. Silence for that long reads as a hang, so show the clock.
+        import threading
+        import time as _time
+
+        done = threading.Event()
+
+        # Only when attached to a real terminal: `\r` cannot overwrite a pipe,
+        # so piped output would fill with one line per tick.
+        interactive = sys.stdout.isatty()
+
+        def tick() -> None:
+            start = _time.time()
+            while not done.wait(0.25):
+                print(f"\r  thinking… {_time.time() - start:4.1f}s", end="", flush=True)
+
+        spinner = threading.Thread(target=tick, daemon=True)
+        if interactive:
+            spinner.start()
+        try:
+            result = answer(question, _retriever=retriever, _llm=llm)
+        finally:
+            done.set()
+            if interactive:
+                spinner.join(timeout=1)
+                print("\r" + " " * 30 + "\r", end="")
+
         print()
         print(result["answer"])
         if result.get("warning"):
