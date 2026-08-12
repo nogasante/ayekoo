@@ -1,0 +1,80 @@
+# Maize Planting Calendar by Agro-Ecological Zone (restructured table)
+# publisher: Directorate of Agricultural Extension Services (DAES), Ministry of Food and Agriculture, Ghana
+# year: 2020
+# url: https://mofa.gov.gh/site/images/pdf/production_guides/GUIDE_TO_MAIZE_PRODUCTION.pdf
+# attribution: MoFA/DAES, Guide to Maize Production (2020), section 5.1
+# ghana_specific: True
+# extent: derived document
+# DERIVED: This is section 5.1 of the MoFA maize guide, retyped. No facts are
+# added, removed or changed. It exists because the original is a multi-column
+# table, and PDF extraction interleaves its columns — planting periods end up
+# separated from the zones they belong to, so a reader (human or model) can pair
+# a date with the wrong zone. Every line below is checkable against the source
+# PDF at the URL above. Planting dates are the highest-stakes thing this corpus
+# holds, so they are stored unambiguously rather than left as broken table text.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+
+MAIZE PLANTING PERIODS IN GHANA, BY AGRO-ECOLOGICAL ZONE AND SEASON
+
+Ghana's south has two maize seasons, a major and a minor. The Guinea and Sudan
+savannah zones of the north have one season only.
+
+MAJOR SEASON PLANTING PERIODS
+
+Forest zone: plant Early March to end of April.
+Transition zone (forest-savannah transition): plant Mid-March to end of April.
+Coastal savannah zone: plant End of March to end of April.
+Guinea savannah and Sudan savannah zones (northern Ghana): plant End of May to
+early July.
+
+MINOR SEASON PLANTING PERIODS
+
+Forest zone: plant Mid July to early September.
+Transition zone: plant Mid July through August to early September.
+Coastal savannah zone: plant Mid July to Mid August.
+Guinea savannah and Sudan savannah zones: no minor season. The source records
+this as "Not applicable" — northern Ghana has a single rainy season, so there is
+no second maize crop.
+
+WHICH ZONE IS A PLACE IN
+
+The only region-to-zone statement corroborated by a source in this corpus is
+that the Sudan Savannah Zone includes districts in the Upper East Region.
+
+A fuller mapping of Ghana's regions to agro-ecological zones is NOT recorded
+here, because no document in this corpus states one. A farmer naming a town or
+region rather than a zone therefore cannot be resolved automatically yet. This
+is a known gap, and it must be filled from a citable source rather than from
+general knowledge.
+
+RECOMMENDED VARIETIES FOR EARLY PLANTING, MAJOR SEASON
+
+Forest zone: Mamaba, Obatanpa, Sanzal-sima, Opeaburo, Aseda, Honampa,
+Ewul-boyu, Kpariyura, Sarimaz 1, Tintim.
+Transition zone: Mamaba, Ewul-boyu, Obatanpa, Sanzal-sima, Kpari-Faako,
+Kpariyura, Sarimaz 1.
+Coastal savannah zone: Mamaba, Omankwa, Abontem, Obatanpa, Abeefo Aburo,
+WACCI-M-1218, Aburo Legon.
+Guinea and Sudan savannah zones: Mamaba, Ewul-boyu, Obatanpa, Sanzal-sima,
+Tintim, Opeaburo, Kpari-Faako, Kpariyura, Sarimaz 1.
+
+RECOMMENDED VARIETIES FOR LATE PLANTING, MAJOR SEASON
+
+Forest zone: Omankwa, Afriyie, Aburohemaa, Denbea, Obotantim, Abontem,
+Kunjo-Wari, Wang-dataa, Abeefo Aburo, Aburo Legon, WACCI-M-1218.
+Transition zone: Omankwa, Afriyie, Obotantim, Abontem, Kunjo-Wari, Wang-dataa,
+Denbea, Wang-basig, Aburo Legon, Abeefo Aburo, WACCI-M-1218.
+Coastal savannah zone: Mamaba, Obatanpa, Kpari-Faako, Kpariyura, Sarimaz 1.
+Guinea and Sudan savannah zones: Omankwa, Afriyie, Obotantim, Abontem,
+Kunjo-Wari, Wang-dataa, Wang-basig, Denbea.
+
+RECOMMENDED VARIETIES FOR THE MINOR SEASON
+
+Forest zone, early planting: Omankwa, Afriyie, Obotantim, Abontem, Kunjo-Wari,
+Abeefo Aburo. Late planting: Mamaba, Obatanpa, Sanzal-sima, Tintim, Opeaburo,
+Aseda, Ewul-boyu, Kpari-Faako, Aburo Legon, Abeefo Aburo, WACCI-M-1218.
+Transition zone, early planting: Omankwa, Afriyie, Abontem, Obotantim,
+Kunjor-wari, Denbea.

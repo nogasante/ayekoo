@@ -137,6 +137,15 @@ def main() -> int:
     for src in manifest["sources"]:
         if src.get("status") == "dead":
             continue
+        if src.get("derived"):
+            # Derived documents are hand-restructured from a source already in
+            # the corpus. Their `url` points at that original for verification,
+            # so fetching it would overwrite the derived text with the raw PDF.
+            txt = TEXT / f"{src['id']}.txt"
+            ok = txt.exists()
+            print(f"{'ok' if ok else 'MISSING':7} {src['id']:28} derived from {src.get('derived_from')}")
+            report.append({"id": src["id"], "ok": ok, "message": "derived", "url": src["url"]})
+            continue
         sid = src["id"]
         fmt = src.get("format", "pdf")
         raw = RAW / f"{sid}.{fmt}"

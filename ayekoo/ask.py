@@ -186,7 +186,7 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
     # generated from. This catches paraphrase-into-falsehood — the model once
     # turned "Early March-end of April" into "July through early August".
     retrieved_text = "\n".join(h.chunk["text"] for h in hits)
-    verification = verify.check(text, retrieved_text)
+    verification = verify.check(text, retrieved_text, question)
     warning = verify.warning_for(verification)
 
     return {

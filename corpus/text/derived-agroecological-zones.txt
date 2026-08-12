@@ -1,0 +1,70 @@
+# Agro-Ecological Zones of Ghana: rainfall and season structure (restructured table)
+# publisher: Food and Agriculture Organization of the United Nations (FAO)
+# year: 2005
+# url: https://openknowledge.fao.org/server/api/core/bitstreams/46e4e69d-caab-42e6-8f66-3d7888feebc3/content
+# attribution: FAO, Fertilizer Use by Crop in Ghana (2005), Agro-ecological zones and Table 4
+# ghana_specific: True
+# extent: derived document
+# DERIVED: retyped from the "Agro-ecological zones" section and Table 4 of the
+# FAO report. No facts added, removed or changed. Table 4 extracts as a run of
+# unlabelled numbers, so rainfall figures and season windows arrive detached
+# from the zones they describe — the same failure that affected MoFA's planting
+# table. Every line is checkable against the source PDF.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+
+THE SIX AGRO-ECOLOGICAL ZONES OF GHANA
+
+Ghana is divided into six agro-ecological zones on the basis of climate. From
+north to south they are: Sudan Savannah Zone, Guinea Savannah Zone, Transition
+Zone, Semi-deciduous Forest Zone, Rain Forest Zone, and Coastal Savannah Zone.
+
+RAINFALL PATTERN: ONE SEASON OR TWO
+
+The rainfall pattern is uni-modal in the Sudan Savannah and Guinea Savannah
+zones, meaning one rainy season a year. It is bi-modal in all the other zones,
+meaning a major and a minor rainy season.
+
+This is why northern Ghana has a single cropping season while the south has two.
+
+RAINY SEASONS BY ZONE
+
+Rain Forest zone: major rainy season March to July, minor rainy season September
+to November. Mean annual rainfall 2 200 mm, range 800-2 800 mm. Area 9 500 km2.
+
+Deciduous Forest zone: major rainy season March to July, minor rainy season
+September to November. Mean annual rainfall 1 500 mm, range 1 200-1 600 mm.
+Area 66 000 km2.
+
+Transitional zone: major rainy season March to July, minor rainy season
+September to October. Mean annual rainfall 1 300 mm, range 1 100-1 400 mm.
+Area 8 400 km2.
+
+Coastal Savannah zone: major rainy season March to July, minor rainy season
+September to October. Mean annual rainfall 800 mm, range 600-1 200 mm.
+Area 4 500 km2.
+
+Guinea Savannah zone: one rainy season only, May to September. Mean annual
+rainfall 1 000 mm, range 800-1 200 mm. Area 147 900 km2.
+
+Sudan Savannah zone: one rainy season only, May to September. Mean annual
+rainfall 1 000 mm. Area 2 200 km2.
+
+RAINFALL ACROSS THE COUNTRY
+
+Mean annual rainfall ranges from 800 mm in the Coastal Savannah to 2 200 mm in
+the Rain Forest. The Tropical Eastern Coastal Belt is warm and comparatively
+dry; the southwest is hot and humid; the north is relatively hot and dry
+compared with other parts of the country.
+
+WHICH REGIONS FALL IN WHICH ZONE
+
+The only region-to-zone statement corroborated by a source in this corpus is
+that the Sudan Savannah Zone includes districts in the Upper East Region.
+
+No document in this corpus gives a full mapping of Ghana's administrative
+regions to agro-ecological zones. That mapping is therefore not recorded here,
+and a question naming a town or region rather than a zone cannot yet be resolved
+to a zone automatically. This is a known gap to be filled from a citable source.

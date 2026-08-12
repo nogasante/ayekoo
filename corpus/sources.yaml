@@ -439,6 +439,51 @@ sources:
     ghana_specific: true
     status: candidate
 
+  # ── Derived documents ───────────────────────────────────────────────────────
+  # Restructured from a source already in this corpus. No facts added, removed
+  # or changed — only re-typed so that PDF table extraction cannot separate a
+  # value from the row it belongs to. Every line is checkable against the
+  # original PDF.
+  #
+  # Why this exists: asked when to plant maize in the forest zone, the model
+  # answered with a minor-season window and did not say which season it was,
+  # omitting the major season entirely. The underlying table extracts as
+  # interleaved fragments, so zones, seasons and dates arrive detached from one
+  # another. Planting dates are the highest-stakes content in this corpus and
+  # the most likely question a farmer asks, so they are stored unambiguously.
+  #
+  # `derived: true` marks documents that are NOT raw extractions. Anything
+  # written here must trace to a specific section of a specific source. General
+  # knowledge does not belong in a derived document.
+
+  - id: derived-maize-planting-calendar
+    title: Maize Planting Calendar by Agro-Ecological Zone (restructured from MoFA section 5.1)
+    publisher: Directorate of Agricultural Extension Services (DAES), Ministry of Food and Agriculture, Ghana
+    year: 2020
+    url: https://mofa.gov.gh/site/images/pdf/production_guides/GUIDE_TO_MAIZE_PRODUCTION.pdf
+    derived: true
+    derived_from: mofa-maize-2020
+    crops: [maize]
+    topics: [planting_calendar, varieties]
+    attribution: "MoFA/DAES, Guide to Maize Production (2020), section 5.1"
+    ghana_specific: true
+    caveat: "Restructured table, not a raw extraction. Content is retyped from MoFA section 5.1 and must remain verifiable against the source PDF."
+    status: confirmed
+
+  - id: derived-agroecological-zones
+    title: "Agro-Ecological Zones of Ghana: Rainfall and Season Structure (restructured from FAO Table 4)"
+    publisher: Food and Agriculture Organization of the United Nations (FAO)
+    year: 2005
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/46e4e69d-caab-42e6-8f66-3d7888feebc3/content
+    derived: true
+    derived_from: fao-fertilizer-ghana
+    crops: []
+    topics: [weather, planting_calendar]
+    attribution: "FAO, Fertilizer Use by Crop in Ghana (2005), agro-ecological zones and Table 4"
+    ghana_specific: true
+    caveat: "Restructured table. Rainfall figures and season windows are climatological averages from 2005, not a forecast for any particular year."
+    status: confirmed
+
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper

@@ -180,6 +180,12 @@
     "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/6a34ddb8-146f-4a0a-b6ef-b79d0017e032/content"
   },
   {
+    "id": "derived-maize-planting-calendar",
+    "ok": true,
+    "message": "derived",
+    "url": "https://mofa.gov.gh/site/images/pdf/production_guides/GUIDE_TO_MAIZE_PRODUCTION.pdf"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",
