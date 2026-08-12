@@ -64,8 +64,13 @@ def embed_texts(llm, texts: list[str]) -> np.ndarray:
                 emb = emb.mean(axis=0)
             norm = np.linalg.norm(emb)
             vecs.append(emb / norm if norm > 0 else emb)
-        print(f"  embedded {min(start + BATCH, len(texts))}/{len(texts)}", end="\r")
-    print()
+        # Only report progress for a real batch job. A single query embed happens
+        # on every question, and printing there leaks "embedded 1/1" into the
+        # answer — noise in a terminal a farmer or a judge is reading.
+        if len(texts) > 1:
+            print(f"  embedded {min(start + BATCH, len(texts))}/{len(texts)}", end="\r")
+    if len(texts) > 1:
+        print()
     return np.vstack(vecs)
 
 

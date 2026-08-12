@@ -221,13 +221,17 @@ def _stop_repeating(text: str) -> str:
     return " ".join(kept)
 
 
-def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
+def answer(question: str, top_k: int = 4, show_sources: bool = True,
+           _retriever=None, _llm=None) -> dict:
     from .index import embed_query, load_embedder
 
     from .aliases import expand
 
-    retriever = Retriever()
-    llm = load_embedder()
+    # Reuse already-loaded models when the caller has them (the REPL does).
+    # Loading both models costs about twenty seconds, which is fine once and
+    # unacceptable per question.
+    retriever = _retriever if _retriever is not None else Retriever()
+    llm = _llm if _llm is not None else load_embedder()
     # Embed the alias-expanded question, so vernacular and abbreviations reach
     # the corpus's own vocabulary. See the note on MIN_COSINE above.
     qvec = embed_query(llm, expand(question))
@@ -333,12 +337,73 @@ def _hit_dicts(hits) -> list[dict]:
     ]
 
 
+def repl() -> int:
+    """Interactive session: load the models once, answer many questions.
+
+    The one-shot CLI reloads both models on every invocation, which costs about
+    twenty seconds a question. That is fine for scripting and wrong for anything
+    a person sits in front of — and it makes a live demo look broken.
+    """
+    print("Ayekoo — offline farming assistant for Ghana")
+    print("loading…", flush=True)
+
+    from .index import embed_query, load_embedder
+
+    retriever = Retriever()
+    llm = load_embedder()
+    # Warm the generation model too, so the first question is not the slow one.
+    call_model("You are a helpful assistant.", "Say OK.", max_tokens=4)
+
+    print(f"ready — {len(retriever.chunks):,} passages from Ghanaian agricultural sources")
+    print("ask a question, or Ctrl-C to quit\n")
+
+    while True:
+        try:
+            question = input("> ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print("\nayekoo.")
+            return 0
+        if not question:
+            continue
+        if question.lower() in {"quit", "exit"}:
+            print("ayekoo.")
+            return 0
+
+        result = answer(question, _retriever=retriever, _llm=llm)
+        print()
+        print(result["answer"])
+        if result.get("warning"):
+            print(f"\n{result['warning']}")
+        if result["hits"]:
+            # Only the passages that actually scored well. Listing all four
+            # retrieved sources puts a yam-disease manual under a cocoa answer,
+            # which reads as sloppy attribution even though nothing was taken
+            # from it.
+            top = result["hits"][0]["score"] or 0.0
+            print("\nSources:")
+            shown = set()
+            for h in result["hits"]:
+                if top and h["score"] < top * 0.75:
+                    continue
+                if h["attribution"] in shown:
+                    continue
+                shown.add(h["attribution"])
+                flag = "" if h["ghana_specific"] else "  (regional, not Ghana-specific)"
+                print(f"  - {h['attribution']}{flag}")
+        print()
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Ask Ayekoo a Ghanaian farming question.")
-    ap.add_argument("question", nargs="+")
+    ap.add_argument("question", nargs="*")
+    ap.add_argument("--repl", action="store_true",
+                    help="interactive session; loads the models once")
     ap.add_argument("--top-k", type=int, default=4)
     ap.add_argument("--json", action="store_true", help="emit the raw result as JSON")
     args = ap.parse_args()
+
+    if args.repl or not args.question:
+        return repl()
 
     result = answer(" ".join(args.question), top_k=args.top_k)
 

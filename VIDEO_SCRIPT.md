@@ -13,17 +13,33 @@ it must prove beyond doubt is that it runs **offline**.
 A terminal and a browser. In the terminal, set the font to about 18–20pt —
 judges may watch this on a laptop, and small text kills a demo.
 
-**2. Get everything loaded and warm.**
+**2. Start Ayekoo — one command, no server needed.**
 
-```bash
-cd ~/Desktop/ayekoo
-bash download_model.sh          # should say "already present and verified"
-llama-server -m model/qwen2.5-0.5b-instruct-q4_k_m.gguf -c 4096 -t 4 --port 8080
+In PowerShell:
+
+```powershell
+cd ~\Desktop\ayekoo
+C:\Users\nanas\Desktop\ADTC-2026\.venv\Scripts\python.exe -m ayekoo.ask --repl
 ```
 
-Leave that running in its own window. In a second terminal, run each demo
-question **once now** — this warms the cache so the recording isn't slowed by
-first-load. Then clear the screen.
+It prints:
+
+```text
+Ayekoo — offline farming assistant for Ghana
+loading…
+ready — 8,169 passages from Ghanaian agricultural sources
+ask a question, or Ctrl-C to quit
+
+>
+```
+
+Loading takes about twenty seconds and happens **once**. Every question after
+that answers immediately, which is why the demo uses this rather than running
+the command fresh each time — three separate runs would mean three twenty-second
+waits on camera, and working software would look broken.
+
+**Do a full dry run now.** Ask all three demo questions, check the answers look
+right, then quit and restart it so the recording starts from a clean screen.
 
 **3. Close everything else.** Slack, browser tabs, anything that might pop a
 notification. Close them properly, not just minimise.
@@ -61,7 +77,7 @@ off-screen.
 3. Unplug the ethernet cable if you have one — hold it up to the camera.
 4. In the terminal, prove it:
 
-```bash
+```powershell
 ping -n 2 8.8.8.8
 ```
 
@@ -76,10 +92,10 @@ Let the failure show on screen.
 
 ### Shot 3 — The planting question (0:30–1:00)
 
-**Type this exactly:**
+**At the `>` prompt, type:**
 
-```bash
-python -m ayekoo.ask "When should I plant maize in Tamale, and which varieties are recommended?"
+```text
+When should I plant maize in Tamale, and which varieties are recommended?
 ```
 
 **While it runs, say:**
@@ -103,10 +119,10 @@ moment:**
 
 ### Shot 4 — The Twi question (1:00–1:25)
 
-**Type this exactly:**
+**At the `>` prompt, type:**
 
-```bash
-python -m ayekoo.ask "What is kokoo kokoram and how do I manage it?"
+```text
+What is kokoo kokoram and how do I manage it?
 ```
 
 **Say:**
@@ -124,10 +140,10 @@ python -m ayekoo.ask "What is kokoo kokoram and how do I manage it?"
 
 ### Shot 5 — What it refuses (1:25–1:45)
 
-**Type this exactly:**
+**At the `>` prompt, type:**
 
-```bash
-python -m ayekoo.ask "What is the capital city of Mongolia?"
+```text
+What is the capital city of Mongolia?
 ```
 
 **Say:**
@@ -143,8 +159,10 @@ python -m ayekoo.ask "What is the capital city of Mongolia?"
 
 **On screen:** show `submission.json`, or just say it over the terminal.
 
-```bash
-cat submission.json
+In a second window:
+
+```powershell
+type submission.json
 ```
 
 **Say:**
