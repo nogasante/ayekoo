@@ -119,7 +119,15 @@ def build_prompt(question: str, hits) -> str:
     # recommending. Since the model is not asked to cite (attribution is emitted
     # by the system from the chunks actually retrieved), the labels bought
     # nothing and cost that.
-    blocks = [f"[{n}]\n{_tidy(hit.chunk['text'])}" for n, hit in enumerate(hits, 1)]
+    # Cap how much text goes in. Prompt processing is the other half of the
+    # wait, and it scales with length: four full chunks is ~3,800 characters,
+    # which on a loaded laptop costs more than twenty seconds before a single
+    # token comes out. Three passages of 700 characters carry the answer in
+    # nearly every case and cut that sharply.
+    blocks = [
+        f"[{n}]\n{_tidy(hit.chunk['text'])[:700]}"
+        for n, hit in enumerate(hits[:3], 1)
+    ]
     sources = "\n\n".join(blocks)
     # Question first, sources second, an explicit `ANSWER:` cue last.
     #
@@ -177,7 +185,13 @@ def _generate_in_process(system: str, user: str, max_tokens: int, temperature: f
     return out["choices"][0]["message"]["content"].strip()
 
 
-def call_model(system: str, user: str, max_tokens: int = 220, temperature: float = 0.2) -> str:
+# Generation length is the single biggest lever on how long a farmer waits.
+# Every token costs the same wall-clock time, and on a busy four-core laptop
+# that is roughly a third of a second each. Answers here are 2-4 sentences by
+# design, so 160 tokens is enough — and it roughly halves the wait against the
+# 320 this started with. Truncation is not a risk: _stop_repeating already cuts
+# these answers short more often than the limit does.
+def call_model(system: str, user: str, max_tokens: int = 160, temperature: float = 0.2) -> str:
     payload = {
         "messages": [
             {"role": "system", "content": system},
