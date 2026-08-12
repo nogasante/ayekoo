@@ -270,6 +270,24 @@
     "url": "https://gatesopenresearch-files.f1000.com/posters/docs/gatesopenres-182277.pdf"
   },
   {
+    "id": "cowpea-west-africa-guide",
+    "ok": true,
+    "message": "84,609 chars from 62 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/bed4f4a6-896c-40a9-8839-3baf3ce1f00d/content"
+  },
+  {
+    "id": "csa-practical-guide-africa",
+    "ok": true,
+    "message": "115,076 chars from 77 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/0e44f61f-6df5-40c6-91c7-5bd118d95f3b/content"
+  },
+  {
+    "id": "legume-value-addition",
+    "ok": true,
+    "message": "26,775 chars from 29 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/e491a2aa-7875-4fcd-97ca-f6b3873e5fb7/content"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",

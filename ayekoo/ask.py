@@ -321,6 +321,10 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True,
     retrieved_text = "\n".join(h.chunk["text"] for h in hits)
     verification = verify.check(text, retrieved_text, question)
     warning = verify.warning_for(verification)
+    # A separate check: does the answer read a described practice as advice?
+    caution = verify.practice_caution(text, question)
+    if caution:
+        warning = f"{warning}\n\n{caution}" if warning else caution
 
     if banned_warning:
         text = f"{banned_warning}\n\n{text}"

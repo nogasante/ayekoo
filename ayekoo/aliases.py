@@ -99,6 +99,35 @@ ALIASES: dict[str, list[str]] = {
     "nkoko nketenkete": ["backyard poultry", "household poultry"],
     "backyard fowls": ["backyard poultry", "nkoko nketenkete"],
     "local fowls": ["backyard poultry", "village poultry"],
+    # ── Ghanaian crop names in local languages ───────────────────────────────
+    # A farmer types "abele", not "maize". The system refused that outright,
+    # which is the same failure as refusing "kokoo kokoram": a submission whose
+    # localisation claim rests on Ghanaian vocabulary cannot refuse Ghanaian
+    # vocabulary.
+    #
+    # KOBBY: THESE NEED YOUR EYES. Unlike everything else in this file, the KEYS
+    # here are translations taken from general knowledge, not from a corpus
+    # document — no source in this corpus lists crop names in Twi, Ga or Ewe.
+    # A wrong key costs nothing (it simply never fires) but it also must not be
+    # presented as evidence of local-language coverage. Correct or delete
+    # anything that is wrong, and add the ones I have missed.
+    "aburo": ["maize"],
+    "aburoo": ["maize"],
+    "abele": ["maize"],
+    "bankye": ["cassava"],
+    "bayere": ["yam"],
+    "kooko": ["cocoyam"],
+    "mankani": ["cocoyam"],
+    "nkate": ["groundnut"],
+    "nkatie": ["groundnut"],
+    "ntoosi": ["tomato"],
+    "mako": ["pepper", "capsicum"],
+    "gyeene": ["onion"],
+    "emo": ["rice"],
+    "ayuo": ["millet"],
+    "asikyire": ["sugarcane"],
+    "kwadu": ["banana"],
+    "adua": ["cowpea", "beans"],
     # ── Ghanaian variety names ───────────────────────────────────────────────
     # A farmer asks for a variety by name. The name alone embeds poorly in an
     # English model — "Obatanpa" scored 0.596 against a 0.65 gate — so it is

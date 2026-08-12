@@ -1,0 +1,2442 @@
+# Guide to Cowpea Production in West Africa
+# publisher: IITA, via CGSpace
+# year: 2018
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/bed4f4a6-896c-40a9-8839-3baf3ce1f00d/content
+# attribution: IITA, Guide to Cowpea Production in West Africa (2018)
+# ghana_specific: False
+# extent: 62 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Guide to Cowpea Production in West Africa
+57
+Transforming African Agriculture
+L.O. Omoigui, A.Y. Kamara, 
+J. Batieno, T. Iorlamen,  
+Z. Kouyate, J. Yirzagla,  
+S. Diallo, and U. Garba
+Guide to
+in West Africa
+Cowpea 
+Production
+Guide to Cowpea Production in West Africa
+i
+L.O. Omoigui1, A.Y. Kamara1, J. Batieno2,  
+T. Iorlamen3, Z. Kouyate4, J. Yirzagla5,  
+S. Diallo4, and U. Garba6
+Guide to Cowpea 
+Production in West Africa
+ 
+Tropical Legume III (TLIII)
+1International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria
+2Institut National pour l’Etude et la Recherche Agronomiques (INERA), Burkina Faso
+3Federal University of Agriculture Makurdi (FUAM), Nigeria
+4Institute of Rural Economy (IRE), Mali 
+5Savanna Agricultural Research Institute (CSIR-SARI), Ghana
+6Kano State Agricultural and Rural Development Authority (KNARDA), Nigeria
+ii
+Guide to Cowpea Production in West Africa
+Published by the International Institute of Tropical Agriculture (IITA)
+Ibadan, Nigeria
+IITA is the lead research partner facilitating agricultural solutions for hunger and poverty 
+in the tropics. It is a member of the CGIAR Consortium, a global research partnership 
+that unites organizations engaged in research for sustainable development for a food 
+secure future.
+International address:
+IITA, Grosvenor House,  
+125 High Street
+Croydon CR0 9XP, UK
+ 
+Headquarters:
+PMB 5320, Oyo Road
+Ibadan, Oyo State
+ISBN 978-978-131-357-8 
+Citation: L.O. Omoigui, A.Y. Kamara, J. Batieno, T. Iorlamen, Z. Kouyate, J. Yirzagla, U. 
+Garba, and S. Diallo. 2018. Guide to cowpea production in West Africa. IITA, Ibadan, 
+Nigeria. 60 pp.
+Disclaimer: Mention of any proprietary product or commercial applications does not 
+constitute an endorsement or a recommendation for its use by IITA.
+Cover: Harvesting mature cowpea pods, Kano State, Nigeria.
+ii
+Guide to Cowpea Production in West Africa
+iiiiii
+1. Introduction ................................................................................................ 1
+ The importance of cowpea ........................................................................ 1
+2. Important steps in growing cowpea ...........................................................3
+ Site selection ............................................................................................. 3
+ Land preparation .......................................................................................3
+ Seed preparation for planting ....................................................................5
+ Pre-sowing seed dressing .........................................................................5
+3. Planting date .............................................................................................6
+ When to plant ............................................................................................6
+4. Choice of varieties .....................................................................................8
+5. Cowpea varieties recommended for some selected West Africa countries .....9
+6. Sowing and spacing for cowpea.............................................................. 19
+ Sowing and spacing for cowpea + cereal mixture  ..................................20
+ Sowing depth........................................................................................... 20
+7. Fertilizer rate and application ..................................................................22
+8. Weed management in cowpea ................................................................23
+9. Pests and diseases .................................................................................26
+ Major biotic constraints to cowpea production and productivity ..............26
+ Parasitic weeds ....................................................................................... 26
+ Cowpea major diseases and their control ...............................................29
+ Fungal diseases ......................................................................................29
+ Bacterial blight disease ...........................................................................31
+ Virus diseases .........................................................................................32
+ Insect Pests  ............................................................................................33
+	 Pre-flowering	pests	of	cowpea  ................................................................33
+ Flowering Pests .......................................................................................36
+	 Post-flowering	pests  ................................................................................ 37
+ Pod-sucking bugs (Anoplocnemis curvipes) ........................................... 38
+ Storage pests ..........................................................................................39
+10. General approaches to insect pest control ..............................................40
+	 Use	of	insecticides	to	control	cowpea	insect	pests	on	the	field ............... 41
+11. Spraying regime ......................................................................................42
+ Types of insecticides’ mode of action ......................................................44
+Contents
+iv
+Guide to Cowpea Production in West Africa
+ External factors to consider when spraying ............................................ 44
+ Method of spraying insecticides ..............................................................44
+ Handling, storage, and transport of insecticides .....................................46
+ Label ........................................................................................................ 46
+ Spraying  .................................................................................................. 46
+ Storage  ...................................................................................................46
+ Transport ................................................................................................. 47
+ Disposal................................................................................................... 47
+ Protective clothing ...................................................................................47
+ Maintenance  ............................................................................................48
+12. Harvesting for dry seeds .........................................................................49
+13. Postharvest processing ........................................................................... 50
+ Storage .................................................................................................... 50
+ Storage pests and their control ............................................................... 51
+ Short-time storage for grain without the use of chemicals ......................51
+ Long-time storage for seeds and grains without the use of chemicals.... 52
+ Long-time storage for seeds and grains with chemical ...........................53
+ Precautions when using chemicals to store cowpea ............................... 54
+14. References  ..............................................................................................55
+Tables
+1.  Rainfall distribution and planting dates of cowpea in WCA. ......................7
+2.  Criteria in selecting a cowpea variety for a particular environment. ..........8
+3.  Cowpea varieties recommended for Nigeria. ..........................................10
+4. Table 4. Cowpea varieties recommended for Burkina Faso. ................... 12
+5.  Cowpea varieties recommended for Mali. ............................................... 13
+6.  Cowpea varieties recommended for Ghana. ...........................................15
+7.  Cowpea varieties recommended for Niger Republic. .............................. 16
+8.  Seed rate/ha based on recommended plant spacing. .............................20
+9.  Recommended fertilizer rate for cowpea................................................. 22
+10.  Some recommended herbicides and application rates  
+for weed control in cowpea...................................................................... 25
+11.  Some recommended insecticides for control of insect pests in cowpea. 43
+iv
+Guide to Cowpea Production in West Africa
+v
+Figures 
+1.		 Cowpea	planted	with	hand	on	a	well-prepared	field.	 ................................ 4
+2.  (a) Good seeds for planting and (b) Bad seeds for planting...................... 5
+3.  (a) Maize + cowpea strip intercropping.  
+(b) Cowpea relayed into maize................................................................ 21
+4.		 A 	Research	officer	giving	instruction	on	type	of	nozzle	to	use. ...............45
+5.  Harvesting mature pods of IT90K 277–2. ............................................... 49
+6.  Sun-drying of harvested cowpea pods before threshing. ........................49
+7.  Cowpea seeds (a) not properly cleaned and 7b) properly cleaned. ........50
+8.  Poorly stored cowpea seeds (damaged by weevils). ..............................51
+9.  Cowpea storage in triple PICS bag. ........................................................52
+v
+Guide to Cowpea Production in West Africa
+1
+The importance of cowpea
+Cowpea (Vigna unguiculata L. Walp.) is a grain legume, a major staple 
+food crop for household nutrition in sub-Saharan Africa, especially in the 
+dry savanna regions of West Africa. It plays an important role in human 
+nutrition, food security, and income generation for both farmers and food 
+vendors in the region. The grain is rich in protein (25%), carbohydrates, 
+vitamins, and minerals and complements the mainly cereal diet in 
+countries that grow cowpea as a major food crop. In addition to the grain, 
+the young green leaves and pods are consumed as a vegetable by the 
+people; the haulms (biomass) from the plants provide important nutritious 
+fodder for ruminants, especially during the dry season. 
+In Nigeria, farmers 
+who cut and store fodder for sale at the peak of the dry season have been 
+found to increase their annual income by 25% (Dugje et al. 2009). Cowpea 
+also plays an important role in providing soil nitrogen to
+ cereal crops (such 
+as maize, millet, and sorghum) when grown in rotation, especially in areas 
+where poor soil fertility is a problem. It does not require a high rate of nitrogen 
+fertilization; its roots have nodules in which soil bacteria called Rhizobia 
+help	to	fix	nitrogen	from	the	air ,	some	of	which	is	left	behind	for	subsequent	
+crops in the soil after harvesting. The crop also grows and covers the ground 
+quickly, preventing erosion.
+There is a big market for the sale of cowpea grain and fodder in West
+ Africa 
+where the important cowpea-growing countries are Nigeria, Niger Republic, 
+Mali, Burkina Faso, Senegal, and Ghana. The bulk of production comes from 
+the drier areas of the Guinea savanna, the Sudan savanna, and the Sahel 
+agroecological zones of West Africa.  Cowpea is generally adapted to poor 
+Introduction
+iii
+2
+Guide to Cowpea Production in West Africa
+soils and its tolerance to drought, which makes its cultivation attractive 
+to the drier regions of the West African savannas. Production in West 
+Africa is increasing, and consumption is also at an all-time high, 
+raising hopes over the sustainability of a key source of plant protein 
+for millions of West Africans (FAO 2017). For instance, the area under 
+cultivation in Nigeria. has increased by about 2.9 times from 1.2 million 
+ha for the period 1980–1984 to about 3.5 million ha between 2014 and 
+2017. During the same period production increased from 524 thousand 
+t from 1980-1984 to about 3 million tons from the 2014–2017 period. 
+The average yield/ha also followed the same trend from 409 kg/ha 
+between 1980 and 1984 to about 851 kg/ha from 2014 to 2017 (FAO, 
+2017). Studies conducted by Kormawa et al. (2000) revealed that in 
+Nigeria more urban households (72%) consume cowpea than any 
+other grain legume, such as groundnut and soybean, an indication that 
+there is a good domestic market, providing an important opportunity 
+to increase incomes and employment and reduce poverty in rural 
+areas. Despites its importance, cowpea production in the West African 
+savannas is faced with numerous constraints such as insect pests, 
+diseases, the parasitic weed Striga gesnerioides, poor soil fertility, and 
+intermittent drought (Singh and Tarawali 1997). The combination of 
+these stresses can cause complete crop loss if not properly managed. 
+Researchers in the sub-region have developed several varieties that 
+are either resistant/or tolerant to these stresses. These varieties, along 
+with improved management practices, have been found to substantially 
+increase yield in West Africa (Kamara et al. 2018)
+This guide draws its lessons from the work and experience of 
+IITA and partners in Research for Development on cowpea-based 
+systems in West Africa. The handbook is intended to guide farmers, 
+extension personnel, students of agriculture in higher institutions, and 
+researchers in Nigeria, Mali, Burkina Faso, Niger, Ghana, and other 
+countries in West Africa to use improved varieties and complementary 
+production practices to increase productivity.
+Guide to Cowpea Production in West Africa
+3
+Important steps  
+in growing cowpea
+Site selection
+Proper site selection is very important. Select a well-drained 
+sandy loam soil for rainfed cowpea, and inland depressions or 
+along the shores of a lake for a dry season crop using residual 
+moisture. Cowpea does not tolerate excessively wet conditions or 
+waterlogging and should not be grown on poorly drained soil.
+Land preparation
+Clear the site of shrubs and stubble. Alternatively, spray the 
+field	with	Glyphosate	(Round-up)	at	the	rate	of	4	L/ha	[about	2	
+1/3 peak liquid milk tins (157 ml) of chemical in a 15-L sprayer 
+or 3 milk tins of chemical in a 20-L knapsack sprayer] and 
+leave	the	field	for	at	least	10	days	for	emerged	weeds	to	be	
+killed. Land can also be prepared manually with the African 
+hand-hoe. Soils should be cultivated deeply enough to ensure 
+that no barrier (such as a hardpan) exists to penetration of the 
+soil	by	the	taproot.	If	using	a	tractor,	plow	and	harrow	the	field	
+to	provide	sufficient	tilth	for	good	root	growth	(Fig.	1).	Well-
+prepared land ensures good germination and reduces weed 
+infestation. Make ridges thereafter, if desired. Where the soils 
+are more fragile and prone to erosion, adopt minimum or zero 
+tillage.
+4
+Guide to Cowpea Production in West Africa
+Figure 1. Cowpea planted with hand on a well-prepared field. 
+Guide to Cowpea Production in West Africa
+5
+Figure 2. (a) Good seeds for planting and (b) Bad seeds for planting.
+Seed preparation for planting
+Select good seeds (Fig. 2a) without damage holes or wrinkles (Fig. 2b) 
+for planting. Well-stored seeds under optimum conditions will have good 
+germination.
+Pre-sowing seed dressing
+Before sowing, treat seeds with Benomyl (50%) or Carbendazine, Captan, 
+or Thiram at the rate of 3 g/kg (1 sachet) of seeds, or with Apron Plus at 
+the rate of 10 g/4-5 kg of seeds (1 sachet), or Apron Star 42 Water Soluble 
+(WS) at the rate of 10 g/8 kg of seeds (1 sachet). This will enhance good 
+germination and protect the seedlings from fungal infection soon after 
+emergence.
+a b
+6
+Guide to Cowpea Production in West Africa
+When to plant
+Planting	date	affects	cowpea	seed	yield	and	quality.	It	also	affects	the	use	of	
+insecticides for controlling insect pests. High yields of good quality seeds are 
+obtained when cowpea is planted so that the crop matures in dry weather. In 
+West Africa, reproductive development is determined primarily by the response 
+to photoperiod. Some genotypes are photoperiod- sensitive, while others are 
+photoperiod-insensitive. Photoperiod is determined by daylength and is a 
+critical factor in determining the appropriate planting time. For example, planting 
+photoperiod-sensitive cowpea varieties at the onset of the rainy season (June 
+or	early	July)	will	delay	flowering	and	promote	excessive	vegetative	growth	that	
+may result in a low yield owing to long daylength. For the photoperiod-sensitive 
+cowpea	to	flower	early,	these	varieties	should,	therefore,	be	planted	from	mid-
+July to mid-August when the daylength is becoming shorter, depending on the 
+amount and distribution of rainfall. On the other hand, the erect type, early and 
+medium maturing varieties that are photoperiod-insensitive can be planted at 
+any	time	in	the	year,	provided	rainfall	is	sufficient	or	there	are	irrigation	facilities.	
+Breeders	in	West	Africa	have	developed	a	range	of	varieties	differing	in	plant	
+type, growth habits, maturity. and seed type. Plant types are often categorized as 
+erect, semi-erect, prostrate (trailing), or climbing. There is much variability within 
+the species. Growth habit ranges from indeterminate to fairly determinate with 
+the non-vining types tending to be more determinate. These varieties respond 
+differently	to	different	photoperiods	and	growing	environments.	Some	varieties,	
+such as the local and indeterminate improved varieties, are photoperiod-
+sensitive.	An	important	strategy	to	maximize	yield	is	the	ability	to	fit	the	crop	
+Planting date
+Guide to Cowpea Production in West Africa
+7
+  Table 1. Rainfall distribution and planting dates of cowpea in WCA.
+ 
+Agroecological 
+zone
+Commencement 
+of rains
+Rainfall 
+duration
+Cowpea growth 
+habit
+Sahel zone May June–August Determinate 
+ 
+(early and 
+medium maturity
+14–28 June 
+Indeterminate 
+(medium maturity
+20–25 June
+Sudan savanna June
+June–September Determinate  
+(early and 
+medium maturity
+25 June–24 July 
+Indeterminate 
+(medium and late 
+maturity
+19–22 July 
+Northern Guinea 
+savanna
+July July–October Determinate 
+ 
+(early and 
+medium maturity
+25 July–8 August 
+Indeterminate 
+(medium and late 
+maturity
+28 July–3 August
+Southern Guinea 
+savanna
+August August–
+November
+Determinate 
+ 
+(early and 
+medium maturity
+25–30 August 
+Indeterminate 
+(medium and late 
+maturity
+24–28 August
+Forest Transition 
+Zone
+April
+April–November Indeterminate 
+(medium and late 
+maturity
+First week of 
+September
+When to plant 
+ 
+after rain fully 
+established
+varieties	into	their	different	planting	dates	for	optimal		performance.	T able	1	
+highlights the planting dates recommended in some zones in West and Central 
+Africa.	With	the	effects	of	climate	change,	prediction	of	planting	dates	in	the	
+savannas	from	climate	alone	is	becoming	more	difficult.	Thus,	planting	dates	
+may be chosen, based on plant maturity by ensuring that the critical growth 
+stage,	such	as	flowering,	is	synchronized	with	the	availability	of	sufficient	rainfall.
+8
+Guide to Cowpea Production in West Africa
+Select a variety that is suited to your agroecological zone, based on its 
+suitability for the prevalent climatic conditions and cropping systems. 
+The choice of variety is based on maturity period, yield potential, drought 
+tolerance, responsiveness to daylength, parasitic weed infestation, and 
+pest and disease resistance. Table 2 shows some of the important issues 
+to be considered when selecting a variety for a particular environment. The 
+color and size of the seeds are very important to consumers and farmers. 
+These, however, vary with regions. Some regions have a strong preference 
+for large-seeded varieties with brown seed coats; others prefer white seed 
+coats. Some farmers also prefer varieties that are suitable for intercropping. 
+Selected varieties recommended for Burkina Faso, Ghana, Mali, Niger, and 
+Nigeria are presented in Tables 3–5.
+Production constraint Variety to use Where to buy seeds
+Drought Drought tolerant and early 
+maturing
+Buy your seeds from a 
+recognized seed company, 
+CBO, agro-dealer’s shop, 
+or Research institute or 
+contact your State ADPs. 
+Do not buy seeds from the 
+open market for planting.
+Heat Heat resistant
+Striga infestation Striga resistant
+Short rainfall 
+(300500 mm/year)
+Extra-early and early maturing 
+(look for the varieties that have 
+a maturity period that falls within 
+60–70 days)
+Pests and diseases Varieties that have some resistance 
+to major pests and diseases
+Table 2. Criteria in selecting a cowpea variety for a particular environment.
+Choice of varieties
+Guide to Cowpea Production in West Africa
+9
+Cowpea varieties 
+recommended for some 
+selected West Africa 
+countries
+ 
+10
+Guide to Cowpea Production in West Africa Table 3. Cowpea varieties recommended for Nigeria.
+Variety Yield 
+(t/ha)
+Seed coat texture Growth habit Maturity Other qualities Agroecological 
+zones
+IT99K-573-1-1 
+(SAMPEA14)
+2.6 Rough seed coat, white 
+color with brown helium, 
+medium seed size
+Determinate Medium  
+(70–75 days)
+Resistant to 
+Fusarium wilt and 
+Striga, tolerant to 
+drought 
+Northern Guinea 
+savanna, Sahel, 
+Sudan savanna
+IT99K-573-2-1 
+(SAMPEA15)
+2.6 Rough seed coat, white 
+color with black helium, 
+medium seed size
+Determinate Medium  
+(70–75 days)
+Tolerant to 
+drought, resistant 
+to Striga
+Northern Guinea 
+savanna as well as 
+Sahel and Sudan 
+savanna
+UAM09 1055-6 
+(FUAMPEA 1)
+1.9 Rough seed coat, white 
+color with brown helium, 
+medium seed size
+Determinate Early  
+(60–65 days)
+Tolerant to 
+drought, resistant 
+to Striga, short 
+cooking time
+Sudan savanna and 
+Sahel region
+UAM09 1051-1 
+(FUAMPEA 2)
+2.0 Rough seed coat, 
+brown color with brown 
+helium, medium seed 
+size
+Indeterminate Medium  
+(70–75 days)
+Short cooking 
+time, resistant to 
+Striga. Good for 
+intercropping
+Sudan, and 
+Northern Guinea 
+savanna
+IT89KD-288 
+(SAMPEA 11)
+2.0 Rough seed coat, white 
+color with brown helium, 
+large seed size
+Indeterminate Late  
+(80–85 days)
+Resistant to 
+nematodes. Good 
+for intercropping
+Northern Guinea 
+savanna
+IT07K-292-10 
+(SAMPEA16)
+2.5 Rough seed coat, white 
+color with black helium, 
+large seed size
+Determinate Early  
+(65–70 days)
+Tolerant to 
+drought
+Sudan savanna and 
+Sahelian region
+IT07K-313-18 
+(SAMPEA17)
+2.5 Rough seed coat, 
+brown color with black 
+helium, large seed size
+Determinate Medium  
+(70–75 days)
+Tolerant to Striga Sudan savanna and 
+Sahelian region
+Guide to Cowpea Production in West Africa
+11
+Table 3. Contd.
+Variety Yield 
+(t/ha)
+Seed coat texture Growth habit Maturity Other qualities Agroecological 
+zones
+UAM14 130-20-4 2.2 Rough seed coat, 
+brown color with 
+brown helium, large 
+seed size
+Indeterminate Medium 
+ 
+(75–80 days)
+Good for confectionary, 
+Resistant to Striga 
+and Alectra. Good for 
+intercropping
+Sudan and Guinea 
+savanna
+UAM14 127-20- 2.0 Rough seed coat, 
+brown color with 
+brown helium, large 
+seed size
+Indeterminate Medium 
+ 
+(75–80 days)
+Good for confectionary, 
+resistant to Striga 
+and Alectra, Good for 
+intercropping
+Sudan and Guinea 
+savannas
+UAM14 123-18-3 2.0 Rough seed coat, 
+brown color with 
+brown helium, large 
+seed size
+Indeterminate Medium 
+ 
+(75–80 days)
+Good for confectionary, 
+resistant to Striga and 
+Alectra, 
+Sudan and Guinea 
+savannas
+UAM14 126 19-2 2.5  Rough seed coat, 
+white color with 
+brown helium, large 
+seed size
+Indeterminate Medium 
+ 
+(75–80 days)
+Good for confectionary, 
+resistant to Striga 
+and Alectra. Good for 
+intercropping
+Sudan and Guinea 
+savannas
+UAM15 127-1-7 2.0  Rough seed coat, 
+brown color with 
+brown helium, large 
+seed size
+Indeterminate Medium 
+ 
+(75–80 days)
+Good for confectionary, 
+resistant to Striga 
+and Alectra. Good for 
+intercropping
+Sudan and Guinea 
+savannas
+UAM15 137-1-7 2.0 Rough seed coat, 
+brown color with 
+brown helium, large 
+seed size
+Indeterminate Medium 
+ 
+75–80 days)
+Good for confectionary, 
+resistant to Striga 
+and Alectra. Good for 
+intercropping
+Sudan and Guinea 
+savannas
+12
+Guide to Cowpea Production in West Africa
+Variety Yield  
+(t/ha)
+Seed coat texture Growth habit Maturity Other qualities Agroecological 
+zones
+KV442-3-25SH
+(Komcalle)
+1.8 Rough seed coat, white 
+color
+Determinate 60–65days Large seed size, 
+resistant to Striga
+All 
+KVx775-33-2G
+(Tiligre)
+2 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Large seed size, 
+resistant to Striga
+All 
+KVx771-10G
+(Nafi)
+2 Rough seed coat, white 
+color
+Determinate 65–70 
+days
+Large seed size, 
+resistant to Striga
+All 
+IT98K-205-8
+(Niizwe)
+1.2 Rough seed coat, white 
+color
+Determinate 60–65days Large seed size, 
+resistant to Striga
+All 
+IT99K-573-2-1 
+(Yiisyande)
+2 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Large seed size, 
+resistant to Striga
+All 
+KVx 745-11P 0.8 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Dual purpose (4 
+t/ha of fodder), 
+resistant to Striga  
+All 
+KVx61-1 1.5 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Good for 
+confectionary, 
+resistant to Striga
+All 
+Gorom Local 1.5 Rough seed coat, brown 
+color
+Determinate 70–75 
+days
+Good for 
+confectionary, 
+resistant to Striga
+All 
+Table 4. Cowpea varieties recommended for Burkina Faso.
+Guide to Cowpea Production in West Africa
+13
+Table 5. Cowpea varieties recommended for Mali.
+Variety Fodder Yield 
+(t/ha)
+Grain 
+Yield  
+(t/ha)
+Seed coat texture Growth habit Maturity Other qualities Agroecological 
+zones
+IT89KD-245 
+(Sangaraka)
+1.5  3 Rough seed coat, white color with 
+brown helium, large seed size
+Indeterminate Late 
+(80–90 days)
+Tolerant to drought, 
+resistant to Striga, 
+and adapted to 
+intercropping,
+Southern and 
+Central region
+IT93K-876-30 
+(Fakson)
+1-1.5 Low Rough seed coat, white color with 
+black helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to drought, 
+resistant to Striga, 
+short cooking time
+Northern and 
+Central region 
+IT93K-876-12 1-1.5 Low Rough seed coat, white color with 
+black helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to drought, 
+resistant to Striga, 
+short cooking time
+Northern, 
+Central and 
+Sahel region
+IT89KD-374 
+(Korobalen)
+1.5-2 Low Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Early 
+ 
+(70–75 days)
+Tolerant to drought, 
+resistant to Striga, 
+short cooking time
+Northern, 
+Central and 
+Sahel region
+IT90K-372-1-2 
+(Wilibali)
+1.5 Low Rough seed coat, white color 
+with large brown helium, medium 
+seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to drought, 
+short cooking time, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+IT97K-499-35 
+(Jiguiya)
+1-1.5 Low Rough seed coat, white color with 
+brown helium, small seed size
+Determinate Early 
+ 
+(65–70 days)
+Resistant to Striga Northern, 
+Central and 
+Sahel region
+PBL 112
+ (Dunan fana)
+1.5-2 3-4 Rough seed coat, white color with 
+black helium, large seed size
+Indeterminate Early 
+ 
+(110–120 days)
+Tolerant to drought 
+and photoperiod
+Southern region
+CZ1- 94- 23-2 
+(Gana Shoni)
+1.5 1 Rough seed coat, white color with 
+black helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to Striga Northern and 
+Central 
+Variety Yield  
+(t/ha)
+Seed coat texture Growth habit Maturity Other qualities Agroecological 
+zones
+KV442-3-25SH
+(Komcalle)
+1.8 Rough seed coat, white 
+color
+Determinate 60–65days Large seed size, 
+resistant to Striga
+All 
+KVx775-33-2G
+(Tiligre)
+2 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Large seed size, 
+resistant to Striga
+All 
+KVx771-10G
+(Nafi)
+2 Rough seed coat, white 
+color
+Determinate 65–70 
+days
+Large seed size, 
+resistant to Striga
+All 
+IT98K-205-8
+(Niizwe)
+1.2 Rough seed coat, white 
+color
+Determinate 60–65days Large seed size, 
+resistant to Striga
+All 
+IT99K-573-2-1 
+(Yiisyande)
+2 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Large seed size, 
+resistant to Striga
+All 
+KVx 745-11P 0.8 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Dual purpose (4 
+t/ha of fodder), 
+resistant to Striga  
+All 
+KVx61-1 1.5 Rough seed coat, white 
+color
+Determinate 70–75 
+days
+Good for 
+confectionary, 
+resistant to Striga
+All 
+Gorom Local 1.5 Rough seed coat, brown 
+color
+Determinate 70–75 
+days
+Good for 
+confectionary, 
+resistant to Striga
+All 
+14
+Guide to Cowpea Production in West Africa
+Table 5. Contd.
+CZ1- 94-23-1 
+(Gana Shoba)
+1.5 1  Rough seed coat, white color with 
+brown helium, large seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to Striga Northern and 
+Central
+CZ11-94-5C 
+(Czna Télimani)
+1.5 Low Rough seed coat, brown color with 
+black helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to drought, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+CZ06-3-1 
+(Acar 1)
+1.5-2 Low Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Early 
+ 
+(65–70 days)
+Tolerant to drought, 
+resistant to Striga, 
+short cooking time
+Northern, 
+Central and 
+Sahel region
+CZ06-2-17 
+(Simbo)
+1.5-2 1 Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(65–75 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+PRL 73  
+ 
+(Yèrè Wolo)
+2.0 3-4 Rough seed coat, brown color with 
+brown helium, large seed size
+Indeterminate Late 
+ 
+(110–120 days)
+Resistant to 
+nematodes Adapted 
+to intercropping
+Southern region
+IT99K-573-1-1 2.5 Low Rough seed coat, white color with 
+black helium, large seed size
+Determinate Early 
+ 
+(65–70 days)
+Tolerant to drought Northern, 
+Central and 
+Sahel region
+CZ06-1-12 
+(Jiguifa)
+1.5-2 2 Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+CZ06-4-16 1.5-2 2 Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+CZ06-1-05 1.5 Low Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(65–70 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+Variety Fodder Yield 
+(t/ha)
+Grain 
+Yield  
+(t/ha)
+Seed coat texture Growth habit Maturity Other qualities Agroecological 
+zones
+Guide to Cowpea Production in West Africa
+15
+Variety Yield 
+(t/
+ha)
+Seed coat 
+texture
+Growth habit Maturity Reaction to 
+Striga
+Other qualities Agroecological zones
+Zaayura- Pali 2.5 Rough seed 
+coat, white
+Indeterminate Medium 
+ 
+(70–75 days)
+Susceptible Resistant to aphid and high fodder 
+yield
+Transition, Guinea 
+and Sudan savanna 
+ecologies 
+IT99K-573-1-1
+(Wang-Kae)
+2.4 Rough seed 
+coat, white 
+Determinate Medium 
+ 
+maturity  
+(70–75 days)
+Resistant Resistant to aphid, moderately 
+tolerant to drought, short cooking 
+time and tolerant to most of the 
+diseases
+Transition, Guinea 
+and Sudan savanna 
+ecologies 
+IT99K-573-2-1 
+(Kirkhouse 
+Benga)
+2.4 Rough seed 
+coat, white 
+Determinate Medium 
+ 
+(70–75 days)
+Resistant Resistant to aphid, moderately 
+tolerant to drought, short cooking 
+time and tolerant to most of the 
+diseases
+Transition, Guinea 
+and Sudan savanna 
+ecologies 
+IT97K-499-35 
+(Songotra)
+2.2 Rough seed 
+coat, white 
+Determinate Medium 
+ 
+(70–75 days)
+Resistant Moderately tolerant to drought, 
+short cooking time
+Transition, Guinea 
+and Sudan savanna 
+ecologies 
+Padi-Tuya 2.4 Rough seed 
+coat, white 
+Indeterminate Medium 
+ 
+(70–75 days)
+Susceptible Short cooking time and high fodder 
+yield
+Transition, Guinea 
+and Sudan savanna 
+ecologies 
+Zaayura 2.4 Rough seed 
+coat, white 
+Indeterminate Medium 
+ 
+(70–75 days)
+Susceptible High fodder yield Transition, Guinea 
+and Sudan savanna 
+ecologies 
+Soo-Sima 2.5 Rough seed 
+coat, white 
+Indeterminate Medium 
+ 
+(70–75 days)
+Susceptible Resistance to aphid and high 
+fodder yield
+Transition, Guinea 
+and Sudan savanna 
+ecologies 
+Bawutawuta 1.8 Rough seed 
+coat, white 
+Determinate Medium 
+ 
+(70–75 days)
+Susceptible Tolerance to drought Transition, Guinea 
+and Sudan savanna 
+ecologies 
+Apagbaala 2.0 Rough seed 
+coat, white 
+Determinate Early 
+ 
+(65–70 days)
+Susceptible Modestly tolerant to drought Transition, Guinea 
+and Sudan savanna 
+ecologies 
+Diffeele 2.2 Smooth 
+seed coat 
+white
+Indeterminate Medium 
+ 
+(70–75 days)
+Susceptible Resistant to aphid and high fodder 
+yield
+Transition, Guinea 
+and Sudan savanna 
+ecologies 
+Table 6. Cowpea varieties recommended for Ghana.
+CZ1- 94-23-1 
+(Gana Shoba)
+1.5 1  Rough seed coat, white color with 
+brown helium, large seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to Striga Northern and 
+Central
+CZ11-94-5C 
+(Czna Télimani)
+1.5 Low Rough seed coat, brown color with 
+black helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Tolerant to drought, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+CZ06-3-1 
+(Acar 1)
+1.5-2 Low Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Early 
+ 
+(65–70 days)
+Tolerant to drought, 
+resistant to Striga, 
+short cooking time
+Northern, 
+Central and 
+Sahel region
+CZ06-2-17 
+(Simbo)
+1.5-2 1 Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(65–75 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+PRL 73  
+ 
+(Yèrè Wolo)
+2.0 3-4 Rough seed coat, brown color with 
+brown helium, large seed size
+Indeterminate Late 
+ 
+(110–120 days)
+Resistant to 
+nematodes Adapted 
+to intercropping
+Southern region
+IT99K-573-1-1 2.5 Low Rough seed coat, white color with 
+black helium, large seed size
+Determinate Early 
+ 
+(65–70 days)
+Tolerant to drought Northern, 
+Central and 
+Sahel region
+CZ06-1-12 
+(Jiguifa)
+1.5-2 2 Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+CZ06-4-16 1.5-2 2 Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(70–75 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+CZ06-1-05 1.5 Low Rough seed coat, white color with 
+brown helium, medium seed size
+Determinate Medium 
+ 
+(65–70 days)
+Short cooking 
+time, and adapted 
+to intercropping, 
+resistant to Striga
+Northern, 
+Central and 
+Sahel region
+16
+Guide to Cowpea Production in West Africa
+Variety Seed coat texture Maturity Other qualities Ecological zone
+IT99K-573-1-1 Rough seed coat, 
+white color with 
+brown helium. 
+ 
+Semi-indeterminate.
+Medium maturity 
+(70–75 days)
+Multiple disease 
+resistance especially 
+to fusarium, tolerant to 
+drought, and resistant 
+ 
+to Striga and Alectra
+Northern Guinea 
+savanna, Sudan 
+savanna and Sahelian 
+agro-ecologies 
+IT99K-573-2-1 Rough seed coat, 
+white color with 
+brown helium. 
+ 
+Semi-indeterminate
+Medium maturity 
+(70–75 days)
+Resistant to Alectra, 
+tolerant to Striga and 
+drought
+Northern Guinea 
+savanna, Sudan 
+savanna and Sahelian 
+agro-ecologies
+IT98K-205-8 Rough seed coat, 
+white color with 
+brown helium. 
+ 
+Semi-indeterminate
+Medium maturity 
+(70–75 days)
+Resistant to Alectra, 
+tolerant to Striga and 
+drought
+Northern Guinea 
+savanna, Sudan 
+savanna and Sahelian 
+agroecologies
+IT89KD-374-57 White seeds with 
+brown helium,
+ 
+semi-indeterminate.
+Grain yield: 1.5 t/ha
+Medium maturity 
+(70–75 days)
+Tolérant to aphids and 
+drought, susceptible 
+to Striga, Thrips, and 
+Bruchids 
+Sahel
+IT90K-372-1-2 White seeds with 
+brown helium, 
+ 
+semi-indeterminate.
+Grain yield: 1.5 t/ha
+Medium maturity 
+(70–75 days)
+Resistant to aphids  
+and drought, 
+susceptible to  
+Striga, Thrips, and 
+Bruchids
+Sahel agroecological 
+zone (300 to 600 mm)
+IT96D-610 Brown seed color,
+ 
+Erect.
+Mean grain yield: 
+1.5 t/ha
+Extra–early 
+maturing 
+ 
+(55–60 days)
+Tolerant to drought, 
+susceptible to Striga 
+ 
+and Bruchids
+Sahel agroecological 
+zone (250 to 600 mm)
+IT97K499-38 White seeds with 
+black helium, 
+ 
+semi-indeterminate.
+Mean grain yield: 
+1 t/ha
+Early maturing 
+(60–65 days)
+Tolerant to Striga and 
+drought, susceptible 
+ 
+to aphids and pod 
+sucking bugs
+Sahel agroecological 
+zone (250 to 600 mm)
+IT97K499-35 White seeds with 
+black helium, 
+ 
+semi-indeterminate.
+Mean grain yield: 
+1 t/ha
+Early maturing 
+(60–65 days)
+Tolerant to Striga 
+ 
+and drought,  
+susceptible to aphids 
+and pod sucking bugs
+Sahel agroecological 
+zone (250 to 600 mm)
+Table 7. Cowpea varieties recommended for Niger Republic.
+UAM09 1055-6 
+(Dan hajia)
+White seed with 
+brown helium, 
+erect, mean grain 
+yield 1.5 t/ha
+Early maturing 
+55-60 days
+Tolerant to Striga 
+and Alectra
+Sahel agroecological 
+zone (250 to 600 mm)
+Guide to Cowpea Production in West Africa
+17
+KVX 30-309-6G White-brownish 
+seeds with brown 
+helium.
+Semi-prostrate, good 
+fodder production, 
+adapted to mixed 
+cropping.
+Mean grain yield: 
+1 t/ha
+Medium 
+maturing 
+ 
+(75 days)
+Resistant to bacterial 
+blight and drought, 
+susceptible to aphids, 
+Striga, bruchids, and 
+thrips
+Sudan savanna and 
+Sahel agroecological 
+zone (300 to 800 mm)
+TN121-80 White -brownish 
+seeds with brown 
+helium
+Semi-prostrate, 
+adapted to mixed 
+cropping
+Mean grain yield: 
+1.5 t/ha
+Medium 
+maturing 
+ 
+(75–80 days)
+Resistant to Striga 
+susceptible to aphids, 
+bruchids, stem borers, 
+and bugs
+Sahel agroecological 
+zone
+TN256-87 White seeds.
+Semi-prostrate, 
+adapted to mixed 
+cropping
+Mean grain yield: 
+1.5 t/ha
+Medium 
+maturing 
+ 
+(75–80 days)
+Susceptible to Striga, 
+aphids, bruchids, highly 
+susceptible to bacterial 
+blight
+Sahel agroecological 
+zone
+TN27-80 White seeds with 
+brown spots.
+Semi-prostrate, 
+adapted to mixed 
+cropping
+Mean grain yield: 
+1.5 t/ha
+Medium 
+maturing 
+ 
+(75–80 days)
+Susceptible to Striga, 
+aphids, bruchids, pod 
+sucking bugs, and fungi
+Sahel agroecological 
+zone
+TN28-87 White seeds with 
+brown spots.
+Semi-prostrate, 
+adapted to mixed 
+cropping
+Mean grain yield: 
+1.5 t/ha
+Medium 
+maturing 
+ 
+(75–80 days)
+Susceptible to Striga, 
+aphids, bruchids, and 
+thrips
+Sahel agroecological 
+zone
+Variety Seed coat texture Maturity Other qualities Ecological zone
+Table 7. Contd.
+18
+Guide to Cowpea Production in West Africa
+TN3-78 White seeds with 
+brown helium.
+Semi-prostrate, 
+adapted to mixed 
+cropping.
+Mean grain yield: 
+1.5 t/ha
+Late maturing 
+(80–85 days)
+Late maturing (80-85 
+days), Susceptible to 
+striga, aphids, bruchids, 
+and thrips
+Sahel agroecological 
+zone
+TN5-78 Brown seeds.
+Semi-prostrate, good 
+fodder production.
+Mean grain yield: 
+1.5 t/ha
+Medium 
+maturing (75–80 
+days)
+Resistant to bacterial 
+blight, seed rot, 
+Striga, and drought, 
+Susceptible to   aphids, 
+bruchids, and thrips
+Sahel agroecological 
+zone
+TN88-63 White seeds with 
+black helium.
+Semi-prostrate.
+Mean grain yield: 
+1.5 t/ha
+Medium 
+maturing (75–80 
+days)
+Resistant to bacterial 
+blight, seed rot, day 
+neutral, tolerant to 
+Striga and drought, 
+Susceptible to aphids 
+and bruchids 
+Sahel agroecological 
+zone
+HTR White seeds with 
+dark brown helium.
+Prostrate.
+Mean grain yield: 
+1.5 t/ha
+Medium 
+maturing (75–80 
+days)
+Resistant to Striga 
+race of western 
+Niger, good level of 
+tolerance to drought; 
+susceptible to Striga 
+race of Maradi, Zinder, 
+and Kano, Susceptible 
+to Macrophomina 
+phaseolina 
+Sahel agroecological 
+zone
+Variety Seed coat texture Maturity Other qualities Ecological zone
+Table 7. Contd.
+Guide to Cowpea Production in West Africa
+19
+Erect varieties should be planted at a close spacing of 50 cm between 
+rows and 20 cm between plants, especially for early maturing and 
+extra-early varieties (55–75 days). Also, for erect type, double row 
+planting can be done on a ridge to maximize high yield but the seed 
+rate/ha has to be doubled. Recently, a 2-fold higher seed yield has 
+been achieved by using higher plant population through double row 
+planting on a ridge (Kamara et al., 2016).  
+For semi-erect varieties, spacing should be 75 cm between rows and 
+25–30 cm between plants. For prostrate/creeping varieties, plant 
+at a spacing of 75 cm between rows and 40 cm within rows. For all 
+recommended plant spacings, sow 3 seeds/hill and thin to 2 plants/
+stand at 2 weeks after planting. Cowpea should be planted either on 
+ridges	or	on	flat	beds,	depending	upon	the	field	preparation.	Planting	
+can be done manually or mechanical planters can be used if available.
+Seed requirement
+About 15–30 kg of seeds, depending on the variety, seed size, and 
+cropping system, are required to plant 1 ha of land. More seeds are 
+required when erect varieties are used than when prostrate varieties 
+are adopted because the erect variety is spaced more closely. Also, 
+fewer seeds are required when the cowpea is to be grown in mixture 
+with other crops. The larger the seeds, the more seeds/ha are required. 
+T able	8	shows	the	seed	rate/ha	for	the	different	cowpea	types.
+Sowing and spacing  
+for cowpea
+20
+Guide to Cowpea Production in West Africa
+Sowing and spacing for cowpea + cereal mixture 
+Where cowpea is to be intercropped or relayed with other crops such as maize 
+the spacings should be 75 cm inter-row × 25 cm intra-row (Figs 3a and 3b). 
+Only a shade tolerant variety should be used. Also, the cowpea should be 
+planted	at	about	4–6	weeks	after	the	first	crop—maize,	sorghum,	or	millet—
+has been planted  For strip intercropping, adopt 2 rows of cereal to 4 rows of 
+cowpea to improve the productivity of erect and shade-sensitive varieties. The 
+cereal and cowpea should be planted at the recommended spacing.
+Sowing depth
+Sow seeds at a depth of 2.5 to 5 cm for most varieties; planting seeds more 
+than 5 cm deep will delay emergence. The seeds may rot and plant stand will be 
+uneven. Emergence is epigeal where the cotyledons emerge from the ground 
+during germination. This type of emergence makes cowpea more susceptible to 
+seedling injury, since the plant does not regenerate buds below the cotyledonary 
+node.
+Cowpea  
+Type
+Growth habit Maturity Cropping 
+system
+Spacing (cm) Quantity of  
+seed/ha
+Erect Determinate Extra-early, 
+early, and 
+medium 
+Sole 50 cm between 
+rows and 20 cm 
+within rows (50 × 
+20 cm)
+30 kg  
+(12 mudus)
+Semi-erect Indeterminate Early and 
+medium
+Sole 75 cm between 
+rows and 30 cm 
+within rows (75 × 
+30 cm)
+20 kg  
+(8 mudus)
+Semi-erect Indeterminate Early and 
+medium
+Intercrop 75 cm between 
+rows and 25 cm 
+within cereal 
+stands (75 × 25 
+cm)
+30 kg  
+(12 mudus)
+Prostrate Indeterminate Medium  
+and late
+Sole/
+intercrop
+75 cm between 
+rows and 50 cm 
+within rows (75 × 
+50 cm)
+15 kg  
+(6 mudus)
+Table 8. Seed rate/ha based on recommended plant spacing.
+Guide to Cowpea Production in West Africa
+21
+Figure 3. (a) Maize + cowpea strip intercropping. (b) Cowpea relayed into maize.
+a
+b
+22
+Guide to Cowpea Production in West Africa
+Fertilizer  
+nutrient/ha
+Quantity 
+equivalent 
+in bags/ha
+Time of application Remarks
+15 kg N 2 bags of 
+NPK
+Apply at planting by 
+incorporating into the soil
+This will also supply 15 kg each of 
+nitrogen, phosphorus, and potassium. 
+30 kg P (P
+205) 4 bags of 
+single super 
+phosphate 
+(SUPA)
+Apply during land 
+preparation or just before 
+sowing to enable the 
+proper placement and 
+also	to	ensure	sufficient	
+supply of phosphorus 
+in early stages of 
+plant growth when 
+its requirement is the 
+highest
+Phosphorus is not mobile in the soil. 
+It is, therefore, necessary that P is 
+placed in the root zone or in the soil 
+layer where the roots are most active. 
+When super phosphate is applied 
+in moist soil or in dry soil after rain 
+or irrigation, the phosphate part 
+(H
+2P04) is dissolved in the soil water. 
+The roots of growing plants easily 
+take up this form of phosphorus 
+Table 9. Recommended fertilizer rate for cowpea.
+Cowpea	plants	do	not	require	too	much	nitrogen	fertilizer	because	they	fix	
+their own nitrogen from the air using the nodules in the roots. However, in 
+areas where soils are poor in nitrogen, a small quantity of about 15 kg/ha of 
+nitrogen in the form of NPK 15:15:15 (2 bags) is needed as a starter dose 
+for a good crop. If too much nitrogen fertilizer is used, the plant will grow 
+luxuriantly with poor grain yield. Cowpea requires more phosphorus than 
+nitrogen in the form of single super phosphate or SUPA. About 30 kg of P/
+ha (~4 bags) in the form of SUPA is recommended for production to help the 
+crop	to	nodulate	well	and	fix	its	own	nitrogen	from	the	air.	T able	9	presents	
+the recommended rate of fertilizer for cowpea production. However, a soil 
+test is the best way to determine soil nutrient levels.
+Fertilizer rate and application
+Guide to Cowpea Production in West Africa
+23
+Weed management  
+in cowpea
+There are three groups of weeds: grasses and sedges and the broadleaf 
+types. These compete with desired crop plants for light, water, nutrients, and 
+space. Generally, infestation as a serious problem in cowpea production and 
+is more severe at the initial period (5–8 weeks after planting). Cowpea is 
+not a strong competitor with weeds, especially at the early stage of growth. 
+Weeds also can harbor pests and reduce both the yield and the quality of 
+the seeds. Fodder yield can also be reduced, especially at the early stage of 
+growth. The type of weed control measures that is adopted should be based 
+on the nature of the problem and the resources available to the farmer; it could 
+be applied during pre-planting or immediately after planting. At present, the 
+most commonly employed methods to control weeds in cowpea are manual, 
+mechanical, or chemical. Adequate weed control is necessary for good growth 
+and high yields.
+Manual control: Manual weed control is the most common method used by 
+farmers	in	cowpea	production.	Weed	cowpea	twice	with	the	hoe,	first	at	2	
+weeks	after	planting,	and	secondly	at	4–5	weeks	later	to	ensure	a	clean	field.	
+A	third	weeding	just	before	flowering	may	be	necessary,	depending	on	field	
+situation. Poor weed control or delay in weeding causes a drastic reduction in 
+yield.
+Chemical control: Chemical weed control involves the use of herbicides, 
+which contain chemical substance(s) used to kill weeds. This method has 
+several	advantages,	such	as	less	dependence	on	labor,	efficiency	even	during	
+the	rainy	season,	and	effectiveness	in	controlling	weeds.	If	you	decide	to	use	
+a herbicide to control weeds, be sure to select the appropriate product for your 
+24
+Guide to Cowpea Production in West Africa
+plant wi
+situation (see Table 10 for some of the recommended herbicides). Herbicides 
+are	classified	by	the	way	they	act.	Some	herbicides	kill	weeds	only	when	the	
+weeds have emerged, and others suppress the germination of weed seeds.
+Different	herbicides	contain	different	active	ingredients	and	so	they	are	applied	
+at	different	times.	Those	that	are	applied	before	planting	or	before	land	
+preparation are referred to as pre-planting herbicides and are mainly aimed 
+at land preparation and the clearance of troublesome weeds that are already 
+growing. Those that are applied after planting but before the germination of 
+both the planted seeds and of weeds are called pre-emergence herbicides. 
+Those that are applied after the germination of seeds are called post-
+emergence herbicides.
+Clay soils require higher rates of herbicide application than loamy or sandy 
+soils. When applying herbicides, you need to adjust the amount of herbicide 
+you apply according to the type of soil. For example, when researchers or 
+chemical manufacturers indicate a recommended dosage of 3–5 l/ha, it means 
+that farmers should apply 5 l/ha in clay soils, 4 liters/ha in loamy soils, and 3 l/
+ha in sandy soils.
+Chemical	weed	control,	if	used	properly,	is	safe	and	effective	in	controlling	
+weeds in cowpea. The choice of herbicide, however, depends on the 
+predominant weed species and the availability of the herbicide. Generally, 
+chemical weed control in conjunction with manual weeding is most promising. 
+If a herbicide is used at planting, one hoe weeding or two may be required 
+at 4 and 7 weeks after planting. Application is recommended of a mixture 
+of Paraquat (300 ml) and Pendimethalin, Stomp, or Butachlor (200–250 ml) 
+depending on the soil type in a tank of 20 liter capacity applied immediately 
+after planting or the following day. Paraquat controls emerged grasses and 
+broadleaf weeds; Pendimethalin, Butachlor, or Stomp prevents weed seeds 
+from germinating. Do not apply herbicides that are not recommended for 
+cowpea to avoid damage to the plants.
+Guide to Cowpea Production in West Africa
+25
+Product trade 
+name
+Brand or common name Liters/hectare 
+(L/ha)
+Quantity per sprayer load Conditions of use Remarks
+Paraquat (For total 
+weed control
+Gramoxone, Paraquat, 
+Proxone, Weedex, Weedof, 
+Slasher, Agroxone, Dizmazone, 
+Paraforce, etc
+34 liters 250‒350	ml	in	15-L	sprayer	or	
+350‒450	ml	in	20	liter	knapsack	
+sprayer
+Contact herbicide. 
+Apply on non-
+cultivated land or 
+before planting
+Plant after the weed is burnt. 
+Do not mix Gramoxone with 
+glyphosate for use 
+Glyphosate (For 
+total weed control
+Round-up,	Kill-off,	T ouch-
+down, Delsate, Sarosate, 
+Glycel, Force-up, Cleenweed, 
+Glyphosate, Rhonasate
+4 liters 300 ml in 15-L or 450 ml in 20-L 
+sprayer
+Systemic herbicide. 
+Apply on emerged 
+weeds before land 
+preparation
+Apply	where	difficult	weeds	
+such as sedges are common. 
+Wait for 10 days after 
+application before preparing 
+the land and plant with or 
+without land preparation
+Pendimenthalin 
+(Used as pre-
+emergence and 
+post-emergence 
+to control annual 
+broadleaf weeds, 
+grasses, and 
+sedges)
+Stomp@440, Pendelin 2 liters in light 
+sandy soils, 3 
+liters in sandy 
+clay loam, 4 
+liters in sandy 
+clay
+150‒350	ml	in	15-L	knapsack	
+sprayer or 200-450 ml in 20-L 
+knapsack sprayer
+Apply immediately 
+after planting or a day 
+later but before weeds 
+emerge
+Apply	where	difficult	
+weeds such as Rottboellia 
+are common. Controls 
+Rottboellia. Do not plant or 
+replant any crop other than 
+those mentioned for one year 
+after application
+Paraquat plus 
+pendimenthalin 
+(500 EC) (For 
+pre-plant and pre-
+emergence weed 
+control
+Same as above 3 liters of 
+Paraquat 
+plus 3 liters of 
+Pendimenthalin
+250 ml Paraquat plus 250 ml 
+Pendimenthalin in 15- liter 
+sprayer or 350 ml of Paraquat 
+plus 350 ml of Pendimenthalin 
+in 20-L sprayer
+Same as above Apply immediately after 
+planting or the next day 
+Paraquart plus 
+Butachlor. For 
+pre-plant and pre-
+emergence weed 
+control
+Paraquat: same as
+ 
+above Butachlor: Teer, 
+Butaforce, Butaclear, Butacrop, 
+Butarice, Risene, Butacot, etc
+3 liters of
+ 
+Paraquat 
+plus 4 liters of 
+Butachlor
+250 ml Paraquat plus 350 ml 
+Butachlor in 15-L sprayer or 
+350 ml Paraquat plus 450 ml 
+Butachlor in 20-L sprayer
+Same as above Apply immediately after 
+planting or the next day 
+Paraquat plus 
+Dual Gold (Control 
+pre-plant and pre-
+emergent weeds
+Paraquat: same as above Dual 
+Gold
+3 liters of 
+Paraquat plus 
+2 liters of Dual 
+Gold
+250 ml Paraquat plus 200 ml 
+Dual Gold in 15-L sprayer or 
+350 ml Paraquat plus 250 ml 
+Dual Gold in 20-L sprayer
+Same as above Apply immediately after 
+planting or the next day 
+Table 10. Some recommended herbicides and application rates for weed control in cowpea.
+26
+Guide to Cowpea Production in West Africa
+Cowpea is susceptible to a wide range of pests and 
+diseases that attack the crop at all stages of growth. 
+These include insects, bacteria, fungi, and viruses. High 
+pest densities can cause complete loss of grain yield if no 
+control measures are taken.
+Pests and diseases
+Major biotic constraints to cowpea production  
+and productivity
+Parasitic weeds
+The two types of parasitic weeds that attack cowpea are Striga 
+gesnerioides and Alectra vogelii but Striga is more prevalent and 
+has	a	more	devastating	effect	than	Alectra in West Africa. Striga 
+gesnerioides is widespread in areas with low rainfall and poor 
+soil fertility , conditions that are common throughout the northern 
+Guinea and Sudan savanna zones as well as the Sahelian 
+region. The parasite uses its haustorium to penetrate the root 
+of the plant and sap the nutrients from the host to the Striga 
+Guide to Cowpea Production in West Africa
+27
+Striga gesnerioides parasitizing cowpea.
+seedling. It causes stunting, wilting. and yellowing between 
+the veins of cowpea leaves, resulting in the death of infested 
+plants. The problem becomes worse when soil moisture is 
+limiting.
+The seeds of these parasites can survive in soil for many years 
+(more than 20 years) until a susceptible variety is planted. 
+Striga can cause complete crop loss if left uncontrolled.  
+Cultural control measures include cowpea–cereal rotation, 
+nitrogen fertilizer, suicidal germination in a trap crop system, 
+28
+Guide to Cowpea Production in West Africa
+Alectra vogelii parasitizing cowpea.
+and herbicide control. However, the use of a resistant variety is 
+an	effective	and	affordable	option	for	the	control	of	Striga and 
+Alectra. Many varieties that are completely resistant to Striga and 
+Alectra are available in the West Africa sub-region.
+Guide to Cowpea Production in West Africa
+29
+Cowpea major diseases and their control
+Fungal,	bacterial,	and	viral	diseases	affect	cowpea.	Different	diseases	
+affect	different	parts	of	the	crop	at	different	stages	of	growth.	The	major	and	
+common diseases are anthracnose, Sclerotium stem, root, and crown rot, 
+damping	off,	Cercospora leaf spot, Septoria leaf spot, Fusarium wilt, Bacterial 
+blight, and scab.
+Fungal diseases
+Fusarium wilt:
+Fusarium wilt (FW) is caused by the fungal pathogen, Fusarium oxysporum f. sp. 
+tracheiphilum (Fot). It is one of the diseases that pose a major threat to cowpea 
+production worldwide. The disease causes substantial yield losses ranging from 
+50 to 100%. The occurrence and epidemic spread of this soil–borne disease are 
+influenced	by	factors	such	as	soil	nutrient	levels,	temperature, and moisture stress. 
+The fungal pathogen F. oxysporum has a wide host range, encompassing plants 
+in the Leguminosae, Malvaceae, and Solanaceae families and causes vascular 
+wilt. The pathogen enters the plant through the root system and invades the 
+vascular tissue. Infected plants exhibit reduction in plant growth, leaf chlorosis, 
+wilting, and vascular discoloration which result in the death of infected plants with 
+severe	overall	yield	loss.	Broad	irregular	patches	of	affected	plants	are	visible	in	
+infested	cowpea	fields.	The	disease is a soil-borne and seed-borne fungus that is 
+difficult	to	manage	through	fungicide	applications	alone.	The	most	cost-effective	
+and environmentally safe control is the use of resistant cultivars when they are 
+available. 
+Cowpea stem infected with Fusarium wilt.
+
+30
+Guide to Cowpea Production in West Africa
+Cercospora leaf spot (CLS) disease is caused by two fungi; 
+Cercospora canescens Ellis and Martin and Pseudocercospora 
+cruenta (Sacc.) Deighton (formerly Cercospora cruenta). Both 
+pathogens survive the no-crop period on infected crop residues 
+and in infected seeds. Pseudocercospora cruenta (Sacc.), is the 
+most widespread and most destructive diseases of cowpea in the 
+northern and Guinea savanna zones of West Africa. Most of the 
+CLS damage occurs late in the growing season when the crop’s 
+vegetative and reproductive parts are fully developed. The disease 
+attacks the leaves, causing a serious yield loss because of severe 
+defoliation. The disease not only reduces grain yield but can also 
+impair	fodder	quality	and	consequently	undermine	efforts	to	promote	
+crop-livestock integration. The disease is encountered during the 
+rainy season of relatively hot conditions and high humidity. 
+The disease symptom on infected plants presents necrotic spots 
+on the upper leaf surface and profuse masses of conidiophores 
+and conidia, appearing as downy grey to black mats, on the lower 
+leaf surface. CLS disease is seed-borne and seed transmitted. The 
+most	effective	means	to	control	economic	losses	from	CLS	is	using	
+cowpea varieties with genetic resistance to the disease. 
+Cercospora leaf spot infected leaves.
+Guide to Cowpea Production in West Africa
+31
+Bacterial blight disease
+Bacterial blight infected cowpea leaves.
+Bacterial blight of cowpea (CoBB), caused by the bacterium 
+Xanthomonas axonopodis pv. vignicola, is an important disease of 
+cowpea causing severe grain yield losses of more than 64-100% 
+in some areas of West Africa. The symptoms of CoBB appear as 
+tiny, water-soaked, translucent spots, which are more clearly visible 
+from the abaxial surface of the leaves. The spots enlarge, coalesce, 
+and develop into big necrotic spots, usually with a yellow halo, 
+and lead to premature leaf drop. The pathogen also invades the 
+stem causing cracking with brown stripes. Pod infection appears 
+as dark green water-soaked areas, from where the pathogen 
+enters the seeds and causes discoloration and shrivelling. CoBB 
+is seed-borne and the pathogen can be spread by wind-driven rain 
+and	insects.	Different	strategies	are	used	to	control	the	disease 	
+including cultural practices, intercropping, and application of 
+chemicals Cultivation of resistant cowpea varieties is the most 
+promising strategy to control the disease. 
+
+32
+Guide to Cowpea Production in West Africa
+Virus diseases
+Cowpea	are	severely	affected	by	a	range	of	virus	diseases	causing	
+significant	yield	and	economic	losses	owing	to	reduced	grain	
+production, poor quality seeds, and costs incurred in phytosanitation 
+and disease control. The majority of the viruses infecting cowpea 
+are	vectored	by	insects	(mainly	aphids,	beetles,	and	whiteflies),	and	
+some are seed-transmitted. Most of the virus infections result in foliar 
+symptoms such as mosaic and mottling, thickening/brittleness of 
+older leaves, wrinkling, leaf distortion, severe reduction in leaf size, 
+and stunting of plants resulting in yield losses ranging from 10 to 
+100%. Mixed infection with more than one virus is common under 
+field	conditions.	Seven	viruses	are	recognized	to	infect	cowpea	in	
+West	Africa.	Three	are	beetle-transmitted	[Cowpea yellow mosaic 
+virus  (CPMV), genus Comovirus; Cowpea mottle virus (CMeV), and  
+Southern bean mosaic virus (SBMV)];	two	are	aphid-borne	[Cowpea 
+aphid-borne mosaic virus (CABMV), genus Potyvirus, and Cucumber 
+mosaic virus (CMV), genus Cucumovirus];	two	are	whitefly-transmitted	
+[Cowpea golden mosaic virus (CPGMV), genus Bigeminivirus, Cowpea 
+mild mottle virus (CPMMV), genus Carlavirus]. The best way to control 
+virus disease is to grow a resistant variety or control the vectors where 
+applicable with insecticides. Rogue out plants with symptoms during 
+active growth.
+Cowpea yellow mosaic virus. Cowpea mottle virus. 
+Guide to Cowpea Production in West Africa
+33
+Insect Pests 
+Insect pest-damage poses a serious threat to sustainable cowpea 
+production	in	West	Africa,	particularly	during	the	flowering	and	
+post-flowering	growth	stages.	The	direct	damage	generally	causes	
+low yields and sometimes total yield losses and crop failures occur 
+owing to the activities of a spectrum of insect pests which ravage 
+the	crop	in	the	field	at	different	growth	stages	and	also	destroy	the	
+grain in the store. The most serious pest species attacking cowpea 
+include aphids (Aphis craccivora Fabricius),	whiteflies	(Bemisia 
+tabaci),	flower	thrips	(Megalurothrips sjostedti Trybom), pod borers 
+(Maruca vitrata Fab) and a complex of pod and seed-sucking bugs 
+such as Riptortus dentipes Fab, Clavigralla tomentosicollis Stal, 
+Anoplocnemis curvipes Fab, and Nezara viridula. Attack by these 
+insects is often so severe that farmers obtain no yields, especially 
+when improved varieties are grown without insecticide protection. 
+Pre-flowering pests of cowpea
+The	most	damaging	pre-flowering	insect	pests	of	cowpea	are	aphids	
+(Aphis craccivora),	and	whiteflies	(Bemisia tabaci). 
+Cowpea plant infested by aphids. 
+
+34
+Guide to Cowpea Production in West Africa
+Cowpea aphid-borne mosaic virus.
+Aphis craccivora feeds by piercing the plant tissue and sucking 
+sap from the under-surface of young leaves and stem tissues, 
+and on the pods of mature plants. The cowpea aphid causes 
+economic losses directly by sucking sap and indirectly through the 
+transmission of viral diseases. It not only causes direct damage to 
+the plant but also acts as a vector in transmitting Cowpea aphid-
+borne mosaic virus and Cucumber mosaic virus. Aphids excrete 
+large quantities of a sugary substance called honey dew which 
+supports the growth of sooty mold. This mold, a fungus, is dark 
+colored, and reduces the amount of sunlight that reaches the leaf. 
+The honeydew produced on the plant is evidence of aphids feeding 
+on the crop. Mild damp weather favors development of aphid 
+populations.	Chemical	control	can	be	effective	when	appropriate	
+chemical insecticides are used. See Table 10 for a list of chemical 
+insecticides to control this pest.
+Guide to Cowpea Production in West Africa
+35
+Whiteflies	cause	direct	damage	and	weaken	plants	by	sucking	
+sap and removing nutrients. The leaves become mottled and 
+yellowish. Damage may be more severe when plants are under 
+water stress. Infested plants may wilt; turn yellow, become stunted 
+or	die	when	infestations	are	severe	or	of	long	duration.	Whiteflies	
+not only cause direct damage to the plant but also act as a vector 
+in transmitting Cowpea yellow mosaic virus. The adults are small 
+with white wings which are densely covered with a waxy powder. 
+Nymphs are black and round or oval.  Chemical control can be 
+effective	when	appropriate	insecticides	are	used.	See	T able	10	for	
+a list of chemical insecticides to control this pest.
+Cowpea yellow mosaic.
+36
+Guide to Cowpea Production in West Africa
+Flowering Pests
+The	most	damaging	flowering	insect	pests	of	cowpea	are	
+thrips, (Megalurothrips sjostedti Trybom.) and Maruca. They 
+are frequently responsible for total crop loss. The adults are tiny 
+black slender insects with two pairs of feathery wings. Both adults 
+and the wingless larvae (nymphs) are attracted to white, yellow, 
+and	other	light-colored	flowers.	The	pest	feeds	on	flower	buds	
+and	flowers.	Attack	during	the	pre-flowering	period	may	damage	
+the terminal leaf bud and bracts causing the latter to become 
+deformed with a brownish-yellow appearance. Severely infested 
+plants	do	not	produce	any	flowers.	When	the	population	of	thrips 
+is	very	high,	open	flowers	are	distorted	and	discolored.	Flower	
+buds	and	flowers	fall	prematurely	without	forming	any	pods.	Yield	
+losses from this insect pest have been estimated at between 20 
+and	100%	in	different	parts	of	West	Africa.	Current	management	
+of thrips relies on chemical control with insecticides or the use of 
+a tolerant variety. See Table 10 for a list of chemical insecticides 
+to control this pest.
+Thrips	on	cowpea	flower.
+Guide to Cowpea Production in West Africa
+37
+Maruca 
+Among the cowpea pod borers, Maruca. vitrata is the most 
+widespread.	It	is	a	pre-	and	post-flowering	pest	and	feeds	on	every	
+part of the plant. The adult is a nocturnal moth, light brown with 
+whitish markings on its forewings, that lays eggs on the plant. The 
+larvae	that	emerge	damage	plants	in	the	field,	particularly	during	
+the reproductive stage, through feeding on the tender parts of 
+the	stem,	peduncles,	flower	buds,	flowers,	pods,	and	seeds.	The	
+damage symptom is the holes from feeding bored on the buds, 
+flowers,	or	pods.	Infested	pods	and	flowers	are	webbed	together.	
+This	pest	can	cause	a	significant	grain	yield	reduction	of	between	
+20 and 80% if not controlled with insecticides. Complete crop failure 
+may occur, especially in situations where management strategies 
+are not applied. No good sources of resistance have been found 
+within the cowpea genotypes. See Table 10 for a list of chemical 
+insecticides to control this pest. 
+Post-flowering pests
+Larvae boring into a cowpea pod.
+
+38
+Guide to Cowpea Production in West Africa
+Pod-sucking bugs (Anoplocnemis curvipes)
+This is a major pest of cowpea in tropical Africa. Yield losses 
+caused by A. curvipes vary from 30 to 70%.  It sucks the sap from 
+green pods, causing them to shrivel and dry prematurely, resulting 
+in seed loss. Plant tolerant cultivars and spray with recommended 
+insecticides. See Table 10 for a list of chemical insecticides to 
+control this pest. 
+Anoplocnemis curvipes on cowpea pod.
+
+Guide to Cowpea Production in West Africa
+39
+Storage pests
+Callosobruchus maculatus (Fabricius)
+The cowpea weevil, Callosobruchus maculatus (Fabricius) is a 
+cosmopolitan	field-to-store	pest	that	begins	its	attack	shortly	before	
+harvest and continues in storage where it develops. The adults lay 
+their eggs on the seeds and the larvae bore into grains, feeding on the 
+cotyledons	and	causing	substantial	losses.	The	damage	affects	the	
+quality	of	the	seeds	and	taints	the	taste	of	the	crops,	thus	affecting	the	
+market value. This beetle is responsible for most of the losses which 
+occur in stored cowpea seeds. The damage can be controlled by packing 
+cowpea or grain in PICS bags for either short or long-time storage.
+Cowpea seed damaged by weevil.
+Cowpea weevils laying eggs on cowpea seed.
+40
+Guide to Cowpea Production in West Africa
+There are various ways of controlling the insect pests of cowpea. 
+Most	specific	control	methods	can	be	classified	into	the	following	
+major categories: host plant resistance, and cultural, physical, 
+mechanical, biological, and chemical strategies. The two most 
+important and widespread methods are chemical control and 
+host plant resistance. Due to the complex pest problems, farmers 
+cannot plant cowpea without the use of chemical insecticide to 
+control them. Insecticide application is the most widely known 
+means of control in cowpea (Matteson 1982) because it is 
+effective,	convenient,	and	fast	acting.	For	now,	no	good	sources	
+of resistance gene(s) have been found within the genotypes for 
+most of the pests. However, the indiscriminate and excessive use 
+of chemicals by farmers makes the development of sustainable 
+integrated pest management (IPM) strategies imperative for pest 
+control. IPM strategies include the integration of a judicious use 
+of insecticides, resistant varieties, adjusted planting dates, close 
+spacing aimed to minimize the use of chemicals, and reduce the 
+harmful	effects	of	insecticides	on	man	and	the	environment	as	well	
+as minimize increases in resistance to insecticides. 
+The search for more sustainable methods of pest control through 
+host-plant resistance (HPR) is becoming more attractive every 
+day. Additionally, the opportunity for utilizing new insect resistance 
+genes and the ability to move these across plant species, through 
+plant	biotechnology,	open	new	doors	to	the	field	of	HPR.	
+General approaches  
+to insect pest control
+Guide to Cowpea Production in West Africa
+41
+Use of insecticides to control cowpea insect 
+pests on the field
+Because insecticides are mostly used by farmers to control 
+insect pests, there is a need for the applicator to understand 
+their proper handling and use for the  desired result.
+42
+Guide to Cowpea Production in West Africa
+Generally, 2–3 sprays with appropriate chemical insecticides are 
+required for a good crop of cowpea, depending on the variety and the 
+severity of insect attack. Late-maturing indeterminate varieties require 
+more sprays than early maturing varieties because of the staggered 
+flowering	period.	Adopt	the	following	spraying	regime	to	control	insects	
+using any of the insecticides listed in Table 10.
+First	spraying:	Conduct	the	first	spraying	between	30	and	35	days	
+(4–5	weeks)	after	planting	when	flower	bud	initiation	has	started.	This	
+will	control	flower	thrips	and	an	early	attack	of	Maruca	and	ensure	
+good	flowering	(7–9	weeks).	For	varieties	susceptible	to	aphids,	one	
+spraying may be needed at seedling stage, 14–21 days after planting 
+using “Imiforce” insecticide. Other recommended insecticides and the 
+application rates are presented in Table 10.
+Second spraying: Conduct the second spraying 10 days afterwards 
+when	the	crop	is	in	full	flowering	and	podding	to	control	Maruca	
+and other sucking or chewing insects. Insecticides that contain 
+both contact and systemic action can be used. The recommended 
+insecticides and the application rates are presented in Table 10.
+Third spraying: Conduct the third spraying when necessary, 10 days 
+after the second spraying for medium varieties and when there is attack 
+of Maruca and pod sucking bugs. A fourth spraying may be necessary 
+for late maturing indeterminate varieties. Insecticides that contain 
+both contact and systemic action can be used. The recommended 
+insecticides and the application rates presented in Table 10.
+Spraying regime
+Guide to Cowpea Production in West Africa
+43
+Product trade name Brand or 
+common name
+Application 
+rate
+Estimate for one 
+sprayer load
+Mode of 
+action
+Remarks
+Lamda-cyhalothrin 
+2.5% EC (Insecticide)
+Lamda-Cyhalothrin 
+Glysprin
+Karate 2.5 EC, 
+Kartodim 315EC
+0.4– 0.8
+ L/ha
+0.8–1 L/ha
+35‒70	ml	in	15-L	
+sprayer or 50-80 ml 
+in 20-L sprayer
+50‒60	ml	in	15-L	
+knapsack sprayer 
+or 70-80 ml in 20-L 
+knapsack sprayer
+Contact and 
+stomach 
+insecticide
+Systemic 
+action
+Controls	flying	and	soil-
+dwelling insects such as 
+whiteflies	and	aphids
+Controls sucking pests 
+such Maruca and pod 
+sucking bugs
+Perfekthion Rogor 1–1.5 L/ha 60‒80	ml	in	15-L	
+sprayer or 80-100 ml 
+in 20-L sprayer
+Systemic 
+action
+Controls plant sucking 
+insects such as Maruca 
+and pod sucking bugs
+Lambda-Cyhalothrin 
++
+Chlorantraniliprole
+Ampligo 12 sachets 
+(180 ml)/ha
+1 sachet (15 ml) 
+in 20-L knapsack 
+sprayer
+Contact and 
+systemic 
+action
+Controls sucking and 
+chewing insects such 
+Maruca and pod sucking 
+bugs
+Cypermethrin 
+plus Dimethoate 
+insecticide
+Best Action, 
+Cyperdiforce, 
+Superplus, 
+Sherpaplus
+80‒100	mL	in	15-L	
+sprayer or 100-120 
+ml in 20-L sprayer
+Systemic 
+action
+Controls plant sucking 
+insects such Maruca and 
+pod sucking bugs
+Profenofos plus 
+Cypermethrin
+Sharp Shooter 1-1.5 L/ha 100‒120	ml	in	20-L	
+knapsack sprayer 
+depending on 
+severity of infestation
+Broad 
+spectrum 
+Kills insects such as 
+aphids, thrips, whiteflies.	
+and Maruca
+Imidaclorid ImiForce 220 GL 
+SL (comes in 250 
+ml plastic bottles)
+15 ml in 15-L 
+knapsack sprayer or 
+20 ml in 20-L sprayer 
+Systemic 
+action as well 
+as contact 
+and stomach 
+poison 
+Active against aphids and 
+whiteflies
+Table 11. Some recommended insecticides for control of insect pests in cowpea.
+44
+Guide to Cowpea Production in West Africa
+Types of insecticides’ mode of action
+Insecticides	can	be	classified	into	two	major	groups:
+Systemic insecticide: The chemicals are absorbed by the plant when sprayed 
+and then work from the inside of the plant when the insect feeds on it.
+Contact insecticide:	The	chemical	works	effectively	only	where	it	touches	the	
+target	insect	on	the	field.
+External factors to consider when spraying 
+The	following	weather	conditions	and	external	factors	will	have	an	influence	on	
+the	efficiency	of	spraying.
+Wind: Spraying in very windy conditions is not recommended because the 
+wind causes the droplets to drift from the target. Wind can be tolerated to 
+some extent by using nozzles that produce bigger droplets (Fig. 4), but 
+spraying is not recommended in wind with speeds of more than 6 km/hr.
+Day temperature: Do not spray during the hottest time of the day because the 
+smaller droplets tend to evaporate into the air. The sprayed chemical will not 
+reach the target, and this will result in a waste of money.
+Crop stage:	Crop	stage	and	density	have	an	influence	on	the	choice	of	
+volume rate applied. The bigger the crop, the higher the spray volume rate in 
+L/ha that must be applied to get good spray coverage (Fig. 4).
+Method of spraying insecticides
+The most common methods of applying insecticides are the following:
+•	 Knapsack	(high-volume)	sprayers.	Examples	are	CP-3	or	CP-15.	SP 	15,	
+Dami 16D, Jacto 20/16.
+Guide to Cowpea Production in West Africa
+45
+Figure 4. A Research officer giving instruction on type of nozzle to use.
+a
+46
+Guide to Cowpea Production in West Africa
+•	 ULV	(Ultra-low-volume)	sprayers	(with	yellow	nozzle).	 This	could	be	
+adopted in areas where water is a serious problem, as in the Sahel 
+savanna of West Africa.
+Apply any of the recommended insecticides early in the morning or late  
+in the evening.
+•			Use	conical	nozzles	when	spraying	insecticides	with	knapsack	sprayers.
+Handling, storage, and transport of insecticides
+Insecticides are toxic to both pests and humans. If used 
+improperly, insecticides can poison people, pets, and livestock. They also can 
+damage	beneficial	insects,	birds,	fish,	and	other	wildlife;	harm	desirable	plants;	
+and may contaminate soil and groundwater. Some of the precautions that 
+must be taken during transport, storage, and handling of insecticides are 
+highlighted below.
+Label
+Read the label carefully; it should be written in either English or French, and 
+indicate the contents, safety instructions, and possible measures to be taken 
+in the event of swallowing or contamination. Insecticides should always be 
+stored in their original labelled containers with the labels clearly visible.
+Spraying
+The discharge from the sprayer should be directed away from the body. 
+Leaking equipment should be repaired and the skin should be washed after 
+any accidental contamination. 
+Storage 
+Pesticides	should	be	stored	in	a	safe,	secure,	and	well-identified	place	that	
+is not accessible to unauthorized people or children. Insecticides should 
+never be kept in a place where they might be mistaken for food or drink. 
+Keep	them	dry	but	away	from	fires	and	out	of	direct	sunlight.		Insecticides	
+Guide to Cowpea Production in West Africa
+47
+must be stored in tightly sealed containers. Check containers periodically 
+for leakage, corrosion breaks, tears, etc. Make sure that storage areas for 
+insecticides are well-ventilated to prevent the accumulation of toxic fumes. 
+Always	store	different	types	of	insecticides	in	different	areas,	to	prevent	cross-
+contamination and the possibility of applying a product inadvertently.  Never 
+store pesticides in old bottles or food containers where they could be mistaken 
+for food or drink for humans or animals. 
+Transport
+Insecticides are most safely transported in the beds of trucks. They should 
+never be transported in the passenger compartment of any vehicle nor in 
+the same compartment as food, feed, or clothing. Pesticide containers made 
+of paper, cardboard, or similar materials should be protected from moisture 
+during transport.
+Disposal
+Left-over insecticide suspension can be safely discarded by being poured into 
+a pit latrine or a hole in the ground especially dug at least 100 m away from 
+streams, wells, and houses. It should not be unloaded where it may enter 
+water	used	for	drinking	or	washing,	fish	ponds,	or	rivers.	In	a	hilly	area	the	
+hole should be dug on the lower side of such areas. 
+Protective clothing
+Spray workers should wear overalls or shirts with long sleeves and trousers, 
+a broad-brimmed hat, a turban or other headgear, and sturdy shoes or boots. 
+The mouth and nose should be covered with a simple device such as a 
+disposable paper mask, a surgical-type disposable or washable mask, or any 
+clean piece of cotton. The cotton should be changed if it becomes wet. The 
+clothing should be of cotton for ease of washing and drying. It should cover 
+the body without leaving any openings. In hot and humid climates, the wearing 
+of additional protective clothing may be uncomfortable and pesticides should 
+therefore be applied during the cooler hours of the day.
+48
+Guide to Cowpea Production in West Africa
+Maintenance
+Clothing should be kept in a good state of repair and should be inspected 
+regularly for tears or worn areas through which skin contamination might 
+occur. Protective clothing and equipment should be washed after use with 
+soap, separately from other clothing. Gloves need special attention and should 
+be replaced when there is any sign of wear and tear. After use, gloves should 
+be	rinsed	with	water	before	they	are	taken	off.	At	the	end	of	each	working	
+day they should be washed inside and outside. Spray equipment should be 
+regularly cleaned and maintained to prevent leakages.
+Guide to Cowpea Production in West Africa
+49
+Harvesting for dry seeds
+Cowpea must be harvested as soon as the pods are fully mature and 
+dry	to	avoid	infestation	in	the	field	because	most	of	the	storage	pests	
+are	field-to-store	pests.	Harvesting	is	done	by	hand	picking	the	pods	
+(Fig. 5a). For early maturing and erect varieties, one picking may be 
+sufficient.	For	indeterminate	and	prostrate	varieties,	the	dried	pods	can	
+be picked two or three times as they do not mature at the same time 
+because	of	the	staggered	flowering	period.	After	harvest,	sun-dry	the	
+pods on a platform or tarpaulin for proper drying before threshing (Fig. 
+5b). Thereafter, thresh the pods and winnow to separate the seeds from 
+the	chaff	or	haulms.	The	seeds	are	further	cleaned	to	remove	debris	
+and broken ones and packed in plastic bags for storage. 
+Figure 6. Sun-drying of harvested cowpea 
+pods before threshing.
+Figure 5. Harvesting mature pods of IT90K 277–2. 
+50
+Guide to Cowpea Production in West Africa
+Postharvest processing
+Storage
+Clean out the store thoroughly before a new crop is loaded. Old 
+residues should be burned. Only well-dried and properly cleaned 
+seeds should be stored (Figs. 7a and 7b). The safe moisture 
+content for storage is 7-8%; such seeds make a cracking sound 
+when crushed between the teeth. High moisture content and 
+high humidity during storage decrease seed viability. There are 
+various hermetic products for storage; the main one is PICS 
+bags (multi-layer, made of 2 polyethylene bags), but plastic 
+bottles and clay pots are also used.
+Figure 7. Cowpea seeds (a) not properly cleaned and 7b) properly cleaned.
+Guide to Cowpea Production in West Africa
+51
+Storage pests and their control
+One of the biggest challenges that confront grain farmers and merchants 
+is	how	to	effectively	store	their	products.	The	most	important	storage	pest	
+of cowpea is the weevil (bruchid) called Callosobruchus maculatus. Severe 
+infestation	can	lead	to	total	grain	loss	in	storage.	It	is	a	field-to-store	pest;	
+adult	beetles	lay	eggs	on	pods	(in	the	field)	or	on	seeds	(in	storage).	
+After hatching, the larvae develop within seeds and eat up the cotyledon, 
+thereby causing extensive damage. Adults emerge from the seeds 
+through characteristic holes made by the larvae. The holes make it easy to 
+recognize infested seeds (Fig. 8). Adopt store hygiene and fumigation and 
+use airtight containers to control bruchids.
+Figure 8. Poorly stored cowpea seeds (damaged by weevils).
+Short-time storage for grain without the use of chemicals
+Store the grain in airtight containers, such as sealed oil drums, locally 
+constructed tanks, high-density plastic sacks or butyl rubber bags, or mix 
+5 ml of groundnut oil with 1 small mudu (1 kg) of grain. Store seeds in 
+polythene triple bagging, hermetic storage, and keep rodents away.
+Postharvest processing
+52
+Guide to Cowpea Production in West Africa
+Long-time storage for seeds and grains without the 
+use of chemicals
+Good storage prevents losses and maintains grain quality. Before new 
+produce	is	brought	in,	repair	all	cracks	in	walls,	floors.	and	roofs	to	deny	
+pests any hiding places; dust the stores/ granaries with appropriate 
+contact insecticides such as Permethrin or Pirimiphos Methyl before 
+storing produce. The method known as the Purdue Improved Cowpea 
+Storage (PICS) bag uses non-chemical, hermetic storage. The PICS 
+bag is composed of three layers: two inner layers of high-density 
+polyethylene and an outer layer of ordinary woven polypropylene. This 
+triple bag technology has been introduced in West, Central and East 
+Africa where farmers are exposed to harmful chemicals while protecting 
+their cowpea grain against insects. The PICS method works by sealing 
+cowpea in an airtight container; this which kills all the adult insects and 
+most of the larvae within days. At the same time the triple bags keep 
+the remaining larvae dormant and unable to damage the seeds (Fig. 9). 
+With the introduction of the PICS bag, cowpea can be stored without 
+the use of hazardous chemicals, and rodents kept away.
+Figure 9. Cowpea storage in triple PICS bag.
+Guide to Cowpea Production in West Africa
+53
+Long-time storage for seeds and grains with chemical
+Repair	all	cracks	in	walls,	floors,	and	roofs	to	deny	hiding	places	to	
+insect pests and fumigate the stores/granaries with the appropriate 
+contact insecticides such as Permethrin or Pirimiphos Methyl before 
+storing produce. 
+Phosphine has been widely used as a grain fumigant for the control 
+of storage pests for many years. Aluminum phosphide is marketed as 
+Phostoxin, Cyclotoxin, Forcetoxin, Protex, Gastoxin, etc. Fumigants are 
+gases and therefore self-dispersing and non-persistent. The techniques 
+work by holding grain in a gas-tight enclosure in a gaseous atmosphere 
+that will kill or limit agents of biodeterioration (Dramani 2010). The 
+chemical is applied at the rate of 1 tablet per 100 kg sack of cowpea 
+in an air-tight container but not directly on the grain. Place the tablet 
+in a paper envelope or wrap it securely in tissue paper and placed in 
+the middle of the grain. Through fumigation, in which the insecticide in 
+gaseous form penetrates the stored product, insects are killed when 
+they inhale the poisonous gas. Fumigants are gases and therefore self-
+dispersing and non-persistent. The fumigant can provide protection for 
+up to six months, provided the storage container is airtight. For dust 
+formulation, Pirimiphos Methyl (Actellic) can be used for cowpea, at a 
+rate of 200–500 g per 1000 kg grain. Dust is a mixture of insecticide with 
+inert powder. It is mixed with the grain at the time of storage before the 
+produce is bagged. The produce to be mixed with the dust insecticide 
+must	be	dry	and	evenly	mixed.	Dust	can	also	be	used	on	floors	around	
+the bottom and top of the storage containers. When properly used, dust 
+insecticide could provide protection for between 6 and 9 months. After 
+storage the produce must be thoroughly cleaned of the dust or exposed 
+to the sun before it can be used for consumption. Actellic EC can be 
+mixed with water to be sprayed on grain prior to storage at the rate of 
+0.5–1 liter in 5–10 liters of water per 1000 kg of grains. The grain must 
+be thoroughly mixed with the spray liquid and properly dried before 
+being bagged for storage. 
+54
+Guide to Cowpea Production in West Africa
+Please note that insecticides that need a long time to degrade and leave 
+residues in the products are unsuitable for use on stored produce.
+Precautions when using chemicals to store cowpea
+1. Do not use Phostoxin directly without wrapping it or in a container 
+that is not airtight.
+2. Do not store cowpea treated with Phostoxin in a living room or animal 
+house.
+3. Remove and dispose of the Phostoxin residue and expose grain in 
+the open air for 1–2 hours before use.
+Guide to Cowpea Production in West Africa
+55
+References
+Dramani,	K.	2010.	Comparative	study	of	cowpea	storage	in	different	storage	structures.	
+Kumasi: Kwame Nkrumah University of Science and Technology. http://ir.knust.edu.
+gh/bitstream/123456789/729/1/DRAMANI-KARIMU.pdf.
+Dugje, I.Y., L.O. Omoigui, F. Ekeleme, A.Y. Kamara, and H. Ajeigbe. 2009. Farmers’ 
+Guide to Cowpea Production in West Africa. International Institute of Tropical 
+Agriculture, Ibadan, Nigeria. 20 pp.
+FAO. (Food and Agriculture Organization). 2017.  FAO-Statistics. http://apps.fao.org/
+dataset?entryId=29920434-c74e-4ea2-beed-01b832e60609
+Kamara, A.Y., A. I. Tofa, S. Kyei-Boahen, R. Solomon, H. A. Ajeigbe, and N. Kamai. 
+2016.	Effects	of	plant	density	on	the	performance	of	cowpea	in	Nigerian	savannas	
+Experimentall Agriculture. Page 1 of 13. doi:10.1017/S0014479716000715
+Kamara, A.Y., L.O. Omoigui, N. Kamai, S.U. Ewansiha, and H.A. Ajeigbe. 2018. 
+Improving cultivation of cowpea in West Africa. Pages 236–252 in Achieving 
+sustainable cultivation of grain legumes, Vol. 2, Improving cultivation of grain 
+legumes, edited by S. Sivasankar, D. Bergvinson, P. Guar, S. Beebe, and M. Tamo. 
+Burleigh Dodds, Science Publishing, Cambridge, UK, 2018. 
+Kormawa, P.M., V.M. Manyong, and J.N. Chianu. 2000. Cowpea demand and supply 
+patterns in West Africa: Case of Nigeria. Paper presented at the World Cowpea 
+Conference III 4-7 September organized by IITA, Ibadan, Nigeria.
+Matteson,	P .C.	1982.	The	effects	of	intercropping	with	cereal	and	natural	enemies	in	
+Nigeria. Tropical Pest Management 28: 373–380
+Singh, B.B. and S.A.Tarawali. 1997. Cowpea and its improvement: Key to sustainable 
+mixed crop/livestock farming systems in West Africa. Pages 79–100 in Crop 
+Residues in Sustainable Mixed Crop/Livestock Farming Systems, edited by C. 
+Renard. CAB in Association with ICRISAT and ILRI, Wallingford, UK. 
+Guide to Cowpea Production in West Africa
+57

@@ -1,0 +1,578 @@
+# Handbook on Value Addition in Grain Legume Processing — Soybean, Cowpea and Groundnut
+# publisher: CGIAR, via CGSpace
+# year: 2018
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/e491a2aa-7875-4fcd-97ca-f6b3873e5fb7/content
+# attribution: Handbook on Value Addition in Grain Legume Processing (2018)
+# ghana_specific: False
+# extent: 29 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Transforming African Agriculture
+Handbook on value addition 
+on grain legume processing 
+of soybean, cowpea, and 
+groundnut for smallholder 
+farmers in Borno State
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hassana Pindar, Nkeki Kamai, 
+Fred Kanampiu, Alpha Yaya Kamara
+www.iita.org
+International Institute of Tropical, Agriculture
+IITA-Kano, Nigeria
+2018
+i
+Handbook on value addition 
+on grain legume processing 
+of soybean, cowpea, and 
+groundnut for smallholder 
+farmers in Borno State
+Hassana Pindar, Nkeki Kamai, 
+Fred Kanampiu, Alpha Yaya Kamara
+International Institute of Tropical Agriculture, Ibadan
+November 2018
+  
+ii
+Published by the International Institute of Tropical Agriculture (IITA) 
+Ibadan, Nigeria. 2018
+IITA is a non-profit institution that generates agricultural innovations to meet Africa’s 
+most pressing challenges of hunger, malnutrition, poverty, and natural resource 
+degradation. Working with various partners across sub-Saharan Africa, we improve 
+livelihoods, enhance food and nutrition security, increase employment, and preserve 
+natural resource integrity. It is a member of the CGIAR System Organization, a global 
+research partnership for a food secure future.
+International address:
+IITA, Grosvenor House,  
+125 High Street
+Croydon CR0 9XP, UK
+ 
+Headquarters:
+PMB 5320, Oyo Road
+Ibadan, Oyo State
+ISBN 978-978-131-354-7 
+Correct Citation: H. Pindar, N. Kamai, F. Kanampiu, A.Yaya Kamara. 2018. Value 
+addition to grain legume processing of cowpea, groundnut, and soybean to 
+smallholder farmers in Borno State. International Institute of Tropical Agriculture, 
+Kano, Nigeria. 27 pp.
+Printed in Nigeria by IITA
+Cover photo: Plate 1 Women watching cheese cutting process. Plate 2 Soaked, 
+cooked soybean seed. Plate 3 Fried soy and cowpea cake (Kosai). Plate 4 Soy 
+kebab. Plate 5 Soymilk.
+
+iii
+ Contents 
+  Acknowledgement……………………………………………………………….....………..v
+  Introduction………………………………………………………………………………..….1
+  Processing and preparation of grain legumes…………….………………………..……..1
+  Production, importance, and consumption of grain legumes….…...........................….3
+  Cowpea………………………………………....................................………………….....3
+  Groundnut……………………................…………………………………….........… …….4
+  Soybean………….………………………………………………......…………...………….6
+  Grain legume nutritional value......................................................................................8
+  Grain legume (cowpea, groundnut, and soybean) recipe development ......................9 
+  Processing and preparation of recipes
+Soymilk........................................................................................... ............... ....10
+Tom Brown (weaning feed).................................................................................11
+Soy Cheese .......................................................................................................12
+Kebab.................................................................................................................13
+Soy Omelet.........................................................................................................14
+Cowpea cake (Akara) ........................................................................................15
+Soybean Vegetable Soup............................................................... ................ ...16
+Groundnut cake (Kulikuli) and oil............................................. ..........................17
+  Glossary………………………………….………..…………………………………………19
+  Related readings….…………….…………………………………………………………..20
+  About the handbook.......................................................................... ..........................21
+iv
+Nigerian woman processing soybean cakes
+v
+Acknowledgement
+The author wishes to acknowledge Jummai Auta, Hauwa Ali, and Ruth Dasika for 
+the time and support in the practical demonstration of the dishes prepared. I wish 
+to thank Dr Mrs Mshelia, the former Head of Home Economics, Kashim Ibrahim 
+College of Education, Maiduguri for taking time to proofread the draft document and 
+offer suggestions. I wish to acknowledge Dr Joshua Pindar for his patience while I 
+wrote the handbook, and for his comments and suggestions. I wish to thank Dr Nkeki 
+Kamai for making this work a reality. Finally, I wish to appreciate Dr Alpha Y.Kamara 
+for his continuous advice to the N2Africa Borno project team. Funds for this work 
+were provided by a grant to the N2Africa Borno Project from Bill &Melinda Gates 
+Foundation. 
+vi
+1
+Introduction
+N2Africa is putting Nitrogen fixation to work for smallholder farmers in Africa 
+through enhancing the yield of grain legumes and expanding the farm area cropped 
+with legumes to improve income food and nutrition security. It is a large-scale, 
+science-based, research-in-development project funded by the Bill &Melinda Gates 
+Foundation with a vision of building a sustainable, long-term partnership to enable 
+African smallholder farmers to benefit from symbiotic N-fixation by grain legumes 
+through effective production technologies, including inoculants and fertilizers. 
+This project was being implemented in 11 countries including Nigeria. In Nigeria it is 
+implemented Niger, Kaduna, Kano, Kwara, Benue, Sokoto, Kebbi, and Borno states 
+and the FCT focusing on cowpea, groundnut, and soybean. The implementation of 
+N2Africa Nigeria was coordinated by the International Institute of Tropical Agriculture 
+(IITA).
+Upon the request of the Borno State government in the context of an upcoming 
+polio vaccination campaign, N2Africa was requested to explore strategies to 
+expand its target area to Borno State, North eastern Nigeria. Borno State is one of 
+the largest producers of cowpea, groundnut, and increasingly soybean in Nigeria. 
+Agroecologically, Borno State includes the Sahel savanna, Sudan savanna, and 
+northern and southern Guinea agroecological zones. The two latter agroecological 
+zones are like those found in Kano, Kaduna, and Niger states, where N2Africa is  
+involved in cowpea, groundnut, and soybean intensification.
+N2Africa Borno works in four Local Government Areas (Bayo, Biu, Hawul, and 
+Kwaya Kusar) with 40 communities in Borno.
+Cowpea, groundnut, and soybean are gaining ground in the State due to their 
+potential in fighting Striga and improving soil nutrients.
+Most women derive their means of livelihood from processing activities in Borno 
+State, therefore the knowledge and skills in grain legume processing and utilization 
+will help the people in the State improve their nutritional intake and generate income 
+from sales of the processed products.
+Processing and preparation of grain legumes
+The quality of food is of primary importance in determining consumer acceptance. 
+Most raw foods must undergo some processing to attain a quality acceptable to 
+2
+consumers. The processing of food for human consumption aims at improving the 
+flavor, texture, and color and removing toxic substances. Legumes especially present 
+problems that make their acceptance to consumers limited. Some of these problems 
+include long cooking periods for grains, low digestibility of their protein and fiber, and 
+deleterious biological factors some of which involve toxins in soybean.
+Different recipes can be developed and prepared using cowpea, groundnut, and 
+soybean for fortification of various dishes. Soybean can be prepared as drinks, 
+snacks, meat, confectionary, baby weaning foods, and in fortification of cereals. 
+Cowpea and groundnut can be also prepared whole, mixed, and in fortification of 
+cereals.
+This handbook contains recipes developed and prepared using cowpea, groundnut, 
+and soybean.
+Equipment used in recipe development are all 
+locally available as listed below
+1. Tablespoon
+2. Teaspoon
+3. Measuring bowl
+4. Cup
+5. Knife
+6. Tray
+7. Chopping board
+8. Bucket
+9. Basin
+10. Wooden spoon 
+3
+Production, importance, and consumption of 
+grain legumes
+Cowpea
+Cowpea is a food and animal feed crop grown in the semi-arid tropics covering 
+Africa, Asia, Europe, United States, and Central and South America. It originated 
+from and was domesticated in southern Africa and was later carried to East and West 
+Africa and Asia. The grain contains 25% protein and several vitamins and minerals. 
+The plant tolerates drought, performs well in wide variety of soils, and being a 
+legume, replenishes low fertility soil when the roots are left to decay. It is grown 
+mainly by small-scale farmers in developing regions where it is often cultivated 
+with other crops as it tolerates shade. It also grows and covers the ground quickly, 
+preventing erosion.
+The name “cowpea” was probably derived from when it was an important livestock 
+feed for cows in the United States. Cowpea has high protein content. Its adaptability 
+to different types of soil and intercropping systems, its resistance to drought, its 
+ability to improve soil fertility and to prevent erosion makes it an important economic 
+crop in many developing regions. The sale of the stems and leaves as animal feed 
+during the dry season also provides vital income for farmers.
+Cowpea is of importance to livelihoods of relatively poor people in less developed 
+countries of tropics including south sudan, especially where animal protein is not 
+easily available for the family. It is an important crop in the agriculture of African 
+countries and south sudan in particular for the following reasons.
+4
+More than 5.4 million tons of dried cowpea is produced worldwide with Africa 
+producing nearly 5.2 million tons. Nigeria, the largest producer and consumer, 
+accounts for 61% of production in Africa and 58% worldwide. Africa exports and 
+imports a negligible amount.
+Harvesting
+More than 11 million hectares of cowpea are harvested worldwide, 97% from Africa. 
+Nigeria harvests 4.5 million hectares annually. The crops can be harvested in three 
+stages; when the pods are young and green, mature and green, and mature and dry.
+Consumption
+All parts of the cowpea crop are used as all are rich in nutrients and fiber. In Africa, 
+humans consume the young leaves, immature pods, immature seeds, and the 
+mature dried seeds. The stems, leaves, and vines serve as animal feed and are 
+often stored for use during the dry season. Fifty-two percent of Africa’s production is 
+used for food, 13% as animal feed, 10% for seeds, 9% for other uses, and 16% is 
+wasted.
+Regional preferences occur for seed size, color, and texture of seed coat. For 
+example, Ghanaians are willing to pay a premium for black-eyed peas, while 
+Cameroonians would lower their prices for them. More than 4 million tons of peas of 
+all sorts are consumed worldwide, with 387,000 tons consumed in Africa.
+Groundnut
+
+5
+Groundnut or peanut (Arachis hypogea) is a crop grown in the arid and semi-arid 
+zone of Nigeria. It is either grown for its nuts, oil, or its vegetative residue(haulms). 
+Recently the use of groundnut meal has become more recognized not only as a 
+dietary supplement for children in protein-poor, cereals-based diets, but also as an 
+effective treatment for children with protein-related malnutrition.
+Groundnut is the 13th most important food crop of the world and the 4th most 
+important source of edible oil. Its seed contain high quality edible oil (50%), it is an 
+easily digestible protein (25%), and a carbohydrate (20%) (FAO 1994).The crop is 
+mainly grown in the northern part of Nigeria; over 85% of the groundnut produced in 
+the country is accounted for by Kano, Kaduna, Taraba, Bauchi, Borno, and Adamawa 
+states (Abel and Harness 1978).
+Importance
+Groundnut sauce prepared with onions, garlic, peanut butter/paste with vegetables 
+such as carrot, cabbage, and cauliflower (the peanut supplying ample protein) or 
+prepared with meat, usually chicken. Groundnut is used in Mali meat stew “maafe”. 
+In Ghana, groundnut butter is used for peanut butter soup “nkate nkwan”. Crushed 
+ground nut may also be used for peanut candynkate cake and Kuli Kuli, as well as 
+other local foods such as Oto. Groundnut butter is also an ingredient in Nigeria’s 
+“African salad”. Groundnut powder is an important ingredient in spicy coating for 
+kebabs in Nigeria and Ghana.
+Production
+Nigeria is the fourth largest producer of groundnut in the world and the highest 
+producer in Africa with1.55 million tons. Groundnut grows best in light, sandy loam 
+soil. It requires five months of warm weather, and an annual rainfall of 500 to 1000 
+mm or the equivalent in irrigation water.
+The pods ripen from 120 to 150 days after the seeds are planted. If the crop is 
+harvested too early, the pods will be unripe. If they are harvested late, the pods will 
+snap off the stalk and will remain in the soil. They need an acidic to neutral soil to 
+grow preferably with 5.9–7 pH. In tropical Africa, an average yield for groundnut is 
+300–1000 kg/ha; with good management practices and proper disease control, yields 
+of up to 5 tons per hectare can be achieved.
+6
+Harvest
+Harvesting usually consists of a series of operations comprising digging, lifting, 
+winnowing, stocking, and threshing. Some of these tasks can be combined or 
+eliminated depending on the system applied. Among the field operations concerned 
+with groundnut cultivation, harvesting is the most laborious and costly. Harvesting 
+should be done when the crop reaches physiological maturity, i.e., when a few leaves 
+turn brown and the inner ribs of the groundnut are brown in color. All the pods will be 
+recovered when pulled out of the soil.
+Harvesting groundnut may sometimes become a problem especially when the crop 
+has passed the stage of full maturity and the soil has hardened. An appreciable 
+number of pods could be lost if care is not taken; this makes the harvest labor 
+intensive.
+Consumption
+Groundnut is rich in protein, fat, and nutrients. In Africa and Nigeria, groundnut is 
+consumed as candy when roasted, as fat when processed into oil, and as a snack 
+when processed into cake (kuli kuli). The stem, leaves, and vines serve as animal 
+feed and are often stored for use during the dry season.
+Soybean
+
+7
+Soybean is a leguminous vegetable of the pea family that grows in tropical, sub-
+tropical, and temperate climates. Soybean was domesticated in the 11th Century BC 
+around north-east China. It is believed that it might have been introduced to Africa in 
+the 19th century by Chinese traders along the east coast of Africa.
+Importance
+Soybean consists of more than 36% protein, 30% carbohydrate, and excellent 
+amounts of dietary fiber, vitamins and minerals. It also consists of 20% oil which 
+makes it the most important crop for producing edible oil. Many leguminous crops 
+provide some protein, but soybean is the only available crop that provides an 
+inexpensive and high-quality source of protein comparable to meat, poultry, and 
+eggs.
+A by-product from the oil production (soybean cake) is used as a high-protein animal 
+feed in many countries. Soybean also improves soil fertility by adding nitrogen from 
+the atmosphere. This is a major benefit in African farming systems, where soils have 
+become exhausted by the need to produce more food for increasing populations and 
+where fertilizers are hardly available or too expensive for farmers.
+Production
+More than 216 million tons of soybean were produced worldwide in 2007 of which, 
+1.5 million tons were from Africa. Africa imports nearly as much soybean as it 
+produces. Nigeria is the largest producer of soybean in sub-Saharan Africa (SSA) 
+followed by South Africa. Low yields (less than one ton per hectare in tropical 
+Africa) and a shortage of fertilizer constrain the ability of some countries to increase 
+production. In Nigeria the haulms and the post-processed pulp (soybean meal) 
+serves as important sources of animal feed. A 30% annual growth in the poultry 
+industry, from 2003–2008 fueled such a demand for soybean meal that an increase 
+in imports was required.
+Commercial soybean production on large farms takes place in Zambia, Zimbabwe, 
+and South Africa. However, it is mostly cultivated by small-scale farmers in other 
+parts of Africa where it is planted as a minor food crop among sorghum, maize or 
+cassava.
+8
+Harvesting
+Nearly 95 million hectares of soybean were harvested worldwide in 2007, with 
+19 million in Asia, 3.5 in the United States, and 1.2 in Africa. Depending on the 
+variety, soybean can be harvested between 100 and 150 days after planting. Labor 
+requirements in Africa are high since most cultivation and harvesting are done 
+manually.
+Consumption
+Consumption of soybean is 11 million tons worldwide. Africa consumes about 
+618,000 tons annually, and uses 4800 tons for animal feed. Nigeria is the largest 
+consumer of soybean in SSA followed by Uganda. In Africa, dry soybean is used to 
+produce milk substitutes and flour. The bean curd is fried and eaten as a snack or 
+breakfast food. Mature beans are not easily digested and contain toxic compounds 
+which require soaking and prolonged cooking.
+Grain legume nutritional value
+Legume foods not only offer excellent sources of protein and carbohydrates, but also 
+fat with varying concentrations in each legume. They also provide rich minerals and 
+vitamins. The leaves and the pod have high concentrations of essential nutrients. 
+Legumes also contain significant fiber, potassium, iron, sodium, and other B complex 
+vitamins.
+Legume
+Edible 
+part Protein% Fat %
+Carbo-
+hydrate %
+Ca 
+mg/100
+P 
+mg/100 Vit A Vit C
+Thiamin 
+mg/100
+Cowpea Seed 28 2 69 124 432 11 1 1.7
+Leaf 36 3 50 664 964 327 3.18
+Post 33 5 55 478 522 4027 212 1.24
+Groundnut Seed 25 48 8 52 438 16 1 0.34
+Soybean seed 39 22 36 245 608 11 0 0.73
+sprout 14 10 43 251 580 11 0 0.74
+9
+Grain legume (cowpea, groundnut, and soybean) recipe 
+development
+Soybean flour preparation
+Remove stones and dirt from soybean
+Wash and soak soybean for 30 minutes    
+Dehusk soybean and wash off the husk
+Wash soybean and spread to dry
+Grind into powder, sieve, and keep in a 
+closed container for use
+The prepared flour can be used to fortify other cereals like sorghum, millet, or maize 
+in the preparation meals like of tuwo, pap, and snacks.
+Community and school cereal legume recipe development demonstrations sessions.
+ 
+ 
+ 
+ 
+
+10
+Soymilk
+Ingredients
+• Soybean - 6 cups
+• Water - 1 gallon
+• Sugar - to taste
+• Salt - tablespoon
+Method
+1. Clean soybean by removing foreign matter
+2. Soak in water for 8‒10 hours and wash
+ 
+3. Add water and boil for 20 minutes
+4. Drain water and wash without dehulling
+5. Grind beans into a very smooth paste
+6. Strain the mixture through a muslin cloth to extract milk
+7. Cook the milk by boiling for 10 minutes, add sugar, salt, and flavouring
+8. Serve chilled or warm
+Processed Soybean Milk.
+11
+Tom Brown (weaning feed)
+Ingredients
+• Soybean - 1 cup
+• Sorghum - 4 cups
+• Groundnut - ½ cup
+• Sugar - to taste
+Method
+1. Roast sorghum, soybean, and groundnut separately in a hot pan
+2. Dehull roasted soybean and groundnut 
+3. Mix roasted sorghum, soybean, and groundnut into a ratio of 4:1:1/2
+4. Dry mill into powder and sieve into fine flour
+5. To prepare for consumption, mix in water and bring to boil while stirring 
+continuously
+6. Allow to boil for 5 to 10 minutes
+7. Serve
+Tom Brown.
+Tom brown is the term used in describing weaning food, when the baby makes a 
+gradual transition from breast milk alone to eating a wide range of food. 
+The weaning period is a crucial time in a child’s life: it is the time when children are 
+most likely to become malnourished if they do not learn to take mixtures of many 
+foods.
+12
+Soy Cheese 
+Ingredients
+• Soybean - 10 cups
+• Tamarind/lime - medium size cup
+• Water - 2 gallons
+Method
+1. Soak soybeans in excess water for 8‒10 hours
+2. Drain soaked water and wash but not dehull
+3. Wet mill into a paste
+4. Add water to mix
+5. Sieve through a fine cloth or sieve
+6. Pour milk in a pot and heat on fire to boil, add coagulant (tamarind) and stir
+7. Allow to boil until coagulated
+8. Scoop coagulated milk into a cheese board lined with cheesecloth into the 
+cheese bag
+9. Fold the sides of the cloth over the coagulated milk and put weight on it for 30 
+minutes to squeeze out excess water and make the curd firm you can use the 
+curd to make kebabs, scrambled cheese, and awara
+Soybean Cheese (basic product)
+13
+Kebab
+Ingredients
+• Cheese - Flattened in crate
+• Pepper - 4 medium sizes
+• Onions - 1 medium size
+• Maggi cubes - 3 cubes
+• Oil - 3 tablespoons
+Method
+1. Cut soy cheese into cubes
+2. Slice onions and pepper; arrange the cheese and the sliced vegetables
+3. Drop the cheese pieces into water/seasoning/salt solution
+4. Remove the pieces and deep fry till golden brown
+5. Serve as snacks
+Soy Kebab
+14
+Soy Omelet
+Ingredients
+• Soy cheese - 4 strips
+• Onion - 1 medium size
+• Tomatoes - 2 medium size
+• G/nut oil - 3 tablespoons
+• Salt/maggi - 2 cubes
+Method
+1. Chop soy cheese, pepper, onion, and tomatoes and put into bowl
+2. Add salt and Maggi to taste
+3. Mix well
+4. Fry in oil and serve
+Soy Omelet
+15
+Cowpea cake (Akara)
+Ingredients
+• Cowpea - 2‒3 Cups
+• Soybean -1/2 cup
+• Salt - to taste
+• Onions - 1 large
+• Pepper - 5 large sizes
+• Oil - 2 liters
+Method
+1. Soak beans in water for 5‒10 minutes. Soak soybeans for 1 hour and boil for 20 
+minutes
+2. Wash and dehull soybean and cowpea
+3. Mix dehulled soybean and cowpea, add sliced onions and pepper
+4. Grind beans into a smooth paste
+5. Add a little water, add salt to taste
+6. Heat oil and fry by scooping the paste with spoon to desired quantity. Fry until 
+brown and serve
+Soybean/cowpea cake (Akara)
+16
+Soybean Vegetable Soup
+Ingredients
+• Meat/Fish (optional)
+• Soybean residue from milk
+• Leafy vegetables - 2 bunches
+• Palm oil - ½ cup
+• Vegetables (tomato, pepper, onion)
+• Water - 10 Cups
+• Maggi - 3 Cubes
+• Spinach - 2bunches
+Method
+1. Wash and boil meat or wash fish
+2. Wash and cut leafy vegetables
+3. Fry onion, pepper, and tomato
+4. Add boiled meat or fish and fry till golden brown
+5. Add water and allow meat to cook
+6. Add soybean residue, Maggi, and salt
+7. Allow to cook until the consistency is thick
+8. Add the leafy vegetables and cook for 10 mins
+9. Remove from heat and serve with tuwo
+Soybean Vegetable Soup.
+17
+Groundnut cake (Kulikuli) and oil
+Ingredients
+• Groundnut -10 cups
+• Water - 1 liter
+• Salt and spice - to taste
+Method
+1. Remove stone and dirt from groundnut
+2. Fry to golden brown and dehusk
+3. Grind into a paste
+4. Pour the paste into a pot or mortar
+5. Add warm water and stir continuously 
+6. Add more water as you continue to stir until oil begins to rise to the top 
+7. Remove oil from the cake as you stir the paste until the oil is completely removed 
+and the paste firm
+8. Mold the cake into desired shape and size
+9. Deep fry using the extracted oil from the groundnut
+Manual processing of groundnut oil.
+18
+Molded groundnut cake ready for frying.
+Processed groundnut cake and oil.
+19
+Glossary
+Awara: Another term for cheese
+Carbohydrate: Substance found in plants and animals including cellulose starch, 
+sugar that supply energy
+Deficiency: State of not having enough or nutritional insufficiency of one or more 
+elements in diet such as iron or vitamins
+Grain Legume: An annual crop producing edible seed in legume family (cowpea, 
+groundnut, and soybean) on which N2Africa is working on
+Kunun Gyada: Pap made of ground nut milk using rice, millet, or sorghum
+Malnutrition: Condition of health created by Lack of food or the right food
+N2Africa: Is the short form of the project “Putting Nitrogen fixation to work for 
+smallholder farmers in Africa”
+Protein: Nitrogen bearing molecules containing amino acids essential for building 
+and maintaining muscles and internal organs
+Protein deficiency: The state of not having enough protein
+Pottage: Heavy stew thickened with boiled legume or carbohydrate
+Tuwo: General term for thickened carbohydrate foods prepared by overcooking grain 
+such as rice, or flour from millet or sorghum.
+Spinach: Edible leafy greens
+Women empowerment: Women gaining power and control over their lives. It 
+involves awareness raising, building self-confidence, expansion of choice, increased 
+access to and control over resources, and action to transform the structures and 
+institutions which reinforce and perpetuate discrimination and inequality.
+20
+Related readings
+Abalu, G.O.I and Harkness C. 1979.Traditional versus improved Ground nut 
+production in Northern Nigeria. Ext Agric 15(1):85‒90.
+Agronigeria research.com 2015 
+Davlo F.E, Williams, C.E. and Zoaka L. 1976. Cowpea. Home preparation and use in 
+West Africa. International Development Research Center.
+Https//agricuturenigeria.com/farmingproduction/crop-production/cash-crops/
+ggroundnut
+H.O. Anthonio and M. Isoun. Nigerian Cook Book.1982
+Nautiyal, P.C. 1999. Groundnut: Post harvest operation. National Research Centre 
+for Groundnut, pp: 46. http://www.fao.org/fileadmin/user_upload/inpho/docs/Post_
+Harvest_Compendium_-_Groundnut.pdf.
+NEARLS. 1990. Extension Guide No 147. Home Economics Series No11.
+NEARLS. 1984.Extension Bulletin No.38, Local recipes. Home Economics Series 
+No 4.
+NEARLS. Training proceedings on Soybean Utilization, series 4, 1987. 
+W.Mulei, M Ibumi and PL Wooner. 2011.Grain legume processing handbook. Value 
+edition to beans, cowpea, groundnut and soybeans by small-scale African farmers.
+IITA. Soybean processing, 2006.
+IITA. Guide to soybean production, 2006.
+oar.icrisat.org/8856/1/2015-084 Gnut Production in Nigeria.pd
+Oyeleke, O.A. 1984. Effect of local culinary practice on the nutrient composition of 
+Nigerian legumes, National workshop on nutrient composition of Nigerian foods.
+21
+About the handbook
+Women empowerment through grain legume entrepreneurship is a project objective 
+of N2Africa. This is achieved by increased women’s participation in project activities, 
+ranging from diagnostic demonstration, adaptation as well as seed production. With 
+this level of participation, women are also being trained on productive skills in grain 
+legume processing for improved household nutrition and value addition on a yearly 
+basis. The handbook focuses on legume processing with an emphasis on soybean 
+for home makers as well as means of improving household nutrition and for cottage 
+industry processing. The handbook will be distributed during farmers’ field days, end 
+of season evaluation, and during nutrition campaign as part of nutrition packages of 
+extension service delivery to rural families, partners, farmers, and home economic 
+agents.
+Transforming African Agriculture
+Handbook on value addition 
+on grain legume processing 
+of soybean, cowpea, and 
+groundnut for smallholder 
+farmers in Borno State
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hassana Pindar, Nkeki Kamai, 
+Fred Kanampiu, Alpha Yaya Kamara
+www.iita.org
+International Institute of Tropical, Agriculture
+IITA-Kano, Nigeria
+2018

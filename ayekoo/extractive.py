@@ -50,8 +50,14 @@ PRICE_INTENT = re.compile(
     re.I,
 )
 
+# Cocoa was missing here, which meant "how do I grow cocoa" skipped the
+# assembled practical answer and went to free generation — where the model
+# turned a description of what farmers do into advice: "farmers typically burn
+# secondary forest parts to open up new cocoa land". Cocoa is Ghana's largest
+# export crop and cocoa-driven deforestation is a live issue; that sentence must
+# never read as a recommendation.
 CROPS = ("maize", "cassava", "yam", "cocoyam", "plantain", "rice", "tomato",
-         "sorghum", "millet", "groundnut")
+         "cocoa", "sorghum", "millet", "groundnut", "cowpea", "soybean")
 
 # Zone vocabulary, matched against both question and source lines.
 ZONES = {

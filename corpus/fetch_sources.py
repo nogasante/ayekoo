@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import json
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -46,13 +47,25 @@ def fetch(url: str, dest: Path, want: str = "pdf") -> tuple[bool, str]:
     safe = urllib.parse.urlunsplit(
         parts._replace(path=urllib.parse.quote(parts.path, safe="/%()&"))
     )
-    req = urllib.request.Request(safe, headers={"User-Agent": UA})
-    try:
-        with urllib.request.urlopen(req, timeout=180) as resp:
-            ctype = (resp.headers.get("Content-Type") or "").lower()
-            body = resp.read()
-    except Exception as exc:  # never let one bad source abort the whole run
-        return False, f"fetch failed: {type(exc).__name__}: {exc}"
+    # Retry on truncated reads. On an unreliable connection the server closes
+    # mid-transfer and urllib raises IncompleteRead — three multi-megabyte PDFs
+    # failed that way in one run. A partial file is never written, so a retry is
+    # safe; it simply starts again.
+    ctype, body, last = "", b"", None
+    for attempt in range(4):
+        req = urllib.request.Request(safe, headers={"User-Agent": UA})
+        try:
+            with urllib.request.urlopen(req, timeout=300) as resp:
+                ctype = (resp.headers.get("Content-Type") or "").lower()
+                body = resp.read()
+            break
+        except Exception as exc:  # never let one bad source abort the whole run
+            last = exc
+            body = b""
+            if attempt < 3:
+                time.sleep(2 * (attempt + 1))
+    if not body:
+        return False, f"fetch failed after 4 attempts: {type(last).__name__}: {last}"
 
     # Trust the magic bytes over the Content-Type header; some servers lie.
     if want == "pdf" and not body.startswith(b"%PDF"):

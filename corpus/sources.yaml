@@ -721,6 +721,52 @@ sources:
     status: candidate
     doc_type: research
 
+  # ── Legumes and dry-season farming ──────────────────────────────────────────
+  # Added after measuring coverage across 45 realistic questions. Cowpea,
+  # groundnut and soybean are major northern Ghanaian smallholder crops and had
+  # no source at all — a cowpea question scored 0.74 and landed on a fertilizer
+  # survey. Irrigation was the other real hole: dry-season vegetable farming is
+  # widespread in Ghana and scored 0.70.
+  #
+  # Neither MoFA nor CSIR publishes a downloadable guide for these, so these are
+  # the best regional substitutes available.
+
+  - id: cowpea-west-africa-guide
+    title: Guide to Cowpea Production in West Africa
+    publisher: IITA, via CGSpace
+    year: 2018
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/bed4f4a6-896c-40a9-8839-3baf3ce1f00d/content
+    crops: [cowpea]
+    topics: [planting_calendar, pests_diseases, inputs_costs, harvest_storage]
+    attribution: "IITA, Guide to Cowpea Production in West Africa (2018)"
+    ghana_specific: false
+    status: candidate
+    doc_type: practical
+
+  - id: csa-practical-guide-africa
+    title: A Practical Guide to Climate-Smart Agriculture Technologies in Africa
+    publisher: CGIAR, via CGSpace
+    year: 2018
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/0e44f61f-6df5-40c6-91c7-5bd118d95f3b/content
+    crops: []
+    topics: [irrigation, weather, soil_fertility]
+    attribution: "CGIAR, A Practical Guide to Climate-Smart Agriculture Technologies in Africa (2018)"
+    ghana_specific: false
+    # Carries the irrigation and water-management content nothing else here had.
+    status: candidate
+    doc_type: practical
+
+  - id: legume-value-addition
+    title: Handbook on Value Addition in Grain Legume Processing — Soybean, Cowpea and Groundnut
+    publisher: CGIAR, via CGSpace
+    year: 2018
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/e491a2aa-7875-4fcd-97ca-f6b3873e5fb7/content
+    crops: [cowpea, groundnut, soybean]
+    topics: [harvest_storage, market_advisory]
+    attribution: "Handbook on Value Addition in Grain Legume Processing (2018)"
+    ghana_specific: false
+    status: candidate
+    doc_type: practical
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper

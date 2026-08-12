@@ -97,6 +97,36 @@ def check(answer: str, sources: str, question: str = "") -> dict:
     }
 
 
+# Practices the documents DESCRIBE but do not recommend. A small model reads
+# "farmers typically burn secondary forest to open up new cocoa land" and
+# reproduces it as the answer to "how do I grow cocoa" — turning an observation
+# into an instruction. Cocoa-driven deforestation is a live issue in Ghana and
+# regulated in its export markets, so this cannot go out unqualified.
+DESCRIBED_NOT_RECOMMENDED = re.compile(
+    r"\b(burn\w*|slash and burn|clear\w*\s+(the\s+)?(secondary\s+)?forest|"
+    r"fell\w*\s+trees|deforest\w*)\b",
+    re.I,
+)
+
+PRACTICE_CAUTION = (
+    "NOTE: the passage this came from describes what farmers have done, not what "
+    "the source recommends. Burning and forest clearing for new farmland is "
+    "restricted in Ghana and can put cocoa out of export markets. Ask your MoFA "
+    "extension officer or COCOBOD before clearing land."
+)
+
+
+def practice_caution(answer: str, question: str = "") -> str | None:
+    """Flag an answer that reads descriptive practice as instruction."""
+    if not DESCRIBED_NOT_RECOMMENDED.search(answer or ""):
+        return None
+    # Only when the farmer asked how to do something — a question about what
+    # happens in practice is legitimately answered by describing practice.
+    if not re.search(r"\b(how|should|can i|best way|easiest|advice|want to)\b", question, re.I):
+        return None
+    return PRACTICE_CAUTION
+
+
 def warning_for(result: dict) -> str | None:
     """A plain-language warning to attach to an answer that failed the check."""
     if result["ok"]:

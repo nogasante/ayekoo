@@ -1,0 +1,2621 @@
+# A Practical Guide to Climate-Smart Agriculture Technologies in Africa
+# publisher: CGIAR, via CGSpace
+# year: 2018
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/0e44f61f-6df5-40c6-91c7-5bd118d95f3b/content
+# attribution: CGIAR, A Practical Guide to Climate-Smart Agriculture Technologies in Africa (2018)
+# ghana_specific: False
+# extent: 77 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Working Paper
+A Practical Guide to 
+Climate-Smart Agriculture 
+Technologies in Africa 
+Working Paper No. 224
+CGIAR Research Program on Climate Change, 
+Agriculture and Food Security (CCAFS)
+Patrick Bell
+Nictor Namoi
+Christine Lamanna
+Caitlin Corner-Dolloff
+Evan H. Girvetz
+Christian Thierfelder
+Todd S. Rosenstock
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Practical Guide to  
+Climate-Smart Agriculture 
+Technologies in Africa  
+ 
+Working Paper No. 224 
+ 
+CGIAR Research Program on Climate Change, 
+Agriculture and Food Security (CCAFS) 
+ 
+Patrick Bell 
+Nictor Namoi 
+Christine Lamanna 
+Caitlin Corner-Dolloff 
+Evan H. Girvetz 
+Christian Thierfelder 
+Todd S. Rosenstock 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+Correct citation:  
+Bell P, Namoi N, Lamanna C, Corner-Dollof C, Girvetz E, Thierfelder C, Rosenstock 
+TS. 2018. A Practical Guide to Climate-Smart Agricultural Technologies in Africa. 
+CCAFS Working Paper no. 224. Wageningen, the Netherlands: CGIAR Research 
+Program on Climate Change, Agriculture and Food Security (CCAFS). Available 
+online at: www.ccafs.cgiar.org 
+ 
+Titles in this Working Paper series aim to disseminate interim climate change, 
+agriculture and food security research and practices and stimulate feedback from the 
+scientific community. 
+ 
+The CGIAR Research Program on Climate Change, Agriculture and Food Security 
+(CCAFS) is a strategic partnership of CGIAR and Future Earth, led by the 
+International Center for Tropical Agriculture (CIAT). The Program is carried out with 
+funding by CGIAR Fund Donors, the Danish International Development Agency 
+(DANIDA), Australian Government (ACIAR), Irish Aid, Environment Canada, 
+Ministry of Foreign Affairs for the Netherlands, Swiss Agency for Development and 
+Cooperation (SDC), Instituto de Investigação Científica Tropical (IICT), UK Aid, 
+Government of Russia, the European Union (EU), New Zealand Ministry of Foreign 
+Affairs and Trade, with technical support from the International Fund for Agricultural 
+Development (IFAD). 
+ 
+Contact: 
+CCAFS Program Management Unit, Wageningen University & Research, Lumen 
+building Droevendaalsesteeg 3a, 6708 PB Wageningen, the Netherlands. Email: 
+ccafs@cgiar.org, contact: Todd Rosenstock, t.rosenstock@cgiar.org 
+ 
+Creative Commons License 
+ 
+This Working Paper is licensed under a Creative Commons Attribution – 
+NonCommercial–NoDerivs 3.0 Unported License. 
+ 
+Articles appearing in this publication may be freely quoted and reproduced provided 
+the source is acknowledged. No use of this publication may be made for resale or 
+other commercial purposes. 
+ 
+© 2018 CGIAR Research Program on Climate Change, Agriculture and Food 
+Security (CCAFS). CCAFS Working Paper no. 224 
+ 
+Photos:  
+ 
+DISCLAIMER: 
+This Working Paper has been prepared by the Climate-Smart Agriculture Practices 
+Flagship Project Partnerships for Scaling Climate-Smart Agriculture (P4S, 
+p4s.ccafs.cgiar.org) under the CCAFS program and has not been peer reviewed. Any 
+opinions stated herein are those of the author(s) and do not necessarily reflect the 
+policies or opinions of CCAFS, donor agencies, or partners. 
+All images remain the sole property of their source and may not be used for any 
+purpose without written permission of the source.
+
+ 3 
+Abstract  
+Climate-smart agriculture (CSA) has been promoted since 2011 to increase productivity, 
+improve resilience to climate variability and change and reduce greenhouse gas emission, 
+where feasible, in farming systems globally and especially in Sub-Saharan Africa. CSA is 
+unique, by comparison, to some other agricultural development approaches because it is 
+outcome oriented, explicitly considers synergies and trade-offs among food and environment 
+objectives and promotes solutions relevant to specific times and places. These advances 
+however complicate CSA programming and investments. Such a flexible framework often 
+leaves policy makers and program developers asking what is and what is not climate-smart? 
+This guide provides a simple qualitative planning tool to help answer that question. With the 
+information compiled here based on expert survey, users can conduct a rapid appraisal of the 
+‘climate-smartness’ of management practices and technologies. Specifically, users can 
+explore suggested management practices and technologies based on (1) climate risks they 
+address, (2) constraints to adoption and (3) potential impacts on productivity, resilience and 
+mitigation when changing management of cereal-, paddy rice-, tree-, livestock- and fish-based 
+systems. These three characteristics of risks, constraints and outcomes represent a minimum 
+level of information to consider when deciding whether a technique is climate-smart or not 
+and potential concerns or opportunities. The document concludes with a compilation of 
+technical manuals and extension guides on practices to provide user instructions on 
+implementing technologies in the field.  
+Keywords 
+Climate-smart agriculture; climate risk; decision guide; barriers to adoption  
+  
+ 
+ 4 
+About the authors  
+Patrick Bell is Director of Product Innovations for One Acre Fund, based in Kakamega, 
+Kenya. Originally trained as a soil scientist, he now oversees a diverse research and 
+development portfolio spanning agriculture, forestry, health, livestock, and solar products and 
+services for smallholder farmers.  
+ 
+Nictor Namoi is a Research Fellow at the World Agroforestry Centre in Nairobi, Kenya. He 
+works extensively on the CSA Compendium and measurement of greenhouse gas emissions 
+from soils. He has an MSc from Nairobi and will pursue a PhD in Sustainable Farming 
+Systems in 2018. 
+ 
+Christine Lamanna is a Climate Change Ecologist with the World Agroforestry Centre in 
+Nairobi, Kenya. She works primarily on climate change adaptation options for smallholder 
+farmers in Africa. 
+ 
+Caitlin Corner-Dolloff leads capacity building programs on resilient agriculture for the U.S. 
+Department of Agirculture’s Foreign Agricultural Service. Previously, Caitlin was a Climate 
+Change Adaptation specialist at the International Center for Tropical Agriculture (CIAT) 
+where she led interdisciplinary teams to develop and test climate-smart agriculture decision 
+support tools from community to national levels. She has led programs in over 25 countries 
+based out of Vietnam, Colombia, Kenya, and now Washington, D.C and holds an M.Sc. in 
+Environmental Change and Management from the University of Oxford.  
+ 
+Evan Girvetz  is a Senior Scientist at the International Center for Tropical Agriculture 
+(CIAT), leading projects for the CGIAR Research Programs on Climate Change, Agriculture 
+ 5 
+and Food Security (CCAFS). His research spans climate-smart agriculture (CSA), sustainable 
+food systems, ecosystem services, decision support, and policy engagement.  Dr. Girvetz 
+works on these issues with agricultural development programs and projects globally through 
+innovative partnerships with a wide range of public sector, civil society and private sector 
+partners. Dr. Girvetz currently also holds an affiliate assistant professor position at the 
+University of Washington School of Environmental and Forest Sciences. 
+ 
+Dr. Christian Thierfelder is a Senior Cropping Systems Agronomist specializing in 
+Conservation Agriculture (CA) systems research with CIMMYT. He is based in Harare, 
+Zimbabwe and covers the whole southern African region. Since 2004, he has conducted 
+applied and strategic research on-farm and on-station to adapt CA to the needs and 
+environments of smallholder farmers in southern Africa. He guided the research programs of 
+30 Bsc, MSc and PhD students, and published more than 50 research articles in peer-reviewed 
+high-impact journals and books.  
+ 
+Todd Rosenstock is an agroecologist and environmental scientist with the World 
+Agroforestry Centre (ICRAF) based in Kinshasa, Democratic Republic of Congo. He co-leads 
+the CCAFS Flagship Project Partnerships for Scaling Climate-Smart Agriculture (P4S) with 
+Evan Girvetz. He is keenly interested in linking the best available science to policy and 
+programming. 
+ 
+ 
+ 
+ 6 
+Acknowledgements  
+We thank the Africa Union’s New Partnership for Africa’s Development (NEPAD) for vision 
+and support in developing this technical paper. Specifically, we thank Martin Bwalya for 
+leading the workshop that catalyzed this effort. This paper benefited from discussions with 
+many others and especially S. Mohan (ICRAF). D. Brown (previously World Vision) and O. 
+Arnesen (NORAD) were instrumental due to their requests for simple ways to help 
+practitioners understand the benefits, synergies and trade-offs between technologies. This 
+paper would not have been possible without the technical input of the scientists interviewed 
+nor the technical working group of regional scientists that participated in the May 2015 
+workshop in Pretoria, South Africa. Funding for that workshop was provided by NORAD to 
+NEPAD. The CGIAR Research Program Climate Change, Agriculture and Food Security’s 
+(CCAFS) Project Partnership for Scaling Climate-Smart Agriculture Project (P4S, 
+http://p4s.ccafs.cgiar.org) supported most of the scientists involved during writing. We 
+acknowledge the CGIAR Fund Council, Australia (ACIAR), Irish Aid, European Union, 
+International Fund for Agricultural Development (IFAD), Netherlands, New 
+Zealand, Switzerland, UK, USAID and Thailand for funding to CCAFS.  
+ 
+ 7 
+Contents  
+Introduction .................................................................................................................... 9 
+Methods........................................................................................................................ 12 
+Climate Risks ........................................................................................................... 13 
+Constraints to adoption ............................................................................................ 14 
+CSA Impacts ............................................................................................................ 14 
+Data Collection ........................................................................................................ 15 
+How to use this guide: a checklist for planning ........................................................... 16 
+Conclusion/recommendations ...................................................................................... 18 
+References .................................................................................................................... 20 
+Appendix 1: Cereal-based systems .............................................................................. 23 
+Appendix 2: Lowland rice-based systems ................................................................... 28 
+Appendix 3: Agroforestry systems .............................................................................. 33 
+Appendix 4: Livestock systems ................................................................................... 38 
+Appendix 5: Aquaculture systems ............................................................................... 43 
+Appendix 6: Select technical guides ............................................................................ 48 
+Appendix 7: Design principles for CSA in Africa ....................................................... 74 
+ 
+ 
+ 8 
+Acronyms 
+AUC  Africa Union Commission  
+CA  Conservation Agriculture 
+CCAFS  Climate Change, Agriculture and Food Security 
+CIAT  International Center for Tropical Agriculture 
+CIMMYT International Center for Wheat and Maize Improvement 
+CO2eq  Carbon dioxide equivalent 
+CSA   Climate-Smart Agriculture 
+FAO  United Nations Food and Agriculture Organization 
+GHG  Greenhouse Gas  
+ICRAF  World Agroforestry Centre 
+NEPAD New Partnership for Africa’s Development 
+NPK  Nitrogen, Phosphorous and Potassium Fertilizer 
+NGO  Non-Governmental Organization 
+P4S  Partnerships for Scaling Climate-Smart Agriculture  
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+Introduction 
+Climate-smart agriculture (CSA) refers to agriculture that delivers: (1) sustainable increases in 
+food production, availability and productivity, (2) increases in resilience to climate change 
+and/or adaptive capacity of farms and (3) accumulates carbon in soils or biomass or reduces 
+emissions of greenhouse gases when possible (Neufeldt et al., 2013; Lipper et al., 2014). CSA 
+therefore aims to address food security and climate change goals simultaneously. That 
+integration, of climate into the food security and development agenda, is fundamental to CSA. 
+Without explicit consideration, projects, programs and policies advocating a shift in 
+agricultural management are promoting agricultural development (a worthwhile goal), but not 
+climate-smart agricultural development. 
+ 
+Outcomes drive CSA. In contrast to many previous agricultural development initiatives, CSA 
+begins with the end-goals rather than the mechanisms to get there. Technologies ranging from 
+soil management to climate information services may be considered CSA if they achieve the 
+desired food security and climate change adaptation and mitigation outcomes (FAO, 2013). 
+The lack of prescription, combined with the multi-objective and multi-outcome oriented 
+approach, creates an inclusive framework for agricultural development. This has also led to 
+some confusion, which requires guidelines for its implementation. Actors with different value 
+systems can address overarching and common goals—food security and climate change—
+together and in ways relevant to their own priorities and contexts.  
+ 
+However, this flexibility of CSA to include essentially any intervention that achieves the 
+intended productivity, resilience and mitigation outcomes leaves scientists, development 
+practitioners, civil society and policy makers asking an existential question: what is and what 
+is not CSA? (Rosenstock et al., 2015a). The answer unsurpringly not straightforward and 
+ 
+ 10 
+opinions vary (Box 1). CSA is subject to the values and priorities of farmers, communities, 
+governments, etc. and therefore what is considered CSA is specific to the place both in 
+location and time. Many interventions may be climate-smart somewhere, but few are climate-
+smart everywhere. And, what may be climate-smart today may not be climate-smart 
+tomorrow given the dynamic nature of agriculture, climate and society (Rosenstock et al., 
+2015b). 
+ 
+Agricultural interventions are inherently context specific, with yields, soil health, economics 
+and adoption responses varying under different social and environmental conditions (Bayala 
+et al., 2012; Pittelkow et al., 2014; Giller et al., 2015; Cheesman et al., 2016). The 
+importance of local factors to intervention performance and outcomes comes intuitively to 
+most development practitioners and policy makers. However, considering multiple objectives 
+simultaneously and explicitly, is often less intuitive. Policy institutions, iNGOs, donors and 
+governments have asked for a simple guide to help understand and evaluate when 
+technologies are likely or are likely not to be climate-smart to assist with planning CSA 
+programming and investments (Bwalya, 2015). This ‘practical guide’ is a direct response to 
+that request.  
+ 
+This document provides a qualitative assessment of the impact field and farm-level 
+technologies have on performance indicators of CSA across a range of agricultural contexts. 
+Actual performance for any intervention and outcome combination will vary and depend on 
+local factors, as described above. However, the information found here provides a first 
+indication to understand the synergies potentially captured or trade-offs likely to be 
+encountered in implementing CSA. It does not intend to be a definitive analysis. Instead, our 
+objective is to draw attention to the nuance that one might want to consider when designing 
+CSA programs and policies, or when assessing changes to farming practices with farmers. 
+ 11 
+Therefore, the document should not be seen as the end solution, but rather as an instrument to 
+inform CSA dialogues. 
+ 
+Box 1:  Select opinions on what is ‘climate-smart’? 
+ 
+In short, climate-smart agriculture aims to meet three objectives: productivity, resilience/adaptive 
+capacity and mitigation. For each of the three objectives, implementation of improved crop or 
+livestock management interventions will result in either an increase, decrease or no change (signs) 
+in that objective. Three objectives x three possible outcomes means that ther are 3’ or  27 unique 
+possible combinations for any proposed CSA practice. But fundamentally, CSA intends to create 
+synergies and ‘triple wins’ across the three pillars. Therefore, if we limit ourselves to outcomes 
+where there are least non-negative outcomes across all three pillars, there are only 8 possible 
+outcomes that are climate-smart. That is, for example, one where productivity increases, 
+resilience increases and there is no change in mitigation. Or another where there is no change in 
+productivity, resilience increases and there is no change in mitigation. This can be merged with 
+the idea that CSA is time and place specific to define climate-smartness for this report as an 
+agricultural technology, practice or intervention that achieves one of the 8 possible outcomes for a 
+farming system in a specific place (T. Simons pers. com.).  
+ 
+Following the logic of the FAO definition (FAO 2013), we ought to be able to measure a 
+contribution to productivity growth, resilience and mitigation. However, it is a rare technology 
+that would meet all three criteria. We should not expect this. And virtually all technologies have 
+their main goal as raising productivity (however this is defined). If the aim is to respond to 
+climate change (and thus be climate smart) then the productivity objective must be combined wit h 
+the mitigation objective or with the resilience objective. Either a technology contributes to the 
+reduction of GHG - mitigation. Or a technology helps farmers improve their production in the 
+face of rising temperatures and/or changing precipitation patterns – resilience. Or both. The 
+judgement of these mitigation and adaptation contributions requires clear measures of i) the 
+reduction of GHG, and/or ii) improved tolerance to rising temperatures, and/or iii) improved 
+tolerance to a changing pattern of precipitation caused by climate change – such as drought. 
+While the mitigation of GHG is relatively easy to measure, in most cases smallholders have little 
+incentive to invest in meeting this societal goal. Few experiments consider measuring the impacts 
+of rising temperatures. We would expect most work on the sub-set of challenges relating to 
+drought, because this is both a current problem, and one that may worsen in the future. A smaller 
+set of studies may deal with the problems of flood (D. Rohrbach pers. com.). 
+ 
+ 12 
+Understanding the climate-smartness of interventions though is just the beginning for 
+implementation. Equally, or more important, is the ‘how-to’ for interventions. There is an 
+abundance of technical guides available for smallholder farming settings that dominate Sub-
+Sharan Africa. We compiled technical guides readily accessible on the internet as a resource 
+for implementers, as produced by the respective organizations such as CGIAR and Non-
+Governmental Organizations (NGOs).1 This is by no means a comprehensive bibliography; it 
+is simply one of a number of knowledge resources.  
+  
+This guide intends to provide users with a planning tool for rapid assessment of the ‘climate-
+smartness’ of select crop and animal production practices for Sub-Saharan Africa in two 
+ways. One, it can serve as a quick reference to answer questions about how specific 
+management practices affect key indicators of productivity, resilience and mitigation 
+(potential impacts) and the potential constraints to adoption for scaling up of the 
+interventions. Two, the guide can be used to generate a list of promising management options 
+that meet the criteria and priorities of stakeholders.  
+ 
+Methods 
+The guide is presented as a series of three Tables for five farming systems (see Appendices 1-
+5). Farming systems are considered based on the primary componenet: cereal, paddy rice, 
+trees, livestock and fish. Each table displays the relationships between a set of management 
+ 
+ 
+1 Inclusion or exclusion of implementation materials in this practical guide does not represent an 
+implicit or explicit value judgment on its quality by authors, CCAFS or partner institutions. Questions 
+about the materials should be directed to the original authors. Please forward links to additional 
+materials to the corresponding author of this paper so that the appendices can be updated as more 
+information becomes available. 
+ 13 
+practices and either (1) mitigation of climate risks, (2) social and environmental constraints 
+to adoption or (3) CSA outcomes including select indicators of productivity, resilience and 
+mitigation. Below we explain how to interpret each of the tables. 
+ 
+Climate Risks 
+Climate risks are weather-related production challenges that arise due to climate change and 
+variability. These risks may negatively impact production in the future and in some cases, are 
+already. Examples of climate risks are increased flooding, higher mean temperatures, 
+shortened growing seasons and increased drought periods, etc (Thornton et al., 2009; 
+Schlenker & Lobell, 2010; Lobell et al., 2011; Rowhani et al., 2011; Notenbaert et al., 2016). 
+Relationships shown in the tables indicate whether the management practice or technology 
+mitigates the specific risk. The tables utilize two factors, colors and symbols, to show the 
+direction and magnitude of the impact of technologies on climate risks. Direction relates to 
+whether a practice has a positive (ameliorating) or negative (exacerbating) impact on the 
+climate risk. This is shown in the table with a color gradient and a symbol for positive (+ and 
+blue) and negative (- and red), respectively (see key). Magnitude relates to the relative size of 
+the expected effect on risk, whether significant or trivial. Magnitude is displayed in the tables 
+by the intensity of the color in the gradient and the number of symbols (eg, ++ vs +), where 
+more symbols is a larger impact. Both direction and magnitude are represented by both colors 
+and symbols so that it is easy to visually detect patterns (colors) and so that it is clearly 
+discernable when printed in black and white (symbols). 
+ 
+ 14 
+ 
+Constraints to adoption 
+The second table relates management practices and technologies to social and environmental 
+constraints to implementation. Constraints are characteristics of farms, farming systems, the 
+environment and broader social conditions that influence the likelihood of a change in 
+practice. For example, the presence of livestock may limit the adoption of conservation 
+agriculture (Giller et al., 2009) or insecure land tenure may restrict the use of trees on farm or 
+growth of fodder for livestock (Scherr & Müller, 1991; Sumberg, 2002). Compilations of the 
+constraints for adoption of single practices show highly context-specific results, with the 
+direction and magnitude of affect often being inconsistent (Knowler & Bradshaw, 2007). We 
+utilize the same two-factor coding (color & symbols) used in the climate risks tables to show 
+whether the socioeconomic factor increases (+ and blue) or decreases (- and red) the 
+likelihood of successful adoption of that particular CSA practice in that context. The number 
+of symbols and intensity of color reflect the importance of that factor as a constraint (-, --) or 
+enabling (+, ++) factor. 
+ 
+CSA Impacts 
+The third tables presents the CSA impacts, or the outcomes that farm management practices 
+have on livelihoods and the environment, specifically crop or animal productivity, resilience 
+and mitigation. CSA impacts can be and are most often described at the aggregate level of the 
+three outcomes (productivity, resilience or mitigation). In this guide, the high-level outcomes 
+are disaggregated into more specific outcomes. For example, productivity can be represented 
+by yield, but also economics and labor. Resilience is the most challenging and controversial 
+outcome to measure (Walker et al., 2006; FAO, 2015). This guide takes a practical approach 
+ 15 
+to the evaluating the impact of management on system resilience, by use of proxies. We use 
+factors that theory suggests improves either the buffering capacity of systems or increases the 
+ability for systems to respond to shocks. This includes attributes of physical resilience such as 
+soil carbon, which improve chemical and physical properties of soil (Paustian et al., 2016), 
+social resilience such as women’s labor, which affects nutrition and livelihoods outcomes 
+(Beuchelt & Badstue, 2013), and economic resilience such as resource use efficiency or 
+diversification (Barrett et al., 2001). Perhaps more than productivity or resilience, assessing 
+the impact on mitigation outcomes is straightforward because there are limited number of 
+metrics related to key processes of interest. This guide therefore evaluates the impact of 
+management on the major pathways that change the exchange of greenhouse gases, including 
+carbon dioxide, between plants, animals, soils and the atmosphere. Again, we utilize a two-
+factor coding (color & symbols) as in the previous tables to show whether the constraint to 
+adoption (columns) increases (+) or decreases (-) the likelihood of using the practice.  
+ 
+Data Collection  
+Values in the tables were based on expert opinion of research scientists within the CGIAR 
+system and a review of literature found in the CSA Compendium (Rosenstock et al. 2015a). 
+The survey was created with Google Forms and distributed to 15 scientists with technical 
+knowledge of the farming systems and the technologies and management practices of interest. 
+Scientists were advised to only respond about practices within their domain of expertise. The 
+survey asked for qualitative responses relating the technologies to climate risks, constraints to 
+adoption or CSA impacts. Answers were compiled and average response was recorded for 
+each. These values were crosschecked against literature found in a comprehensive 
+compilation of scientific literature on agricultural research in Africa. 
+ 
+ 
+ 16 
+How to use this guide: a checklist for planning 
+Climate risks, impacts and constraints to adoption are a minimum level of information one 
+might consider when assessing potential of CSA interventions. There are many ways in which 
+these factors are being or have been evaluated ranging from meta-analysis (Rosenstock et al., 
+2015a) to field research (Arslan et al., 2015; Mwongera et al., 2016). This guide promotes a 
+complementary approach, a straightforward stepwise process. 
+ 
+The checklist-like process looks up technologies or management practices by farming system 
+in the tables provided in the Appendices, filtering through the climate risks and factors 
+constraining adoption. The checklist only has three questions:  
+ 
+1. Does the management practice or technology mitigate the climate risk of interest? 
+2. Are there social or environmental factors in the farming system that may constrain the 
+adoption of the management practice or technology?  
+3. Does the management practice or technology maximize the outcomes and priorities of 
+interest?  
+ 
+These results can provide users a point of reference of potential issues to consider in program 
+and/or help select best-fit technologies. Below we describe each step in more detail. 
+  
+Step 1. Farming system 
+Note we assume that the user has a target farming system or agricultural product in mind and 
+information on the potential climate risks that a particular system faces prior to beginning. 
+ 
+ 17 
+Step 2. Climate risks 
+The first step is to look at ‘climate risk’ tables in Appendices 1-5 to identify the potential 
+practices that would mitigate the climate risks already identified. Practices are not typically 
+relevant to all risks. The uniqueness of the risk mitigation potential for each practice 
+underscores the importance of understanding the potential climate risks prior to starting.  Each 
+Table focuses on climate risks in a single farming system. The climate risks are provided 
+along the top of the table and the practices in the left-hand column. Move from left to right for 
+the selected climate risks. Practices marked with a blue box or + sign indicate practices that 
+address the given climate risk while practices with a red box or - sign indicate they do not. 
+Uncolored boxes with a +/- sign indicate practices that either do not address the climate risks 
+or there is not enough known to make a recommendation. Practices, which address the climate 
+risk you have chosen, are possible to pass through to the next step. 
+ 
+Step 3. Constraints to adoption 
+Even if the technology or practice will hypothetically help address climate and weather 
+related risks, it is not a good candidate for promotion if it is not appropriate for the farming 
+system. Many factors—both social and environmental—affect the likelihood of adoption. 
+Here we identify the major constraints that might impede success. The key factors are 
+identified at the top of the tables in the relevant ‘constraint tables’ and the practices in the first 
+column. For each practice selected for evaluation based on the previous step, identify which 
+of the socioeconomic conditions are present for a farmer in the respective region. Follow the 
+column of the table from top to bottom to see if these socioeconomic conditions are suitable 
+for the given practice. The sub-set of practices that are unlikely to have significant contraints 
+in the region of interest represent a menu of possibly CSA practices appropriate for the given 
+farmer.  
+ 
+ 18 
+ 
+Step 4. CSA Impacts 
+Farmers and communities are heterogeneous. They have different priorities, goals and desires. 
+In some cases, farmers may be interested in maximizing productivity while others economic 
+resilience and so on. In the final step it is important to examine the sub-set of practices from 
+Step 3 against their likely impacts for the farmers and farming systems. Here, it is important 
+to incorporate the priorities of the communities and stakeholders to filtered out what practices 
+should remain. The ‘csa impact’ tables in the Appendices detail a selection of possible 
+outcomes from adoption. Here we suggest that the user identify a few priorities of what is 
+important and then set threshold for the impacts. For example, economic returns are often the 
+most important for farmers. Therefore, a user might only select practices that have + or ++ for 
+economic returns. Then, the user can use these thresholds to filter out practices that do not 
+meet the necessary criteria. 
+ 
+Conclusion/recommendations  
+NEPAD and the United Nations Food and Agriculture Organization (FAO) convened a 
+technical working group to draft a practical guide about selection, implementation and 
+extension during a three-day workshop in May 2015. This document represents an output of 
+the 2nd section on implementation.  Instead of remaking technical guides, we decided to 
+provide an accessible resource for framing practice selection discussions and a compilation of 
+many of the technical guides that have already been published and are readily available on 
+line.  
+ 
+The appendicies were created based on a survey of scientists. The final outcomes was not 
+without contention. Rarely were the responses unanimous, but this may have been expected 
+ 19 
+given the context specificity of CSA. Thus, we also expect that some readers will disagree 
+with the characterization based on their own experiences or reading. Our effort could greatly 
+be improved by crowd sourcing experiences. Often the responses tended to go toward central 
+tendancy as respondents rarely pick extremes. Crowd sourcing a greater number of responses 
+from a larger and more diverse set of experiences would help the community converge on 
+responses rapidly.  
+ 
+One of the major surprises of this work was the availability of well written and thorough 
+guides for extension agents, many of which were found by searching CGIAR institution 
+websites. So why do development partners continue to request these? Outdated, poor 
+communication, or shifting priorities? We have made a initial compilation in the Appendix 6 
+with active links. However, this is just the tip of the iceberg. Modernizing this resource to 
+merge similar resources together and create a clearing house, where everyone not only goes to 
+find the technical guide they need but also to post the technical guides they have produced, 
+would be a significant step forward toward coherence and reducing repetitive work. 
+ 
+This information has been continuously requested by development partners. Simple analyses 
+and steps such as those presented here can help move information from the scientific into the 
+development spheres of influence, which is critical given the significant opportunity for CSA 
+to impact on food and climate issues affecting billions. The research for development 
+community would do well to further embrace principles of working with the best information 
+available in more iterative processes. Development practitioners require information today. 
+We must package our knowledge in a timely manner and in the right format. 
+ 
+ 
+ 20 
+References 
+Arslan A, McCarthy N, Lipper L, Asfaw S, Cattaneo A, Kokwe M (2015) Climate Smart 
+Agriculture? Assessing the Adaptation Implications in Zambia. Journal of Agricultural 
+Economics, 66. 
+Barrett CB, Reardon T, Webb P (2001) Nonfarm income diversification and household 
+livelihood strategies in rural Africa : concepts , dynamics , and policy implications. 26, 
+315–331. 
+Bayala J, Sileshi GW, Coe R, Kalinganire  a., Tchoundjeu Z, Sinclair F, Garrity D (2012) 
+Cereal yield response to conservation agriculture practices in drylands of West Africa: A 
+quantitative synthesis. Journal of Arid Environments, 78, 13–25. 
+Beuchelt TD, Badstue L (2013) Gender, nutrition- and climate-smart food production: 
+Opportunities and trade-offs. Food Security, 5, 709–721. 
+Bwalya M (2015) The AU-NEPAD Agriculture-Climate Change Framework Programm: 
+Purpse and scope of the practical guide. 21. 
+Cheesman S, Thierfelder C, Eash NS, Tesfahun G, Frossard E (2016) Soil & Tillage Research 
+Soil carbon stocks in conservation agriculture systems of Southern Africa. Soil & Tillage 
+Research, 156, 99–109. 
+FAO (2013) Climate-Smart Agriculture Sourcebook. Rome, 570 pp. 
+FAO (2015) SHARP: Self-evaluation and holistic assessment of climate resilience of farmers 
+and pastoralists. 
+Giller KE, Witter E, Corbeels M, Tittonell P (2009) Conservation agriculture and smallholder 
+farming in Africa: The heretics’ view. Field Crops Research, 114, 23–34. 
+Giller KE, Andersson JA, Corbeels M, Kirkegaard J, Erenstein O, Vanlauwe B (2015) 
+Beyond Conservation Agriculture. Frontiers in Plant Sciences, 6. 
+Knowler D, Bradshaw B (2007) Farmers’ adoption of conservation agriculture: A review and 
+ 21 
+synthesis of recent research. Food Policy, 32, 25–48. 
+Lipper L, Thornton P, Campbell BM et al. (2014) Climate-smart agriculture for food security. 
+Nature Climate Change, 4, 1068–1072. 
+Lobell DB, Bänziger M, Magorokosho C, Vivek B (2011) Nonlinear heat effects on African 
+maize as evidenced by historical yield trials. Nature Climate Change, 1, 42–45. 
+Mwongera C, Shikuku KM, Twyman J et al. (2016) Climate smart agriculture rapid appraisal 
+( CSA-RA ): A tool for prioritizing context-speci fi c climate smart agriculture 
+technologies. Agsy. 
+Neufeldt H, Jahn M, Campbell BM et al. (2013) Beyond climate-smart agriculture: toward 
+safe operating spaces for global food systems. Agriculture & Food Security, 2, 12. 
+Notenbaert A, Pfeifer C, Silvestri S, Herrero M (2016) Targeting, out-scaling and prioritising 
+climate-smart interventions in agricultural systems: Lessons from applying a generic 
+framework to the livestock sector in sub-Saharan Africa. Agricultural Systems. 
+Paustian K, Lehmann J, Ogle S, Reay D, Robertson GP, Smith P (2016) Climate-smart soils. 
+Nature, 532, 49–57. 
+Pittelkow CM, Liang X, Linquist B a. et al. (2014) Productivity limits and potentials of the 
+principles of conservation agriculture. Nature. 
+Rosenstock TS, Lamanna C, Arslan A, Richards M (2015a) What is the scientific basis for 
+climate-smart agriculture? Preliminary findings from a quantitative synthesis of what 
+works. Nairobi, 4 pp. 
+Rosenstock TS, Lamanna C, Chesterman S et al. (2015b) The scientific basis of climate-smart 
+agriculture: A systematic review protocol. Nairobi, Kenya, 38 pp. 
+Rowhani P, Lobell DB, Linderman M, Ramankutty N (2011) Climate variability and crop 
+production in Tanzania. Agricultural and Forest Meteorology, 151, 449–460. 
+Scherr SJ, Müller EU (1991) Technology impact evaluation in agroforestry projects. 
+Agroforestry Systems, 13, 235–257. 
+ 
+ 22 
+Schlenker W, Lobell DB (2010) Robust negative impacts of climate change on African 
+agriculture. Environmental Research Letters, 5, 14010. 
+Sumberg J (2002) The logic of fodder legumes in Africa. Food Policy, 27, 285–300. 
+Thornton PK, van de Steeg J, Notenbaert A, Herrero M (2009) The impacts of climate change 
+on livestock and livestock systems in developing countries: A review of what we know 
+and what we need to know. Agricultural Systems, 101, 113–127. 
+Walker BH, Gunderson L, Kinzig AP, Folke C, Carpenter SR, Schultz L (2006) A Handful of 
+Heuristics and Some Propositions for Understanding Resilience in Social-Ecological 
+Systems. Ecology and Society, 11, 13. 
+ 
+ 
+  
+ 23 
+Appendix 1: Cereal-based systems 
+Table 1.1: Climate risk mitigation in cereal-based systems. 
+Cereal-based Climate Risks 
+Practices 
+Increased 
+growing season 
+temperature 
+Intra-
+seasonal 
+droughts 
+Shortening 
+of growing 
+seasons  
+Unpredictable 
+seasons  
+Increased 
+rainfall 
+intensity  
+ Land Preparation 
+Reduced tillage + + + +/- - 
+No till  ++ + ++ +/- - 
+ Soil Amendments 
+Integrated soil fertility management +/- +/- +/- +/- +/- 
+Biochar +/- +/- +/- +/- +/- 
+Green manure + +/- +/- +/- + 
+Compost + +/- + +/- + 
+Inorganic Inputs (NPK) +/- +/- +/- +/- +/- 
+Organic + Inorganic Inputs + + + +/- + 
+ Fertilizer Application Methods 
+Fertilizer banding - +/- +/- +/- +/- 
+Microdosing - +/- +/- +/- +/- 
+ Diversification 
+Crop rotations +/- +/- +/- +/- +/- 
+Intercropping with Legumes +/- +/- +/- +/- +/- 
+ Water Management 
+Mulching + ++ ++ + ++ 
+Drip Irrigation +/- ++ ++ +/- - 
+Deficit Irrigation +/- ++ ++ +/- - 
+Zai pits +/- + + +/- +/- 
+Partial root zone drying  +/- + + +/- +/- 
+Stone bunds +/- + + +/- + 
+Fanya juus +/- +/- +/- +/- +/- 
+Dead level contours +/- +/- +/- +/- +/- 
+Water harvesting  + + + +/- +/- 
+ Miscellaneous 
+Conservation Agriculture (CA) + + + + + 
+On-time planting + + +/- +/- +/- 
+Planting in rows +/- +/- +/- +/- +/- 
+Improved varieties (drought/pest 
+tolerance) +/- + + +/- +/- 
+Integrated Pest Management (IPM) +/- +/- +/- +/- +/- 
+ 
+  
+ 
+ 24 
+Table 1.2: Constraints to adoption of CSA in cereal-based farming systems. 
+Cereal-based Socioeconomic Factors 
+Practices 
+Access 
+to 
+finance 
+Land 
+tenure 
+Access 
+to ext. 
+services 
+Access to 
+market 
+info. 
+Labour 
+avail. 
+Access to 
+Transport. 
+Livestock 
+pressure 
+Off-farm 
+jobs 
+Access to 
+irrigation 
+ Land Preparation 
+Reduced tillage +/- + +/- +/- - +/- - - +/- 
+No till  +/- + +/- +/- - +/- - - +/- 
+ Soil Amendments 
+Integrated soil fertility 
+management + +/- ++ + + +/- -- - +/- 
+Biochar + +/- +/- +/- +/- +/- -- - +/- 
+Green manure +/- +/- + - + +/- -- - +/- 
+Compost +/- +/- + +/- ++ +/- -- - +/- 
+Inorganic Inputs (NPK) ++ + + + +/- +/- +/- + +/- 
+Organic + Inorganic Inputs + + + + + +/- -- - +/- 
+Fertilizer banding + + + + +/- +/- +/- +/- +/- 
+Microdosing + + + + +/- +/- +/- +/- +/- 
+ Fertilizer Application Methods 
+Crop rotations +/- +/- +/- +/- +/- +/- - +/- +/- 
+Intercropping with Legumes +/- +/- +/- +/- +/- +/- - +/- +/- 
+ Water Management 
+Mulching +/- +/- +/- +/- + +/- -- - +/- 
+Drip Irrigation ++ +/- + + +/- +/- +/- +/- +/- 
+Deficit Irrigation ++ +/- + + +/- +/- +/- +/- +/- 
+Zai pits +/- +/- + +/- ++ +/- + - +/- 
+Partial root zone drying  +/- +/- + +/- +/- +/- +/- +/- +/- 
+Stone bunds + + + +/- ++ +/- +/- + +/- 
+Fanya juus + + + +/- + +/- +/- + +/- 
+Dead level contours + + + +/- + +/- +/- + +/- 
+Water harvesting  +/- +/- + +/- + +/- +/- +/- + 
+ Miscellaneous 
+Conservation Agriculture 
+(CA) + +/- + + + +/- -- + +/- 
+On-time planting +/- +/- +/- +/- + +/- +/- - +/- 
+Planting in rows +/- +/- + + + +/- +/- +/- +/- 
+Improved varieties 
+(drought/pest tolerance) ++ +/- +/- +/- +/- +/- +/- + + 
+Integrated Pest 
+Management (IPM) +/- +/- +  + +/- +/- + +/- 
+ 
+ 
+  
+ 25 
+Table 1.3: Impacts of CSA practices on select indicators of productivity in cereal-based 
+farming systems. 
+Cereal-based Indicators of Productivity 
+Practices Yield Variability Labour Income 
+Labor 
+by 
+women 
+Income 
+of 
+women 
+ Land Preparation 
+Reduced tillage +/- + - +/- ++ +/- 
+No till  +/- + - +/- ++ +/- 
+ Soil Amendments 
+Integrated soil fertility management + + - + ++ +/- 
+Biochar +/- +/- - - ++ - 
+Green manure + + - +/- + +/- 
+Compost + + - +/- + +/- 
+Inorganic Inputs (NPK) + + +/- - +/- +/- 
+Organic + Inorganic Inputs ++ ++ - + + - 
+ Fertilizer Application Methods 
+Fertilizer banding + +/- +/- +/- +/- +/- 
+Microdosing + + +/- +/- +/- +/- 
+ Diversification 
+Crop rotations + + +/- +/- +/- +/- 
+Intercropping with Legumes + + +/- + +/- +/- 
+ Water Management 
+Mulching + + - - + +/- 
+Drip Irrigation + + - - +/- - 
+Deficit Irrigation + + - - +/- - 
+Zai pits + + -- - + +/- 
+Partial root zone drying  +/- +/- +/- +/- +/- +/- 
+Stone bunds +/- +/- -- -- + - 
+Fanya juus +/- +/- -- - + +/- 
+Dead level contours +/- +/- - - + +/- 
+Water harvesting  + + - - +/- +/- 
+ Miscellaneous 
+Conservation Agriculture (CA) + + - +/- ++ - 
+On-time planting + + +/- + +/- +/- 
+Planting in rows + + - + +/- +/- 
+Improved varieties (drought/pest tolerance) + + +/- +/- +/- - 
+Integrated Pest Management (IPM) + + +/- +/- + +/- 
+ 
+ 
+ 
+  
+ 
+ 26 
+Table 1.4: Impacts of CSA practices on select indicators of resilience in cereal-based farming 
+systems. 
+Cereal-based Indicators of Resilience 
+Practices Farm level 
+biodiversity 
+Groundwater 
+availability 
+Soil 
+Erosion 
+Plant 
+available 
+nutrients 
+Infiltration 
+of water 
+into the soil 
+Soil 
+microbial 
+diversity  
+Soil 
+aggregation 
+Soil water 
+holding 
+capacity 
+ Land Preparation 
+Reduced tillage +/- + + +/- + + + +/- 
+No till +/- +/- + +/- + + + +/- 
+ Soil Amendments 
+Integrated soil 
+fertility 
+management 
++ +/- + + + + + +/- 
+Biochar +/- +/- +/- + +/- +/- +/- +/- 
+Green manure + +/- + + + + + +/- 
+Compost +/- +/- + ++ + ++ + +/- 
+Inorganic Inputs 
+(NPK) +/- +/- +/- + +/- - - +/- 
+Organic + Inorganic 
+Inputs +/- +/- + ++ + + ++ + 
+ Fertilizer Application methods 
+Fertilizer banding +/- +/- +/- + +/- +/- +/- +/- 
+Microdosing +/- +/- +/- + +/- +/- +/- +/- 
+ Diversification 
+Crop rotations + +/- + + +/- + + +/- 
+Intercropping with 
+Legumes + +/- + + +/- + + +/- 
+ Water Management 
+Mulching +/- +/- ++ + ++ + + + 
+Drip Irrigation +/- - +/- +/- +/- +/- +/- +/- 
+Deficit Irrigation +/- - +/- +/- +/- +/- +/- +/- 
+Zai pits +/- +/- + + + +/- +/- +/- 
+Partial root zone 
+drying +/- +/- +/- +/- +/- +/- +/- +/- 
+Stone bunds +/- + ++ +/- ++ +/- +/- +/- 
+Fanya juus +/- +/- +/- +/- +/- +/- +/- +/- 
+Dead level contours +/- + + +/- + +/- +/- +/- 
+Water harvesting +/- + + +/- + +/- +/- +/- 
+ Miscellaneous 
+Conservation 
+Agriculture (CA) + +/- + + + + + +/- 
+On-time planting +/- +/- +/- +/- +/- +/- +/- +/- 
+Planting in rows +/- +/- +/- +/- +/- +/- +/- +/- 
+Improved varieties 
+(drought/pest 
+tolerance) 
++/- +/- +/- +/- +/- +/- +/- +/- 
+Integrated Pest 
+Management (IPM) + +/- +/- +/- +/- + +/- +/- 
+ 
+ 27 
+Table 1.5: Impacts of CSA practices on mitigation indicators in cereal-based farming systems. 
+Cereal-based Indicators of Mitigation 
+Practices 
+Changes 
+in land 
+use 
+Emissions 
+from 
+inputs 
+Carbon 
+sequestered 
+in soil 
+Carbon 
+sequestered 
+in biomass 
+N2O 
+emissions 
+CH4 
+emissions 
+ Land Preparation 
+Reduced tillage + + + +/- + +/- 
+No till  + + + +/- + +/- 
+Soil Amendments  
+Integrated soil fertility management - + + + - +/- 
+Biochar +/- + +/- +/- - +/- 
+Green manure + + + +/- + +/- 
+Compost - + + +/- + - 
+Inorganic Inputs (NPK) +/- + - +/- - +/- 
+Organic + Inorganic Inputs - + + +/- - - 
+ Fertilizer Application Methods 
+Fertilizer banding + + +/- +/- - +/- 
+Microdosing + + +/- +/- - +/- 
+ Diversification 
+Crop rotations + + +/- +/- +/- +/- 
+Intercropping with Legumes + + + +/- +/- +/- 
+Mulching + + + +/- + - 
+Drip Irrigation - + +/- +/- - +/- 
+Deficit Irrigation - + +/- +/- - +/- 
+Zai pits - + +/- +/- - +/- 
+Partial root zone drying  + +/- +/- +/- +/- +/- 
+Stone bunds +/- +/- +/- +/- +/- +/- 
+Fanya juus +/- +/- +/- +/- +/- +/- 
+Dead level contours +/- +/- +/- +/- +/- +/- 
+Water harvesting  +/- +/- +/- +/- +/- +/- 
+ Miscellaneous 
+Conservation Agriculture (CA) - + + + + +/- 
+On-time planting +/- + +/- +/- +/- +/- 
+Planting in rows +/- + +/- +/- +/- +/- 
+Improved varieties (drought/pest tolerance) +/- + +/- +/- +/- +/- 
+Integrated Pest Management (IPM) +/- +/- +/- +/- +/- +/- 
+ 
+ 
+ 
+  
+ 
+ 28 
+Appendix 2: Lowland rice-based systems 
+Table 2.1: Climate risk mitigation in lowland rice-based systems. 
+Lowland Rice-based Climate Risks 
+Practices 
+Increased 
+growing 
+season 
+temperatur
+e 
+Intra-
+seasonal 
+droughts 
+Shortening 
+of growing 
+seasons  
+Unpredictabl
+e seasons  
+Increased 
+rainfall 
+intensity  
+ Soil Amendments 
+Integrated soil fertility management + + + + +/- 
+Biochar +/- + +/- + +/- 
+Green manure +/- + +/- + +/- 
+Compost +/- + +/- + +/- 
+Inorganic Inputs (NPK) + +/- + + +/- 
+Organic + Inorganic Inputs + + + + +/- 
+ Fertilizer Application Methods 
+Fertilizer banding +/- +/- +/- + +/- 
+Microdosing +/- +/- +/- + +/- 
+ Diversification 
+Crop rotations +/- + +/- + +/- 
+Intercropping with Legumes +/- + +/- + +/- 
+ Water Management 
+System of Rice Intensification (SRI) + ++ + + +/- 
+Alternate wetting and drying (AWD) +/- ++ +/- + +/- 
+Mid-season drainage +/- ++ +/- + +/- 
+Improved varieties (drought/pest tolerance) ++ + ++ + +/- 
+Integrated Pest Management (IPM) +/- +/- +/- + +/- 
+ 
+  
+ 29 
+Table 2.2: Constraints to adoption of CSA in lowland rice-based farming systems. 
+Lowland Rice-based Socioecological Factors  
+Practices 
+Access 
+to 
+finance 
+Land 
+tenure 
+Access to 
+ext. 
+services 
+Access 
+to 
+market 
+info. 
+Labour 
+avail. 
+Access to 
+Transport. 
+Livestock 
+pressure 
+Off-
+farm 
+jobs 
+Access to 
+irrigation 
+ Soil Amendments 
+Integrated soil fertility 
+management + +/- ++ +/- + +/- +/- +/- +/- 
+Biochar + + ++ +/- + + +/- - +/- 
+Green manure + +/- ++ +/- +/- + +/- - +/- 
+Compost + + ++ +/- + + +/- - +/- 
+Inorganic Inputs (NPK) + +/- ++ +/- + +/- +/- +/- +/- 
+ Fertilizer Application Methods 
+Organic + Inorganic Inputs + +/- ++ +/- + + + - +/- 
+Fertilizer banding + +/- ++ +/- +/- +/- +/- +/- +/- 
+ Diversification 
+Microdosing + +/- ++ +/- +/- +/- +/- +/- +/- 
+Crop rotations +/- +/- ++ +/- +/- + +/- +/- +/- 
+ Water Management 
+Intercropping with Legumes + +/- ++ + + + +/- - +/- 
+System of Rice Intensification (SRI) + +/- ++ +/- +/- + +/- - - 
+Alternate wetting and dryin (AWD) + + ++ +/- +/- +/- +/- - - 
+Mid-season drainage + + ++ +/- +/- +/- +/- - - 
+Improved varieities (drought/pest 
+tolerance) + +/- ++ + + +/- +/- +/- +/- 
+Integrated Pest Management (IPM) + + ++ +/- +/- +/- +/- - - 
+ 
+ 
+ 30 
+Table 2.3: Impacts of CSA practices on select indicators of productivity in lowland rice-based 
+farming systems. 
+Lowland Rice-based   
+Indicators of Productivity 
+Practices 
+Increased 
+growing 
+season 
+temperature Yield Variability Labour Income 
+Labor 
+by 
+women 
+Income 
+of 
+women 
+ Soil Amendments 
+Integrated soil fertility management + ++ - + + + + 
+Biochar +/- + - ++ + ++ + 
+Green manure +/- + - + + +/- + 
+Compost +/- + - ++ + + + 
+Inorganic Inputs (NPK) + ++ +/- +/- + +/- + 
+Organic + Inorganic Inputs + ++ - + + + + 
+ Fertilizer Application Methods 
+Fertilizer banding +/- ++ +/- +/- + +/- + 
+Microdosing +/- ++ +/- +/- + +/- + 
+ Diversification 
+Crop rotations +/- + - +/- + +/- + 
+Intercropping with Legumes +/- + - + + + + 
+ Water Management 
+System of Rice Intensification (SRI) + +/- - + + + + 
+Alternate wetting and drying (AWD) +/- +/- - + + + + 
+Mid-season drainage +/- +/- - + + + + 
+Improved varieties (drought/pest tolerance) ++ ++ - - + +/- + 
+Integrated Pest Management (IPM) +/- + - + +/- + + 
+ 
+  
+ 31 
+Table 2.4: Impacts of CSA practices on select indicators of resilience in lowland rice-based 
+farming systems. 
+ 
+  
+Lowland Rice-based Indicators of Resilience 
+Practices 
+Farm level 
+biodiversity 
+Groundwater 
+availability 
+Soil 
+Erosion 
+Plant 
+available 
+nutrients 
+Infiltration 
+of water 
+into the soil 
+Soil 
+microbial 
+diversity  
+Soil 
+aggregation 
+Soil water 
+holding 
+capacity 
+ Soil Amendments 
+Integrated soil 
+fertility 
+management 
++ +/- +/- ++ + + + + 
+Biochar +/- +/- +/- + + + + + 
+Green manure + +/- +/- ++ + + + + 
+Compost + +/- +/- ++ + ++ ++ ++ 
+Inorganic Inputs 
+(NPK) +/- +/- +/- ++ +/- +/- +/- +/- 
+Organic + Inorganic 
+Inputs + +/- +/- ++ + + + + 
+ Fertilizer Application Methods 
+Fertilizer banding +/- +/- +/- + +/- +/- +/- +/- 
+Microdosing +/- +/- +/- + +/- +/- +/- +/- 
+ Diversification 
+Crop rotations + +/- +/- + + ++ ++ + 
+Intercropping with 
+Legumes + +/- +/- + + ++ ++ + 
+ Water Management 
+System of Rice 
+Intensification (SRI) +/- + +/- +/- +/- ++ + +/- 
+Alternate wetting 
+and drying (AWD) +/- + +/- +/- +/- + +/- +/- 
+Mid-season drainage +/- + +/- +/- +/- +/- +/- +/- 
+Improved varieties 
+(drought/pest 
+tolerance) 
++/- +/- +/- +/- +/- +/- +/- +/- 
+Integrated Pest 
+Management (IPM) - +/- +/- +/- +/- - +/- +/- 
+ 
+ 32 
+Table 2.5: Impacts of CSA practices on mitigation indicators in lowland rice-based farming 
+systems. 
+Lowland Rice-based Indicators of Mitigation 
+Practices 
+Changes 
+in land 
+use 
+Emissions 
+from 
+inputs 
+Carbon 
+sequestere
+d in soil 
+Carbon 
+sequestered 
+in biomass 
+N2O 
+emissions 
+CH4 
+emissions 
+ Soil Amendments 
+Integrated soil fertility management +/- + + + + +/- 
+Biochar +/- - + + - +/- 
+Green manure +/- - + + + +/- 
+Compost +/- - +/- + - +/- 
+Inorganic Inputs (NPK) +/- + + + + +/- 
+Organic + Inorganic Inputs +/- - +/- + +/- +/- 
+ Fertilizer Application Methods 
+Fertilizer banding +/- - +/- + - +/- 
+Microdosing +/- - + + - +/- 
+ Diversification 
+Crop rotations +/- +/- + + +/- +/- 
+Intercropping with Legumes +/- +/- +/- + + +/- 
+ Water Management 
+System of Rice Intensification (SRI) +/- + +/- +/- + - 
+Alternate wetting and drying (AWD) +/- + +/- +/- + - 
+Mid-season drainage +/- + +/- +/- +/- - 
+Improved varieties (drought/pest 
+tolerance) +/- - +/- + +/- +/- 
+Integrated Pest Management (IPM) +/- + +/- +/- +/- +/- 
+ 
+  
+ 33 
+Appendix 3: Agroforestry systems 
+Table 3.1: Climate risk mitigation in agroforestry systems. 
+Agroforestry Systems Addressing Climate Risks 
+Practices 
+Increased 
+growing season 
+temperature 
+Intra-
+seasonal 
+dreoughts 
+Shortening of 
+growing 
+seasons  
+Unpredictable 
+seasons  
+Increased 
+rainfall 
+intensity  
+Boundary planting ++ +/- + + + 
+Evergreen agriculture ++ + + + ++ 
+Farmer managed natural 
+regeneration ++ + + + ++ 
+Multistrata  ++ + + + ++ 
+ Intercropping 
+Rows/alleys (N-fixing) ++ + + +/- ++ 
+Rows/alleys (non-N-fixing) ++ + + + ++ 
+Mixed (N-fixing) ++ +/- +/- + ++ 
+Mixed (non-N-fixing) ++ +/- + + ++ 
+Home gardens + +/- + + + 
+Live fences ++ +/- + + + 
+Parklands ++ +/- + + + 
+Silvopasture ++ + + +/- ++ 
+Woodlots ++ +/- + + + 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 
+Table 3.2: Constraints to adoption of CSA in agroforestry systems. 
+Agroforestry Systems Socioecological Factors 
+Practices 
+Access 
+to 
+finance 
+Land 
+tenure 
+Access 
+to ext. 
+services 
+Access to 
+market 
+info. 
+Labour 
+avail. 
+Access to 
+Transport. 
+Livestock 
+pressure 
+Off-farm 
+jobs 
+Access to 
+irrigation 
+Boundary planting +/- +/- ++ + + + -- +/- +/- 
+Evergreen agriculture + +/- ++ ++ + + -- -- +/- 
+Farmer managed 
+natural regeneration +/- + + + +/- +/- -- +/- +/- 
+Multistrata  +/- +/- ++ + + + -- +/- +/- 
+ Intercropping 
+Rows/alleys (N-fixing) + +/- ++ + +/- + -- -- +/- 
+Rows/alleys (non-N-
+fixing) + +/- ++ + +/- + -- -- +/- 
+Mixed (N-fixing) +/- +/- ++ + + + -- -- +/- 
+Mixed (non-N-fixing) +/- +/- ++ +/- + + -- -- +/- 
+Home gardens +/- +/- + +/- + +/- -- +/- +/- 
+Live fences + +/- + + + + -- +/- +/- 
+Parklands +/- +/- +/- +/- + +/- +/- +/- +/- 
+Silvopasture +/- + ++ + + +/- -- +/- +/- 
+Woodlots + +/- ++ ++ + + -- +/- +/- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35 
+ 
+Table 3.3: Impacts of CSA practices on select indicators of productivity in agroforestry 
+systems. 
+Agroforestry Systems Indicators of Productivity 
+Practices Yield Variability Labour Income 
+Labor by 
+women 
+Income 
+of 
+women 
+Boundary planting +/- + +/- + +/- +/- 
+Evergreen agriculture ++ ++ +/- ++ +/- + 
+Farmer managed natural 
+regeneration + ++ +/- + +/- + 
+Multistrata  +/- ++ - + +/- + 
+ Intercropping 
+Rows/alleys (N-fixing) ++ + +/- + +/- +/- 
+Rows/alleys (non-N-fixing) +/- + +/- +/- +/- +/- 
+Mixed (N-fixing) ++ + + + +/- +/- 
+Mixed (non-N-fixing) +/- + +/- +/- +/- +/- 
+Home gardens + + + + +/- + 
+Live fences +/- + - +/- +/- +/- 
+Parklands + + + + +/- ++ 
+Silvopasture + + +/- ++ +/- ++ 
+Woodlots +/- +/- +/- + +/- ++ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+Table 3.4: Impacts of CSA practices on select indicators of resilience in agroforestry systems. 
+Agroforestry Systems Indicators of Resilience 
+Practices 
+Farm level 
+biodiversity 
+Groundwater 
+availability 
+Soil 
+Erosion 
+Plant 
+available 
+nutrients 
+Infiltration 
+of water 
+into the soil 
+Soil 
+microbial 
+diversity  
+Soil 
+aggregati
+on 
+Soil water 
+holding 
+capacity 
+Boundary planting ++ +/- ++ + + ++ ++ + 
+Evergreen agriculture ++ +/- ++ ++ ++ ++ ++ ++ 
+Farmer managed 
+natural regeneration ++ +/- ++ ++ ++ ++ ++ ++ 
+Multistrata  ++ +/- ++ ++ ++ ++ ++ ++ 
+ Intercropping 
+Rows/alleys (N-fixing) ++ +/- ++ ++ ++ ++ ++ ++ 
+Rows/alleys (non-N-
+fixing) ++ +/- ++ + ++ ++ ++ ++ 
+Mixed (N-fixing) ++ + ++ ++ ++ ++ + ++ 
+Mixed (non-N-fixing) ++ +/- ++ + ++ + ++ ++ 
+Home gardens + + ++ + ++ ++ + + 
+Live fences ++ +/- ++ + + ++ + + 
+Parklands ++ + ++ ++ + ++ ++ ++ 
+Silvopasture ++ +/- + + ++ ++ + ++ 
+Woodlots ++ +/- + + ++ ++ ++ ++ 
+ 
+  
+ 37 
+Table 3.5: Impacts of CSA practices on mitigation indicators in agroforestry systems. 
+Agroforestry Systems Indicators of Mitigation 
+Practices 
+Changes in 
+land use 
+Emissions 
+from 
+inputs 
+Carbon 
+sequestered 
+in soil 
+Carbon 
+sequestered 
+in biomass 
+N2O 
+emissions 
+CH4 
+emissions 
+Boundary planting + + + + + +/- 
+Evergreen agriculture + + ++ ++ + +/- 
+Farmer managed natural 
+regeneration + + ++ ++ + +/- 
+Multistrata  + + ++ ++ + +/- 
+ Intercropping 
+Rows/alleys (N-fixing) +/- +/- ++ + -- +/- 
+Rows/alleys (non-N-
+fixing) + + ++ + + +/- 
+Mixed (N-fixing) +/- +/- ++ ++ -- +/- 
+Mixed (non-N-fixing) + - ++ ++ + +/- 
+Home gardens + + ++ ++ + +/- 
+Live fences + + + + + +/- 
+Parklands + + ++ ++ + +/- 
+Silvopasture +/- +/- ++ ++ +/- +/- 
+Woodlots + + ++ ++ + +/- 
+ 
+  
+ 
+ 38 
+Appendix 4: Livestock systems 
+Table 4.1: Climate risk mitigation in livestock systems. 
+Livestock  Addressing Climate Risks 
+Practices 
+Increased growing 
+season temperature 
+Intra-
+seasonal 
+droughts 
+Shortening 
+of growing 
+seasons  
+Unpredictable 
+seasons  
+Increased 
+rainfall 
+intensity  
+  Diet Management 
+Non-conventional feeds + + + + +/- 
+Improved feed quality +/- + +/- +/- +/- 
+Improved digestibility +/- + +/- +/- +/- 
+Improved protein content +/- + +/- +/- +/- 
+Improved supplements + + +/- + +/- 
+  Improved Pastures     
+Planting N-fixing legumes +/- +/- +/- + + 
+Fodder shrubs +/- + +/- + + 
+  Rangeland Management 
+Rotational grazing +/- + +/- + + 
+Cut-and-carry +/- + + + +/- 
+  Manure Management 
+Manure collection +/- +/- +/- +/- +/- 
+Improved manure storage + +/- +/- +/- +/- 
+Manure treatment + +/- +/- +/- +/- 
+Vaccines + + +/- +/- +/- 
+Changing breeds + + +/- + +/- 
+Artificial insemination + +/- +/- +/- +/- 
+Wells (boreholes) + ++ +/- + +/- 
+ 
+  
+ 39 
+Table 4.2: Constraints to adoption of CSA in livestock systems. 
+Livestock  Socioecological Factors 
+Practices 
+Access to 
+finance 
+land 
+tenure  
+Access to 
+ext. 
+services 
+Access to 
+market 
+info. 
+Labour 
+avail. 
+Access to 
+Transport. 
+Off-
+farm 
+jobs  
+  Diet Management 
+Non-conventional feeds + +/- + + +/- + +/- 
+Improved feed quality + + + + + + +/- 
+Improved digestibility + + + + + + +/- 
+Improved protein content + + + + + + +/- 
+Improved supplements + + + + +/- + +/- 
+  Improved Pastures 
+Planting N-fixing legumes + +/- + +/- +/- +/- +/- 
+Fodder shrubs + +/- +/- +/- +/- +/- +/- 
+  Rangeland Management 
+Rotational grazing + + + +/- +/- +/- +/- 
+Cut-and-carry + +/- + +/- + +/- +/- 
+  Manure Management 
+Manure collection + +/- +/- +/- + +/- +/- 
+Improved manure storage + + +/- +/- + +/- +/- 
+Manure treatment + + + +/- + +/- +/- 
+Vaccines + +/- +/- + +/- +/- +/- 
+Changing breeds + +/- + + +/- +/- +/- 
+Artificial insemination + +/- + + +/- + +/- 
+Wells (boreholes) + + +/- + +/- +/- +/- 
+ 
+  
+ 
+ 40 
+Table 4.3: Impacts of CSA practices on select indicators of productivity in livestock systems. 
+Livestock  Indicators of Productivity 
+Practices 
+Animal 
+growth Variability Labour Income 
+Labor by 
+women 
+Income of 
+women 
+ Diet Management 
+Non-conventional feeds + + +/- + +/- +/- 
+Improved feed quality ++ + + + +/- +/- 
+Improved digestibility ++ + + + +/- +/- 
+Improved protein content ++ + +/- + +/- +/- 
+Improved supplements ++ + +/- + +/- + 
+ Improved Pastures 
+Planting N-fixing legumes + + +/- + +/- + 
+Fodder shrubs + + - + +/- + 
+  Rangeland Management 
+Rotational grazing + + - + - + 
+Cut-and-carry + + - + - + 
+ Manure Management 
+Manure collection +/- +/- +/- + +/- +/- 
+Improved manure storage +/- +/- +/- + +/- +/- 
+Manure treatment +/- +/- +/- + +/- +/- 
+Vaccines + + +/- + +/- + 
+Changing breeds + + +/- + +/- + 
+Artificial insemination + + +/- + +/- +/- 
+Wells (boreholes) +/- + +/- + +/- +/- 
+ 
+  
+ 41 
+Table 4.4: Impacts of CSA practices on select indicators of resilience in livestock systems. 
+Livestock  Indicators of Resilience 
+Practices 
+Farm level 
+biodiversity 
+Groundwater 
+availability 
+Soil 
+Erosion 
+Available 
+nutrients 
+Infiltration 
+of water into 
+the soil 
+Soil 
+microbial 
+diversity  
+ Diet Management 
+Non-conventional feeds + +/- +/- + +/- + 
+Improved feed quality +/- +/- +/- + +/- +/- 
+Improved digestibility +/- +/- +/- + +/- +/- 
+Improved protein content +/- +/- +/- + +/- +/- 
+Improved supplements +/- +/- +/- + +/- +/- 
+ Improved Pastures 
+Planting N-fixing legumes + +/- +/- + + + 
+Fodder shrubs + - +/- + + + 
+ Rangeland Management 
+Rotational grazing + +/- + + + + 
+Cut-and-carry +/- +/- +/- + +/- + 
+ Manure Management 
+Manure collection +/- +/- +/- + +/- +/- 
+Improved manure storage +/- +/- +/- + +/- +/- 
+Manure treatment +/- +/- +/- + +/- +/- 
+Vaccines +/- +/- +/- +/- +/- +/- 
+Changing breeds +/- +/- +/- +/- +/- +/- 
+Artificial insemination +/- +/- +/- +/- +/- +/- 
+Wells (boreholes) +/- +/- +/- +/- +/- +/- 
+ 
+  
+ 
+ 42 
+Table 4.5: Impacts of CSA practices on mitigation indicators in livestock systems. 
+Livestock  Indicators of Mitigation 
+Practices 
+Changes 
+in land 
+use 
+Emissions 
+from 
+inputs 
+Carbon 
+sequestered 
+in soil 
+Carbon 
+sequestered 
+in biomass 
+N2O 
+emissions 
+CH4 
+emissions 
+ Diet Management 
+Non-conventional feeds + +/- +/- +/- +/- + 
+Improved feed quality +/- +/- + + +/- + 
+Improved digestibility + +/- +/- + +/- + 
+Improved protein content +/- +/- + + +/- + 
+Improved supplements +/- +/- +/- +/- +/- + 
+ Improved Pastures 
+Planting N-fixing legumes +/- +/- + +/- +/- +/- 
+Fodder shrubs +/- +/- + +/- - +/- 
+ Rangeland Management 
+Rotational grazing +/- +/- + +/- +/- +/- 
+Cut-and-carry +/- +/- +/- +/- +/- +/- 
+ Manure Management 
+Manure collection +/- +/- +/- +/- +/- +/- 
+Improved manure storage +/- +/- +/- +/- +/- +/- 
+Manure treatment +/- +/- +/- +/- +/- +/- 
+Vaccines +/- +/- +/- +/- +/- +/- 
+Changing breeds +/- +/- +/- +/- +/- +/- 
+Artificial insemination +/- +/- +/- +/- +/- +/- 
+Wells (boreholes) +/- +/- +/- +/- +/- +/- 
+ 
+  
+ 43 
+Appendix 5: Aquaculture systems 
+Table 5.1: Climate risk mitigation in aquaculture systems. 
+Aquaculture Addressing Climate Risks 
+Practices 
+Increased 
+growing season 
+temperature 
+Intra-
+seasonal 
+droughts 
+Shortening of 
+growing 
+seasons  
+Unpredictable 
+seasons  
+Increased 
+rainfall 
+intensity  
+ Diet Management 
+Non-conventional feeds + + + + +/- 
+Improved feed quality + + + + +/- 
+Improved digestibility + + + + +/- 
+Improved protein content + + + + +/- 
+Improved supplements + + + + +/- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 44 
+ 
+Table 5.2: Constraints to adoption of CSA in aquaculture systems. 
+Aquaculture Socioecological Factors 
+Practices 
+Access 
+to 
+finance 
+land 
+tenure 
+Access 
+to ext. 
+services 
+Access 
+to 
+market 
+info. 
+Labour 
+avail. 
+Access to 
+Transport. 
+Off-
+farm 
+jobs 
+Access to 
+irrigation 
+ Diet Management 
+Non-conventional feeds +/- +/- +/- +/- +/- +/- +/- +/- 
+Improved feed quality +/- +/- +/- +/- +/- +/- +/- +/- 
+Improved digestibility +/- +/- +/- +/- +/- +/- +/- +/- 
+Improved protein content +/- +/- +/- +/- +/- +/- +/- +/- 
+Improved supplements +/- +/- +/- +/- +/- +/- +/- +/- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45 
+Table 5.3: Impacts of CSA practices on select indicators of productivity in aquaculture 
+systems. 
+Aquaculture Indicators of Productivity 
+Practices 
+Animal 
+growth Variability Labour Income 
+Labor by 
+women 
+Income of 
+women 
+ Diet Management 
+Non-conventional feeds ++ ++ + + + + 
+Improved feed quality ++ ++ + + + + 
+Improved digestibility ++ ++ + + + + 
+Improved protein content ++ ++ + + + + 
+Improved supplements ++ ++ + + + + 
+ 
+  
+ 
+ 46 
+Table 5.4: Impacts of CSA practices on select indicators of resilience in aquaculture systems. 
+Aquaculture Indicators of Resilience  
+Practices Farm level biodiversity Groundwater availability Available nutrients 
+ Diet Management 
+Non-conventional feeds + + + 
+Improved feed quality + + + 
+Improved digestibility + + + 
+Improved protein content + + + 
+Improved supplements + + + 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47 
+Table 5.5: Impacts of CSA practices on mitigation indicators in aquaculture systems. 
+Aquaculture Indicators of Mitigation 
+Practices Changes in land use Emissions from inputs N2O emissions CH4 emissions 
+ Diet Management 
+Non-conventional feeds +/- +/- +/- + 
+Improved feed quality +/- +/- +/- +/- 
+Improved digestibility +/- +/- +/- +/- 
+Improved protein content +/- +/- +/- +/- 
+Improved supplements +/- +/- +/- +/- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48 
+Appendix 6: Select technical guides2 
+Cereal-based systems 
+Reduced tillage 
+1. Conservation Farming Unit (CFU) (2009) A guide for farmers: Conversion from ox 
+ploughing to min-till ripping using the magoye ripper. Lusaka, Zambia. 
+https://conservationagriculture.org/uploads/pdf/ADP%20MIN-
+TILL%20RIPPING%20FARMERS%20GUIDE.pdf 
+2. Conservation Farming Unit Unit (CFU) (2007) Conservation Farming & 
+Conservation Agriculture Handbook for HOE Farmers in Agro-Ecological Regions I 
+& IIa-Flat Culture. CF Handbook, Lusaka, Zambia. 
+http://www.fsnnetwork.org/sites/default/files/conservation_agriculture__cf_handbook
+_for_hoe_farmers_zambia.pdf 
+3. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry. http://s3-eu-central-
+1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+4. Recha J, Kapukha M, Wekesa A, Shames S, and Heiner K (2014) Sustainable 
+Agriculture Land Management Practices for Climate Change Mitigation: A training 
+guide for smallholder farmers. Washington, DC. EcoAgriculture Partners. 
+https://cgspace.cgiar.org/handle/10568/35643 
+5. FAO (2001) Guidelines and reference materials for promoting integrated soil and 
+nutrient management in Farmer Field Schools. Reference material for the module on 
+Tillage. Food and Agriculture Organization of the United Nations, Land and Plant 
+Nutrition Management Service Land and Water Development Division. 
+http://www.fao.org/fileadmin/templates/nr/images/resources/pdf_documents/tillage_
+module.pdf 
+No till 
+6. FAO (2001) Guidelines and reference materials for promoting integrated soil and 
+nutrient management in Farmer Field Schools. Reference material for the module on 
+Tillage. Food and Agriculture Organization of the United Nations, Land and Plant 
+ 
+ 
+2 Links were last accessessed March 2018. 
+ 49 
+Nutrition Management Service Land and Water Development Division. 
+http://www.fao.org/fileadmin/templates/nr/images/resources/pdf_documents/tillage_
+module.pdf 
+7. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry. http://s3-eu-central-
+1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+8. FAO (2000) Manual on integrated soil management and conservation practices. Food 
+and Agriculture Organization of the United Nations, Land and Plant Nutrition 
+Management Service Land and Water Development Division and agricultural 
+Engineering Branch of the agricultural support division.   http://www.fao.org/family-
+farming/detail/en/c/329712/ 
+Integrated soil Fertility Management   
+9. Fairhurst T (ed.) (2012) Handbook for Integrated Soil Fertility Management. Africa 
+Soil Health Consortium, Nairobi. 
+https://publications.cta.int/media/publications/downloads/1853_PDF.pdf 
+10. Fairhurst T (ed.) (2012) Handbook for Integrated Soil Fertility Management. Africa 
+Soil Health Consortium, Nairobi. 
+http://ssa.ipni.net/ipniweb/region/africa.nsf/0/F7501955BAE1F4F085257F080026F9
+63/$FILE/ZARI.pdf 
+11. Sishekanu M, Mabengwa M, Makungwe M, Gondwe B, Banda F, Siulemba G, 
+Kapulu N and Mutegi J (2015) Integrated Soil Fertility Management Training Manual 
+for Zambia Agricultural Extension Workers. 
+http://ssa.ipni.net/ipniweb/region/africa.nsf/0/F7501955BAE1F4F085257F080026F9
+63/$FILE/ZARI.pdf 
+12. Sanginga N and Woomer PL (eds.) (2009) Integrated soil fertility management in 
+Africa: principles, practices, and developmental process. Tropical Soil Biology and 
+Fertility (TSBF) Institute of the International Center for Tropical Agriculture (CIAT).  
+https://agrilinks.org/sites/default/files/resource/files/integrated_soil_fertility.pdf 
+Biochar 
+13. Major J (2010) Guidelines on practical aspects of biochar application to field soil in 
+various soil management systems. International Biochar Initiative, 8. 
+http://www.biochar-
+ 
+ 50 
+international.org/sites/default/files/IBI%20Biochar%20Application%20Guidelines_w
+eb.pdf 
+14. Major J (2011) Biochar: A new soil management tool for farmers and 
+gardeners. Appalachian Sustainable Development. IBI report. 
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Biochar%3A+a+new+
+soil+management+tool+for+farmers+and+gardeners&btnG=#d=gs_cit&p=&u=%2Fs
+cholar%3Fq%3Dinfo%3AOB4osDBS67gJ%3Ascholar.google.com%2F%26output%
+3Dcite%26scirp%3D0%26hl%3Den 
+Green manure 
+15. Bunch R (2012) Restoring the Soil. A Guide for Using Green Manure/Cover Crops to 
+Improve the Food Security of Smallholder Farmers. Canadian Foodgrains Bank. 
+Winnipeg, Canada. http://www.fao.org/ag/ca/CA-
+Publications/Restoring_the_Soil.pdf 
+16. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry. http://s3-eu-central-
+1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+17. Lwakuba A, Kaudia A, Okorio J, Esegu JF and Oluka-Akileng I (2003) Agroforestry 
+handbook for the montane zone of Uganda (No. 31). Regional Land Management 
+Unit http://www.worldagroforestry.org/downloads/Publications/PDFS/B16763.pdf 
+18. FAO (2015) Training manual for organic agriculture. Climate, Energy and Tenure 
+Division (NRC) and the Technologies and practices for smallholder farmers (TECA) 
+Team from the Research and Extension Division (DDNR). FAO Headquarters in 
+Rome, Italy. 
+http://www.fao.org/fileadmin/templates/nr/sustainability_pathways/docs/Compilation
+_techniques_organic_agriculture_rev.pdf 
+19. Weidmann G and Kilcher L (2011) African Organic Agriculture Training Manual.  
+http://www.organic-africa.net/fileadmin/documents-africamanual/training-
+manual/chapter-02/Africa_Manual_M02.pdf 
+Compost 
+20. Edwards S and Araya H (2011) How to make and use compost. Climate change and 
+food systems resilience in Sub-Saharan Africa. Rome: FAO, pp.379-476. 
+http://www.fao.org/docrep/014/i2230e/i2230e14.pdf 
+ 51 
+21. Ngeze PB (1998) Learn how to make and use compost manure in farming. Technical 
+Centre for Agricultural and Rural Cooperation.  
+https://cgspace.cgiar.org/handle/10568/76842 
+22. Lwakuba A, Kaudia A, Okorio J, Esegu JF and Oluka-Akileng I (2003) Agroforestry 
+handbook for the montane zone of Uganda (No. 31). Regional Land Management 
+Unit http://www.worldagroforestry.org/downloads/Publications/PDFS/B16763.pdf 
+23. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry. http://s3-eu-central-
+1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+24. FAO (2015) Training manual for organic agriculture. Climate, Energy and Tenure 
+Division (NRC) and the Technologies and practices for smallholder farmers (TECA) 
+Team from the Research and Extension Division (DDNR). FAO Headquarters in 
+Rome, Italy. 
+http://www.fao.org/fileadmin/templates/nr/sustainability_pathways/docs/Compilation
+_techniques_organic_agriculture_rev.pdf 
+25. HDRA-the organic organisation (1998) Composting in the Tropics. HDRA 
+publishing. http://www.infonet-biovision.org/sites/default/files/496.compost102.pdf 
+26. HDRA-the organic organisation (2001) Composting in the Tropics, HDRA 
+publishing.  
+http://www.infonet-biovision.org/sites/default/files/497.Compost202.pdf 
+27. Cracknell R (2013) Extension officer training manual: Adapting to climate change in 
+the tea sector. Ethical Tea Partnership & Deutsche Gesellschaft für Internationale 
+Zusammenarbeit (GIZ). http://www.ethicalteapartnership.org/wp-
+content/uploads/Adapting-to-Climate-Change-Manual.pdf 
+Inorganic inputs (NPK) 
+28. Zingore S, Njoroge S, Chikowo R, Kihara J, Nziguheba G and Nyamangara J (2014) 
+4R plant nutrient management in African agriculture: An extension handbook for 
+fertilizer management in smallholder farming systems. 
+http://ssa.ipni.net/ipniweb/region/africa.nsf/0/79A037DA41071A8043257D9A00547
+39B/$FILE/4R%20Extension%20Handbook.pdf 
+ 
+ 52 
+29. Oudho H (2013) Fertilizer manual. Concepts, Application, Storage and Handling. 
+National Agricultural Research & Extension Institute. http://narei.org.gy/wp-
+content/uploads/2016/06/Fertilizer-Manual.pdf 
+30. Fairhurst T (ed.) (2012) Handbook for Integrated Soil Fertility Management. Africa 
+Soil Health Consortium, Nairobi. 
+https://publications.cta.int/media/publications/downloads/1853_PDF.pdf 
+31. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005) Conservation agriculture: A manual for farmers and extension 
+workers in Africa. 
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/04SOIL1.PDF 
+Organic and inorganic inputs 
+32. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005) Conservation agriculture: A manual for farmers and extension 
+workers in Africa.  
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/04SOIL1.PDF 
+33. Fairhurst T (ed.) (2012) Handbook for Integrated Soil Fertility Management. Africa 
+Soil Health Consortium, Nairobi. 
+https://publications.cta.int/media/publications/downloads/1853_PDF.pdf 
+Fertilizer banding 
+34. Fairhurst T (ed.) (2012) Handbook for Integrated Soil Fertility Management. Africa 
+Soil Health Consortium, Nairobi. 
+https://publications.cta.int/media/publications/downloads/1853_PDF.pdf 
+35. Zingore S, Njoroge S, Chikowo R, Kihara J, Nziguheba G and Nyamangara J (2014) 
+4R plant nutrient management in African agriculture: An extension handbook for 
+fertilizer management in smallholder farming systems. 
+http://ssa.ipni.net/ipniweb/region/africa.nsf/0/79A037DA41071A8043257D9A00547
+39B/$FILE/4R%20Extension%20Handbook.pdf 
+Microdosing 
+36. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+ 53 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+Crop Rotation  
+37. Infonet biovision (2018) Crop rotation. Retrieved March 16, 2018 from 
+http://www.infonet-biovision.org/PlantHealth/Crop-rotation 
+38. FAO (2015) Training manual for organic agriculture. Climate, Energy and Tenure 
+Division (NRC) and the Technologies and practices for smallholder farmers (TECA) 
+Team from the Research and Extension Division (DDNR). FAO Headquarters in 
+Rome, Italy. 
+http://www.fao.org/fileadmin/templates/nr/sustainability_pathways/docs/Compilation
+_techniques_organic_agriculture_rev.pdf 
+39. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry. http://s3-eu-central-
+1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+Intercropping with legumes 
+40. FAO (2015) Training manual for organic agriculture. Climate, Energy and Tenure 
+Division (NRC) and the Technologies and practices for smallholder farmers (TECA) 
+Team from the Research and Extension Division (DDNR). FAO Headquarters in 
+Rome, Italy. 
+http://www.fao.org/fileadmin/templates/nr/sustainability_pathways/docs/Compilation
+_techniques_organic_agriculture_rev.pdf 
+41. Infonet biovision 2018 Intercropping and Push-Pull. Retrieved March 16, 2018 from 
+http://www.infonet-biovision.org/PlantHealth/Intercropping-and-Push-Pull 
+Mulching 
+42. Infonet biovision (2018) Mulching. Retrieved March 16, 2018 from  
+http://www.infonet-biovision.org/PlantHealth/Mulching 
+43. FAO (2015) Training manual for organic agriculture. Climate, Energy and Tenure 
+Division (NRC) and the Technologies and practices for smallholder farmers (TECA) 
+Team from the Research and Extension Division (DDNR). FAO Headquarters in 
+Rome, Italy. 
+ 
+ 54 
+http://www.fao.org/fileadmin/templates/nr/sustainability_pathways/docs/Compilation
+_techniques_organic_agriculture_rev.pdf 
+Drip irrigation 
+44. Palada M, Bhattarai S, Wu DL, Roberts M, Bhattarai M, Kimsan R, Midmore D 
+(2011) More Crop Per Drop: Using Simple Drip Irrigation Systems for Small-scale 
+Vegetable Production. AVRDC – The World Vegetable Center, Shanhua, Taiwan. 
+AVRDC Publication No. 09-723. 83 p. http://203.64.245.61/fulltext_pdf/EB/2011-
+2015/eb0086.pdf 
+45. Sijali IV (2001) Drip irrigation: options for smallholder farmers in Eastern and 
+Southern Africa (No. 24). Regional Land Management Unit 
+https://www.sswm.info/sites/default/files/reference_attachments/SIJALI%202001%2
+0Drip%20Irrigation%20Options%20for%20Smallholder%20Farmers%20in%20Easte
+rn%20and%20Southern%20Africa.pdf 
+Deficit irrigation 
+46. Thornton J (1998) Source book of alternative technologies for freshwater 
+augmentation in Africa. Nairobi, United Nations Environmental Programm (UNEP). 
+http://www.unep.or.jp/ietc/publications/techpublications/techpub-8a/irrigation.asp 
+Zai pits 
+47. Thornton J (1998) Source book of alternative technologies for freshwater 
+augmentation in Africa. Nairobi, United Nations Environmental Programm (UNEP).  
+http://www.unep.or.jp/ietc/publications/techpublications/techpub-8a/irrigation.asp 
+48. Lwakuba A, Kaudia A, Okorio J, Esegu JF and Oluka-Akileng I (2003) Agroforestry 
+handbook for the montane zone of Uganda (No. 31). Regional Land Management 
+Unit http://www.worldagroforestry.org/downloads/Publications/PDFS/B16763.pdf 
+49. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005). Conservation agriculture: A manual for farmers and 
+extension workers in Africa.  
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/08WATER.PDF 
+Stone bunds 
+50. SAI Platform (2009) TB2– Rain Water Harvesting & Artificial Recharge to 
+Groundwater. Water conservation technical briefs.  
+ 55 
+http://www.saiplatform.org/uploads/Modules/Library/SAI%20Technical%20Brief%2
+02%20Rain%20Water%20Harvesting%20and%20Artificial%20Recharge-2.pdf 
+51. Thornton J (1998) Source book of alternative technologies for freshwater 
+augmentation in Africa. Nairobi, United Nations Environmental Programm (UNEP). 
+http://www.unep.or.jp/ietc/Publications/TechPublications/TechPub-8a/contour.asp 
+52. Critchley W (1991). Looking after our land. Soil and Water Conservation in Dryland 
+Africa. Hyperion Books.  http://www.fao.org/docrep/x5301e/x5301e0a.htm 
+53. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005) Conservation agriculture: A manual for farmers and extension 
+workers in Africa.  
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/08WATER.PDF 
+Fanya Juus 
+54. Critchley W (1991). Looking after our land. Soil and Water Conservation in Dryland 
+Africa. Hyperion Books.  http://www.fao.org/docrep/x5301e/x5301e0a.htm 
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/08WATER.PDF 
+55. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005). Conservation agriculture: A manual for farmers and 
+extension workers in Africa. 
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/08WATER.PDF 
+56. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+57. Lwakuba A, Kaudia A, Okorio J, Esegu JF and Oluka-Akileng I (2003) Agroforestry 
+handbook for the montane zone of Uganda (No. 31). Regional Land Management 
+Unit http://www.worldagroforestry.org/downloads/Publications/PDFS/B16763.pdf 
+Dead level terraces 
+58. Critchley W and Gowing JW (eds.) (2012) Water Harvesting in Sub-Saharan Africa. 
+Routledge. https://cgspace.cgiar.org/handle/10568/76775 
+59. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+ 
+ 56 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+Water harvesting 
+60. Thornton J (1998) Source book of alternative technologies for freshwater 
+augmentation in Africa. Nairobi, United Nations Environmental Programm (UNEP). 
+ http://www.unep.or.jp/ietc/publications/techpublications/techpub-8a/flood.asp 
+61. Source book of alternative technologies for freshwater augmentation in 
+Africa. Nairobi, United Nations Environmental Programm (UNEP). 
+http://www.unep.or.jp/ietc/publications/techpublications/techpub-8a/permeable.asp 
+62. Ibraimo N and Munguambe P (2007) Rainwater harvesting technologies for small 
+scale rainfed agriculture in arid and semi-arid areas. Department of Rural 
+Engineering, Faculty of Agronomy and Forestry Engineering, University Eduardo 
+Mondlane, Maputo, Mozambique. Faculty of Agronomy and Forestry Engineering. 
+https://www.sswm.info/sites/default/files/reference_attachments/IBRAIMO%20&%2
+0MUNGUAMBE%202007%20Rainwater%20Harvesting%20Technologies%20for%
+20Small%20Scale%20Rainfed%20Agriculture%20in%20Arid%20and%20Semi-
+arid%20Areas.pdf 
+63. Mekdaschi R, and Liniger H (2013) Water harvesting: guidelines to good practice. 
+Centre for Development and Environment.  
+https://www.sswm.info/sites/default/files/reference_attachments/MEKDASCHI%20S
+TUDER%20and%20LINIGER%202013%20Water%20Harvesting.pdf 
+64. SAI platform (2009) Rain Water Harvesting & Artificial Recharge to Groundwater. 
+Water Conservation Technical Briefs.  
+http://www.saiplatform.org/uploads/Modules/Library/SAI%20Technical%20Brief%2
+02%20Rain%20Water%20Harvesting%20and%20Artificial%20Recharge-2.pdf 
+65. Hai MT (1998) Water harvesting: an illustrative manual for development of 
+microcatchment techniques for crop production in dry areas. 
+https://www.ircwash.org/sites/default/files/213.016409.pdf 
+Conservation agriculture 
+ 57 
+66. Mutua J, Muriuki J, Gachie P, Bourne M. and Capis J (2014) Conservation 
+agriculture with trees: principles and practice. A simplified guide for extension staff 
+and farmers. World Agroforestry Centre,(ICRAF) Nairobi, Kenya.  
+http://www.worldagroforestry.org/downloads/Publications/PDFS/TM17693.pdf 
+67. SUSTAINET EA (2010) Technical Manual for farmers and Field Extension Service 
+Providers: Conservation Agriculture. Sustainable Agriculture Information Initiative, 
+Nairobi.  
+http://www.fao.org/ag/ca/CA-
+Publications/Technical_Manual_Conservation_Agriculture.pdf 
+68. Moyo M (2013) Conservation Agriculture: Manual for Implementation. 
+http://images.agri-
+profocus.nl/upload/post/Conservation_Agriculture_manual_for_implementation1418
+995455.pdf 
+69. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005) Conservation agriculture: A manual for farmers and extension 
+workers in Africa. 
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/01INTRO.PDF 
+70. Panos Institute Southern Africa (2017) Conservation agriculture: A basic user guide 
+to promote sustainable agricultural land use and management among rural 
+communities in Zambia. http://www.panos.org.zm/wp-
+content/uploads/2018/02/Conservation-agric-cover.pdf 
+Integrated Pest Management  
+71. Recha J, Kapukha M, Wekesa A, Shames S, and Heiner K (2014) Sustainable 
+Agriculture Land Management Practices for Climate Change Mitigation: A training 
+guide for smallholder farmers. Washington, DC. EcoAgriculture Partners. 
+https://cgspace.cgiar.org/handle/10568/35643 
+72. The ACP-EU Technical Centre for Agricultural and Rural Cooperation (CTA) (2007) 
+How to control Striga and stemborer in maize. CTA Practical Guide Series, No. 2 
+https://cgspace.cgiar.org/bitstream/handle/10568/51820/002%20Striga_oblong.pdf?se
+quence=1&isAllowed=y 
+73. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005) Conservation agriculture: A manual for farmers and extension 
+workers in Africa. 
+ 
+ 58 
+ http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/07WEEDS.PDF 
+74. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry. 
+ http://s3-eu-central-1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+75. FAO (2015) Training manual for organic agriculture. Climate, Energy and Tenure 
+Division (NRC) and the Technologies and practices for smallholder farmers (TECA) 
+Team from the Research and Extension Division (DDNR). FAO Headquarters in 
+Rome, Italy.  
+http://www.fao.org/fileadmin/templates/nr/sustainability_pathways/docs/Compilation
+_techniques_organic_agriculture_rev.pdf 
+  
+ 59 
+Rice-based systems 
+Integrated Soil Fertility Management (ISFM) 
+76. International Rice Research Institute (IRRI) (n.d) Nutrient management. Retrieved 
+March 20, 2018 from  http://www.knowledgebank.irri.org/training/fact-
+sheets/nutrient-management 
+77. Fairhurst T, Witt C, Buresh R, Dobermann A and Fairhurst T (2007) Rice: A practical 
+guide to nutrient management. Int. Rice Res. Inst.. 
+http://books.irri.org/97898179494_content.pdf 
+Biochar 
+78. Major J (2010) Guidelines on practical aspects of biochar application to field soil in 
+various soil management systems. International Biochar Initiative, 8. 
+http://www.biochar-
+international.org/sites/default/files/IBI%20Biochar%20Application%20Guidelines_w
+eb.pdf 
+Green manure 
+Using organic materials and manures 
+79. International Rice Research Institute (IRRI) (n.d) Using organic materials and 
+manures. Retrieved March 20, 2018 from 
+http://www.knowledgebank.irri.org/training/fact-sheets/nutrient-
+management/item/using-organic-materials-and-manures 
+80. Saengubo T (2005) Information and data on the use of Greenmanure/Covercrops 
+(gmcc) from manual on “Natural Paddy Cultivation” by the Surin Farmers Support 
+(SFS) project, Surin Province, NE Thailand. 
+http://sri.ciifad.cornell.edu/countries/thailand/thaiWkshopGMCC0605.pdf 
+81. Evans C and Jespersen J (2010) 
+https://www.permaculturenews.org/resources_files/farmers_handbook/volume_4/2_g
+reen_manures.pdf 
+82. International Rice Research Institute (IRRI) (n.d). Azolla Retrieved March 20, 2018 
+form http://www.knowledgebank.irri.org/training/fact-sheets/nutrient-
+management/item/azolla 
+Compost 
+ 
+ 60 
+83. International Rice Research Institute (IRRI) (n.d). Composting rice residue. 
+http://www.knowledgebank.irri.org/training/fact-sheets/nutrient-
+management/item/composting-rice-residue-fact-sheet 
+84. International Rice Research Institute (IRRI) (n.d). How to make a compost. 
+http://www.knowledgebank.irri.org/step-by-step-production/growth/soil-fertility/how-
+to-make-a-compost 
+Inorganic inputs (NPK) 
+85. International Rice Research Institute (IRRI) (n.d) Nitrogen (N). Retrieved March 20, 
+2018 from http://www.knowledgebank.irri.org/training/fact-sheets/nutrient-
+management/item/nitrogen 
+86. International Rice Research Institute (IRRI) (n.d) Phosphorus (P). Retrieved March 
+20, 2018 from http://www.knowledgebank.irri.org/training/fact-sheets/nutrient-
+management/item/phosphorus 
+87. International Rice Research Institute (IRRI) (n.d) Potassium (K). Retrieved March 20, 
+2018 from http://www.knowledgebank.irri.org/training/fact-sheets/nutrient-
+management/item/potassium-k 
+88. International Rice Research Institute (IRRI) (2015) Steps to successful rice 
+production. Rice Production Manual, Los Baños (Philippines).  
+http://knowledgebank.irri.org/images/docs/12-Steps-Required-for-Successful-Rice-
+Production.pdf 
+89. Nwilene FE, Oikeh SO, Agunbiade TA, Oladimeji O, Ajayi O, Sié M, Gregorio GB, 
+Togola A and Touré AD (2008) Growing lowland rice: a production 
+handbook. Africa Rice Center (WARDA). 
+http://www.fao.org/fileadmin/user_upload/ivc/docs/Growing%20lowland%20rice_%
+20production%20handbook_prepress%20final%20version_19-05-08_low%20res.pdf 
+Microdosing 
+90. International Rice Research Institute (IRRI) (n.d). Nitrogen split applications. 
+Retrieved March 20, 2018. 
+http://www.knowledgebank.irri.org/training/fact-sheets/nutrient-
+management/nitrogen-split-applications 
+System of Rice Intensification (SRI) 
+ 61 
+91. Bancy M, Mati B, and Nyamai, M. (2009). System of Rice Intensification (SRI): 
+Growing More Rice while Saving on Water. An information brochure used for 
+Training on SRI in Mwea, Kenya.  
+https://sriwestafrica.files.wordpress.com/2014/05/kenya-sri-training-brochure.pdf 
+92. Evans C and Jespersen J (2010) Farmers Handbook. 
+http://sri.ciifad.cornell.edu/countries/nepal/extmats/nepsrigpengex.pdf 
+93. Technical Centre for Agricultural and Rural Cooperation (ACP-EU) – CTA (2011) 
+https://cgspace.cgiar.org/bitstream/handle/10568/64790/PracGuide17UK.pdf?sequenc
+e=1&isAllowed=y 
+94. Styger E and Jenkins D (2014) Technical Manual for SRI in West Africa: Improving 
+and Scaling up of the System of Rice Intensification in West Africa. Version, 2, pp.1-
+57.  
+http://www.coraf.org/documents/publication/2014-11/sri_tech.pdf 
+95. The United Republic of Tanzania. (2015).  System of Rice Intensification. Training 
+Manual For Extension Staff And Farmers. Ministry of Agriculture Food Security And 
+Cooperatives.  
+https://sriwestafrica.files.wordpress.com/2014/05/kilimo-booklet-final-sri.pdf 
+Alternate wetting and drying (AWD) 
+96. International Rice Research Institute (IRRI) (n.d). Saving Water with Alternate 
+Wetting Drying (AWD). Retrieved March 20, 2018 from   
+http://www.knowledgebank.irri.org/training/fact-sheets/water-management/saving-
+water-alternate-wetting-drying-awd 
+97. Linquist B and Sengxua  P  (2001) Nutrient management in rainfed lowland rice in 
+the Lao PDR. Int. Rice Res. Inst..  
+http://knowledgebank.irri.org/images/docs/Best-Management-Practices-for-rainfed-
+lowland-rice-in-Lao-PDR.pdf 
+98. Richards M and Sander BO (2014) Alternate wetting and drying in irrigated rice.  
+https://ccafs.cgiar.org/publications/alternate-wetting-and-drying-irrigated-
+rice#.WqwuKYNuaCg 
+99. Troldahl D and Fowler J (2016) Mid-season drainage of rice. 
+https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0007/663586/mid-season-
+drainage-of-rice.pdf 
+Improved varieties (drought/pest tolerance) 
+ 
+ 62 
+100. International Rice Research Institute (IRRI) (n.d). How to select rice varieties. 
+Retrieved March 20, 2018 from http://www.knowledgebank.irri.org/step-by-step-
+production/pre-planting/rice-varieties 
+101. International Rice Research Institute (IRRI) (n.d). Climate change-ready rice. 
+Retrieved March 20, 2018 from http://www.knowledgebank.irri.org/step-by-step-
+production/pre-planting/rice-varieties/item/climate-change-ready-rice 
+Integrated Pest Management (IPM) 
+102. International Rice Research Institute. (IIRI). (2007). Pest management. Retrieved 
+March 20, 2018 from 
+http://www.knowledgebank.irri.org/ericeproduction/V.2_Insects.htm 
+103. International Rice Research Institute. (IIRI). (2007). Pest management. Retrieved 
+March 20, 2018, from  
+http://www.knowledgebank.irri.org/ericeproduction/V.1_Pest_and_IPM_.htm 
+104. International Rice Research Institute. (IIRI) (2007) Pest management. Retrieved 
+March 20, 2018 from 
+http://www.knowledgebank.irri.org/ericeproduction/V.4_Diseases.htm 
+105. Nwilene FE, Oikeh SO, Agunbiade TA, Oladimeji O, Ajayi O, Sié M, Gregorio GB, 
+Togola A and Touré AD (2008) Growing lowland rice: a production 
+handbook. Africa Rice Center (WARDA). 
+http://www.fao.org/fileadmin/user_upload/ivc/docs/Growing%20lowland%20rice_%
+20production%20handbook_prepress%20final%20version_19-05-08_low%20res.pdf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 63 
+Agroforestry 
+Boundary planting 
+106. Tengnas B (1994) Agroforestry extension manual for Kenya. Nairobi: International 
+Centre for Research in Agroforestry. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/06_Agroforestry_ex
+tension_manual_for_kenya.pdf 
+107. Lwakuba A, Kaudia A, Okorio J, Esegu JF and Oluka-Akileng I (2003) Agroforestry 
+handbook for the montane zone of Uganda (No. 31). Regional Land Management 
+Unit http://www.worldagroforestry.org/downloads/Publications/PDFS/B16763.pdf 
+108. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+109. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry.   http://s3-eu-central-
+1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+Evergreen Agriculture 
+110. Sosola BG, Akinnifesi FK, Sileshi G and Ajayi O (2011) Evergreen Agriculture: 
+Extension Manual for Farmers and Extension Workers in Malawi, World 
+Agroforestry Centre, Lilongwe, Malawi. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/MN17070.pdf 
+111. Ward M (2011). The case for Evergreen Agriculture in Africa: Enhancing food 
+security with climate change adaptation and mitigation in Zambia.  
+https://cdkn.org/wp-content/uploads/2011/12/Zambia-InsideStory_final_hi-res1.pdf 
+112. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+ 
+ 64 
+113. Abdirizak H, Gudka M, Kibor B, Kinuthia M, Kimeu P, Leeuw JD, Maimbo M, 
+Safriel U, Njenga M and Iiyama M (2013) Farmer-managed natural regeneration: 
+How to regenerate pasture and farmland on a low budget. 
+http://www.worldagroforestry.org/sites/default/files/Annex%203.2%20Technical%20
+Brief%20Farmer%20Managed%20Natural%20Regeneration.pdf 
+114. Dörlochter-Sulser, S. and Nill, D., 2012. Good Practices in Soil and Water 
+Conservation: A Contribution to Adaptation and Farmers' resilience Towards Climate 
+Change in the Sahel. GIZ. https://www.giz.de/fachexpertise/downloads/giz2012-en-
+good-practices-in-soil-and-water-conservation.pdf 
+115. Haglund E, Ndjeunga J, Snook L and Pasternak D (2011) Dry land tree management 
+for improved household livelihoods: farmer managed natural regeneration in 
+Niger. Journal of environmental management, 92(7), pp.1696-1705.  
+http://www.worldagroforestry.org/sites/default/files/Niger%20booklet%20-
+%20Prepublication%20version_2.pdf 
+Multistrata 
+116. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+117. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+Row/alleys (N-fixing) 
+118. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+119. Tengnas B (1994) Agroforestry extension manual for Kenya. Nairobi: International 
+Centre for Research in Agroforestry. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/06_Agroforestry_ex
+tension_manual_for_kenya.pdf 
+ 65 
+Rows/alleys (non-N-fixing) 
+120. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+121. Tengnas B (1994) Agroforestry extension manual for Kenya. Nairobi: International 
+Centre for Research in Agroforestry. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/06_Agroforestry_ex
+tension_manual_for_kenya.pdf 
+Mixed (non-N-fixing) 
+122. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+Home gardens 
+123. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+124. Lwakuba A, Kaudia A, Okorio J, Esegu JF and Oluka-Akileng I (2003) Agroforestry 
+handbook for the montane zone of Uganda (No. 31). Regional Land Management 
+Unit. http://www.worldagroforestry.org/downloads/Publications/PDFS/B16763.pdf 
+Live fences 
+125. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+126. Tengnas B (1994) Agroforestry extension manual for Kenya. Nairobi: International 
+Centre for Research in Agroforestry. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/06_Agroforestry_ex
+tension_manual_for_kenya.pdf 
+Parklands 
+ 
+ 66 
+127. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+128. Liniger HP, Mekdaschi-Studer R, Hauert C and Gurtner M (2011) Sustainable Land 
+Management in Practice – Guidelines and Best Practices for Sub-Saharan Africa. 
+TerrAfrica, World Overview of Conservation Approaches and Technologies 
+(WOCAT) and Food and Agriculture Organization of the United Nations (FAO). 
+https://old.wocat.net/fileadmin/user_upload/documents/Books/SLM_in_Practice_E_F
+inal_low.pdf 
+129. Tengnas B (1994) Agroforestry extension manual for Kenya. Nairobi: International 
+Centre for Research in Agroforestry. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/06_Agroforestry_ex
+tension_manual_for_kenya.pdf 
+Silvopasture 
+130. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+131. Wekesa A and Jönsson M (2014) Sustainable Agriculture Land Management. We 
+Effect and Vi Agroforestry.  http://s3-eu-central-
+1.amazonaws.com/weeffect.org.wordpress.prod/wp-
+content/uploads/2017/12/14121225/We-Effect-SALM-Training-Manual_webb.pdf 
+Woodlots 
+132. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+133. Lwakuba A, Kaudia A, Okorio J, Esegu JF and Oluka-Akileng I (2003) Agroforestry 
+handbook for the montane zone of Uganda (No. 31). Regional Land Management 
+Unit. http://www.worldagroforestry.org/downloads/Publications/PDFS/B16763.pdf 
+134. Tengnas B (1994) Agroforestry extension manual for Kenya. Nairobi: International 
+Centre for Research in Agroforestry. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/06_Agroforestry_ex
+tension_manual_for_kenya.pdf 
+ 67 
+Livestock 
+Non-conventional feeds 
+135. Naseri A (2017) Animal nutrition training manual. 
+http://www.atnesa.org/docs/Alimuddin-Naseri-Animal-Nutrition-Manual.pdf 
+136. McDonald P, Edwards R A, Greenhalgh J FD, Morgan CA, Sinclair LA and 
+Wilkinson RG (2011) Animal Nutrition. Seventh Edition. 
+http://gohardanehco.com/wp-content/uploads/2014/02/Animal-Nutrition.pdf 
+Improved feed quality 
+137. Lukuyu M, Romney D, Ouma R, Sones K (2007) Feeding Dairy Cattle: A manual for 
+smallholder dairy farmers and extension workers in East Africa. Smallholder Dairy 
+Project, Nairobi (Kenya). Kenya Dairy Development Programme (SDP/KDDP), 
+ILRI, Nairobi (Kenya). ILRI Manuals and Guides. no. 2. 51p. Nairobi (Kenya): ILRI. 
+https://cgspace.cgiar.org/handle/10568/478 
+138. Weidmann G and Kilcher L (2011) African Organic Agriculture Training Manual. 
+http://www.organic-africa.net/fileadmin/documents-africamanual/training-
+manual/chapter-05/Africa_Manual_M05.pdf 
+139. Naseri A (2017) Animal nutrition training manual. 
+http://www.atnesa.org/docs/Alimuddin-Naseri-Animal-Nutrition-Manual.pdf 
+140. FAO and IDF (2011) Guide to good dairy farming practice. Animal Production and 
+Health Guidelines. No. 8. Rome. 
+http://www.fao.org/docrep/014/ba0027e/ba0027e00.pdf 
+Improved digestibility 
+141. Pandey GS and Voskuil G.J (2011) Manual on improved feeding of dairy cattle by 
+smallholder farmers. Golden valley agricultural research trust. 
+https://agriprofocus.com/upload/Dairy_manual_-
+_Feeding_(GART_Zambia,_2011)1423741222.pdf 
+142. Naseri A (2017) Animal nutrition training manual. 
+http://www.atnesa.org/docs/Alimuddin-Naseri-Animal-Nutrition-Manual.pdf 
+143. McDonald P, Edwards R A, Greenhalgh J FD, Morgan CA, Sinclair LA and 
+Wilkinson RG (2011) Animal Nutrition. Seventh Edition. 
+http://gohardanehco.com/wp-content/uploads/2014/02/Animal-Nutrition.pdf 
+Improved protein content 
+ 
+ 68 
+144. McDonald P, Edwards R A, Greenhalgh J FD, Morgan CA, Sinclair LA and 
+Wilkinson RG (2011) Animal Nutrition. Seventh Edition. 
+http://gohardanehco.com/wp-content/uploads/2014/02/Animal-Nutrition.pdf 
+145. Naseri, A. (n.d). Animal nutrition training manual. 
+http://www.atnesa.org/docs/Alimuddin-Naseri-Animal-Nutrition-Manual.pdf 
+Improved supplements 
+146. Lukuyu M, Romney D, Ouma R, Sones K (2007) Feeding Dairy Cattle: A manual for 
+smallholder dairy farmers and extension workers in East Africa. Smallholder Dairy 
+Project, Nairobi (Kenya). Kenya Dairy Development Programme (SDP/KDDP), 
+ILRI, Nairobi (Kenya). ILRI Manuals and Guides. no. 2. 51p. Nairobi (Kenya): ILRI. 
+https://cgspace.cgiar.org/handle/10568/478 
+147. Naseri A (2017) Animal nutrition training manual. 
+http://www.atnesa.org/docs/Alimuddin-Naseri-Animal-Nutrition-Manual.pdf 
+148. McDonald P, Edwards R A, Greenhalgh J FD, Morgan CA, Sinclair LA and 
+Wilkinson RG (2011) Animal Nutrition. Seventh Edition. 
+http://gohardanehco.com/wp-content/uploads/2014/02/Animal-Nutrition.pdf 
+149. GOK (2012) Dairy Farmers Training Manual Dairy Farmers Training Manual. 
+Ministry of Livestock Development. 
+http://www.tdb.go.tz/uploads/files/Dairy%20Farmers%20Training%20Manual%20(1)
+.pdf 
+Planting N-fixing legumes 
+150. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+151. Rusoke C, Nyakuni A, Mwebaze S, Okorio J, Akena F, Kimaryu G and Oduor A 
+(2000) Uganda Land Resources Manual. A guide for extension workers 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B11513.pdf 
+152. Lukuyu M, Romney D, Ouma R, Sones K (2007) Feeding Dairy Cattle: A manual for 
+smallholder dairy farmers and extension workers in East Africa. Smallholder Dairy 
+Project, Nairobi (Kenya). Kenya Dairy Development Programme (SDP/KDDP), 
+ILRI, Nairobi (Kenya). ILRI Manuals and Guides. no. 2. 51p. Nairobi (Kenya): ILRI. 
+https://cgspace.cgiar.org/handle/10568/478 
+ 69 
+Fodder shrubs 
+153. Linyunga K, Ajayi OC, Akinifesi FK, Chintu R, Fernando JC, Matakala PW and 
+Sileshi GW (2006) Agroforestry technologies manual: a trainer's guide. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B14910.pdf 
+154. International Institute of Rural Reconstruction (IIRR), African Conservation Tillage 
+Network (ACT) (2005). Conservation agriculture: A manual for farmers and 
+extension workers in Africa. 
+http://www.fao.org/ag/ca/AfricaTrainingManualCD/PDF%20Files/09LIVE1.PDF 
+155. Rusoke C, Nyakuni A, Mwebaze S, Okorio J, Akena F, Kimaryu G and Oduor A 
+(2000) Uganda Land Resources Manual. A guide for extension workers 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B11513.pdf 
+156. Tengnas B (1994) Agroforestry extension manual for Kenya. Nairobi: International 
+Centre for Research in Agroforestry. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/06_Agroforestry_ex
+tension_manual_for_kenya.pdf 
+157. Weidmann G and Kilcher L (2011) African Organic Agriculture Training Manual. 
+http://www.organic-africa.net/fileadmin/documents-africamanual/training-
+manual/chapter-05/Africa_Manual_M05.pdf 
+158. Lukuyu M, Romney D, Ouma R, Sones K (2007) Feeding Dairy Cattle: A manual for 
+smallholder dairy farmers and extension workers in East Africa. Smallholder Dairy 
+Project, Nairobi (Kenya). Kenya Dairy Development Programme (SDP/KDDP), 
+ILRI, Nairobi (Kenya). ILRI Manuals and Guides. no. 2. 51p. Nairobi (Kenya): ILRI. 
+https://cgspace.cgiar.org/handle/10568/478 
+159. Land O’Lakes (2014) Fodder and Fodder Seed Production Manual. 
+https://www.landolakes.org/getattachment/Resources/Publications/Fodder-and-
+Fodder-Seed-Production-Manual/Fodder-Manual_FINAL_042214_FINAL.pdf.aspx 
+160. Kitalyi A, Miano DM, Mwebaze S and Wambugu C (2005). More Forage, More 
+Milk. Forage Production for Small-scale Zero Grazing Systems. RELMA Technical 
+Handbook, 33. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/MN13558.pdf 
+Rotational grazing 
+ 
+ 70 
+161. Speedy A and Pugliese PL (1992) Legume trees and other fodder trees as protein 
+sources for livestock (No. 633.3/S742). FAO. 
+http://www.fao.org/wairdocs/ilri/x5545e/x5545e07.htm 
+162. Rusoke C, Nyakuni A, Mwebaze S, Okorio J, Akena F, Kimaryu G and Oduor A 
+(2000) Uganda Land Resources Manual. A guide for extension workers 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B11513.pdf 
+Cut-and-carry 
+163. Lukuyu M, Romney D, Ouma R, Sones K (2007) Feeding Dairy Cattle: A manual for 
+smallholder dairy farmers and extension workers in East Africa. Smallholder Dairy 
+Project, Nairobi (Kenya). Kenya Dairy Development Programme (SDP/KDDP), 
+ILRI, Nairobi (Kenya). ILRI Manuals and Guides. no. 2. 51p. Nairobi (Kenya): ILRI. 
+https://cgspace.cgiar.org/handle/10568/478 
+164. Kitalyi A, Miano DM, Mwebaze S and Wambugu C (2005). More Forage, More 
+Milk. Forage Production for Small-scale Zero Grazing Systems. RELMA Technical 
+Handbook, 33. 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/MN13558.pdf 
+165. Annonymous (nd). Small-scale dairy farming, by using a cut and carry system. 
+http://naturalresources-
+entralasia.org/assets/files/EbA_Conference/Climate_Group/LUP small scale dairy 
+farming.pdf   
+Manure collection 
+166. Teenstra1 E, De Buisonjé F, Ndambi A, Pelster D (2015). Manure Management in the 
+(Sub-)Tropics; Training Manual for Extension Workers. Wageningen, Wageningen 
+UR (University & Research centre) Livestock Research, Livestock Research Report 
+919. http://edepot.wur.nl/362491 
+Improved manure storage 
+167. Teenstra1 E, De Buisonjé F, Ndambi A, Pelster D (2015). Manure Management in the 
+(Sub-)Tropics; Training Manual for Extension Workers. Wageningen, Wageningen 
+UR (University & Research centre) Livestock Research, Livestock Research Report 
+919. http://edepot.wur.nl/362491 
+Vaccines 
+ 71 
+168. Teenstra1 E, De Buisonjé F, Ndambi A, Pelster D (2015). Manure Management in the 
+(Sub-)Tropics; Training Manual for Extension Workers. Wageningen, Wageningen 
+UR (University & Research centre) Livestock Research, Livestock Research Report 
+919. http://edepot.wur.nl/362491 
+Changing breeds 
+169. Weidmann G and Kilcher L (2011). African Organic Agriculture Training Manual. 
+http://www.organic-africa.net/fileadmin/documents-africamanual/training-
+manual/chapter-05/Africa_Manual_M05.pdf 
+170. GOK (2012) Dairy Farmers Training Manual Dairy Farmers Training Manual. 
+Ministry of Livestock Development. 
+http://www.tdb.go.tz/uploads/files/Dairy%20Farmers%20Training%20Manual%20(1)
+.pdf 
+171. FAO (1993) Small-scale dairy farming manual Vol. 4.  
+http://www.fao.org/tempref/docrep/fao/011/t1265e/t1280e.pdf 
+Artificial insemination 
+172. FAO (1993) Small-scale dairy farming manual Vol. 4. 
+http://www.fao.org/tempref/docrep/fao/011/t1265e/t1280e.pdf 
+173. Rusoke C, Nyakuni A, Mwebaze S, Okorio J, Akena F, Kimaryu G and Oduor A 
+(2000) Uganda Land Resources Manual. A guide for extension workers 
+http://www.worldagroforestry.org/downloads/Publications/PDFS/B11513.pdf 
+174. GOK (2012) Dairy Farmers Training Manual Dairy Farmers Training Manual. 
+Ministry of Livestock Development. 
+http://www.tdb.go.tz/uploads/files/Dairy%20Farmers%20Training%20Manual%20(1)
+.pdf 
+  
+ 
+ 72 
+Aquaculture 
+Non-conventional feeds 
+175. Assiah VE, Ton VS and Aidin H (1996) Small Scale Fresh water Fish 
+Farming. Agrodok Series, (15).  
+https://publications.cta.int/media/publications/downloads/1441_POF.pdf 
+176. FAO (2011) Aquaculture Development: Use Of Wild Fishery Resources For Capture-
+Based Aquaculture. FAO Technical Guidelines For Responsible Fisheries. 
+http://www.fao.org/docrep/014/ba0059e/ba0059e.pdf 
+177. The ACP-EU Technical Centre for Agricultural and Rural Cooperation (CTA) (2007) 
+Make a Living through Fish Farming. 
+https://cgspace.cgiar.org/bitstream/handle/10568/51807/009_Make_Money_With_Fis
+h_Farming_A4%20%281%29.pdf?sequence=1&isAllowed=y 
+178. FAO (1987) Better freshwater fish farming in Zambia. 
+http://www.fao.org/docrep/field/003/AC079E/AC079E00.HTM#ch6.2 
+179. Weidmann G and Kilcher L (2011) African Organic Agriculture Training Manual. 
+http://www.organic-africa.net/fileadmin/documents-africamanual/training-
+manual/chapter-10/Africa_Manual_M10-9.pdf 
+Improved feed quality 
+180. Weidmann G and Kilcher L (2011) African Organic Agriculture Training Manual. 
+http://www.organic-africa.net/fileadmin/documents-africamanual/training-
+manual/chapter-10/Africa_Manual_M10-9.pdf 
+181. Salie k,  Resoort du Plessis D,  and M Maleri (2008) Training Manual For Small-
+Scale Rainbow Trout Farmers In Net Cages On Irrigation Dams: Water Quality, 
+Production And Fish Health. Division of Aquaculture University of Stellenbosch. 
+http://www.wrc.org.za/Knowledge%20Hub%20Documents/Research%20Reports/TT
+-369-08.pdf 
+182. Fermon Y (2013). Subsistence fish farming in Africa: a technical manual. ACF 
+International. 
+http://www.actionagainsthunger.org/sites/default/files/publications/Subsistence_fish_
+farming_in_Africa_A_technical_manual_10.2013_3.pdf 
+Improved digestibility 
+183. Fermon Y (2013) Subsistence fish farming in Africa: a technical manual. ACF 
+International. 
+ 73 
+http://www.actionagainsthunger.org/sites/default/files/publications/Subsistence_fish_
+farming_in_Africa_A_technical_manual_10.2013_3.pdf 
+Improved protein content 
+184. Fermon Y (2013) Subsistence fish farming in Africa: a technical manual. ACF 
+International. 
+http://www.actionagainsthunger.org/sites/default/files/publications/Subsistence_fish_
+farming_in_Africa_A_technical_manual_10.2013_3.pdf 
+185. Potongkam K and Miller J (2006) Manual on catfish hatchery and production. A 
+guide for small to medium scale hatchery and farm producers in Nigeria. 
+http://www.fao.org/3/a-ak505e.pdf 
+Improved supplements 
+186. Potongkam K and Miller J (2006) Manual on catfish hatchery and production. A 
+guide for small to medium scale hatchery and farm producers in Nigeria. 
+http://www.fao.org/3/a-ak505e.pdf 
+ 
+  
+ 
+ 74 
+Appendix 7: Design principles for CSA in Africa 
+During the Pretoria workshop, NEPAD challenged participants to come up with 
+simple principles for CSA in Africa. Participants defined four to frame ‘CSA is in the 
+African context’. CSA in Africa needs to (i) be farmer-centric, (ii) focus on 
+productivity and resilience with mitigation as a co-benefit, (iii) prescribe to graduated 
+changes in farming systems, and (iv) apply no-regret approaches (described below).  
+Farmer-centric  
+Farmers and their needs and desires are at the core of what is CSA in Africa. 
+Community and farmer participation drives the discussion and selection of practices 
+and technologies. Most importantly, farmers should be given multiple options to 
+choose from—taking advantage of their personal experience and preference to guide 
+them in choosing the appropriate innovation. 
+Productivity and resilience core  
+CSA efforts in Africa aim to increase productivity and resilience of farming activities. This 
+dual emphasis is a direct response to the dominant need of the rural population of Africa. In 
+many cases, improving the productivity and resilience will help mitigate climate change as 
+well. However, farm activities are promoted based on their potential to address climate and 
+social risks and needs, not on the basis of their mitigation potential. This approach is further 
+evidenced based on the adoption of the metric of ‘GHG intensity’ (kg CO2e per kg product) 
+versus absolute emissions (kg CO2eq) in the monitoring and evaluation framework for CSA in 
+Africa. 
+A process of graduated change  
+Climate-smart farming practices have particular characteristics that make them more or less 
+suitable for various farmers and farming communities. These characteristics range from 
+ 75 
+biophysical environment such as soil type to socioeconomic constraints such as land tenure. 
+Even when the conditions are right, there is still often a process of stepwise change. When 
+thinking about adoption of climate-smart agriculture, it is important to think of it as a dynamic 
+process, where the first engagements are around socializing ideas about CSA and then 
+followed with more accessible and adoptable farming activities (e.g., planting on time) that 
+represent incremental changes in the farming system, which can later be followed with 
+complex and perhaps transformative changes as dictated by climate and social risks and 
+needs. This is implemented within this decision guide by identifying specific components of 
+an agricultural system that can be modified with appropriate practices to become more 
+“climate smart”. Each year farmers can add additional CSA “components” to their agricultural 
+systems—thus allowing for gradual change—e.g., becoming more climate-smart. 
+No-regret approaches  
+Agricultural practices—CSA or otherwise—affect social, environmental and economic 
+outcomes. The fact that changing an agricultural management practice can affect everything 
+from soils to nutrition is one reason why agriculture is such a promising intervention for rural 
+issues. The magnitude of the impacts that changing practices will have on various CSA-
+relevant outcomes is unknown in many cases, especially for the diverse range of potential 
+outcomes of interest and the diversity of socio-ecological contexts. Regardless, there is 
+sufficient information to move forward with CSA now; many CSA technologies and practices 
+present ‘no-regret’ options. That is, they simply are just smart farming to best of our current 
+knowledge. Despite uncertainty about the impacts across CSA outcomes, specific CSA 
+practices can still be promoted especially where they have shown success and sustained 
+adoption in the past. 
+ 
+The CGIAR Research Program on Climate Change, Agriculture and Food 
+Security (CCAFS) is a strategic initiative of CGIAR and Future Earth, led by the 
+International Center for Tropical Agriculture (CIAT).  CCAFS is the world’s most 
+comprehensive global research program to examine and address the critical 
+interactions between climate change, agriculture and food security.  
+For more information, visit www.ccafs.cgiar.org
+Titles in this Working Paper series aim to disseminate interim climate change, 
+agriculture and food security research and practices and stimulate feedback 
+from the scientific community.
+Research supported by: 
+CCAFS is led by: Strategic partner:
