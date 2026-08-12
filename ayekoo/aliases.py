@@ -150,6 +150,30 @@ ALIASES: dict[str, list[str]] = {
     "ntontome": ["whitefly", "whiteflies", "insect"],
     "ayoyo worm": ["armyworm"],
     "ayoyo worms": ["armyworm"],
+    "agbeli": ["cassava"],  # Ewe
+
+    # ── Ghanaian Pidgin constructions ────────────────────────────────────────
+    # "dey" carries the continuous tense and "don" the perfect, so a farmer
+    # writes "my maize dey yellow" and "pest don finish my pepper" where a
+    # manual writes "chlorotic" and "damage". Ghanaian Pidgin is lighter than
+    # Nigerian and code-switches with Twi, Ga and Ewe more fluidly, so these are
+    # matched as phrases rather than by trying to parse the grammar.
+    "dey yellow": ["yellowing", "chlorotic"],
+    "dey die": ["mortality", "dying"],
+    "dey curl": ["curling", "leaf curl"],
+    "dey wilt": ["wilting", "wilt"],
+    "dey rot": ["rotting", "rot"],
+    "dey chop": ["damage", "feeding"],
+    "don finish": ["damage", "destroyed"],
+    "don spoil": ["damage", "spoilage"],
+    "no good": ["poor", "low yield"],
+    "small small": ["gradually"],
+
+    # Storage and market terms that came out of the same survey.
+    "grain borer": ["larger grain borer", "grain borer"],
+    "weevils in my maize": ["storage pest", "grain borer", "weevil"],
+    "market is bad": ["glut", "price"],
+    "too much maize on market": ["glut"],
     # ── Ghanaian variety names ───────────────────────────────────────────────
     # A farmer asks for a variety by name. The name alone embeds poorly in an
     # English model — "Obatanpa" scored 0.596 against a 0.65 gate — so it is
