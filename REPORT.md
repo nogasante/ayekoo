@@ -135,7 +135,7 @@ does not have.
 
 It answers in English, not Twi. The name is Akan, but a clumsy Twi interface judged by a Twi speaker would be worse than none; the localisation here is in the knowledge, not the interface.
 
-It cannot resolve a town to an agro-ecological zone. A farmer says "Tamale", not "Guinea Savannah Zone", and no document in this corpus states the full region-to-zone mapping. Rather than fill that in from general knowledge, Ayekoo says the zone is unknown and shows the whole calendar. Planting windows differ by up to two months between zones, so guessing is worse than showing all of them.
+Place resolution is partial and says so. The Ghana Meteorological Agency's manual states which regions fall in which agro-ecological zone, so a question naming a region resolves. Towns do not: no source here says Tamale is in the Northern Region, so when Ayekoo makes that step it tells the farmer it is unsourced and that only the region-to-zone link comes from GMet. Regions spanning several zones return every window rather than the largest one.
 
 Prices are 2024 annual national averages, not today's market. Cassava and plantain rest more on West African sources than Ghanaian ones. These are stated in the repository, not hidden.
 

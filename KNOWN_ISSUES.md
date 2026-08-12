@@ -34,15 +34,30 @@ summary — the quoted passage carries the source's own warning: "You should not
 confuse chlorotic spots caused by the pest with the chlorotic patches of
 cassava mosaic disease."
 
-## 2. Town names do not resolve to agro-ecological zones
+## 2. RESOLVED — regions and towns now resolve to agro-ecological zones
 
-A farmer says "Tamale", not "Guinea Savannah Zone". No document in this corpus
-states the full region-to-zone mapping, and it is deliberately not filled in
-from general knowledge. Ayekoo says the zone is unknown and shows the whole
-planting calendar instead. Only "Upper East -> Sudan Savannah" is mapped,
-because that is the one such statement a source makes.
+Was: no source in this corpus stated which region sat in which zone, so a
+question naming a town got the whole planting calendar and a note that the zone
+was unknown.
 
-Closing this needs a citable Ghanaian source listing regions by zone.
+Resolved by the Ghana Meteorological Agency's *Weather and Climate Manual for
+Agriculture* (2022), which states the mapping directly. "When should I plant
+maize in Tamale?" now returns End of May to early July.
+
+Three things are handled deliberately rather than smoothed over:
+
+- **Regions spanning zones return all of them.** Ashanti lies across the
+  Transition and Deciduous Forest zones, so a Kumasi question shows both
+  windows instead of picking the larger one.
+- **The town-to-region step is disclosed as unsourced.** No document here says
+  Tamale is in the Northern Region. The answer says so: that step is ours, the
+  region-to-zone step is GMet's.
+- **GMet and FAO disagree about the Coastal Savannah** — one rainy season and
+  600mm versus two seasons and 800mm. Both are reproduced without
+  reconciliation.
+
+GMet uses the pre-2018 ten-region names, which is recorded against every entry
+touching the former Brong Ahafo.
 
 ## 3. Cassava and plantain lean on West African rather than Ghanaian sources
 
