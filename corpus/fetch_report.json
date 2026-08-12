@@ -96,6 +96,30 @@
     "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/7138c34e-802e-4267-ac82-d170a7607721/content"
   },
   {
+    "id": "fao-fertilizer-ghana",
+    "ok": true,
+    "message": "65,546 chars from 47 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/46e4e69d-caab-42e6-8f66-3d7888feebc3/content"
+  },
+  {
+    "id": "fao-yam-postharvest",
+    "ok": true,
+    "message": "51,872 chars from 23 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/00f2c13c-b199-40c3-b2f4-77cf83bed8ba/content"
+  },
+  {
+    "id": "fao-cassava-africa-review",
+    "ok": true,
+    "message": "147,434 chars from 66 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/55ef08b3-f4ff-4acc-9b37-7c2b1391ab76/content"
+  },
+  {
+    "id": "fao-save-and-grow-cassava",
+    "ok": true,
+    "message": "291,974 chars from 142 pages",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/f1394968-5048-433c-8509-2ff0d8864bf0/content"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",

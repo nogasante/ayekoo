@@ -1,0 +1,1874 @@
+# Fertilizer Use by Crop in Ghana
+# publisher: Food and Agriculture Organization of the United Nations (FAO)
+# year: 2005
+# url: https://openknowledge.fao.org/server/api/core/bitstreams/46e4e69d-caab-42e6-8f66-3d7888feebc3/content
+# attribution: FAO, Fertilizer Use by Crop in Ghana (2005)
+# ghana_specific: True
+# extent: 47 pages
+# CAVEAT: 2005. Fertilizer RATES are agronomic and durable; any PRICES in it are two decades stale and must never be quoted as current GHS costs. Use SRID Facts & Figures 2024 for prices.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Fertilizer use by crop
+in Ghana 
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS
+Rome, 2005
+Land and Plant Nutrition Management Service
+Land and Water Development Division
+The designations employed and the presentation of 
+material in this information product do not imply the 
+expression of any opinion whatsoever on the part of 
+the Food and Agriculture Organization of the United 
+Nations concerning the legal or development status of 
+any country, territory, city or area or of its authorities, or 
+concerning the delimitation of its frontiers or boundaries. 
+© FAO  2005
+All rights reserved. Reproduction and dissemination of material in this 
+information product for educational or other non-commercial purposes 
+are authorized without any prior written permission from the copyright 
+holders provided the source is fully acknowledged. Reproduction of 
+material in this information product for resale or other commercial 
+purposes is prohibited without written permission of the cop y right 
+holders. Applications for such permission should be addressed to the Chief, 
+Publishing Management Service, Information Division, FAO, Viale delle 
+Terme di Caracalla, 00100 Rome, Italy or by e-mail to copyright@fao.org
+Fertilizer use by crop in Ghana
+First version, published by FAO, Rome, 2005
+Food and Agriculture Organization of the United Nations
+Viale delle Terme di Caracalla
+00100 Rome, Italy
+Tel.: +(39) 06 57051
+Fax: +(39) 06 57053360
+E-mail: land-and-water@fao.org
+Web site: www.fao.org
+iii
+Contents
+Preface           vii
+Acknowledgements viii
+Abstract         ix
+Abbreviations xi
+1. Introduction 1
+Land use    2
+Agro-ecological zones 2
+Climate      2
+Soils            3
+2. Agricultural production 5
+Principal agricultural crops 5
+Cereals       5
+Industrial crops 6
+Starchy food crops other than cereals 7
+Edible legumes 8
+Vegetables 8
+Fruit    8
+Crops grown in the various agro-ecological zones  9
+3. Fertilizers in Ghana 11
+Fertilizer imports 11
+Fertilizer distribution 11
+Fertilizer consumption 12
+Fertilizer use by crop 14
+Food crops 14
+Export crops 14
+Fertilizer use by region 14
+Fertilizer marketing 16
+Marketing costs and margins 16
+iv
+4. Manure as a source of nutrients 21
+Nutrient content of manures 22
+Response of crops to organic manure 22
+5. Crop response to fertilizers 25
+Yam            25
+Sweet potato 25
+Effect of imbalanced fertilization on the yield of 
+sweet potato 25
+Cassava      27
+Maize         27
+Phosphorus Fertilization 27
+Effect of cattle manure and mineral fertilizer 
+on grain maize yield 28
+Pepper       28
+Cocoa         29
+6. Economics of fertilizer use 31
+Maize         31
+Rice            32
+Cassava      32
+Groundnut 32
+7. Constraints to fertilizer use and outlook 35
+Inadequate credit 35
+High lending rates 35
+Agricultural marketing deficiencies 36
+Inadequate irrigation 36
+Inadequate funding of agricultural projects 37
+Outlook     37
+References     39
+v
+List of tables
+1.    The regions of Ghana and their capitals 1
+2.    Population 1
+3.    Land use 2
+4.    Climates of the agro-ecological zones 3
+5.    Average soil fertility status of some regions 4
+6.    Crop groups 5
+7.    Production of industrial crops 6
+8.    Area planted to some industrial crops, 2002 7
+9.    Oil-palm area 7
+10.  Planted areas of some starchy crops other than cereals  8
+11.  Production of some starchy crops other than cereals  8
+12.  Exports of some vegetable crops 8
+13.  Exports of some fruit crops 9
+14.  Major crops grown in the agro-ecological zones 9
+15.  Production of selected crops in the agro-ecological zones  10
+16.  Fertilizer imports 11
+17.  Apparent fertilizer consumption by type 12
+18.  Apparent fertilizer nutrient consumption 12
+19.  Crop fertilizer use 15
+20.  Average sales of fertilizer by region 16
+21.  Average sales of fertilizer by region 16
+22.  Regional, wholesale and retail prices in 2001/02 17
+23.  Retail price of fertilizers in Ghana from 1988 to 1999 and 2002 17
+24.  Cedi/US$ exchange rate 18
+25.  Monthly wholesale prices in 2001  18
+26.  Monthly retail prices of fertilizers in 2001 19
+27.  Increases in fertilizer prices between January and December 2001 19
+28.  Nutrient content of cattle manure, kraal and field 21
+vi
+29.  Nutrient content of cattle manure, Upper East Region (Sudan 
+       Savannah Zone) 21
+30.  Nutrient content of manures, poultry, cattle and sheep 22
+31.  Response of cowpea to manure 22
+32   Response of yam to fertilization in the Transition Zone 25
+33.  Sweet potato: response to nutrient balances 26
+34.  Sweet potato: response to increasing nutrient rates 26
+35.  Grain maize: response to TSP and RP 27
+36.  Grain maize: on-farm response to cattle manure and fertilizer 28
+37.  Pepper: response to different sources of nitrogen 28
+38.  Cocoa: on-farm response to fertilizer, Ashanti region 29
+39.  Optimum fertilizer requirements, maximum crop yields and VCRs 31
+40.  Percentage of credit support from Commercial Banks 35
+41.  Minimum and maximum lending rates from Commercial Banks  3
+List of figures
+1. Land use 2
+2. Agro-ecological zones 3
+3. Dominant soils of Ghana, major climates and 
+ length of growing period 4
+4. Simulated land use map of Ghana 5
+5. Cereal production 6
+6. Cereal yields 6
+7. Fertilizer nutrient imports 12
+8. Fertilizer nutrient consumption 13
+vii
+Preface
+The Food and Agriculture Organization of the United Nations (FAO) 
+commissioned this study. It is one of a series of publications on fertilizer 
+use on crops in different countries.
+The aim of the series is to examine the agro-ecological conditions, 
+the structure of farming and cropping patterns, the availability and use 
+of mineral and organic plant nutrients, the economics of fertilizer use, 
+research and advisory requirements and other factors that have led to 
+present fertilizer usage. The reports examine, country by country, the 
+factors that will or should determine the future development of plant 
+nutrition.
+During the past two decades, increasing attention has been paid to the 
+adverse environmental impact of both the underuse and the overuse of 
+plant nutrients. The efficient use of plant nutrients, whether from mineral 
+fertilizers or from other sources, involves the shared responsibility 
+of many segments of society, including international organizations, 
+governments, the fertilizer industry, agricultural research and advisory 
+bodies, traders and farmers. The publications in the series are addressed 
+to all these parties.
+Fertilizer use is not an end in itself. Rather it is a means of achieving 
+increased food and fibre production. Increased agricultural production and 
+food availability can, in turn, be seen as an objective for the agricultural 
+sector in the context of contributing to the broader macroeconomic 
+objectives of society. A review of the options available to policy-makers 
+is given in the FAO/IFA 1999 publication entitled Fertilizer Strategies.
+The contents of the series of studies differ considerably from country to 
+country, in view of their different structures, histories and food situation. 
+But in each case the aim of the study is to arrive at a better understanding 
+of the nutrition of crops in the country concerned.
+viii
+Acknowledgements
+This study is based on the work of Mensah Bonsu, Department of Soil 
+Science, School of Agriculture, University of Cape Coast, Ghana.
+The study benefited from the contributions of P . Heffer, International 
+Fertilizer Industry Association (IFA), K. Isherwood (consultant FAO), J. 
+Poulisse and T. van den Bergen (FAO).
+The background cover photograph is from the FAO Mediabase: FAO/
+18309/C. Cenini. The other photographs from the FAO Mediabase are 
+pepper: FAO/20967 (no author) and cocoa: FAO/17254/L. Withers. The 
+photograph on cassava was provided by EcoPort (International Institute 
+of Tropical Agriculture Annual Report 1998).
+ix
+Abstract
+The population of Ghana is increasing at a rate of 1.7 percent per annum 
+with almost two-thirds living in rural areas. Agriculture accounts for 
+about a third of the gross domestic product (GDP), although this 
+proportion is tending to decline. Ghana has extensive areas of land 
+suitable for agriculture but the soils are infertile and only productive with 
+proper management. The coarse nature of the soils has an impact on their 
+physical properties and water stress is common during the growing season. 
+Traditional, soil mining cultivation practices are still used extensively.
+Cocoa is the main export crop but its production has been irregular. 
+The crop has received little fertilizer. However, production increased 
+in 2002/03 and, with improved practices including fertilization, there 
+are good prospects for improving crop production. The production 
+and exports of higher value crops, fruit and vegetables, are tending to 
+increase. 
+All fertilizers used in Ghana are imported. The most important 
+group of fertilizers is that of compound fertilizers. The consumption 
+of fertilizers fell substantially between the early 1980s and 2000 mostly 
+because of  adverse economic conditions but in 2002 it recovered to the 
+former level. Maize accounts for about 40 percent of fertilizer use on 
+food crops. The retail price of fertilizers increased several-fold between 
+the 1980s and the 2000s largely owing to the depreciation of the Cedi. 
+Subsidies on fertilizers were removed progressively from 1987 onwards. 
+The correct use of fertilizers is particularly profitable on flooded 
+rice and cassava but was profitable on most crops under 2002 economic 
+conditions. Several crops respond positively to organic manures. Maize, 
+for example, responds well to applications of NPK, to a lesser extent 
+to application of manure, but in on-farm trials manure plus NPK gave 
+a seven-fold increase over plots with no treatment. A special grade of 
+fertilizer has been developed for use on cocoa. In on-farm trials, compared 
+with unfertilized plots, a yield increase of 62 percent was obtained in the 
+first year rising to 107 percent in the fourth year of application.
+x
+Among the important constraints to increased fertilizer use are 
+inadequate and expensive credit, unsatisfactory marketing arrangements 
+for the produce, the relatively small area under irrigation, insufficient 
+funding of agricultural projects and inefficient use of fertilizers by farmers. 
+Only 0.2 percent of the cultivated land is irrigated whereas several large 
+irrigation schemes are underutilized.
+xi
+Abbreviations
+Cif  Cost, insurance and freight
+CSIR  Council for Scientific and Industrial Research
+CRIG  Cocoa Research Institute of Ghana
+CV  Coefficient of variation
+GDP  Gross Domestic Product
+GPRS  Ghana Poverty Reduction Strategy
+IFDC  International Fertilizer Development Centre
+ISSER  Institute of Social and Economic Research
+MOFA  Ministry of Food and Agriculture
+RP  Rock phosphate
+SE  Standard error
+SRI  Soil Research Institute
+VCR  Value Cost Ratio
+Fertilizers
+AN  Ammonium nitrate
+AS  Ammonium sulphate
+KNO
+3  Potassium nitrate
+MOP  Muriate of potash
+SSP  Single superphosphate
+TSP  Triple superphosphate
+NPK  Compound fertilizer containing N, P
+2O5 and K2O
+NP  Compound fertilizer containing N and P 2O5
+PK  Compound fertilizer containing P 2O5 and K2O
+N: Nitrogen
+P2O5 or P:  Phosphate*
+K2O or K:  Potash*
+*  Phosphate and potash may be expressed as their elemental forms P and K or as their oxide 
+forms P2O5 and K2O. Nitrogen is expressed as N. In this study, phosphate and potash are 
+expressed in their oxide forms.
+1
+Chapter 1
+Introduction
+Ghana is located on the southern 
+coast of West Africa, between 
+latitudes 4
+o 44’ N and 11o 11’N and 
+longitudes 3o 11’ W and 1o 11’ E.
+The country is divided into 
+ten administrative regions. These 
+regions are shown in Table 1.
+According to the World 
+Bank, in 2003 the country had a 
+population of 20.4 million people 
+with a population growth rate of 
+1.7 percent per annum. Agriculture 
+accounted for 35 percent of the 
+GDP .
+The total and rural populations of the different regions in 1999 are 
+given in Table 2.
+Region Capital
+Ashanti Kumasi 
+Brong Ahafo Sunyani
+Central Cape Coast 
+Eastern Koforidua
+Greater Accra Accra 
+Northern Region Tamale
+Upper East Region Bolgatanga
+Upper West Wa
+Volta Ho
+Western Sekondi-Takoradi 
+TABLE 1
+The regions of Ghana and their capitals
+TABLE 2
+Population
+Region Population 
+(‘000)
+Growth rate 
+(%)
+Rural         
+(‘000)
+Rural            
+(%)
+Ashanti 3 613 3.4 1 685 46.6
+Brong Ahafo 1 815 2.5 1 137 62.6
+Central 1 594 2.1 995 62.5
+Eastern 2 107 1.4 1 379 65.4
+Greater Accra 2 906 4.4 359 12.3
+Northern 1 821 2.8 1 337 73
+Upper East 577 1.7 476 82.6
+Upper West 921 1.1 776 84.3
+Volta 1 635 1.9 1 194 73
+Western 1 925 3.2 1 226 63.7
+Total/Average 18 914 2.6 10 564 55.9
+                                                                                         Fertilizer use by crop in Ghana 2
+LAND USE
+The land areas according to 
+their utilization are given in 
+Table 3 and Figure 1.
+AGRO-ECOLOGICAL ZONES
+The country is divided into 
+six agro-ecological zones 
+on the basis of their climate. 
+The natural vegetation is 
+determined by the different climatic conditions and influenced by different 
+soil types. These agro-ecological zones from north to south are: Sudan 
+Savannah Zone, Guinea Savannah Zone, Transition Zone, Semi-deciduous 
+Forest zone, Rain Forest Zone and the Coastal Savannah Zone (Figure 2).
+CLIMATE
+The climatic conditions of the different agro-ecological zones are shown 
+in Table 4. The wet and dry seasons are determined by rainfall and 
+temperature. The Tropical Eastern Coastal Belt is warm and comparatively 
+dry, the southwest is hot and humid and the north is relatively hot and 
+dry, compared with the other parts of the country. The mean annual 
+rainfall ranges from 800 mm in the Coastal Savannah to 2 200 mm in the 
+Rain Forest. The rainfall pattern is uni-modal in the Sudan and Guinea 
+Savannah Zones and bi-modal in all the other zones (Table 4).
+Total 23 million ha
+5% 7%
+15%
+25%
+30%
+18% Annual crops
+Tree crops
+Unimproved pasture
+Bush fallow and other uses
+Savannah woodland
+Forest and reserves
+FIGURE 1
+Land use
+Source: FAOSTAT.
+TABLE 3
+Land use
+‘000 ha Percentage
+Total land area 23 854 100
+Agriculture land area 13 628 57.1
+(of which under cultivation) (6 331) (26.5)
+Total area under irrigation 11 0.05
+Area under inland waters 1 100 4.6
+Others* 9 064 38.3
+* Others: Forest reserves and savanna woodlands.
+Source: MOFA, 2003.
+Chapter 1 – Introduction 3
+SOILS
+The soils of Ghana are highly 
+weathered with predominantly 
+light textured surface horizons 
+in which sandy loams and 
+loams are the common textural 
+classes. The lower soil horizons 
+have relatively heavier textures 
+varying from coarse sandy 
+clay loams/sandy loams to 
+clays. Heavier textured soils 
+are normally abundant in 
+the valley bottoms, which 
+are ideal for rice cultivation. 
+The B-horizons – subsurface 
+horizons showing features of 
+accumulation or significant 
+alterations – may contain 
+abundant coarse material 
+either as gravel or stone/
+concretionary materials. The 
+coarse nature of the soils has 
+an adverse impact on their 
+physical properties, particularly their water holding capacity. Thus crop 
+water stress is not uncommon during the growing season. The soil map of 
+Ghana based on the FAO Legend is given in Figure 3. 
+UPPER WEST
+REGION
+UPPER EAST
+REGION
+NORTHERN
+REGION
+BRONGA AHAFO
+REGION
+ASHANTI
+REGION
+WESTERN
+REGION
+CENTRAL
+REGION
+EASTERN
+REGION
+GREATER ACCRA
+REGION VOLTA REGION
+365
+180
+210
+240
+270
+270
+300
+330
+300
+270240210
+180
+150
+364
+240
+210
+180
+180
+210
+240
+270
+300
+330
+364
+I
+Af Lf
+I
+Vc Lp
+LpG
+BvBe
+Lg
+Lf
+Be
+I
+Ao
+Ne
+Af
+Ao
+Fx
+Vc G
+Nd
+NeLf
+I
+Af
+Qf
+Vc
+Ws
+Rd
+Lf
+J2
+LAKE VOLTA
+Ap Lf
+I
+I
+Legend
+Af
+Ao
+Ap
+Be
+Bv
+Fo
+Fx
+G
+I
+J2
+Lf
+Lg
+Lp
+Nd
+Ne
+Qf
+Rd
+Vc
+Ws
+WB
+Administrative Regions
+Length of Growing 
+Period (in days)
+FIGURE 2
+Agro-ecological zones
+TABLE 4
+Climates of the agro-ecological zones
+Source: Adapted from data from the Meteorological Department, Legon, Accra, Ghana.
+Agro-ecological 
+zone
+Area      
+(km2)
+Mean annual 
+rainfall  
+(mm)
+Range    
+(mm)
+Major rainy 
+season
+Minor rainy 
+season
+Rain Forest 9 500 2 200 800-2 800 March-July Sept.-Nov.
+Deciduous Forest 66 000 1 500 1 200-1 600 March-July Sept.-Nov.
+Transitional Zone 8 400 1 300 1 100-1 400 March-July Sept.-Oct.
+Coastal Savannah 4 500 800 600-1 200 March-July Sept.-Oct.
+Guinea Savannah 147 900 1 000 800-1 200 May-Sept.
+Sudan Savannah 2 200 1 000 May-Sept.
+                                                                                         Fertilizer use by crop in Ghana 4
+The average fertility status of soils of the different regions is presented 
+in Table 5. The levels of organic carbon, nitrogen and available phosphorus 
+are generally very low. Figures are not given for potassium since it is 
+mostly abundant in the soils of Ghana. 
+1010
+AtñFerric Acrisols
+AoñOrthic Acrisols
+ApñPlinthis Acrisols
+BeñEutric Cambisols
+BtñFerralic Cambisols
+BvñVertic Cambisols
+FoñOrthic Ferralsols
+FxñXanthic Ferralsols
+GñGleysols
+IñLithosols
+JñFluvisols
+LtñFerric Luvisols
+LgñGleyic Luvisols
+LpñPlinthic Luvisols
+NdñDystric Nitosols
+NeñEutric Nitosols
+QfñFerralic Arenosols
+RdñDystric Regosols
+VcñChromic Vertisols
+WsñSolodic Planosols
+Water bodies (WA)
+FIGURE 3
+Dominant soils of Ghana, major climates and length of growing period
+TABLE 5
+Average soil fertility status of some regions
+Region Soil pH Organic 
+matter      
+(%)
+Total 
+nitrogen    
+(%)
+Available P 
+(mg/kg soil)
+Available Ca 
+(mg/kg soil)
+Ashanti 4.3–7.8 1.5–3.0 0.1–0.3 0.1–12.0 50–100
+Brong Ahafo 3.5–6.7 0.3–1.7 - 0.1–64.3 16–140
+Greater Accra 5.4–8.2 0.1–1.7 0.05–0.9 0.8–144.0 14–470
+Northern 4.5–6.7 0.6–2.0 0.02–0.05 2.5–10.0 45–90
+Upper East 5.1–6.8 1.1–2.5 0.06–0.14 1.8–14.8 44–152
+Upper West 6.0–6.8 0.5–1.3 0.01–0.07 2.0–7.4 52–152
+Western 3.8–7.1 1.0–5.7 0.06–5.4 0.4–11.3 28–420
+Source: Soil Research Institute (SRI) CSIR – Kumasi.
+Original scale 1:5 million.
+Source: DSMW-FAO-UNESCO.
+5
+Chapter 2
+Agricultural production
+PRINCIPAL AGRICULTURAL CROPS
+The principal agricultural 
+crops produced in Ghana 
+may be grouped as shown in 
+Table 6.
+Figure 4 shows a simulated 
+land use map of Ghana. 
+Cocoa and oil-palm are the 
+dominant crops in the wetter 
+southwest of the country, 
+and maize, millet, sorghum 
+and groundnuts in the drier 
+north. Cassava is found 
+between these zones and in 
+the southeast.
+CEREALS
+The quantities of cereals 
+produced between 1961/63 
+and 2001/03 are shown in 
+Cocoa
+Maize
+Cassava
+Sorghum
+Plantain
+Other roots
+Groundnut
+Millet
+Pulses
+Vegetables
+Rice
+Oil-palm
+Fallow
+Other crops
+No data
+Land use
+N
+S
+EW
+FIGURE 4
+Simulated land use map of Ghana
+Source: FAO, 2004.
+TABLE 6
+Crop groups
+Group Crops
+Cereals Maize, millet, sorghum, rice
+Industrial crops Cocoa, oil-palm, coffee, cotton, tobacco, sheanut, cola nut
+Legumes Cowpea, bambara nut, groundnut, soybean
+Fruits Papaya, avocado, mango, cashew, watermelon, plantain
+Vegetables Tomato, eggplant, onion, pepper, okra, cabbage, lettuce, carrot
+Roots and tubers Yam, cassava, cocoyam, sweet potato
+                                                                                         Fertilizer use by crop in Ghana 6
+Figure 5. The yields during 
+the same period are given in 
+Figure 6. Maize production 
+increased considerably due 
+mainly to increase in area 
+as the yield increase is 
+not proportional with the 
+production increase. Sorghum 
+and millet production is 
+affected by seasonal droughts 
+in the northern savanna.
+INDUSTRIAL CROPS
+Table  7 shows the develop-
+ment of the production of six 
+industrial crops.
+The cocoa industry is 
+the source of income and 
+livelihood for about 25 
+percent of Ghana’s popula-
+tion (ISSER, 2000). Between 
+1990 and 1999, the industry 
+contributed an average of 31 percent of total foreign exchange earnings 
+annually and an average of 12 percent of total annual government revenue. 
+The relative proportion has tended to decline but in 2003, a year with 
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+'000 tonnes
+1961/63
+1971/73
+1981/83
+1991/93
+2001/03
+Maize            Millet            Rice          Sorghum
+FIGURE 5
+Cereal production
+Source: FAOSTAT.
+2 500
+2 000
+1 500
+1 000
+500
+0
+Kg/ha
+Maize            Millet                Rice           Sorghum
+1961/63
+1971/73
+1981/83
+1991/93
+2001/03
+FIGURE 6
+Cereal yields
+Source: FAOSTAT.
+TABLE 7
+Production of industrial crops (‘000 tonnes)
+Source: MOFA, 2003.
+Year Cocoa Coffee Seed 
+Cotton
+Tobacco Oil-palm Sheanut
+1996/97 322 2.9 25 2.0 984 22
+1997/98 409 8.4 34 2.4 956 35
+1998/99 398 4.0 38 2.6 1 022 17
+1999/00 437 2.0 36 2.5 1 032 31
+2000/01 390 1.4 18 1.2 1 066 20
+2001/02 341 1.5 18 2.2 1 102 27
+2002/03 475 1.5 15 n.a. 1 100 n.a.
+Chapter 2 – Agricultural production 7
+a rather high cocoa price, it 
+still represented 27 percent of 
+total export earnings.
+The cocoa crop covers 
+about 28 percent of the 
+cropped land. The main 
+growing areas are in central 
+and southwest Ghana. Cocoa 
+is produced mainly on about 
+700 000 small “crop tree” 
+farms. The average cocoa 
+farm covers 1.2 ha but there 
+are a few large plantations.
+Farmers normally burn 
+small parts of the secondary 
+forest to open up new cocoa 
+land. After clearing, they 
+intercrop the cocoa with 
+maize, yams, plantains and 
+cassava. In the early years, 
+plantains grow fast and provide shade. After five years, the cocoa plants 
+have developed a closed canopy and farmers then grow the crop as a 
+monoculture. Most farmers do not apply fertilizer on cocoa. Without 
+fertilization, yields decrease after 20 years, but production is possible for 
+up to 50 years. The average cocoa yield is about 300 kg/ha compared 
+with the potential yield of 1.0 to 1.5 tonnes/ha.
+The area planted to industrial crops in 2002 is given in Table 8. The area 
+of cocoa is highest, accounting for 78 percent of the total planted area of 
+the industrial crops listed.
+Oil-palm is the second most important industrial crop after cocoa. The 
+growth of the area of oil-palm from 1994 to 1999 is presented in Table 9.
+Starchy food crops other than cereals
+The important starchy food crops other than cereals are yam, cocoyam, 
+plantain and cassava. The trends in the areas planted to these crops are given 
+in Table 10. The areas of cassava and yam have increased consistently.
+TABLE 8
+Area planted to some industrial crops, 2002
+Crop Area (‘000 ha) Percent
+Cocoa 1 195 78
+Oil-palm 304 20
+Cotton 19 1
+Coffee 8 0.5
+Tobacco 1 >5.0
+Total 1 527 100
+Source: MOFA, 2003; FAOSTAT.
+TABLE 9
+Oil-palm area
+Year Area planted (‘000 ha)
+1994 256
+1995 262
+1996 267
+1997 273
+1998 279
+1999 285
+Source: MOFA, 2003.
+                                                                                         Fertilizer use by crop in Ghana 8
+The quantities of these 
+starchy crops produced 
+between 1997 and 2003 are 
+given in Table 11. In terms 
+of total production over 
+the period considered, the 
+share of cassava was about 
+54 percent followed by yam 
+with 21 percent, plantain with 
+13 percent and cocoyam with 
+11 percent.
+Edible legumes
+The two most important 
+edible legumes in Ghana 
+are cowpea and groundnut. 
+In 2002, the total domestic 
+production of cowpea and 
+groundnut amounted to 
+140 000 tonnes and 520 000 
+tonnes respectively (MOFA, 
+2003).
+Vegetables
+Tomato is the major vegetable 
+crop in Ghana. The other 
+important vegetable crops are 
+pepper/chilies, eggplant and okra. The total area planted to tomato in 2002 
+was 26 700 ha, while the area planted to the other vegetables amounted 
+to 13 700 ha. Information on the total production of vegetables is not 
+documented. However, the quantities of some selected vegetables that 
+were exported between 2001 and 2002 are presented in Table 12. 
+Fruit 
+Ghana produces a number of fruits, mostly for domestic consumption. The 
+most important exported fruit is pineapple. Fertilizer use on pineapple is 
+TABLE 10
+Planted areas of some starchy crops other 
+than cereals (‘000 ha)
+Crop Average 
+1997/99
+2000 2001 2002 2003
+Cassava 641 660 726 794 800
+Yam 214 261 287 300 300
+Plantain 241 244 265 277 280
+Cocoyam 223 247 262 282 230
+Source: MOFA, 2003; FAOSTAT.
+TABLE 11
+Production of some starchy crops other than 
+cereals (‘000 tonnes)
+Crop Average 
+1997/99
+2000 2001 2002 2003
+Cassava 7 339 8 107 8 966 9 731 10 000
+Yam 2 787 3 363 3 547 3 900 3 900
+Plantain 1 926 1 932 2 074 2 279 2 300
+Cocoyam 1 605 1 625 1 688 1 860 1 860
+Source: MOFA, 2003; FAOSTAT.
+TABLE 12
+Exports of some vegetable crops
+Source: ISSER, 2003.
+Crop 2001 2002
+(tonnes)
+Pepper/chilies 5 281 4 687
+Tomato 4 539 4 961
+Eggplant 1 295 1 512
+Chapter 2 – Agricultural production 9
+fairly high, because pineapple 
+is grown on sandy soils as 
+the crop needs well drained 
+soils. In 2002, the total area 
+planted to pineapple stood at 
+5 000 ha (MOFA, 2003). The 
+quantities of some selected 
+fruits exported in 2001 and 
+2002 are given in Table 13.
+CROPS GROWN IN THE VARIOUS AGRO-ECOLOGICAL ZONES 
+The major food crops grown in the different agro-ecological zones are 
+given in Table 14. Maize and rice are produced in all the agro-ecological 
+zones. The highest production of maize is in the Transition Zone while 
+the highest production of cassava is in the Semi-deciduous Forest Zone. 
+The highest production of millet is in the Sudan Savannah Zone, that of 
+sorghum and rice in the Guinea Savannah Zone (Table 15).
+TABLE 13
+Exports of some fruit crops
+Fruit crop 2001 2002
+(tonnes)
+Pineapple 35 174 46 391
+Banana 3 251 3 251
+Papaya 1 792 1 474
+Orange (fresh) 1 336 1 521
+Lime/lemon 778 1 310
+Source: ISSER, 2003.
+TABLE 14
+Major crops grown in the agro-ecological zones
+Source: Gerken et al., 2001.
+Zone Cereals Starchy Crops Legume Vegetables Tree crops
+High Rain 
+Forest
+Maize, rice Cassava, 
+cocoyam, 
+plantain
+Pepper, okra, 
+eggplant
+Citrus, 
+coconut, oil-
+palm, rubber
+Semi-deciduous 
+Rain Forest
+Maize, rice Cassava, 
+cocoyam, 
+plantain
+Cowpea Pepper, okra, 
+eggplant, 
+tomato
+Citrus, oil-
+palm, coffee, 
+cocoa
+Forest-
+Savannah 
+Transition
+Maize, rice, 
+sorghum
+Yam, 
+cocoyam, 
+plantain, 
+cassava
+Cowpea, 
+groundnut
+Tomato, 
+pepper, 
+eggplant, 
+okra
+Citrus, coffee, 
+cashew
+Guinea 
+Savannah
+Maize, rice, 
+sorghum, 
+millet
+Yam, cassava Cowpea, 
+groundnut, 
+bambara
+Tomato, 
+pepper
+Sheanuts, 
+cashew
+Sudan 
+Savannah
+Maize, rice, 
+sorghum, 
+millet
+Sweet potato Cowpea, 
+groundnut, 
+bambara
+Tomato, 
+onion
+Coastal 
+Savannah
+Maize, rice Cassava Cowpea Tomato, 
+shallot
+Coconut
+                                                                                         Fertilizer use by crop in Ghana 10
+TABLE 15
+Production of selected crops in the agro-ecological zones 
+Zone Maize Cassava Millet Sorghum Rice
+%
+Sudan Savannah 5 70 40 10
+Guinea Savannah 15 10 30 50 40
+Transition 50 20 10 10
+Semi-deciduous forest 20 50 10
+Coastal Savannah 6 10 15
+High Rainforest 4 10 15
+11
+Chapter 3
+Fertilizers in Ghana
+At present, Ghana does not produce manufactured fertilizers, although 
+there are some deposits of rock phosphate in the country. All the fertilizers 
+used in the country are imported.
+FERTILIZER IMPORTS
+Table 16 shows the quantities of different types of fertilizers imported into 
+the country between 1997 and 2001. The major importers of fertilizers 
+into Ghana are private companies. The Agricultural Development Bank 
+and some commercial farms also import fertilizers, either for their clients 
+or for their own use. The imports of compound fertilizers far exceed the 
+imports of the other fertilizers in Ghana. The second most important 
+imported products are ammonium sulphate (AS) and muriate of potash 
+(MOP). The imports of urea, SSP and TSP are marginal. The major 
+importers account for about 80 percent of the total fertilizer requirements 
+of the country.
+FERTILIZER DISTRIBUTION
+From the major importers, the fertilizers may go either to the end users 
+such as the oil-palm sector, the tobacco sector, the cotton sector and the 
+large rice irrigation projects or through intermediary channels consisting 
+Year 15-15-15 Other 
+compounds
+Urea MOP AS SSP/TSP & 
+others
+Total
+‘000 tonnes product
+1997 19.2 17.9 1.9 5.5 10.7 1.1 56.3
+1998 13.1 8.8 0.5 3.1 13.3 3.6 42.4
+1999 3.2 0.4 0 8.1 4.8 5.5 22.0
+2000 14.1 0.8 0.1 4.5 23.2 0.8 43.5
+2001 31.8 17.5 2.5 4.1 22.6 2.3 80.8
+Source: MOFA, 2003.
+TABLE 16
+Fertilizer imports
+                                                                                         Fertilizer use by crop in Ghana 12
+of registered wholesalers/
+retailers, located in most of 
+the regional capitals. These 
+registered wholesalers/retailers 
+distribute fertilizers through 
+a network of rural shops 
+dealing in agricultural inputs 
+and located in the districts. 
+Alternatively, farmers may 
+buy fertilizers directly from 
+the wholesalers or the rural 
+retail shops, whichever they find convenient. There are about 700 rural 
+retailers of fertilizers spread throughout the country, with the highest 
+concentration in the maize belt in the Brong Ahafo region.
+FERTILIZER CONSUMPTION
+Tables 17 and 18 give the apparent fertilizer consumption by type 
+and nutrient in Ghana between 1995 and 1999. Compound fertilizers 
+0
+2
+4
+6
+8
+10
+10
+12
+14
+16
+N P  O K  O 25 2
+'000 tonnes
+1970/72
+1980/82
+1990/92
+2000/02
+FIGURE 7
+Fertilizer nutrient imports
+Source: FAOSTAT.
+TABLE 17
+Apparent fertilizer consumption by type
+Source: MOFA, 2003.
+Year 15-15-15 20-20-0 Urea AS KNO 3 Total
+(‘000 tonnes product)
+1995 9.3 0 4.3 9.0 2.2 24.8
+1996 5.9 2.8 1.0 5.3 0.9 15.9
+1997 19.2 17.9 1.9 10.7 1.1 50.8
+1998 13.1 8.8 0.5 13.3 3.6 39.3
+1999 3.2 0.4 0 4.8 5.5 13.9
+TABLE 18
+Apparent fertilizer nutrient consumption
+Year N P 2O5 K2O Total
+(tonnes)
+1995 5.6 1.4 4.1 11.1
+1996 3.2 1.4 4.1 8.7
+1997 9.8 6.5 9.7 26
+1998 7.3 3.7 6.8 17.8
+1999 2.3 0.6 6.2 9.1
+Source: MOFA, 2003.
+Chapter 3 – Fertilizers in Ghana 13
+accounted for 48 percent of 
+the total amount of fertilizers 
+consumed during that period.
+The relatively high pro-
+portion of potassium is due to 
+its use in oil-palm production. 
+Nitrogenous fertilizers (urea 
+and AS) accounted for 30 
+percent of the total fertilizers 
+consumed.
+Figure 8 illustrates the 
+development of fertilizer 
+consumption since the early 
+1970s.
+During the 1970s fertilizer consumption increased ten-fold with a 
+peak of about 31 000 tonnes total nutrient in 1977. The FAO Fertilizer 
+Programme was very active in Ghana and this probably contributed to 
+the increase. However, this level still represented a low average rate of 
+fertilizer use per hectare of cultivated land. From 1984 onwards fertilizer 
+consumption fell following the introduction of the Structural Adjustment 
+Programme and the removal of most agricultural support, including 
+fertilizer subsidies. It increased in the second half of the 1990s following 
+an improvement in the national economy but fell again as a result of 
+renewed financial problems and depreciation of the Cedi. Nevertheless, 
+in 2002 it recovered to the level of the early 1980s. However, at about 5 kg 
+per hectare of cultivated land it is at half the level of sub-Saharan Africa 
+and at a quarter of the level of Africa as a whole.
+Considerably more plant nutrients are being removed and lost than 
+are being applied, with a consequent progressive impoverishment of soils. 
+Traditional, soil exhausting cultivation practices are still used extensively 
+(Gerner et al., 1995).
+Almost all the crop balances in Ghana show a nutrient deficit, i.e. 
+the difference between the quantities of plant nutrients applied and the 
+quantities removed or lost (FAO, 2004). This represents a loss of potential 
+yield and progressive soil impoverishment. According to the estimates, 
+cassava and yams account for almost 20 percent of the cropped area but 
+0
+2
+4
+6
+8
+10
+10
+1212
+1414
+N P  O K  O 25 2
+'000 tonnes
+1970/72
+1980/82
+1990/92
+2000/02
+FIGURE 8
+Fertilizer nutrient consumption
+Source: FAOSTAT.
+                                                                                         Fertilizer use by crop in Ghana 14
+37 percent of the nitrogen deficit. These crops remove large quantities of 
+nutrients and their soils are prone to erosion during harvest. The highest 
+depletion rates are in the southeast and the central west parts of Ghana, 
+which correspond to the cassava area. Cocoa accounts for 28 percent of the 
+cropped area but for only 15 percent of the nitrogen deficit. The quantity 
+of nutrients removed with the harvested crop is limited and the erosion 
+risk is low, since the land is covered by vegetation and litter and the soil is 
+well anchored by the root systems. The coconut crop accounts for only 1 
+percent of the land area but for 15 percent of the nitrogen deficit.
+FERTILIZER USE BY CROP
+Food crops
+There are no recent data on the use of fertilizers on crops in the different 
+regions. 
+Export crops
+Fertilizer use is primarily on cash crops. It is possible that some quantities 
+destined for cash crops are in fact applied to food crops (Table 19).
+Despite its importance as an export crop, fertilizer use on cocoa has 
+been negligible, due partly to the low farm prices that have prevailed. 
+The Cocoa Research Institute of Ghana (CRIG) has introduced a special 
+grade of fertilizer called Asase Wura. The formulation comprises: 0-18-22 
++ calcium, sulphur and magnesium. This fertilizer increases the yield of 
+cocoa significantly. It is anticipated that the use of fertilizers on cocoa 
+could more than double in the near future.
+FERTILIZER USE BY REGION
+The average sales of fertilizers between 1988 and 1990 for the geographical 
+regions of Ghana are presented in Table 20.
+Using these percentage sales by region, estimates of fertilizer 
+consumption per region were derived from the total national fertilizer 
+consumption for the period 1997 to 2001. These estimates are given in 
+Table 21. The Upper Regions represented by the Upper East and the 
+Upper West Regions constitute the regions with the highest fertilizer 
+consumption. This is due partly to the production of vegetables such as 
+tomatoes and onions under irrigation during the dry season in the Upper 
+Chapter 3 – Fertilizers in Ghana 15
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 1990–94 1995–99  Growth 
+%
+NPK 1 275 n.a. 4 350 3 000 3 912 2 790 1 761 5 769 3 917 961 12 537 15 198
+Urea 2 010 n.a. 0 0 0 425 95 185 50 0 2 010 755
+MOP 0 n.a. 200 1 000 1 250 1 700 2 250 2 725 1 548 3 253 2 450 11 476
+Oil-palm 3 285 n.a. 4 550 4 000 5 162 4 915 4 106 8 679 5 515 4 214 16 997 27 429 5
+share 0.1 0.2 0.2 0.2 0.2 0.2 0.2 0.1 0.2 0.1 0.2
+NPK 638 n.a. 2 175 1 500 1 956 1 395 881 2 885 1 959 480 6 269 7 599
+AS 2 500 n.a. 11 500 7 600 8 500 9 000 5 320 10 700 13 265 4 800 30 100 43 085
+Urea 16 080 n.a. 0 0 0 3 400 760 1 480 400 0 16 080 6 040
+Other NPK 17 000 n.a. 3 000 0 0 0 2 830 17 850 8 800 400 20 000 29 880
+Cotton 36 218 n.a. 16 675 9 100 10 456 13 795 9 791 32 915 24 424 5 680 72 449 86 604 2
+share 0.8 0.6 0.5 0.4 0.5 0.5 0.6 0.6 0.3 0.6 0.5
+NPK 1 488 n.a. 5 075 3 500 4 564 3 255 2 055 6 731 4 572 1 121 14 627 17 731
+KNO 0 n.a. 0 560 20 2 190 900 1 083 3 597 5 531 580 13 301
+Urea 2 010 n.a. 0 0 0 425 95 185 50 0 2 010 755
+Tobacco 3 498 n.a. 5 075 4 060 4 584 5 870 3 050 7 999 8 219 6 652 17 217 31 787 6
+share 0.1 0.2 0.2 0.2 0.2 0.2 0.1 0.2 0.3 0.2 0.2
+NPK 850 n.a. 2 900 2 000 2 608 1 860 1 174 3 846 2 612 640 8 358 10 132
+MOP 0 n.a. 200 1 000 1 250 1 700 2 250 2 725 1 548 3 253 2 450 11 476
+Pineapple 850 n.a. 3 100 3 000 3 858 3 560 3 424 6 571 4 159 3 893 10 808 21 608 7
+share 0.0 0.1 0.2 0.2 0.1 0.2 0.1 0.1 0.2 0.1 0.1
+Total 43 850 29 400 20 160 24 060 28 140 20 370 56 164 42 317 20 439 23 494 33 485 4
+TABLE 19
+Crop fertilizer use (tonnes)
+Source: MOFA, Crops Services and WienCo.
+                                                                                         Fertilizer use by crop in Ghana 16
+East Region. The Upper East Region has two large irrigation schemes 
+at Tono and Vea. Because of the high economic value of tomatoes and 
+onions during the dry season, farmers are willing to purchase and apply 
+fertilizers to these crops. The Western Region has the lowest consumption 
+of fertilizers since the major farming activity is cocoa. It is only recently 
+that fertilizer use on cocoa has attracted the attention of farmers.
+FERTILIZER MARKETING
+Marketing costs and margins
+The farm price of fertilizer is determined by the import costs and the 
+margins taken by the distribution sector. The costs include the CIF price, 
+port charges and tariffs, loading and unloading, transportation, storage, 
+TABLE 20
+Average sales of fertilizer by region
+Source: Adapted from Bonsu, Ofosu and Kwakye, 1996.
+TABLE 21
+Average sales of fertilizer by region
+Region 1997 1998 1999 2000 2001
+ (tonnes)
+Ashanti 5 167 3 893 2 023 4 046 7 438
+Brong Ahafo 7 582 5 712 2 969 5 937 10 914
+Central 1 629 1 229 638 1 275 2 345
+Eastern 1 011 762 396 792 1 455
+Greater Accra 1 236 931 484 967 1 779
+Northern 15 220 11 467 5 960 11 917 21 910
+Upper Regions 15 501 11 679 6 070 12 137 22 314
+Volta 8 481 6 390 3 321 6 640 12 208
+Western 337 254 132 264 483
+Total 56 164 42 317 16 593 43 975 80 846
+Source: MOFA.
+Region Average sales, 1988/90     
+(tonnes)
+Percentage of the total
+Ashanti 2 554 9.2
+Brong Ahafo 3 760 13.5
+Central 803 2.9
+Eastern 507 1.8
+Greater Accra 610 2.2
+Northern region 7 535 27.1
+Upper regions 7 681 27.6
+Volta 4 209 15.1
+Western 170 0.6
+Total 27 829 100
+Chapter 3 – Fertilizers in Ghana 17
+interest on loans, insurance 
+and other fees. The margins 
+are the difference in price at 
+each stage of distribution, 
+between the manufacturer or 
+importer, the wholesaler, the 
+retailer and the farmer (or 
+final end user). The regional 
+wholesale and retail prices 
+of fertilizers for 2001/02 are 
+given in Table 22.
+In the 1970s and 1980s 
+subsidies on fertilizers were 
+among the major incentives 
+given to farmers by the 
+government of Ghana. From 1987 onwards, subsidies were removed 
+gradually. By 1989 all subsidies had been withdrawn. Since there were 
+fertilizers in stock, the prices remained almost constant for two years 
+(1990/91) and then started to increase. The retail prices of the four 
+important fertilizers being used by farmers between 1988 and 2002 are 
+given in Table 23. The 2002 prices calculated from Table 22 are presented 
+for comparison.
+TABLE 22
+Regional, wholesale and retail prices in 2001/02
+Product Unit Wholesale price Retail price
+(‘000 Cedis/bag) US$/unit (‘000 Cedis/bag) US$/unit
+15-15-15 25 kg 51.0 6.9 60.1 8.1
+15-15-15 50 kg 95.6 12.9 106 14.3
+17-17-17 50 kg 112 15.1 120 16.2
+20-20-20 50 kg 105 14.1 120 16.2
+23-15-15 50 kg 94.3 12.7 104.6 14.1
+AN 25 kg 45.4 6.1 49.9 6.7
+AN 50 kg 75.7 10.2 85.8 11.6
+MOP 50 kg 115 15.5 - -
+SSP 50 kg 96 12.9 92.1 12.4
+TSP 50 kg - - 115.6 15.6
+Urea 25 kg 60.4 8.1 62.8 8.5
+Urea 50 kg 104.2 14.0 113.3 15.3
+Source: IFDC, Africa.
+TABLE 23
+Retail price of fertilizers in Ghana from 1988 
+to 1999 and 2002
+Year Retail prices of fertilizer (Cedis/kg)
+15-15-15 Urea AS MOP
+1988 46 n.a. 32 n.a.
+1989 67 n.a. 47 n.a.
+1990 84 84 62 76
+1991 84 84 62 76
+1992 140 84 120 200
+1993 170 84 156 240
+1994 347 322 262 300
+1995 450 700 320 500
+1996 620 700 500 700
+1997 680 840 480 760
+1998 780 860 440 760
+1999 780 860 440 760
+2002 2 404 2 511 1 995 n.a.
+                                                                                         Fertilizer use by crop in Ghana 18
+The progressive increase in 
+fertilizer retail prices follows 
+increases in the exchange rate 
+of the local currency (Cedi) 
+with respect to the US$. The 
+Interbank exchange rates of 
+the Cedi with respect to the 
+US$ from 1993 to 2002 are 
+given in Table 24.
+The wholesale prices of 
+the different fertilizers vary 
+from month to month. The 
+variation in monthly prices 
+partly reflects fluctuations in the exchange rate of the Cedi with respect to 
+US$. The monthly variation in wholesale prices is presented in Table 25. 
+The monthly variation in retail prices reflects the monthly variation in the 
+wholesale prices (Table 26), while Table 27 shows price increases between 
+January and December 2001.
+TABLE 24
+Cedi/US$ exchange rate
+Year Average annual Interbank rate
+Cedis/US$
+1993 649
+1994 957
+1995 1 200
+1996 1 637
+1997 2 050
+1998 2 314
+1999 2 647
+2000 5 322
+2001 7 218
+2002 7 869
+Source: ISSER, 1999 and 2002.
+TABLE 25
+Monthly wholesale prices in 2001 (‘000 Cedis per bag)
+Month 15-15-15 AS Urea
+Bag 25 kg 50 kg 25 kg 50 kg 50 kg
+January 47.4 89.3 73.3 91.4 86.8
+February 47.9 89.4 73.5 91.4 86.8
+March 49.4 89.8 74.1 91.8 87.2
+April 50.5 89.7 74.6 91.6 87.1
+May 51.1 89.8 75.7 91.7 87.1
+June 51.7 90.3 76.1 92.3 87.9
+July 52.1 90.9 77.5 92.9 88.6
+August 52.4 90.5 77 92.4 88
+September 52.3 89.9 77.9 91.8 87
+October 51.8 91.3 78 93.3 89
+November 52.4 93.6 81.2 95.7 91.7
+December 53.2 94.1 82.5 96.3 92.4
+Source: IFDC, Africa.
+Chapter 3 – Fertilizers in Ghana 19
+TABLE 26
+Monthly retail prices of fertilizers in 2001 (‘000 Cedis/bag)
+Source: IFDC, Africa.
+TABLE 27
+Increases in fertilizer prices between January and December 2001
+Month 15-15-15 AS Urea
+Bag 25 kg 50 kg 25 kg 50 kg 25 kg 50 kg
+January 55.6 99.5 46.7 81.8 62.0 112.2
+February 53.1 101.3 46.7 81.8 62.0 112.2
+March 54.2 102.1 46.7 83.6 62.0 112.2
+April 55.4 102.9 49.5 84.5 62.0 112.6
+May 56.0 104.0 49.5 84.1 63.5 113.4
+June 56.3 105.0 49.5 84.1 63.5 114.5
+July 56.9 106.8 52.5 87.0 62.0 113.0
+August 57.2 108.5 49.5 86.9 62.0 113.0
+September 56.9 110.2 52.0 89.6 62.0 114.5
+October 56.9 110.2 52.0 90.7 64.0 114.5
+November 56.8 111.3 54.4 90.0 64.8 113.8
+December 58.6 113.4 54.4 90.0 63.5 117.2
+Fertilizer type Bag Increase
+Wholesale price                 
+%
+Retail price                     
+   % 
+15-15-15 25 kg 12.1 5.4
+15-15-15 50 kg 5.4 14.0
+AS 25 kg 12.4 16.6
+AS 50 kg 5.4 9.8
+Urea 25 kg n.a. 2.4
+Urea 50 kg 6.5 4.4
+21
+Chapter 4
+Manure as a source of nutrients
+The two important types 
+of manure being used by 
+farmers are cattle manure 
+and poultry manure. Cattle 
+manure is popular in the 
+savanna ecosystems where 
+cattle raising are predominant. 
+Poultry manure is popular in 
+the forest zones where there 
+are large commercial poultry 
+farms.
+In the savanna areas, cattle 
+manure may be collected either 
+from kraals where the animals 
+are housed during the night or 
+from animal droppings in the 
+field. The nutrient contents of 
+cattle manure collected from 
+these two sources are given 
+in Table 28. The nitrogen 
+content of cattle manure from 
+kraals is slightly higher than that collected from fields due to volatilization 
+of N during exposure. However phosphorus and potassium contents are 
+the same for the manure from the kraals and the field.
+The nitrogen content of cattle manure collected in kraals from six 
+districts in the Sudan Savannah Zone (Upper East Region) ranges between 
+1.12 percent and 1.53 percent, with a mean value of 1.34 percent, while the 
+phosphorus content ranges between 0.28 percent and 0.40 percent with 
+the mean value of 0.33 percent. The potassium content ranges between 1.2 
+percent and 3.3 percent, with a mean value of 2.0 percent (Table 29).
+TABLE 28
+Nutrient content of cattle manure, kraal and 
+field
+Source of cattle 
+manure
+Nutrient content (%)
+NP 2O5 K2O
+Kraal 1.41 0.39 2.0
+Field 1.17 0.38 2.0
+Source: SRI - CSIR, 1999.
+Source: SRI - CSIR, 1999.
+TABLE 29
+Nutrient content of cattle manure, Upper 
+East Region (Sudan Savannah Zone)
+Region Nutrient content (%)
+NP 2O5 K2O
+Bawku East 1.45 0.40 3.3
+Bawku West 1.12 0.28 1.7
+Bolgatanga 1.30 0.30 2.0
+Bongo 1.53 0.40 1.2
+Kasena-Nankana 1.32 0.30 2.5
+Builsa 1.33 0.30 1.3
+Mean 1.34 0.33 2.0
+CV (%) 28 29 23
+                                                                                         Fertilizer use by crop in Ghana 22
+NUTRIENT CONTENT OF MANURES
+Poultry manure comprises the dropping of chickens and wood-shaving 
+litter. After some time, the wood-shavings with the chicken droppings are 
+removed from the pen and allowed to decompose before being applied 
+to the soil. The nutrient contents of poultry manure, cattle manure and 
+sheep manure are given in Table 30. These relate to the Ashanti region of 
+the Semi-deciduous Forest Zone. Of the three sources of manure, poultry 
+manure contains the highest content of nutrients (Table 30). This is to be 
+expected in view of the high protein content of poultry feed.
+RESPONSE OF CROPS TO ORGANIC MANURE
+Table 31 indicates that cowpea responds positively to poultry manure 
+as well as to cattle manure in the Transition Zone and Sudan Savannah 
+Zone respectively. However, in the Sudan Savannah Zone, the highest rate 
+of cattle manure (10 tonnes/ha) slightly depressed the yield of cowpea 
+compared with the rate of 
+5 tonnes/ha.
+In the Transition Zone, 
+there was consistent increase 
+in the yield of cowpea with 
+increasing rates of poultry 
+manure. In the Forest Zone, 
+poultry manure is commonly 
+used in the peri-urban 
+vegetable production.
+In the Guinea and Sudan 
+Savannah Zones, cattle manure 
+TABLE 30
+Nutrient content of manures, poultry, cattle and sheep
+Manure Average nutrient content (percent by weight)
+NP 2O5 K2O CaO MgO
+Poultry 2.20 1.80 1.10 2.40 0.70
+Cattle 1.20 0.17 0.11 0.35 0.13
+Sheep 1.55 0.31 0.15 0.46 0.15
+Source: SRI - CSIR, 1997.
+TABLE 31
+Response of cowpea to manure
+Source: Adapted from the 1997 Annual Report, SRI 
+– CSIR.
+Source of manure Application 
+rate 
+(tonnes/ha)
+Yield 
+(tonnes/ha)
+Poultry manure 0 1.36
+(Transition Zone) 2 1.61
+4 1.79
+6 1.88
+Cattle manure 0 1.32
+(Sudan Savannah Zone) 2.5 1.47
+5 1.61
+10 1.59
+Chapter 4 – Manure as a source of nutrients 23
+is commonly applied to crops grown in the compound farms. Vegetables, 
+early millet and sorghum are usually grown in these compound farms. 
+Since the use of manure by farmers is sporadic, it is difficult to quantify 
+the amount used by farmers in Ghana.
+25
+Chapter 5
+Crop response to fertilizers
+YAM
+The response of two varieties of yam to fertilizer application in different 
+locations in the Transition Zone of Ghana is given in Table 32. Compared 
+with the control, yam responded positively to fertilizer application in all 
+the locations. However, there was a considerable degree of inconsistency 
+in the response with respect to treatments with missing nutrients and 
+treatments with complete fertilization. Yam is now an exportable 
+commodity. In 2002 Ghana exported 8 248 tonnes of yam (ISSER, 2003).
+SWEET POTATO
+Effect of imbalanced fertilization on the yield of sweet potato
+Sweet potato has become an important food crop in Ghana. It is also 
+gaining importance as an export crop in the Bawku East District of the 
+Upper East Region. The farmers in the District normally export the crop 
+to Burkina Faso, where good prices for the crop are obtained. The effect 
+of imbalanced fertilization on yields and on the number of tubers in the 
+Sudan Savannah Zone is shown in Table 33.
+The yield of sweet potato is significantly depressed if potassium is 
+missing. However, eliminating phosphorus does not affect the yield. 
+Rate (kg/
+ha)
+Dente variety Puna variety
+Ejura Atebubu Sunyani Wenchi Ejura Atebubu Sunyani
+0-0-0 10.7 12.1 14.1 9.7 15.7 12.2 14.0
+0-75-75 22.0 17.1 26.4 24.3 23.4 26.4 27.1
+75-0-75 23.1 37.0 26.6 21.6 29.3 26.9 30.9
+75-75-0 21.1 31.7 30.4 28.9 23.7 32.8 30.4
+45-45-60 19.5 32.7 34.7 25.7 25.0 29.0 34.7
+75-75-100 16.1 31.1 32.6 28.8 26.7 32.4 32.6
+Average 18.8 28.6 27.5 23.7 24.0 26.6 28.3
+TABLE 32
+Response of yam to fertilization in the Transition Zone, yield (tonnes/ha)
+Source: SRI – CSIR, 2003.
+                                                                                         Fertilizer use by crop in Ghana 26
+The yield is also depressed slightly when nitrogen is missing. Balanced 
+fertilization gives large tubers while the number of tubers harvested 
+decreases.
+a. Nitrogen
+ When nitrogen levels are increased above zero, yield levels of 
+sweet potato increase, but when nitrogen levels are increased 
+above the optimum level of 30 kg/ha to 60 or 90 kg/ha, the yield 
+decreases, relative to the optimum rate of 30-30-30 (columns 1 and 
+2, Table 34).
+b. Phosphorus
+ Increasing the rate of phosphorus fertilization does not increase the 
+yield of sweet potato. In columns 3 and 4 of Table 34, the increase 
+in the yield of the crop may be due to the increase in the level of 
+potassium to 60 kg/ha.
+c. Potassium
+ Increasing the rate of potassium fertilization results in a significant 
+increase in tuber yield (columns 5 and 6, Table 34). Potassium 
+appears to be the most important nutrient in the production of sweet 
+potato.
+TABLE 33
+Sweet potato: response to nutrient balances
+Source: SRI – CSIR, 2003.
+Treatment Yield of tubers Average weight per tuber Tubers per ha
+kg/ha (tonnes/ha) (g) (thousands)
+0-30-30 11.00 136.0 83.5
+30-0-30 12.60 130.8 96.0
+30-30-0 8.75 132.7 68.0
+30-30-30 12.30 163.7 76.0
+TABLE 34
+Sweet potato: response to increasing nutrient rates
+Nitrogen Yield Phosphorus Yield Potassium Tuber yield
+(kg/ha) (tonnes/ha) (kg/ha) (tonnes/ha) (kg/ha) (tonnes/ha)
+0-30-30 11 30-0-30 12.6 30-30-0 8.75
+30-30-30 12.3 30-30-30 12.3 30-30-30 12.3
+60-30-30 11.6 30-45-60 14.85 30-30-60 14.4
+90-30-30 11.55     
+Source: SRI – CSIR, 2003.
+Chapter 5 – Crop response to fertilizers 27
+CASSAVA
+Cassava is grown in the Forest, the Transition and the Guinea Savannah 
+Zones. Under rainfed conditions in farmers’ fields, an average yield of 11.8 
+tonnes/ha can be obtained (MOFA, 2003). According to a report on field 
+crops prepared by SRI, cassava responds to fertilization in all the producing 
+areas. Application rates of 68 kg N/ha, 45 kg P
+2O5/ha and 68 kg K 2O/ha 
+are the recommended average rate of fertilizers required by the crop. Using 
+the recommended technology an achievable yield of 28 tonnes/ha may be 
+obtained (MOFA, 2003).
+MAIZE
+Phosphorus fertilization
+Phosphorus is a major limiting nutrient in Ghanaian soils. In a trial 
+on the yield of grain maize, in the Semi-deciduous Rain Forest Zone 
+at Kwadaso, during the main growing season in 1999, triple super 
+phosphate (TSP) at a rate of 200 kg/ha is compared with Togo rock 
+phosphate (RP) applied at rates of 400, 600, 800 and 1 200 kg/ha, using 
+two different methods of application (Table 35). As is well known in 
+most tropical soils, incorporation of phosphorus decreases its availability 
+compared to surface application, because of phosphorus fixation with the 
+former method of application. However, in the case of RP , phosphorus 
+availability improves with incorporation, at high rates of application. 
+For low rates of application, 
+surface application is more 
+effective than incorporation.
+For TSP , surface applica-
+tion is favoured. For high 
+application rates of RP with 
+incorporation, it is likely that, 
+once the fixation capacity 
+of the soil is satisfied, excess 
+RP present may interact 
+with soil organic matter. This 
+should improve the solubility 
+of the RP , thus making the 
+phosphorus easily available.
+Source: SRI – CSIR, 2000.
+TABLE 35
+Grain maize: response to TSP and RP
+Treatment Application 
+method
+Rate  
+(kg/ha)
+Grain 
+yield  
+(kg/ha)
+Control 3 949
+TSP Surface 200 5 135
+TSP Incorporated 200 3 176
+RP Surface 400 6 252
+RP Incorporated 400 3 868
+RP Surface 600 4 906
+RP Incorporated 600 5 203
+RP Surface 800 4 171
+RP Incorporated 800 4 652
+RP Surface 1 200 3 584
+RP Incorporated 1 200 5 577
+                                                                                         Fertilizer use by crop in Ghana 28
+Effect of cattle manure 
+and mineral fertilizer on 
+grain maize yield
+Soil fertility management 
+in the soils of the Sudan 
+Savannah Zone is critical 
+because of the inherently 
+poor fertility status of the 
+soils, especially in organic 
+matter. However, the yield of maize is far too low in the forest zones 
+where organic carbon and rainfall are higher. The yield of maize in the 
+Bawku East District in the Sudan Savannah Zone at different levels of 
+fertilization is given in Table 36. The addition of 4 tonnes/ha of cattle 
+manure increases the yield by more than 100 percent over the control. The 
+use of compound fertilizer increases the yield of maize by more than 160 
+percent compared to 4 tonnes/ha cattle manure. The combination of cattle 
+manure and the compound fertilizer improves the yield of maize by 22 
+percent over fertilizer alone. This is important in view of the improvement 
+of soil structure as well which is likely to be associated with the addition 
+of cattle manure.
+PEPPER
+This study was carried out at Kwadaso in 1997 and 1998, on a sandy loam 
+Ferric Acrisol. In addition to the nitrogen treatment, basal applications of 
+P
+2O5 as TSP and K 2O as MOP were made at 45 kg/ha. The results of the 
+study for 1997 and 1998 are given in Table 37. Ammonium nitrate (AN) 
+and potassium nitrate (KNO
+3) gave higher yields than urea and AS. In 
+TABLE 36
+Grain maize: on-farm response to cattle 
+manure and fertilizer
+Treatment Rate/ha Grain maize yield
+(tonnes/ha)
+Control 0.23
+Cattle manure 4 tonnes 0.53
+NPK fertilizer 60-40-40 kg 1.37
+Cattle manure 
++ NPK
+4 tonnes + 
+60-40-40 kg
+1.67
+Source: SRI – CSIR, 1999.
+Source: SRI – CSIR.
+TABLE 37
+Pepper: response to different sources of nitrogen
+Source of N Rate 1997 1998
+(kg/ha) Yield  
+(tonnes/ha)
+VCR Yield  
+(tonnes/ha)
+VCR
+Urea 90 7.06 26.8 14.08 28.1
+AS 90 7.73 18.9 14.03 19.6
+KNO3 90 10.60 6.3 17.00 6.4
+AN 90 10.83 31.7 18.68 38.5
+Chapter 5 – Crop response to fertilizers 29
+terms of the value cost ratio (VCR), AN gave the best result followed by 
+urea.
+COCOA
+It has been found that low soil fertility is among the major causes of 
+decline in yield of cocoa on farmers’ fields in Ghana in recent years. This 
+has been confirmed through fertilizer use trials on cocoa farmers’ fields 
+by CRIG. Fertilizer use trials on cocoa by CRIG have identified the 
+following fertilizer combination as ideal for cocoa fertilization: 0-18-22 
+plus calcium, sulphur and magnesium. This formulation has been tried 
+on-farm and has been adopted by some farmers. It has more than doubled 
+cocoa yields on their farms.
+Table 38 shows the mean yield of cocoa for 20 farms, selected across 
+the cocoa growing areas in the Semi-deciduous Rain Forest Zone of the 
+Ashanti Region. The age of the plantations ranged from 9 to 27 years. The 
+study was conducted between the 1991/92 and 1994/95 growing seasons. 
+The fertilized plots received 129 kg/ha of P
+2O5 per year and 76.5 kg/ha 
+of K2O per year. Compared with the unfertilized plots, the average gross 
+yields of the fertilized plots exceeded those of the unfertilized plots by 
+61.7 percent in the first year, 99.8 percent in the second year, 116 percent 
+in the third year and 106.6 percent in the fourth year. 
+Source: Appiah et al., 2000.
+TABLE 38
+Cocoa: on-farm response to fertilizer, Ashanti region
+Treatment Average yield (kg dry beans /ha)
+1991/92 1992/93 1993/94 1994/95
+Fertilized 807 1 033 1 124 1 457
+Unfertilized 499 517 520 705
+Difference 308 516 605 752
+Percent over unfertilized 61.7 99.8 116 107
+Pooled std. error r146.57 r134.17 r177.88 r192.81
+31
+Chapter 6
+Economics of fertilizer use
+In this chapter, the optimum fertilizer requirements of some selected crops 
+and their achievable yields are considered, using 2002 fertilizer and crop 
+prices to compute the value cost ratios (VCRs) of the various crops. The 
+VCR should be higher than 2 to secure a profitable return to the farmer. 
+Under high risk conditions a VCR of about 3 is preferable. The optimum 
+fertilizer requirements in terms of 50 kg bags per ha, the achievable yields 
+with improved technology, the value of this yield at 2002 crop prices and 
+the VCRs are provided in Table 39.
+MAIZE
+Maize grows best on well-drained sandy loam soils, in areas with a 
+minimum rainfall of 1 016 mm per annum. The rainfall must be well 
+distributed during the growing season. Maize is produced in almost all 
+the agro-ecological zones. Based on the achievable yield, the optimum 
+fertilizer requirements, and the prices of fertilizers and of the crop in 
+2002, the VCR for maize was 2.7. The major maize producing belt is the 
+Crop Fertilizer 
+type
+Bags/
+ha
+Fertilizer 
+total cost
+Maximum 
+yield
+Crop value VCR
+(‘000 Cedis) (tonnes/ha) (‘000 Cedis) Col.6/col.4
+Maize AS 5 1 024 5.0 2 750 2.7
+SSP 5
+MOP 1
+Rice AS 5 718 6.5 7 150 10.0
+(flooded) TSP 2.5
+Cassava AS 7.5 1 471 28 7 000 4.9
+SSP 5
+MOP 2.5
+Groundnut AS 1.5 661 2.0 2 400 3.6
+SSP 5
+MOP 0.5
+Source: Adapted from MOFA, 2003; SRI (undated).
+TABLE 39
+Optimum fertilizer requirements, maximum crop yields and VCRs
+                                                                                         Fertilizer use by crop in Ghana 32
+Transition Zone. This indicates that it is just economic to use fertilizer at 
+optimum rates on maize, especially in the Transition Zone.
+RICE
+Rice is grown in almost in all the agro-ecological zones of Ghana under 
+either flooded or upland conditions. Flooded rice is normally produced 
+on poorly drained Vertisols and Gleysols. In the interior Savannah and 
+Transition Zones, rice is grown on Cambisols and Luvisols. A small 
+percentage of rice is also produced under irrigation. In the Forest Zones 
+rice is also grown under flooded conditions in the valley bottoms where 
+drainage is poor.
+In the Northern Savannah and Transition Zones, where extensive 
+ground water Laterites (Plinthosols) occur, rice is produced on imperfectly 
+to poorly drained soils under upland conditions. These soils, which are 
+sandy to silty loam, occur over flat to gently sloping topography and 
+become waterlogged at the peak of the rains.
+Under irrigated or flooded conditions, 2½ bags of AS and TSP 
+per hectare are recommended at pre-planting, later top dressed with 
+additional 2½ bags of AS. Under upland conditions 5 bags of AS and 
+5 bags per hectare of SSP are recommended in split application. Under 
+flooded conditions a VCR of almost 10 can be obtained, suggesting a high 
+profitability associated with fertilizer use.
+CASSAVA
+Cassava is grown in all the agro-ecological zones, with the exception of 
+the Sudan Savannah Zone (Table 36). The suitable soils are the Ferralsols, 
+Luvisols, Acrisols, Nitosols and Cambisols.
+The crop thrives best under rainfall of about 1 000 mm per annum, on 
+well-drained, sandy loam soils. The recommended fertilizer requirements 
+of the crop are equivalent to 7½ bags of AS, 5 bags of SSP and 2½ bags 
+of MOP per hectare. Production of the crop with recommended fertilizer 
+application rates gives a VCR of 5, which indicates good profitability.
+GROUNDNUT
+Groundnut thrives best with rainfall between 760–1 300 mm per annum. 
+It requires coarse or fine textured sandy loam soils with good drainage. 
+Chapter 6 – Economics of fertilizer use 33
+The optimum fertilizer requirements, based on the 2002 prices for the 
+fertilizers applied and the crop, are 1½ bags of AS, 5 bags of SSP and ½ 
+bag of MOP per hectare. Based on the 2002 fertilizer and crop prices, a 
+VCR of 3.6 can be obtained (Table 39). Groundnut is a major crop in the 
+Guinea and Sudan Savannah Zones. It is also produced to some extent in 
+the Transition Zone.
+35
+Chapter 7
+Constraints to fertilizer use and 
+outlook
+The use of fertilizers by farmers in Ghana is constrained by several 
+factors, especially:
+¾ Insufficient credit support to the farmer.
+¾ High lending rates by Commercial Banks for the agricultural 
+sector.
+¾ Problems with the marketing of agricultural produce.
+¾ The dependence on rain for crop production.
+¾ The dependence on donor sources for funding of agricultural 
+projects.
+¾ Improper use of fertilizers by farmers.
+These factors will be considered in detail in the following sections.
+INADEQUATE CREDIT
+Credit support from Commercial Banks as loans and advances to 
+agriculture, forestry and fisheries has been very low compared to the 
+manufacturing sector (Table 40).
+Since farmers are normally poor and the level of productivity is low 
+in Ghana, the agricultural sector can grow at a faster rate only if the 
+government introduces pro-
+ductivity-enhancing support. 
+The government is attempting 
+to do this through the 
+President’s Special Initiative 
+on specific crops such as 
+cassava and oil-palm.
+HIGH LENDING RATES
+The high lending rates for 
+the agricultural sector deter 
+Source: MOFA, 2003.
+TABLE 40
+Percentage of credit support from 
+Commercial Banks
+Year Agriculture, forestry 
+and fisheries (%)
+Manufacturing 
+sector (%)
+1997 3.2 27.5
+1998 2.2 29.1
+1999 1.6 32.4
+2000 1.0 21.6
+2001 1.4 21.0
+2002 2.1 20.3
+                                                                                         Fertilizer use by crop in Ghana 36
+farmers from obtaining loans from the Commercial Banks, for the 
+purchase of agricultural inputs such as fertilizers. The lending rates for 
+the agricultural sector, the export sector and the manufacturing sector are 
+similar (Table 41). Since the turnovers in the export and the manufacturing 
+sectors are normally higher than those of the agricultural sector, 
+investments are more likely to go into the export and the manufacturing 
+sectors than into the agricultural sector.
+AGRICULTURAL MARKETING DEFICIENCIES
+The marketing of agricultural produce is a long-standing problem. 
+Access roads to facilitate evacuation of farm produce from the producing 
+centres to the market are either in a very bad condition or non-existent. 
+Inadequate storage facilities and insufficient agro-processing plants hinder 
+agricultural production. During the harvesting period, farmers are at the 
+mercy of middlemen who purchase farm produce cheaply in the areas of 
+production. The lack of good markets for their produce deters farmers 
+from increasing production and hence using fertilizers.
+INADEQUATE IRRIGATION
+Crop production in Ghana is dependent on rainfall, which is mostly 
+irregular and unreliable. The efficiency of fertilizer use relies on water 
+availability and uncertainty in this respect reduces the farmers’ incentive 
+to use more fertilizers. At present the area under irrigation amounts to 
+only 11 000 ha or 0.2 percent of the irrigated land. Many large irrigation 
+schemes are underutilized.
+TABLE 41
+Minimum and maximum lending rates from Commercial Banks (percent per year)
+* Estimated.
+Source: MOFA, 2003.
+End of 
+period
+Agricultural 
+sector
+Export sector Manufacturing sector Consumer price 
+inflation *
+1997 35–49 35–49 39–49 28
+1998 30–42 31–45 32–45 17
+1999 30–40 31–40 33–40 23
+2000 34–52 34–52 34–52 15
+2001 39–55 38–55 39–55 25
+2002 27–50 38–55 27–50 15
+Chapter 7 – Constraints to fertilizer use and outlook 37
+INADEQUATE FUNDING OF AGRICULTURAL PROJECTS
+Most agricultural projects depend on donor sources for funding. For 
+example, in the 2002 budget of MOFA, the Government of Ghana’s 
+contribution was 33 percent and the remaining 67 percent was expected 
+to come from donor sources. Donor funding is used largely to implement 
+projects, while the government’s contribution is used mostly to pay staff 
+salaries, wages, travel allowances and other emoluments. The delay in 
+releasing funds by donors often adversely affects the implementation of 
+agricultural projects such as fertilizer use trials.
+OUTLOOK
+In view of the constraints identified concerning the use of mineral 
+fertilizers in Ghana, there is an urgent need to develop programmes that 
+encourage their application. Among programmes that have already been 
+initiated are the President’s Special Initiative in the production of cassava 
+for starch export and of oil-palm. This Initiative is among the programmes 
+of the Ghana Poverty Reduction Strategy (GPRS).
+Another project that will boost fertilizer consumption is the expansion 
+of fertilizer use on cocoa. Since the initial pilot scheme funded by the 
+government, cocoa farmers have obtained a significant improvement in 
+their output of cocoa beans.
+Fertilizer consumption would be higher if the area under irrigation 
+were increased.
+The research/extension linkage should be strengthened in order to 
+educate farmers on the proper use of fertilizers.
+39
+References
+Appiah, M. R., Ofori-Frimpong, K. & Afrifa, A. A. 2000. Evaluation of fertilizer 
+application on some peasant cocoa farms in Ghana. Ghana Journal Agric. Sci. 
+33: 183–190.
+Bonsu, M., Ofosu, K.Y. & Kwakye, P .K. 1996. Soil management action plan for 
+Ghana. A Consultancy Report prepared for the World Bank, Washington, 
+DC.
+FAO. 2004. Scaling soil nutrient balances . FAO Fertilizer & Plant Nutrition 
+Bulletin No. 15. Rome.
+FAO. 1998. Guide to efficient nutrient management. Rome.
+Gerner, H., Asante, G.H., Owusu-Bennoa, E.O. & Marfo, K . 1995. Ghana 
+privatization scheme, IFDC-Africa, Lomé.
+Gerken, A., Suglo, J.-V . & Braun, M.  2001. Crop protection policy in Ghana . 
+Ministry of Food and Agriculture. Accra.
+Gerken, A, Suglo, J.-V . & Braun, M.  2001. Crop protection policy in Ghana . 
+Pesticide Policy Project produced by Plant Protection and Regulatory Services 
+Directorate of Ministry of Food and Agriculture, Accra.
+Institute of Statistical, Social and Economic Research (ISSER),  2003. The state 
+of the Ghanaian economy in 2002. Accra.
+ISSER. 2000. The state of Ghanaian economy in 1999. Accra. pp. 58-76.
+Ministry of Food and Agriculture. 2003. Agriculture in Ghana: facts and figures. 
+Produced by the Statistics, Research and Information Directorate. Accra.
+Obeng, H.B., Erbyn, K.G. & Asante, E. O.  1990. Fertilizer requirements and 
+use in Ghana . Consultancy Report submitted to Government of Ghana by 
+Tropical Agricultural Development Consultancy.
+Soil Research Institute (SRI). 1998. The 1997 Annual Report. Accra.
+SRI. 1999. The 1999 Annual Report. Accra.
+SRI. 2000. The 2000 Annual Report. Accra.
+SRI. 2003. The 2002 Annual Report. Accra.
+SRI (undated). Sectorial Technical Committee on Agriculture, Fisheries and 
+Forestry. Report of the Sub-Committee on Field crops, Irrigation and Soils. 
+Accra.

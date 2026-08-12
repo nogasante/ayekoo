@@ -245,6 +245,58 @@ sources:
     caveat: "Pictorial guide — text extraction may be thin relative to page count."
     status: candidate
 
+  # ── FAO ─────────────────────────────────────────────────────────────────────
+  # FAO OpenKnowledge runs the same DSpace API as CGSpace. The fertilizer
+  # document is Ghana-specific and directly useful for the inputs & costs
+  # column of the grid; the yam post-harvest guide fills yam storage, which
+  # was our thinnest cell.
+
+  - id: fao-fertilizer-ghana
+    title: Fertilizer Use by Crop in Ghana
+    publisher: Food and Agriculture Organization of the United Nations (FAO)
+    year: 2005
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/46e4e69d-caab-42e6-8f66-3d7888feebc3/content
+    crops: [maize, cassava, yam, cocoa, tomato, plantain, rice]
+    topics: [inputs_costs, soil_fertility]
+    attribution: "FAO, Fertilizer Use by Crop in Ghana (2005)"
+    ghana_specific: true
+    caveat: "2005. Fertilizer RATES are agronomic and durable; any PRICES in it are two decades stale and must never be quoted as current GHS costs. Use SRID Facts & Figures 2024 for prices."
+    status: candidate
+
+  - id: fao-yam-postharvest
+    title: "Yams: Post-Harvest Operation"
+    publisher: FAO (INPhO — Information Network on Post-Harvest Operations)
+    year: null
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/00f2c13c-b199-40c3-b2f4-77cf83bed8ba/content
+    crops: [yam]
+    topics: [harvest_storage]
+    attribution: "FAO/INPhO, Yams: Post-Harvest Operation"
+    ghana_specific: false
+    status: candidate
+
+  - id: fao-cassava-africa-review
+    title: A Review of Cassava in Africa, with Country Case Studies on Nigeria, Ghana, Tanzania, Uganda and Benin
+    publisher: Food and Agriculture Organization of the United Nations (FAO)
+    year: 2005
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/55ef08b3-f4ff-4acc-9b37-7c2b1391ab76/content
+    crops: [cassava]
+    topics: [planting_calendar, production_statistics]
+    attribution: "FAO, A Review of Cassava in Africa — Ghana country case study (2005)"
+    ghana_specific: true
+    caveat: "Contains a dedicated Ghana chapter — that is the part worth retrieving. The rest is other countries and should not be presented as Ghanaian."
+    status: candidate
+
+  - id: fao-save-and-grow-cassava
+    title: "Save and Grow: Cassava — A Guide to Sustainable Production Intensification"
+    publisher: Food and Agriculture Organization of the United Nations (FAO)
+    year: 2013
+    url: https://openknowledge.fao.org/server/api/core/bitstreams/f1394968-5048-433c-8509-2ff0d8864bf0/content
+    crops: [cassava]
+    topics: [planting_calendar, pests_diseases, soil_fertility]
+    attribution: "FAO, Save and Grow: Cassava (2013)"
+    ghana_specific: false
+    status: candidate
+
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper

@@ -1,0 +1,2251 @@
+# A Review of Cassava in Africa, with Country Case Studies on Nigeria, Ghana, Tanzania, Uganda and Benin
+# publisher: Food and Agriculture Organization of the United Nations (FAO)
+# year: 2005
+# url: https://openknowledge.fao.org/server/api/core/bitstreams/55ef08b3-f4ff-4acc-9b37-7c2b1391ab76/content
+# attribution: FAO, A Review of Cassava in Africa — Ghana country case study (2005)
+# ghana_specific: True
+# extent: 66 pages
+# CAVEAT: Contains a dedicated Ghana chapter — that is the part worth retrieving. The rest is other countries and should not be presented as Ghanaian.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+PROCEEDINGS OF THE VALIDATION FORUM 
+ON THE GLOBAL CASSAVA DEVELOPMENT STRATEGY 
+Volume 2 
+ 
+A review of cassava in Africa 
+with country case studies on Nigeria, Ghana, the United 
+Republic of Tanzania, Uganda and Benin 
+INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT 
+FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS 
+Rome, 2005 
+ 
+The designations employed and the presentation of 
+material in this information product do not imply the 
+expression of any opinion what soever on the part of the 
+Food and Agriculture Organiza tion of the United Nations 
+or of the International Fund for Agricultural Development 
+concerning the legal or development status of any country, 
+territory, city or area or of its authorities, or concerning 
+the delimitation of its frontiers or boundaries. 
+ 
+ 
+All rights reserved. Reproduction and dissemination of material in 
+this information product for educational or other non-commercial 
+purposes are authorized without any prior written permission from 
+the copyright holders provided the source is fully acknowledged. 
+Reproduction of material in this information product for resale or 
+other commercial purposes is prohibited without written 
+permission of the copyright hol ders. Applications for such 
+permission should be addressed to the Chief, Publishing 
+Management Service, Informa tion Division, FAO, Viale delle 
+Terme di Caracalla, 00100 Rome, It aly or by e-mail to copyright 
+@fao.org 
+© FAO and IFAD 2005 
+TABLE OF CONTENTS 
+PREFACE 
+ACKNOWLEDGEMENTS 
+LIST OF CONTRIBUTORS 
+ACRONYMS AND ABBREVIATIONS 
+THE CASSAVA TRANSFORMATION IN AFRICA 
+1.   INTRODUCTION 
+2.   THE CASSAVA TRANSFORMATION 
+3.   PRODUCTION TRENDS 
+4.   CASSAVA PROCESSING 
+5.   CASSAVA CONSUMPTION 
+6.   NEW USES FOR CASSAVA 
+7. IMPLICATIONS OF THE CASSAVA TRANSFORMATION FOR 
+ENVIRONMENT, GENDER, POVERTY ALLEVIATION AND EQUITY 
+8.   CHALLENGES AND STRATEGIES FOR DEVELOPMENT 
+CASSAVA IN AFRICA: PAST, PRESENT AND FUTURE 
+1.   INTRODUCTION 
+2.   THE CASSAVA SYSTEM 
+3.   CASSAVA PRODUCTION TRENDS 
+4.   CASSAVA AS A FOOD SECURITY CROP 
+5.   ENVIRONMENTAL EFFECT OF CASSAVA 
+6.   INFRASTRUCTURE AND PRODUCT MARKETS 
+7.   RESEARCH AND EXTENSION 
+8.   CONCLUSIONS AND FUTURE NEEDS 
+CASSAVA DEVELOPMENT IN NIGERIA 
+1.   ACKNOWLEDGEMENTS 
+2.   EXECUTIVE SUMMARY 
+3.   INTRODUCTION 
+4.   CASSAVA PRODUCTION IN NIGERIA 
+5.   CASSAVA UTILIZATION IN NIGERIA 
+6.   INTERVENTIONS 
+7.   SUCCESSES, FAILURES AND LIMITATIONS OF INTERVENTIONS 
+8.   LESSONS LEARNED FROM PAST EXPERIENCES: FUTURE STRATEGIES 
+CASSAVA DEVELOPMENT IN GHANA 
+1.   FOREWORD 
+2.   TERMS OF REFERENCE 
+3.   EXECUTIVE SUMMARY 
+4.   EVOLUTION OF CASSAVA DEVELOPMENT IN GHANA 
+5.   EVALUATION OF INTERVENTIONS 
+6.   LESSONS LEARNED FROM PAST EXPERIENCES 
+7.  A SYNTHESIS OF THE IMPLICATIONS FOR A FUTURE STRATEGY FOR 
+CASSAVA DEVELOPMENT IN GHANA 
+STATUS OF CASSAVA IN TANZANIA 
+1.   FOREWORD 
+2.   ACKNOWLEDGEMENTS 
+3.   INTRODUCTION 
+4.   CASSAVA PRODUCTION AND UTILIZATION IN TANZANIA 
+5.   INTERVENTIONS 
+6.   GENDER ROLES IN CASSAVA PRODUCTION AND UTILIZATION 
+7.   CRITICAL ANALYSIS OF SUCCESSES AND FAILURES 
+8.   LESSONS LEARNED FROM PAST EXPERIENCES AND FUTURE 
+STRATEGIES 
+CASSAVA DEVELOPMENT IN UGANDA 
+1.   INTRODUCTION 
+2.   BACKGROUND TO THE STUDY 
+3.   ACKNOWLEDGEMENTS 
+4.   UGANDA 
+5.   PRODUCTION AND UTILIZATION OF CASSAVA IN UGANDA 
+6.   FACTORS THAT HAVE INFLUENCED DEVELOPMENT OF CASSAVA IN 
+UGANDA 
+7.   INTERVENTIONS THAT HAVE INFLUENCED CASSAVA DEVELOPMENT 
+8.   SUCCESSES, FAILURES AND LIMITATIONS OF INTERVENTIONS 
+9.   LESSONS LEARNED FROM PAST EXPERIENCES AND STRATEGIES FOR 
+CASSAVA DEVELOPMENT 
+ORGANISATION DE LA FILIÈRE DU MANIOC AU BÈNIN (l
+ére PARTIE) 
+1.   PRÉAMBULE 
+2.   INTRODUCTION 
+3.   SITUATION ACTUELLE DU MANIOC AU BÉNIN 
+4.   STRATEGIES POUR LA PROMOTION DE LA FILIÈRE DU MANIOC 
+5.   MO YENS ÀMETTRE EN OEUVRE 
+ORGANISATION DE LA FILIÈRE DU MANIOC AU BENIN (2
+ème PARTIE) 
+1.   INTRODUCTION 
+2.   JUSTIFICATION 
+3.   OBJECTIFS DU PROJET 
+4.   COMPOSANTS DU PROJET 
+5.   CONCLUSIONS ET RECOMMENDATIONS 
+ORGANISATION DE LA FILIÈRE DU MANIOC AU BENIN (3ème PARTIE) 
+1.   DURÉE DU PROJET 
+2.   CONCLUSIONS 
+REPORT OF THE BRAINSTORMING SESSION WITH AFRICAN 
+RESEARCHERS ON THE GLOBAL CASSAVA DEVELOPMENT STRATEGY 
+1.   BACKGROUND 
+2.   THE STRATEGY 
+3.   APPLICABILITY OF GCDS TO AFRICA 
+4.   A CONCENSUS 
+5.   KEY ISSUES RAISED 
+6.   PRIORITY ISSUES FOR INTERVENTION OF CASSAVA 
+7.   ACTION AREAS 
+REPORT OF THE REGIONAL STAKEHOLDERS CONSULTATION MEETING 
+FOR WEST AND CENTRAL AFRICA ON THE GLOBAL CASSAVA 
+STRATEGY 
+1.   SUMMARY 
+2.   BACKGROUND 
+3.   REGIONAL STAKEHOLDERS CONSULTATION MEETING 
+4.   CONCLUSIONS AND RECOMMENDATIONS 
+PROGRESS REVIEW MEETING ON TH E FORMULATION OF THE GLOBAL 
+CASSAVA DEVELOPMENT STRATEGY 
+PREFACE 
+Cassava was first introduced to the Africa continent, close to the mouth of the Congo 
+River by Portuguese explorers a nd traders from Brazil, South America in the course of 
+the 16th and 17 th centuries. From there it was diffuse d by Africans, to many parts of sub-
+Saharan Africa over a period of two to three hundr ed years. In the course of its spreading 
+across the continent, cassava has replaced trad itional staples such as millet and yam, and 
+has been successfully incorporated into many farming systems. It was initially adopted as 
+a famine reserve crop as it provided a more reliable source of food during drought, locust 
+attacks and the hungry season, the period before seasonal food crops are ready for 
+harvesting. 
+At present, approximately half of the world production of cassava is in Africa where it is 
+cultivated in around 40 countries, stretching th rough a wide belt from Madagascar in the 
+southeast to Senegal and Cape Verde in the northwest. Approximately 75 percent of 
+Africa's cassava output is harvested in Ni geria, the Democratic Republic of Congo, 
+Ghana, Tanzania and Mozambique. Cassava is grown by millions of poor African 
+farmers, many of them women, often on marginal land. For these people, the crop is vital 
+for both food security and income generation. 
+On the basis of current projections, it is expected that by 2020, over 60 percent of global 
+cassava production will be in sub-Saharan Af rica, where economic growth will be slow 
+but population growth fast. Cassava, theref ore, will be a favoured source of cheap 
+carbohydrates in the countryside and will also continue to serve as a food security crop. 
+Furthermore, as urbanization continues in th e continent, more people in cities and towns 
+will purchase their food rather than grow it th emselves. This will continue to give small 
+farmers a source of cash income from cassava ; some of it will reach  the market in a 
+processed form. The resulting gain in povert y reduction and greater food security will 
+depend in part on an integrated set of re search and development outputs that include 
+higher-yielding, pest-resistant varieties; improved crop management and integrated 
+protection measures as well as processing equipment and procedures; better linkages 
+among producers, processors, and consumers through capacity-building in market 
+analysis and enterprise development; and improved policies that facilitate the 
+development and adoption of these innovations. 
+The vision for cassava in Africa is that if  the cassava food system is improved, it will 
+enhance rural industrial development and raise incomes for producers, processors and 
+traders. Cassava will contribute more to th e food security status of its producing and 
+consuming households, and will become an even more important cash crop that can 
+promote rural development. 
+To achieve this vision, the Global Cassava Development Strategy was formulated with 
+the participation of a large number of st akeholders and with support from FAO and 
+IFAD. The essence of the Strategy is to use a demand/market-driven and commodity 
+chain approach to promote and develop cassava -based industries with the assistance of a 
+coalition of stakeholders including cassava producers and their organizations, 
+governments and policy-makers, donors, techni cal and research institutions and their 
+networks, NGOs and the private sector. Th e Strategy recognizes the need to support 
+NEPAD's Pan-African Initiative, which is in support of the existing National and 
+“Presidential” Initiatives, and public-private partnerships and multidonors' programmes 
+on cassava in sub-Saharan Africa. 
+As a contribution to the development of the Global Cassava Strategy, IFAD's generous 
+financial assistance supported the preparation of the Africa Regional Review on Cassava, 
+the Country Case Studies on Nigeria, Ghan a, Tanzania, Uganda and Bening, and the 
+Report of the Africa Consultations on the Global Cassava Development Strategy. These 
+were presented at the Validation Forum that  was jointly organized by FAO and IFAD in 
+FAO headquarters, Rome, April 2000. 
+The Crop and Grassland Service of the F AO Plant Production and Protection Division 
+has compiled these documents and is now pleased to publish the Proceedings in order to 
+disseminate the information to stakeholders , cassava producers and their organizations, 
+governments and policy-makers, donors, techni cal and research institutions and their 
+networks, NGOs and their networks, the private sector - as well as to scholars, experts 
+and interested individuals. 
+It is hoped that this information will help  to strengthen institutional and technical 
+capacity in support of sustainable developm ent and management of the cassava sub-
+sector, and value-added agro-enterprise enhan cement, in order to contribute to increased 
+food availability, poverty reduction, employment, better economic opportunities and 
+wealth creation for improved livelihoods of the poor and vulnerable population of Africa. 
+ 
+Mahmoud B. Solh 
+Director 
+Plant Production and Protection Division 
+Food and Agriculture Organization of the United Nations 
+ACKNOWLEDGEMENTS 
+The FAO Crop and Grassland Service would lik e to acknowledge the contribution of the 
+following authors: Felix Nweke for the pa per on cassava transformation in Africa; 
+Dunstan Spencer and associates for the ca ssava overview on Africa; Adeoye Adeniji, 
+Lawrence Ega, Malachy Akoroda, A.A. Aden iyi and Boniface Ugwu for the case study 
+on Nigeria; Francis Ofori, E.V. Doku, Rama natu Al-Hassan, J.J. Afuakwa, D. Pessey, 
+R.K. Noamesi and W. Amoa-Amwuah for the case study on Ghana; Regina Kapinga, 
+January Mafuru, Simon Jeremiah, Elizabeth Rwiza, Ruth Kamala, Fredrick Mashamba 
+and Nicholas Mlingi for the case study on Ta nzania; G.W. Otim-Nape, A. Bua, G. 
+Ssemakula, G. Acola, Y. Baguma, S. Ogwa l and R. Van der Grift for the case study on 
+Uganda and N. Maroya, G. Houngni bo, C. Medenou, A. Lagbadohossou, S.F. 
+Djogbenou, B. Soude and J. Monhouanou for the case study on Benin. 
+Felix Nweke, Adeoye Adeniji, Lawrence Ega, Boniface Ugwu, Malachy Akoroda, 
+Francis Ofori, Regina Kapinga, January Ma furu, Simon Jeremiah, Elizabeth Rwiza, 
+Otim-Nape, Anton Bua, Norbert Maroya a nd Adrianna Gabrielli are thanked for editing 
+and Rita Ashton for preparing the camera-ready text. 
+Special acknowledgements are due to NeBamb i Lutaladio (Agricultural Officer, Crop 
+and Grassland Service, FAO) who has patie ntly coordinated, guided and made possible 
+the release of this publication within the framework of the Global Cassava Development 
+Strategy. 
+ 
+Eric A. Kueneman 
+Chief 
+Crop and Grassland Service 
+FAO Plant Production and Protection Division 
+LIST OF CONTRIBUTORS 
+Acola, G. Namulonge Agricultural and Animal Production Research Institute, 
+Uganda 
+Adeniji, A.A. Federal Department of Agriculture, Ijebu-Ife, Nigeria 
+Adeniyi, A.A. Federal Agricultural Coordinating Unit, Abuja, Nigeria 
+Afuakwa, J.J. Crop Research Institute, Kumasi, Ghana 
+Akoroda, M.O. University of Ibadan, Ibadan, Nigeria 
+Al-Hassan, R. University of Ghana, Legon, Ghana 
+Amoa-Awuah, W. Food Research Institute, Accra, Ghana 
+Baguma, Y. Namulonge Agricultural and Animal Production Research Institute, 
+Uganda 
+Balogun, de A. Ogun State Agricultural De velopment Project, Abeokuta, Nigeria 
+Bua, A. Namulonge Agricultural and Animal Production Research Institute, 
+Uganda 
+Djogbenou, S.F. Direction de l'agriculture, Cotonou, Bénin 
+Doku, E.V. University of Ghana, Legon, Ghana 
+Ega, L.A. Benue State University, Makurdi, Nigeria 
+Houngnibo, G. Centre d'actions rurales pour le développement régional, Ouémé, 
+Bénin 
+Jeremiah, S. Ministry of Agriculture and Cooperatives, Tanzania 
+Kamala, R. Ministry of Agriculture and Cooperatives, Tanzania 
+Kapinga, R. Ministry of Agriculture and Cooperatives, Tanzania 
+Lagbadohossou, 
+A. 
+Ministère du développement rural, Cotonou, Bénin 
+Mafuru, J. Ministry of Agriculture and Cooperatives, Tanzania 
+Maroya, N. Institut national des recherches agricoles du Bénin, Cotonou, Bénin, 
+Mashamba, F. Ministry of Agriculture and Cooperatives, Tanzania 
+Medenou, C. Minister du développement rural, Cotonou, Bénin 
+Mlingi, N. Ministry of Agriculture and Cooperatives, Tanzania 
+Monhouanou, J. Institut national des recherches agricoles du Bénin, Niaouli, Bénin 
+Noamesi, R.k. Glucosett GhanaLtd., Accra, Ghana 
+Nweke, F.I. Michigan State University, East Lansing, USA 
+Ofori, F. Crop Services, Ministry of Food and Agriculture, Accra, Ghana 
+Ogwal, S. Namulonge Agricultural and Animal Production Research Institute, 
+Uganda 
+Otim-Nape, G.W. Namulon
+ge Agricultural and Animal Production Research Institute, 
+Uganda 
+Pessey, D. Transport and commodity General, Donkokrom, Ghana 
+Rwiza, E. Ministry of Agriculture and Cooperatives, Tanzania 
+Ssemakula, G. Namulonge Agricultural and Animal Production Research Institute, 
+Uganda 
+Soude, B. Programme d'interventions locales pour la sécuritéalimentaire, Bénin
+Spencer, D.S.C. Dunstan Spencer and Associates, Sierra Leone 
+Ugwu, B.O. National Root Crop Research Institute, Umudike, Nigeria 
+Van der Grift, R. Namulonge Agricultural and Animal Production Research Institute, 
+Uganda 
+ACRONYMS AND ABBREVIATIONS 
+ACMD African Cassava Mosaic Disease 
+ADP Agricultural Development Project 
+AGDIV Agricultural Diversification Project 
+AGDP Agricultural Gross Domestic Product 
+APMEU Agricultural Projects Monitoring and Evaluation Unit 
+ASARECA, Association for Strengthening Agricu ltural Research in Eastern and 
+Central Africa 
+ASIP Agricultural Sector Investments Project 
+BEA Block Extension Agent 
+BLP Better Life Programme 
+BS Breeder Seeds 
+CAD Cassava Anthracnose Disease 
+CARDER Centre d'actions rurales pour le développement régional 
+CBB Cassava Bacterial Blight 
+CEDMA Centre départemental de matériels agricoles 
+CENAP Centre National d'Agro Pédologie 
+CGIAR Consultative Group on International Agricultural Research 
+CGM Cassava Green Might 
+CGSM Cassava Green Spider Mite 
+CIAT Centro Internacional de Agricultura Tropical 
+CIRAD Centre de cooperation internationale  en recherche agronomique pour le 
+développement 
+CM Cassava Mealybug 
+CMD Cassava Mosaic Disease 
+CMP Cassava Multiplication Project 
+CMP-CU Cassava Multiplication Project-Coordinating Unit 
+CMVD Cassava Mosaic Virus Disease 
+COOPROMA Coopérative des producteurs de Manioc 
+CORAF (Conférence des responsables de recherche agronomique africains 
+COSCA Collaborative Study on Cassava in Africa 
+CPDU Cassava Processing Demonstration Unit 
+CRI Crops Research Institute 
+CS Certified Seeds 
+DAGRI Direction de l'agriculture, Bénin 
+DAPS Direction de l'analyse, de la prévision et de la synthèse 
+EARRNET Africa Root Crops Research Network 
+EPHTA Ecoregional Programme for the Hu mid and Subhumid Tropics of Sub-
+Saharan Africa 
+ESCaPP Environmentally Sustainable Cassava Plant Protection 
+EU European Union 
+FAO Food and Agriculture Organization of the United Nations 
+FDA Federal Department of Agriculture 
+FFA Framework for Action 
+FGN Federal Government of Nigeria 
+FIIRO Federal Institute of Industrial Research, Oshodi, Lagos 
+FIIRO Federal Institute of Industrial Research 
+FMANR Federal Ministry of Agriculture and Natural Resources 
+FRI Food Research Institute 
+FS Foundation Seeds 
+FSA Faculté des Sciences Agronomique 
+GCDS Global Cassava Development Strategy 
+GS Global Strategy for Cassava Development 
+GSM Green Spider Mite 
+ha Hectare 
+HST Humid and Subhumid Tropics 
+IARC International Agricultural Research Centre 
+IBRD International Bank for Reconstruction and Development 
+IDA International Development Association 
+IDESSA Institut des Savannes 
+IFAD International Fund for Agricultural Development 
+IITA International Institute of Tropical Agriculture 
+INRAB Institut national des recherches agricoles du Bénin 
+INSAH Institut du Sahel 
+IPM Integrated Pest Management 
+ISTRC-AB International Society for Tropical Root Crops - Africa Branch 
+Kcal Kilocalories 
+km Kilometres 
+LGA Local Government Areas 
+LGB Larger Grain Border 
+MDR Ministére du dèveloppement rural, Bénin 
+MOFA Ministry of Food and Agriculture, Ghana 
+MSADP Multi-State ADP 
+MSADP Multi-State Agricultural Development Projects 
+MTADP Medium-Term Agricultural Development Programme 
+NAEP National agricultural Extension Project 
+NAFCON National Fertilizer Company 
+NAFPP National Accelerated Food Production Programme 
+NARIS National Agricultural Research Institutes 
+NARO National Agricultural Research Organization 
+NARP National Agricultural Research Project 
+NARS National Agricultural Research System 
+NCRP Nationally Coordinated Research Programme 
+NCWS National Council of Women Societies 
+NGO Non-Governmental Organization 
+NIYAMCO Nigerian Yeast and Alcohol Manufacturing Company 
+NRCRI National Root Crops Research Institute 
+NRI National Resources Institute 
+NRTCIP National Root and Tuber Crops Improvement project 
+NSPRI National Stored Products Research Institute 
+NSS National Seed Service 
+NTRCIP National Root and Tuber Crops Improvement Project 
+OFAR On-Farm Adaptive Research 
+OFN Operation Feed the Nation 
+ONASA Office National d'Appui à la Sécurité Alimentaire 
+ORSTOM Institut de recherches scientifiques pour le développement en coopération 
+PADSA Programme d'appui au développement du secteur agricole 
+PADSE Projet d'Appui à la diversification des systèmes d'exploitation 
+PILSA Programme d'interventions locales pour la sécurité alimentaire, Bénin 
+PISEA Projet d'insertion des sans emploi dans l'Agriculture 
+PRODA Product Development Agency 
+PROMIC Projet de micro-finances et de commercialisation 
+PRONAM Programme national du manioc 
+RAIDS Rural Agro-Industrial Development Scheme 
+REFILS Research-Extension-Farmers-Linkage-System 
+RMRDC Raw Materials Research and Development Council 
+RRA Rapid Rural Appraisal 
+RRPMC Regional Research Project on Maize and Cassava 
+SACCAR Southern African Centre for Coopera tion in Agricultural Research and 
+Training 
+SAP Structural Adjustment Programme 
+SARRNET Southern Africa Root Crops Research Network 
+SDC Swiss Development Corporation 
+SPAT Small Plot Adaptive Trial tonne 
+SRDP Smallholder Rehabilitation and Development Programme 
+SSA Sub-Saharan Africa 
+T&V Training and Visit 
+TMS Tropical Manioc Selection 
+USS United States dollar 
+WATI World Agricultural Trade Indicators 
+WIA Women-in-Agriculture 
+ 
+THE CASSAVA TRANSFORMATION IN AFRICA 
+Prepared by 
+Felix I. Nweke1 
+Michigan State University, USA2 
+1/ Formerly, leader of the Collaborative Study of Cassa va in Africa 1989–97, International Institute of Tropical 
+Agriculture, Nigeria. 
+2/ Visiting Professor, Agric. 
+1 INTRODUCTION 
+In Africa (sub-Saharan Africa), the diffusion of cassava can be described as a self-
+spreading innovation. Cassava was introduced into Africa by Portuguese traders from 
+Brazil in the 16th century (Okigbo, 1980). It was initially adopted as a famine-reserve 
+crop. In the Democratic Republic of Congo (h ereafter referred to as “the Congo”) where 
+the crop was first introduced, millet, banana and yam were the traditional staples but 
+farmers adopted cassava because it provide d a more reliable source of food during 
+drought, locust attack and during the hungry season 1. Although there was some local 
+trade in cassava, production was mostly for home consumption and cassava was prepared 
+in the simplest fashion, i.e. slicing and boiling (Jones, 1959). 
+Currently, about half of the world producti on of cassava is in Africa. Cassava is 
+cultivated in around 40 African countries , stretching through a wide belt from 
+Madagascar in the Southeast to Senegal a nd to Cape Verde in the Northwest. Around 70 
+percent of Africa's cassava output is harvested in Nigeria, the Congo and Tanzania (IFAD 
+and FAO, 2000). Throughout the forest and trans ition zones of Africa, cassava is either a 
+primary staple or a secondary food staple. 
+Africa is a continent in cr isis; it is racked with hunger, poverty and the HIV/AIDS 
+pandemic. Africa is also the region with th e fastest population growth, the most fragile 
+natural resource base and the weakest set of agricultural research and extension 
+institutions. 
+The average GNP per capita in Africa in 2000 was US$480 (World Bank, 1999). Civil 
+strife and authoritarian regimes have de stabilized many countries. Around three-quarters 
+of the poor in Africa are rural people who secure their livelihood from agriculture. 
+Africa's population is expected to double to  1.2 billion in 2020; and its urban population 
+will grow at a faster rate (McCall, 1999). 
+Without question, domestic food production a nd/or food imports will have to be 
+increased to meet Africa's growing food de mand. Due to poverty and a lack of foreign 
+exchange, Africa's net cereal imports are exp ected to remain low (Pinstrup-Anderson et 
+al., 2000). Therefore, the urgent challenge befo re African nations is to increase domestic 
+food production. 
+Maize is Africa's most important food crop and it is held up as a model food crop to meet 
+Africa's growing urban demand for conve nient food products (Mellor et al., 1987, 
+Blackie, 1990 and Byerlee and Eicher, 1997) . Maize production however, is risky 
+because of unpredictable rainfall. Cassava is  Africa's second most important food staple 
+in terms of per capita calories consumed. Cassava is a major source of calories for 
+roughly two out of every five Africans. In so me countries, cassava is consumed daily and 
+sometimes more than once a day. In the Congo, cassava contributes more than 1 000 
+calories per person per day to the averag e diet and many families eat cassava for 
+breakfast, lunch and dinner. 
+Cassava has the potential to increase farm incomes, reduce rural and urban poverty and 
+help close the food gap. Without question, cassava holds great promise for feeding 
+Africa's growing population. Cassava can be produced with family labour, land and a hoe 
+and machete, making it an attractive and low-ri sk crop for poor farmers. Also, cassava is 
+available to low-income rural households in  the form of simple food products (for 
+example, dried roots and leaves) which are signi ficantly cheaper than grains such as rice, 
+maize and wheat. Similarly, urban households  in many parts of West Africa consume 
+cassava in the form of gari2 (Nweke et al., 2001). 
+Cassava has several other advantages over rice, maize and other grains as a food staple in 
+areas where there is a degraded resource base, uncertain rainfall and weak market 
+infrastructure. It is drought tolerant; this attribute makes it the most suitable food crop 
+during periods of drought and famine. 
+Cassava has historically played an importa nt famine-prevention role in Eastern and 
+Southern Africa where maize is the prefe rred food staple and drought is a recurrent 
+problem. 
+However, cassava has been neglected for numerous reasons by researchers, African 
+policy-makers and by most donor and internati onal agencies. Cassava is a marginalized 
+crop in food policy debates and burdened with the stigma of being an inferior food, ill 
+suited and uncompetitive with the glamour crops such as imported rice and wheat 
+because of several long-standing myths a nd half-truths. Many food policy analysts 
+consider cassava as an inferior food because it is assumed that its per capita consumption 
+will decline with increasing per capita incomes (Nweke et al., 2001). 
+Until the late 1980s, information was very scarce on cassava in Africa. However, in 1989, 
+a Collaborative Study of Cassava in Africa (COSCA) was initiated by the Rockefeller 
+Foundation and based at IITA. During an  eight-year period (1989 to 1997), COSCA 
+researchers collected information from 1 686 households in 281 villages in six countries: 
+the Congo, Côte d'lvoire, Ghana, Nigeria, Tanzania and Uganda. 
+The goal of the Global Cassava Development Strategy (GCDS) is to analyse cassava 
+production and utilization trends; identify constraints and opportunities in the cassava 
+sector with emphasis on poverty alleviation, equity, food security and environmental 
+protection; and develop a set of priorities fo r future intervention in the cassava sector 
+(Spencer and Associates, 1997). This review  is based on information from the six 
+COSCA study countries supplemented with secondary data from FAO and various 
+information collected from African farmer s, researchers, traders and processors 
+throughout Africa from the beginning of the COSCA study in 1989 to 2001. 
+This review shows how the planting of ne w Tropical Manioc Selection (TMS) cassava 
+varieties developed and released to farm ers in Nigeria in the 1970s by IITA, has 
+transformed cassava from a low-yielding famine-reserve crop to a high-yielding cash 
+crop. The review also shows that with the ai d of mechanical graters to prepare gari, 
+cassava is increasingly being produced and processed as a cash crop for urban 
+consumption in Ghana and Nigeria. The next stage in the cassava transformation is from 
+a food crop to a raw material for livestock feed and industries in order to raise farm 
+income. 
+1 The period before seasonal food crops are ready for harvest. 
+2 Gari is a granulated and toasted cereal-lik e cassava food product which is convenient 
+for consumption in urban environments because it is in a ready-to-eat form and it has an 
+extended shelf life. 
+2 THE CASSAVA TRANSFORMATION 
+Traditionally, cassava is produced on small-scal e family farms. The roots are processed 
+and prepared as a subsistence crop for home c onsumption and for sale in village markets 
+and shipment to urban centres. Over the past 30 to 50 years, smallholders in Ghana and 
+Nigeria have increased the production of ca ssava as a cash crop, primarily for urban 
+markets. This shift from production for hom e consumption to commercial production for 
+urban consumers, livestock feed and industr ial uses can be described as the cassava 
+transformation (Table 1). 
+During the cassava transformation, high-yieldi ng cassava varieties increase yields while 
+labour-saving harvesting methods and improved processing technology reduce the cost of 
+producing and processing cassava food products to the point where they are competitive 
+with food grains such as wheat, so rghum and rice for urban consumers 3 . Looking ahead, 
+as the costs of cassava production, harvesting, processing and marketing are reduced, one 
+can expect cassava to play an expanded role  as a source of industrial raw material in 
+Africa and as a source of foreign exchange earnings through the export of cassava pellets 
+for livestock feed. 
+3 This does not mean transformation in the processing sense from fresh root to processed forms. 
+3 PRODUCTION TRENDS 
+In the early 1960s, Africa accounted for 40 percent of world cassava production and 
+Brazil was the world's leading cassava producer. However, thirty years later in the early 
+1990s, Africa produced half of the total world cassava output and Nigeria replaced Brazil 
+as the leading producing country globally (FAOS TAT). Two forces explain this dramatic 
+growth. First, demand for cassava has expa nded because of rapid population growth and 
+increased poverty thus, encouraging consumers to search for cheaper sources of calories. 
+Second, the supply of cassava has expanded because genetic research and better 
+agronomic practices have boosted cassava yields, especially in Ghana and Nigeria. 
+3.1 AREA CULTIVATED 
+In the early 1960s in Africa, cassava was pl anted in 5.6 million ha per year. Thirty-five 
+years later, in the late 1990s, it was planted in 10 million ha per year. The six countries 
+which currently account for most of the cassava area are the Congo, Côte d'lvoire, Ghana, 
+Nigeria, Tanzania and Uganda. The cassava pl anted areas increased almost three fold in 
+Ghana and Nigeria from 1961 to 1999 (Table 2). 
+One of the critical variables in the expansion of the cassava area is the availability of 
+improved processing equipment to remove wate r from the roots (the roots are 70 percent 
+water) and thereby reduce the cost of tr ansportation. Improved processing and food 
+preparation methods reduce bulk and make it possible for cassava products to be 
+transported at reduced costs over poor roads to distant urban market centres. One 
+example is the steady shipment of dried roots (cossettes) from Bandundu region of the 
+Congo to the capital city, Kinshasa, by boat along the Congo River or by trucks over 
+extremely poor road conditions. 
+The COSCA study found that in Ghana and Nige ria, all the villages where farmers had 
+access to mechanized cassava graters, reported an increase in the area planted to cassava. 
+By contrast, only 60 percent of the village s where farmers did not have access to a 
+mechanized cassava grater in the two countri es, reported an increase in the area planted 
+to cassava. 
+To summarize, between 1961 and 1999, the cassava planted areas have increased several 
+fold in two of the six most important ca ssava producing countries in Africa, namely 
+Ghana and Nigeria. The increase in the cassa va area in Ghana and Nigeria was driven by 
+availability of processing technologies and improved road access to market centres. 
+Table 1. Stages of the cassava transformation 
+ I. Famine Reserve Crop II. Rural Food Staple III. Cash Crop for Urban 
+Consumption 
+IV. Livestock Feed & 
+Industrial Raw Material
+COSCA COUNTRIES Tanzania Congo, Côte d'Ivoire and Uganda Ghana and Nigeria  
+*Mostly for home consumption * Mostly for home consumption 
+*Cassava is the primary food staple in the Congo  
+*Cassava is a secondary food staple in Côte 
+d'Ivoire & Uganda 
+CASSAVA 
+PRODUCTION 
+OBJECTIVE * Cassava is the secondary food staple 
+*Cassava is a family food staple in households 
+producing tree crops, such as cocoa in Côte 
+d'Ivoire and coffee in Uganda 
+* Mostly for sale as gun in urban centres *Industrial starch and 
+pellets for export 
+In areas with uncertain rainfall: * Increasing urban demand for 
+convenient foods 
+*Policy of substitution of 
+cassava starch for 
+imported starch  - Colonial governments encouraged 
+cassava production as a famine-reserve 
+crop starting in the 1920s 
+* Improved rural roads for easy farmer 
+access to market centres 
+POLITICAL AND 
+ECONOMIC 
+ENVIRONMENT 
+* 
+- Since independence, the Government of 
+Tanzania encouraged cassava production 
+during periods of drought 
+*The governments of the Congo and Côte 
+d'Ivoire encourage the importation of rice and 
+wheat 
+* Government policies encourage the 
+replacement of imported wheat and rice 
+with cassava food products 
+*Export promotion 
+TECHNOLOGY DEVELOPMENT 
+* Colonial governments established 
+research stations in Congo, Nigeria 
+Tanzania, etc. 
+*Early (under 12 months) 
+bulking varieties 
+1. Genetic 
+improvement 
+* Research priorities focused on controlling
+cassava mosaic virus and brown streak 
+virus 
+* IITA developed high-yielding TMS varieties 
+* IITA organized training programmes for national cassava scientists 
+*Cassava roots suitable for 
+mechanical harvesting 
+and peeling 
+2. Seed * Farmer to farmer exchange of planting 
+materials 
+* National research and extension programmes and private-sec tor agencies multiply and 
+distribute planting materials of improved varieties 
+*Private seed companies 
+* Timely planting  *Timely planting 
+* High stand density *Optimum stand density 
+3. Agronomic practices * Farmers planted at will, compatible with 
+labour demand schedule for cash crop 
+* Low frequency of intercropping *Mono-cropping 
+*Regular weeding 4. Weeding * Occasional weeding using hand hoe by 
+family labour 
+* Regular weeding with hand hoe by hired labour 
+*Mechanized weeding 
+* Complete harvesting 
+* Harvesting at 12 months or less 
+*Harvesting in 12 months 
+or less 
+* Harvesting with hand hoe 
+5. Harvesting * Partial harvesting with hand hoe, using 
+family labour 
+* Use of hired labour 
+*Mechanized harvesting 
+6. Processing * Manual processing with hand tools * Partly ma nual, partly mechanized *Fully mechanized 
+7. Food products * Roots eaten in fresh form, or as pastes, as 
+well as dried roots 
+* Convenient food products    
+Table 2. COSCA countries: Total area (million ha) planted to cassava per year, 1961 
+to 1965 compared with 1995 to 1999 
+Country 1961 to 1965 1995 to 1999 % Change 
+        
+Congo 1.37 2.19 60 
+Côte d'Ivoire 0.20 0.33 65 
+Ghana 0.15 0.60 300 
+Nigeria 0.83 2.94 254 
+Tanzania 0.59 0.62 5 
+Uganda 0.29 0.35 21 
+Source: Nweke et al. 2001 
+3.2 YIELD 
+In 1954, the average cassava yield in Africa was between 5 and 10 tonnes per ha (Jones, 
+1959). The COSCA study found that the average yield was between 10 and 15 tonnes per 
+ha in the six COSCA countries in the early 1990s. Therefore, one can safely say that the 
+cassava yield was increasing in Africa in th e early 1990s because of the planting of high-
+yielding varieties and the adoption of better agronomic practices4. 
+In early 1991, the COSCA yield measurements showed that the average on-farm cassava 
+fresh roots yield (hereafter yield) for th e six COSCA study countries was 11.9 tonnes per 
+ha5. The average farm-level yield was highest  in Nigeria where the mean was 14.7 tonnes 
+per ha followed by Ghana where the mean was 13.1 tonnes per ha (Figure 1). The mean 
+yield was around 10 tonnes per ha in Côte d'Ivoire, the Congo, Tanzania and Uganda, 
+respectively. 
+In 1973, Lagemann studied cassava yields in th ree villages in southeastern Nigeria with 
+different population densities and concluded th at cassava yield declined as population 
+pressure increased (Lagemann, 1977). Lagema nn found the mean yields for the three 
+villages to be 2 tonnes per ha in the high population density village; 3.8 tonnes per ha in 
+the medium; and 10.8 tonnes per ha in the low population density village. 
+In 1993, the COSCA study team re-visited the same  three villages to assess the trends in 
+the cassava yield 20 years after the La gemann 1973 study. The COSCA team found that 
+the mean yields for the same villages we re 4.04 tonnes per ha in the high population 
+density village; 4.77 tonnes per ha in the me dium density; and 9.27 tonnes per ha in the 
+low population density villages. Between 1973 and 1993, the cassava yield doubled in the 
+high-density village, increased by 25 percent in  the medium-density village and declined 
+by 15 percent in the low-density village (Fi gure 2). This is a surprising result that 
+deserves to be carefully examined. 
+The doubling of cassava yield in the high popul ation density village is because farmers 
+planted the high-yielding TMS varieties at high stand densities, employed hired labour 
+and enjoyed ready access to a nearby market 6. By contrast, yields declined in the low 
+population density village because farmers plan ted local varieties at low stand densities 
+(Enete et al., 1995). The evidence from the COSCA study demonstrates that farmers have 
+adopted new technologies such as the impr oved varieties and the improved agronomic 
+practices as a response to increased popul ation pressure on land. This finding adds 
+evidence to the Boserup hypothesis that incr eased population pressure can help induce 
+intensification of agricultural production (Boserup, 1981). 
+4 In Africa, long-term research from th e 1930s to the 1970s led to the developm ent of high-yielding cassava varieties 
+(the TMS varieties) that increased farm yields by 40 per cent without the addition of fertilizer. The TMS varieties were 
+released to farmers in Nigeria in the late 1970s. 
+5 Root yield as distinct from root yield; in some cassava producing countries in Africa such as the Congo and Tanzania, 
+cassava leaves are harvested and eaten as a vegetable. 
+6 There is a positive relationship between stand density and yield. Farmers in high population density villages plant at 
+high stand densities because of shortage of land. 
+Figure 1. Southeast Nigeria: Percentage changes in cassava yield from 1973 to 1993 
+in Low-,Medium-, and high-population density villages 
+ 
+Sources: COSCA study, Lagemann 1977 
+Figure 2. Cassava yield (tonnes/ha) in the Congo, Côte d'Ivoire, Chana, Nigeria, 
+Tanzania and Uganda, 1991 
+ 
+Source: COSCA study 
+3.3 PRODUCTION 
+Between 1961 and 1999, total cassava production in Africa nearly tripled from 33 million 
+tonnes per year in the early 1960s to 87 million tonnes per year in the late 1990s 
+(FAOSTAT). Food shortages precipitated by a combination of political and civil unrest, 
+economic stagnation, erratic rainfall pattern s and rapid population growth have had a 
+much greater influence on cassava production in  Africa than anywhere else in the world 
+(Scott et al., 2000). 
+Most of the dramatic increase in cassava production in Africa was achieved in Ghana and 
+Nigeria. In both countries, the production gr owth rate was higher than the rate of 
+population growth. In the other COSCA st udy countries, an increase in cassava 
+production kept pace with population growt h. The dramatic increase in cassava 
+production in both Ghana and Nigeria was ach ieved through an increase in both area and 
+yields. The availability of cassava graters to  farmers in both countries released labour, 
+especially female labour, from cassava pr ocessing for planting more cassava. Common 
+use of hired labour in both countries and wide adoption of the high-yielding TMS cassava 
+varieties were responsible for higher cassava yields than in the other COSCA countries. 
+3.4 CASSAVA VARIETIES 
+Farmers in Africa grow several cassava vari eties. For example, the COSCA researchers 
+identified over 1 000 local cassava varieties in six counties of the study, namely the 
+Congo, Côte d'lvoire, Ghana, Nigeria, Tanzania and Uganda. The farmers group the local 
+cassava varieties into the bitter and the sweet varieties
+7. The sweet varieties are more 
+popular in Côte d'lvoire, Ghana and Uganda while the bitter varieties are more common 
+in the Congo, Nigeria and Tanzania. The COSCA farmers reported that the bitter 
+varieties are more resistant to pests, highe r yielding and store better in the ground than 
+the sweet varieties. 
+Farmers, however, plant sweet varieties in the forest zone more than in the transition and 
+the savannah zones because limited sunshine in  the forest zone makes it difficult to sun-
+dry the roots after they have been soaked to eliminate cyanogens. Tree crop farmers also 
+plant sweet varieties which they eat without  the soaking and sun-drying (and not fearing 
+cyanide poisoning). As the productivity of the cassava system increases and more cassava 
+is processed as gari, the issue of the sweet or the b itter cassava varieties will become 
+irrelevant. 
+3.5 PESTS AND DISEASES 
+Cassava has been under attack by pests and diseases, such as the mealybug, green mite, 
+mosaic disease and the bacterial blight. The biological control method has been used to 
+bring the mealybug under control while the biologi cal control of the green mite is still in 
+progress (Herren et al., 1987 and Yanine k, 1994). The most promising method of 
+controlling the mosaic disease and the bacterial blight is breeding resistant varieties, 
+which involves a long and painstaking proce ss of breeding and diffusion. Meanwhile, the 
+green mite, mosaic disease and the bacterial blight continue to cause yield losses in 
+various parts of Africa. 
+In the late 1980s, an epidemic of an extremely severe form of the mosaic disease spread 
+through most of Uganda. Researchers discovered that a new form of cassava gemini virus 
+caused the virus epidemic. The Uganda vari ant of the gemini virus is now widely 
+distributed in Uganda (Harrison et al., 1997). 
+African farmers usually do not attempt to c ontrol the cassava pests and diseases with 
+pesticides because of the limited access to ch emicals and because it is not profitable to 
+apply pesticides on cassava. However, farmer s use the following agronomic practices to 
+achieve partial control of the cassava pest s and diseases: fallow rotation, crop rotation 
+and selection of the pests and diseases-resistant local varieties. 
+Most of the major cassava pests and diseases  are new in Africa as they were introduced 
+only within the last 30 years. Improved quaran tine inspection is needed to prevent, as 
+much as possible, further introduction of new problems. There is a need for better 
+preparedness to control new problems before they spread and take root in Africa. 
+3.6 GENETIC IMPROVEMENT 
+Cassava genetic improvement research has been conducted by African smallholders, by 
+researchers in colonial and post-independent  research stations and by scientists in 
+international research centres such as IITA and Centro Internacional de Agricultura 
+Tropical (CIAT). Farmers selected self-seeded plants from local varieties that possessed 
+the superior attributes which they desire such as high yield, early bulking, in-ground 
+storage, pest and disease tolerance, processing qualities, large canopy and low cyanogens 
+level.8 
+The colonial governments' research on cassava  was inspired by the appearance and rapid 
+spread of the mosaic disease in East  Africa and by the colonial governments' 
+determination to encourage the planting of cassava as a famine-reserve crop in their 
+colonies. The colonial governments set up cassava research programmes in various 
+countries in West, Central and East Africa, but the most successful was the one set up at 
+the Amani Research Station in Tanzania in the 1930s. The mosaic disease-resistant 
+hybrids developed at the Amani research station between 1935 and 1957 served as the 
+foundation for IITA's research programme on cassava in the 1970s and 1980s. 
+Soon after most African countries became independent in the 1960s, cassava research 
+languished in most national research programmes. In 1971, IITA established a research 
+programme on cassava. IITA's programme bu ilt on local materials and on materials 
+collected from various parts of the world (par ticularly from the Amani Research Station), 
+helped national agricultural research systems to establish cassava programmes and 
+establish partnerships with farmers, the private sector and numerous national cassava 
+programmes. 
+For example, IITA realized that national cassava research programmes were under 
+funded and in a state of disarray. Most nationa l agricultural research systems in Africa 
+did not have cassava research programmes in the early 1970s. IITA needed to help 
+develop strong national cassava research programmes in cassava producing countries in 
+Africa in order for IITA's cassava varieties a nd agronomic practices to be evaluated over 
+a wide range of African agro-ecologies. IITA took steps to persuade governments of 
+several of the large cassava producing c ountries to establish cassava research 
+programmes in the agricultural research system
+9. 
+To facilitate cooperation among scientists in  national programmes, the International 
+Society for Tropical Root Crops - African  Branch (ISTRC-AB) was founded in 1978 by 
+IITA. Regional root crop research networks were set up in Eastern and Southern Africa in 
+1987/88 with support from IITA. The national research capacity which IITA helped to 
+build, made it possible for IITA's varieties and field practices to be evaluated over a wide 
+range of environments in Africa. 
+IITA developed high-yielding mosaic-resistant varieties in six years (1971 to 1977) of 
+research. These new high-yielding mosa ic-resistant varieties included TMS 50395, 
+63397, 30555, 4(2)1425 and 30572 (hereafter cited as TMS varieties). The new TMS 
+varieties out-yielded local varieties on farm ers' fields by 40 percent without fertilizer. 
+COSCA studies in Nigeria found that the TMS va rieties are superior to local varieties in 
+terms of yield, earliness and pest and disease tolerance and they are as good as the local 
+varieties in terms of various post-harvest attributes and for intercropping. 
+The evolution of cassava breeding in Africa can  be described as a human ladder. Starting 
+in the 1930s, one generation of breeders climbe d on the shoulders of the past generations 
+until they hit the jackpot with the TMS varieties in the mid 1970s (Table 3). 
+The cassava genetic improvement in Africa how ever, represents work in progress. For 
+example, although the TMS varieties bulk earlier than the local varieties, they are not 
+suitable for intensive commercial production becau se they take 13 to 15 months to attain 
+maximum bulking. If farmers plant cassava  under continuous cultivation, it will be 
+harvested at less than 12 months and before  it has attained its maximum yield. Cassava 
+producers in Nigeria who plant the TMS varie ties and make gari available for sale in 
+urban markets, complain that the peeling of  the roots of the TMS varieties is labour 
+intensive. The roots of the TMS varietie s are not suitable for the development of 
+mechanized peeling because they lack uniform shape and size. 
+8 Cassava does not have a period of maturity. As the plant gr ows the root continues to bulk (swell) until after a stage of 
+three or four years when deterioration begins. 
+9 For example, in the Congo, the Programme National du Ma nioc (PRONAM) was established in 1974; in Nigeria, the 
+National Root Crops Research Institute (NRCRI) was establis hed in 1975; in Côte d'lvoire, the cassava programme of 
+the Institut des Savannes (IDESSA) was established in 1979; and in Uganda, the National Root Crop Research 
+Programme was established in 1981. Thes e programmes were established with IITA's technical assistance and with 
+financial assistance secured with IITA' s support from international donor agencies such as the USAID, IFAD, Gasby 
+Foundation, etc. 
+3.7 DIFFUSION OF TMS VARIETIES 
+The TMS varieties are widely diffused in Ni geria and to a lesser extent in Ghana and 
+Uganda. 
+Diffusion in Nigeria. The rapid diffusion of the TMS varieties in Nigeria starting in 1977 
+was facilitated by the 40 percent increase in fa rm-level yield, the profitability of the new 
+varieties, the collaboration of National Root  Crops Research Institute (NRCRI), the oil 
+sector, the World Bank, IFAD, churches, the Nigerian Cassava Growers Association; and 
+by government oil revenue and the availability of low cost gasoline. 
+The diffusion in Nigeria was also facilitated by the physical presence of IITA in Nigeria. 
+IITA's cassava diffusion programme multiplied and distributed TMS planting materials 
+directly to farmers and indirectly thr ough informal channels such as schools and 
+churches. IITA's diffusion programme mobilized the private sector, particularly the oil 
+sector, for assistance in the distribution of the TMS varieties. IITA's cassava programme 
+also mobilized the mass media including th e newspapers, radio and television to 
+publicize the availability and benefits of the TMS varieties. 
+The boom in the petroleum industry in the 1970s and the resultant economic expansion in 
+Nigeria led to an increase in the purchasing power of urban consumers and an increase in 
+demand for convenient food products such as gari. With the aid of the petroleum 
+revenue, Nigeria was able to improve rural ro ads; expand agricultural research, extension 
+and higher education institutions and finan ce nationwide demonstrations of the TMS 
+varieties. 
+Yet it is important to point out that im proved cassava food preparation technologies, 
+namely gari preparation and the mechanized grater , were in place at the farm-level in 
+Nigeria before the TMS varieties were introduced to farmers in the late 1970s. The 
+availability of mechanized processing equipment and gari preparation technologies 
+greatly increased the profitability of the TMS varieties. 
+Finally, farmers were able to utilize mechani zed graters because diesel and gasoline were 
+cheap and readily available. Mechanized grat ers have saved labour and shifted the labour 
+constraint from grating to the labour-intensi ve tasks of harvesting, peeling and toasting. 
+The labour requirements for those tasks increase in direct proportions with yield. The end 
+result is that farmers who adopted the TMS vari eties are often restricted in the amount of 
+cassava they can produce by the labour bottlenecks at the harvesting, peeling and toasting 
+stages. 
+Mechanization of any of the harvesting, peeli ng and toasting tasks will enable farmers to 
+plant a larger area to the TMS varieties. There is an urgent need for breeders to develop 
+varieties which attain a maximum yield in le ss than 12 months and have uniform roots in 
+shape and size in order to facilitate the development of mechanical harvesters and 
+peelers. 
+Diffusion in Ghana and Uganda.  In 1988, IITA helped the G overnment of Ghana to 
+secure financial assistance from interna tional donor agencies to launch a nationwide 
+programme of on-farm testing of the TMS va rieties. It took five years, 1988 to 1993, to 
+evaluate the TMS varieties under field conditions and multiply the stem cuttings. In 1993, 
+sixteen years after the release of the TMS varieties in Nigeria in 1997, the Government of 
+Ghana officially released three TMS varieties, namely TMS 30572, TMS 50395 and 
+TMS 4(2)1425. In 1998 the Root and Tuber Improvement Programme was initiated by 
+the Ministry of Food and Agriculture in Kumasi to multiply and distribute plant cuttings 
+of TMS varieties. In December 2000, the tota l area planted with the TMS varieties for 
+multiplication was 1 142 ha (Otoo and Afuakwa, 2001). 
+The diffusion of the TMS varieties in  Ghana from 1993 to 2001 has not been 
+documented. However, in early 2001, cassava researchers at the Crops Research Institute, 
+Kumasi reported that TMS varieties covered larg e areas of farmers' fields in the Eastern, 
+Greater Accra and Volta regions where farmers prepare gari for sale in urban centres 
+(Otoo and Afuakwa, 2001). 
+Ghana's official release of the TMS varieties in 1993, 16 years after they were released in 
+Nigeria, represents a delayed diffusion, which is  attributed to a variety of reasons. First, 
+the Government historically invested in ma ize research, the primary food staple and only 
+initiated cassava research in the national ag ricultural research systems (NARs) in 1980. 
+Second, some influential Ghanaian scientists did not encourage the Government to import 
+the TMS varieties because the influential Ghanaian scientists were proud of their 
+breeding work. 
+
+Table 3. The human research ladder: Linkages between cassava research in Tanzania and Nigeria, 1935 to 2000 
+Station Year Researcher Goal/Approach Achievement/Comment 
+      TANZANIA 1935 TO 1957   
+Amani 1935 to 1937 Storey Control cassava mosaic virus and cassava 
+bacterial blight by introduction of resistant 
+varieties 
+Over 100 cassava varieties were introduced from various parts of the 
+world 
+  1937 to 1951 Storey and 
+Nichols 
+Rubber tree species x cassava hybridization Developed rubber tree x cassava hybrids resistant to mosaic 
+  1951 to 1957 Storey and 
+Jennings 
+Intercross the Storey/Nichols hybrids to 
+increase resistance to mosaic disease 
+Developed hybrids that showed higher and more stable resistance over 
+a wide area (including the Ceara rubber x cassava hybrid, 58308) than 
+the hybrids created by Storey and Nichols and distributed them to 
+several countries including Nigeria. The Amani research programme 
+was terminated in 1957 
+      NIGERIA: 1958 TO 2000   
+Moor 
+Plantation 
+1958 to 1960 Beck and 
+Ekandem 
+Combine the mosaic disease resistance genes 
+of the Ceara rubber x cassava hybrid, 58308, 
+with the genes for high yield from West 
+African varieties 
+Programme was transferred to Umudike research station at 
+independence in 1960 
+Umudike 1960 to 1970 Ekandem Combine the mosaic disease resistance genes 
+of the Ceara rubber x cassava hybrid, 58308, 
+with the genes for high yield from West 
+African varieties 
+  
+IITA, 
+Ibadan 
+1971 to 1994 Hahn Combine the mosaic-resistant genes of the 
+Ceara rubber x cassava hybrid, 58308, with 
+genes from local and exotic varieties with high 
+yield, good root quality, low cyanogens and 
+resistance to lodging 
+The famous TMS varieties were developed from 1971 to 1977 and 
+released to farmers in Nigeria in 1977 
+      Enhance earliness of bulking and root 
+carotene, develop appropriate canopy sizes for 
+leaf harvest and intercropping and improve 
+pests and diseases resistance 
+Developed varieties that are resistant to more pests and diseases and 
+have different canopy sizes and distributed them to national cassava 
+research programmes in Africa for on-farm testing and selection 
+Source: Nweke et al 2001 
+In Uganda, government and donor interest in  the diffusion of the TMS varieties was 
+sparked by the appearance and rapid spread of th e rare form of cassava mosaic disease in 
+the late 1980s. Beginning in 1991, TMS 6014, TMS 30337 and TMS 30572 were 
+multiplied. In 2000, approximately 80 000 ha of the mosaic-resistant TMS varieties were 
+being grown in Uganda (Otim-Nape et al., 2000). 
+3.8 AGRONOMIC PRACTICES 
+Fallow systems.  There are three main fallow system s in Africa: the long fallow, short 
+fallow and continuous cultivation. Due to population growth, cassava cultivation under 
+the long fallow system has declined in Africa. The distribution of cassava fields surveyed 
+by COSCA researchers was as follows: long fa llow, 5 percent; short fallow, 75 percent; 
+and continuous cultivation, 20 percent. Mo st farmers now produce cassava under the 
+short fallow system because of cassava's l ong growth period, pests and disease problems 
+and compatibility with crops such as yam and maize, which are grown in association with 
+cassava. Cassava production under continuous cu ltivation is an increasing practice in 
+many African countries in response to the increasing population pressure on land. 
+Increasing production of cassava under continuous cultivation points to the need for 
+early-bulking and pests and diseases-resistant cassava varieties. 
+Cassava planting. In Africa, the main source of cassa va planting materials is from the 
+farmers' fields, neighbours and sometimes  cassava marketing middleperson. Some 
+farmers who produce cassava as a cash crop, pl ant healthy-looking cuttings from plants 
+not older than 12 months. Some farmers do not always discard stems affected by pests or 
+diseases even though this is a common way of spreading the pests and diseases (Rossel et 
+al., 1994). 
+In the forest zone where biomass production is higher than the savannah zone, there is an 
+abundance of cassava stem cuttings for planting. However, in the savannah zone, cuttings 
+for planting are often in short supply. Th e COSCA study found that farmers in the 
+savannah zone discontinue the use of varietie s, which produce low yields of the planting 
+material. Farmers need help with the supply of healthy cassava planting materials 
+particularly in the savannah zone. 
+The cassava plant density is an important agronomic consideration because it is positively 
+and strongly correlated with the cassava  yield. The most commonly recommended 
+spacing for cassava is 1 m x 1 m which is equi valent to a plant density of 10 000 stands 
+per ha (Onwueme, 1978). The average farm-lev el plant density for the six COSCA study 
+countries was 8 000 plants per ha. The cassava stand density in the farmers' fields varies 
+widely from 500 plants per ha to 40 000 plan ts per ha depending on climatic zone, the 
+cassava morphological characteristics such as branching type and leaf shape, soil fertility 
+status, seed-bed type and cropping pattern, et c. Farmers who plant cassava as a cash crop 
+plant at higher plant densities than farmers who plant the crop as a famine-reserve crop or 
+as a rural food staple. 
+The factors surrounding cassava plant density are so numerous that the optimal plant 
+density for high cassava yield is location specifi c. Local agronomic research is needed to 
+determine the optimum cassava plant density. Research on cassava is not carried out at 
+the required local level in any of the six COSCA study countries because the NARs do 
+not have the resources necessary for detailed cassava field experiments. 
+In Africa, cassava is frequently grown as an  intercrop with other crops (Fresco, 1986). In 
+the six COSCA study countries, 60 percent of the cassava fields are intercropped and 40 
+percent mono-cropped. Cassava/maize intercrop is the most common, constituting about 
+50 percent of all cassava-based intercropped fields. Other combinations are cassava/bean 
+(or pea), cassava/banana (or plantain), cassava/rice, cassava/millet (or sorghum), 
+cassava/yam and cassava/sweet potato. Cassava 's flexible planting schedule, its wide 
+interspacing and its slow rate of growth rela tive to maize, for example, make it suitable 
+for intercropping. 
+Cassava does not have a critical planting date as long as there is enough moisture at 
+planting for rooting to commence. The actual date of planting is determined by the arrival 
+of the rainy season. In West Africa, cassava is planted from the beginning of the rainy 
+season (February–March) to the end of the rainy season (October-November). 
+The cassava planting date is also significan tly influenced by the intercropping needs of 
+farmers. Farmers delay the planting of cassava in intercropped fields, depending on the 
+growth cycle of the associated  crop. If the associated crop is a short-cycle crop such as 
+maize, cassava is often planted one month la ter than the maize. If the associated crop 
+such as yam has a long growing period, cassava is often planted as much as three months 
+later than the yam. The delayed planting st rategy reduces competition for insulation and 
+soil fertility between cassava and the intercrops thus allowing the mono-crop stand 
+density to be maintained for cassava. The strategy is possible because cassava is drought 
+resistant provided there is enough moisture at planting for rooting to commence. 
+To summarize, farmers need assistance w ith a supply of healthy cassava planting 
+materials. Local agronomic research is needed to determine optimum plant stand 
+densities. Cassava's flexible planting date enables farmers to plant high-yielding large-
+canopy cassava varieties in intercropping. Th e cassava intercrops are grown on small 
+family plots. For example, the COSCA study found that the average cassava field area 
+per household was less than one hectare in all the COSCA study countries. The 
+predominance of intercropping and sma ll farm size in cassava production has 
+implications for development of cassava production technologies in Africa. 
+Production and harvesting.  Cassava is reputed to be a crop that requires relatively low 
+labour inputs for production. However, COSCA re search confirms that this conventional 
+wisdom is valid only where cassava is produ ced as a famine-reserve crop or as a rural 
+food staple. When cassava is produced as a cash crop, farmers use significantly more 
+labour. In most of the COSCA study villages,  all the field tasks for cassava production 
+are done manually, using simple implements su ch as a hand hoe and a cutlass. In Nigeria 
+where the TMS varieties and improved agr onomic practices have boosted yields by 40 
+percent, the labour constraint has shifted from cassava weeding to cassava harvesting. 
+Harvesting is now proving to be a serious c onstraint on the spread of TMS varieties 
+because labour for cassava harvesting increases in direct proportion to yield. 
+The general food supply outlook, market conditions and labour availability for harvesting 
+and processing influence the cassava-harvesting schedule. During drought and a period of 
+attractive market prices farmers harvest their cassava early, sometimes before roots attain 
+their maximum bulking. For the six COSCA st udy countries, the average age of cassava 
+fields at harvest was 11.9 months with a range of six to 49 months. 
+Cassava is planted as a cash crop in Gh ana and Nigeria. The amount of cassava 
+harvesting labour per hectare was higher in Gh ana and Nigeria than in the other COSCA 
+study countries. In fact, Table 4 shows that harvesting cassava is the most labour-
+intensive field task in Ghana and particular ly in Nigeria where the TMS varieties and 
+improved agronomic practices have boosted yiel ds by 40 percent. In Ghana and Nigeria, 
+the labour constraint has shifted from cassa va weeding to cassava harvesting. Harvesting 
+is now proving to be a serious constraint on the spread of TMS varieties. It is not 
+surprising that those farmers who plant TMS varieties in Nigeria have sometimes had to 
+suspend planting because they were unable to hire sufficient labour to harvest previously 
+planted cassava fields. 
+Table 4. Cassava production by task and days per ha in the Congo, Côte d'lvoire, 
+Ghana, Nigeria, Tanzania and Uganda 
+Task Congo Côte d'lvoire Ghana Nigeria Tanzania Uganda 
+              
+Land clearing 66 53 44 49 54 45 
+Seed-bed preparation 21 29 31 41 27 31 
+Planting 39 22 28 32 27 28 
+Weeding 27 28 34 38 28 32 
+Harvesting 48 44 53 62 46 52 
+Total days 201 173 191 222 182 187 
+Source: Nweke et al 2001 
+To date, most public sector research on ca ssava has focused on genetic research. Very 
+little research has focused on developing machines to harvest cassava. Without question, 
+a mechanical revolution is now needed to  break the labour bottleneck in cassava 
+harvesting among farmers in Ghana and Nigeria who are planting the TMS varieties. 
+3.9 SUMMARY 
+The analyses in this section show that farmers will introduce new agronomic practices 
+(length of fallow period, quality of planti ng material, plant density, planting date, 
+cropping pattern, quality of weeding and age of the cassava roots at harvest) as cassava 
+production becomes profitable. However, progressive farmers who adopt improved 
+agronomic practices are facing production a nd harvesting labour bottlenecks which are 
+limiting the amount of cassava they can grow. 
+Without question, agronomic and genetic-induced productivity changes are important 
+sources of growth in the cassava industr y. Mechanical technology for cassava production 
+and harvesting is needed to complement improved agronomic practices and high-yielding 
+varieties. The mechanization of harvesting is needed to break labour bottlenecks, increase 
+labour productivity and encourage the farmers to increase the use of TMS varieties. 
+4 CASSAVA PROCESSING 
+4.1 FIVE MAJOR CASSAVA FOOD PRODUCTS 
+In Africa, there are five common groups of cassava products: fresh root, dried roots, 
+pasty products, granulated products and cassava leaves10. 
+Fresh root. The roots of sweet cassava varieties are eaten raw, roasted in an open fire, or 
+boiled in water or oil. The cyanogens in the roots are destroyed by slowly cooking the 
+roots. Starting with cold water, gradual h eating promotes the hydrolysis of the cyanogen 
+(Grace, 1977). 
+Dried roots. Dried cassava roots are stored or mark eted as chips, balls and flour. Chips 
+and balls are milled into flour at home by pounding with a pestle and mortar in 
+preparation for a meal. There are two broad t ypes of dried cassava roots: fermented and 
+unfermented. Preparing unfermented dried cassa va roots by sun- or smoke-drying is the 
+simplest method of cassava preparation. Si nce this method is inefficient in the 
+elimination of cyanogens, it is used mostly for preparing sweet cassava varieties, which 
+have low cyanogen content. 
+In the case of fermented dried cassava roots,  the fermentation is accomplished in one of 
+two ways: stacking in heaps or soaking in water for a number of days. The fermentation 
+process, whether in water or in heaps, influences the taste of the final product. The longer 
+the fermentation period, the stronger is the sour  taste. Taste is an important attribute, 
+especially for consumers who eat fermented cassava products and who desire the strong 
+sour taste. 
+The recent introduction of a grater has eliminated stacking and fermentation and therefore 
+saves time. The roots are simply peeled, washed and grated 11. The pulp is placed in a 
+perforated container, covered and a wei ght put on it for about three hours and the 
+cyanogens are squeezed out along with effluent. The half-dried pulp is then dried in the 
+sun (Alyanak, 1997). 
+In Africa, cassava is sun-dried on virtually a ny surface in the open air such as a large flat 
+rock in the field, on the shoulders of a paved ro ad, on flat roof tops, in a flat basket, or 
+even on bare ground. Bright colour is an important attribute desired by consumers 12 . The 
+colour of dried roots depends on the met hod and duration of the fermentation, on the 
+method of drying, the efficiency of the dr ying energy and the cleanliness of the drying 
+environment. 
+Pasty products. Two forms of pasty cassava products are common in Africa: uncooked 
+and steamed pastes. The most popular is called uncooked paste because it is stored or 
+marketed without cooking. To prepare the uncooked paste, the roots are soaked in water 
+for three to five days, during which time the roots soften and ferment. The soaked roots 
+are manually crushed and sieved by shaking it in  a basket in a sack under water, thereby 
+separating the pulp into the sack while collecting the fibre in the basket. 
+Cooked cassava pasty products have been recen tly introduced in Nigerian urban markets. 
+Every evening in major cities in the cassava growing areas of Nigeria, it is common to 
+find women selling cooked cassava paste wra pped in plastic bags. As women go home 
+from work or from the market, they st op and buy some for the evening meal. Although 
+more research is needed on preparation me thods, cooked cassava paste is a promising 
+food for busy urban consumers. 
+Steamed paste (for example chickwangue in the Congo) is a product that can be stored or 
+marketed in a steamed form. To prepare the paste, fibre is rem oved by hand from roots 
+fermented by soaking in water. The roots are th en stacked in a heap to further ferment. 
+The pulp is ground with a stone or pounded in a mortar. The resulting fine pulp is firmly 
+wrapped in leaves and steamed. 
+The double fermentation as well as the steam ing imparts a long shelf-life to steamed 
+paste. The sour flavour achieved through extended fermentation is a characteristic that is 
+cherished by regular customers. It is also a turn-off to potential new consumers. 
+Steamed paste is stored or marketed in a r eady-to-eat form. Preparing steamed paste is 
+expensive because many steps are involved a nd each one requires additional inputs. For 
+example, grinding and sieving are labour-int ensive. The soaking step is water-use 
+intensive and steaming is fuel wood-use intensive. In the Congo, steamed paste -
+chickwangue- is prepared entirely by women. 
+Granulated products.  In Africa, there are three comm on types of granulated cassava 
+products: gari, attieke and tapioca. The methods for making granulated cassava products 
+originated in Brazil. To prepare gari, fresh cassava roots are p eeled, washed and grated. 
+The resulting pulp is put in a porous sack and weighted down with a heavy object for 
+three to four days to express effluent from the pulp while it is fermenting. The de-watered 
+and fermented lump of pulp is pulverized and sieved and the resulting semi-dry fine pulp 
+is toasted in a pan. The grating, effluent  expressing, pulverization, toasting and the 
+addition of palm oil are adequate to reduce cyanogens to a safe level (Hahn, 1989). 
+Fermentation imparts a sour taste to gari. The duration of fermentation varies depending 
+on consumer preference for sour taste.  The COSCA study found that commercial gari 
+processors in Nigeria ferment cassava fo r different lengths of time depending on the 
+market. Toasting extends the shelf-life so that gari can be easily transported to urban 
+markets. If kept in a dry environment, gari will store better than grain because gari is not 
+known to be attacked by weevils (Okigbo, 1984). 
+The second type of granulated cassava products is attieke, a type of steamed cassava that 
+is found only in the Côte d'lvoire. Attieke is made in much the same way as gari with 
+more or less the same inputs. However, instead of toasting, attieke is steamed. Attieke is 
+available in a wet form and it has a shorter shelf-life than gari. 
+The third type of granulated cassava product is tapioca, which is primarily consumed in 
+Benin, and Togo 13. To prepare tapioca, cassava is grated and then put in water, pressed 
+and kneaded to release the starch. The starch is permitted to settle at the bottom of the 
+container and the water is drained off. The ope ration is repeated several times to prepare 
+a high quality product. The damp starch is spread on a pan and toasted in the same way as 
+gari, to form a coarse granular product. 
+Cassava leaves. Cassava leaves are edible and a more convenient food product than fresh 
+roots. Cassava leaves are storable in dry form and since they have lower water content, 
+they are less expensive to dry than the roots.  If leaf harvesting is properly scheduled, it 
+does not have an adverse effect on cassava root yield (Dahniya, 1983 and Lutaladio and 
+Ezumah, undated). Cassava leaves have a nut ritive value similar to other dark green 
+leaves and are an extremely valuable sour ce of vitamins A (carotene) and C, iron, 
+calcium and protein (Latham, 1979). The c onsumption of cassava leaves helps many 
+Africans compensate for the lack of protein a nd some vitamins and minerals in the roots. 
+Cassava leaves are prepared by leaching them in hot water, pounding them into pulp with 
+a pestle and mortar before boiling in wate r along with groundnuts, fish and oil. This 
+process eliminates cyanogens from the leaves, making them safe for human consumption. 
+Cassava leaves are an important vegetable in the Congo and Tanzania. The COSCA study 
+found that farmers in the Congo select cassava varieties with a large canopy of leaves. In 
+Tanzania, farmers plant tree cassava -mpiru - for the production of leaves. In countries 
+where cassava leaves are eaten as vegetables, producers earn additional income by selling 
+cassava leaves. Truck loads of cassava leaves, locally called pondu in the Congo, are a 
+common sight on the roads from the provinces to urban markets in Kinshasa. 
+Cassava leaves are not eaten in Uganda because their consumption is considered an 
+indicator of low economic status (Otim-Nap e, 1995). Cassava leaves are not eaten in 
+West Africa, except in Sierra Leone, because several indigenous plants supply vegetables 
+traditionally consumed with yam (Okigbo, 1980). Most of these vegetables are however, 
+available only during the rainy season. Ther efore, there is a seasonal gap in the 
+availability of vegetables in West Africa which cassava leaves could fill. 
+10 It is difficult to separate cassava processing from cassava food preparation because some combinations of the cassava 
+processing and food preparation activities lead to final cassa va food products which are in ready-to-eat forms. Other 
+combinations of the cassava processing and food preparation activities lead to intermediate products which are stored 
+until the need arises for conversion into ready to eat forms. 
+11 This method was recently developed at IITA and it is now widely used by farmers in the major cassava producing 
+countries. 
+12 Fifty percent of the farmer groups interviewed in the si x COSCA study countries considered bright colour as the 
+most important quality in the cassava food products, namely  the dried cassava roots, the granulated cassava food 
+products and the pasty cassava food products. Twenty-five per cent considered texture, 15 percent considered taste and 
+10 percent of the village groups considered other qualities as the most important in the cassava food products. 
+13 It is also a common food used in making pudding for desert in the United States. 
+4.2 SUMMARY 
+To summarize, the traditional methods used to make five cassava products are simple and 
+are able to reduce cyanogens in cassava to sa fe levels. The methods have been influenced 
+by the availability of sunlight, water, fuel w ood and wage rates. This diversity of natural 
+resources and differentiated wage rates have contributed to an array of cassava products 
+in Africa. There is regional variation in cassava preparation methods in Africa and a 
+major challenge is to diffuse the best practi ces from one region to other regions within 
+Africa. 
+4.3 MECHANIZED PROCESSING 
+There are three common types of mechanized cassava processing machines in use in 
+Africa: graters, pressers and mills. 
+Mechanized grater.  The traditional method of gra ting cassava was by pounding it in a 
+mortar with a pestle. Later, artisans develope d a manual grater in the form of a sheet of 
+perforated metal mounted onto a flat piece of  wood. The mechanized graters were first 
+introduced to Republic of Benin, by the French in the 1930s and later modified in Nigeria 
+in the 1940s by welders and mechanics, using local materials such as old automobile 
+motors and scrap metal. Village entrepreneurs,  who provide a grating service to farmers, 
+own the mechanized graters. The mechanized grater operators allow the farmers 
+flexibility in terms of working time and quantity  of cassava grated. The fee charged is a 
+small fraction of the cost of grating by hand. 
+In Ghana and Nigeria, commercial gari processors use the mechanized grater. The use of 
+a mechanized grater has reduced gari processing costs by 50 percent and dramatically 
+increased the profitability of gari production with the TMS varieties in Ghana and 
+Nigeria. Since the grating task is mechani zed, peeling is now the most labour-intensive 
+task followed by the toasting in gari preparation. In Côte d'Ivoire, many attieke 
+processors do not use the mechanized grater because the texture of attieke made with the 
+mechanized grater is not as good as that of hand-made attieke. The planting of the TMS 
+varieties is not profitable to farmers who process cassava as attieke because hand grating 
+is labour-intensive. 
+Mechanized presser. Since cassava has high water cont ent (70 percent), various methods 
+have been developed to extract the water during processing. Traditionally, effluent is 
+drained from grated cassava mash by putting it in a basket, covering it with leaves and 
+placing a heavy object such as stone on top of it for three to five days. Fermentation takes 
+place at the same time. Nowadays, most commercial gari makers in Nigeria and attieke 
+makers in Côte d'lvoire use a screw jack to extract the effluent. The mechanized presser is 
+a simple hand-operated machine, which is made from wooden plates and a used 
+automobile jack, both of which are available in  villages. In Nigeria, mechanized graters 
+and pressers are often both operated and mainta ined by the same village entrepreneurs in 
+major areas of commercial cassava production. This enables farmers to have access to 
+grating, pressing, pulverizing and sieving services in a convenient location. 
+Mechanized pressing reduces the processing tim e from several days to a few hours, but 
+the inherent disadvantage of the mechanized presser is that it performs only the pressing 
+step and it eliminates the fermentation step. Fermentation imparts a sour taste, which is 
+cherished by consumers in some places such as  in southwestern Nigeria. Fermentation is 
+not essential for the elimination of  cyanogens in the preparation of gari because grating, 
+pressing, pulverization, sieving and toasting steps reduce the cyanogen in cassava to such 
+a low level that gari is safe for human consumption. 
+Mechanized mill. The traditional method of preparing cassava.flour from dried cassava 
+roots is to pound the roots in mortar with a pestle. Today, mechanized mills are common 
+place in the urban centres in the six CO SCA study countries. The mills were also 
+observed in several COSCA villages in Ghana,  Nigeria and Uganda but in only a small 
+percentage of the COSCA villages in the Congo, Côte d'lvoire and Tanzania. The 
+components of the mechanized mill are also fabricated locally from scrap materials. 
+4.4 NEW CHALLENGES IN MECHANIZED PROCESSING 
+The following new challenges in mechanized cassava processing flow from the above-
+mentioned discussion: 
+• the Ghana/Nigerian mechanized grater should be introduced in the other major 
+cassava producing countries in Africa. The grater is made from local materials 
+and the machines are reliable and cost effective; 
+• engineers and breeders should join forces  and figure out how to mechanize the 
+peeling task by developing cassava roots th at are uniform in shape and size and 
+having skins that meet certain specifications; 
+• new technology is needed to reduce the am ount of labour in the toasting stage of 
+gari preparation; 
+• a mechanized grater should be developed to make attieke with a texture as good 
+as hand-made attieke. 
+In the past, attempts have been made in the various COSCA countries by private 
+entrepreneurs to process cassava on a large-scale using integrated grating, pressing, 
+pulverizing, sieving and toasting machines in a factory style of operation. However, all of 
+these firms failed because of an array of pr oblems: lack of sustained public or private 
+investment in research and development, shor tage of cassava roots, fragmented market 
+for cassava products, unacceptable consumer taste and high cost of labour for hand 
+peeling. 
+Numerous public sector agencies were established in Nigeria in the 1970s and 1980s to 
+develop and diffuse mechanized cassava pr ocessing machines. However, farmers have 
+not adopted the machines developed by the government agencies because the machines 
+are not as convenient and reliable as those developed by the small-scale private artisans. 
+Important lessons for mechanization of food processing in Africa emerge from this 
+analysis of the evolution of mechanized cassava processing methods. Mechanization of 
+food processing must be for products that have a market demand such as gari. Since most 
+villages in Africa do not have electricity a nd petroleum fuel is scarce and expensive, 
+mechanized machines should be small and easy to fabricate and repair by village artisans 
+using local materials such as old engines a nd scrap metals. Machines that are manually 
+driven are more suitable for remote villa ges provided they can be fabricated and 
+maintained by village artisans using local materials. 
+The customary sweet and bitter cassava va rieties depend upon the amount of cyanogens 
+(prussic acid) in the edible parts of th e roots (Jones 1959, p. 12). The roots of sweet 
+cassava are low in cyanogens, mealy after cooking and usually eaten as a raw vegetable, 
+boiled, or roasted in an open fire. Bitter cassava varieties are high in cyanogens, waxy 
+after cooking and are harmful to humans and an imals unless they are peeled, grated and 
+toasted or soaked in water for a few days and boiled or sun-dried. 
+5 CASSAVA CONSUMPTION 
+5.1 CONSUMPTION LEVEL 
+Cassava production in Africa is used almost ex clusively for consumption as food. In fact, 
+95 percent of the total cassava production, after accounting for waste, was used as food in 
+Africa in the late 1990s14 In Africa, total cassava consumption more than doubled from 24 
+million tonnes per year in the early 1960s to 58 million tonnes per year in the late 1990s 
+(FAOSTAT). The large increase in  the total cassava consumption in Africa is due to a 
+significant increase in per capita consumption in countries such as Ghana and Nigeria 
+where cassava is produced as a cash crop fo r urban consumption. The availability of 
+cassava in a convenient food form, such as gari, played a major role in the increase in the 
+per capita cassava consumption in Ghana and Nigeria. Future increases in cassava 
+consumption in other African countries will depend on how well cassava is prepared into 
+food forms, which make an alternative to wheat, rice, maize and sorghum to urban 
+consumers. 
+Cassava roots are the single largest source of  calories in seven African countries having 
+40 percent of the population in the late 1990s'
+15 . In these seven countries, cassava 
+contributed an average of nearly 600 calorie s per person per day. In another 11 countries 
+with about 25 percent of Africa's population, cassava was the second largest source of 
+calories16 . In those countries, cassava provided more than 300 calories per person per day 
+in the late 1990s (FAOSTAT). Thus, in Africa, cassava roots are an important source of 
+calories for about 65 percent of the total population. 
+These averages underestimate the importance of cassava in specific countries. In the 
+Congo, for example, many families eat cassava for breakfast, lunch and dinner. In the 
+Congo, cassava contributed over 1 000 calories pe r person per day or about 55 percent of 
+the average daily calorie intake in the late  1990s (FAOSTAT). Cassava leaves are widely 
+consumed as a vegetable in several places wh ere cassava is grown such as in the Congo 
+and Tanzania. Since cassava leaves are rich in protein, vitamins A and C and some 
+minerals (iron and calcium) (Latham, 1979, p. 172) they partially compensate for, the 
+shortage of these nutrients in the roots. 
+Cassava was found to be the cheapest source of calories among all f ood crops in each of 
+the six study countries. As family incomes increased, the consumption of cassava as dried 
+root flour declined while consumption in convenient food forms such as gari increased. 
+Dried cassava root flour is cheaper than gari because of the high cost of processing gari. 
+Medium and high income families were found to consume gari because it is cheaper and 
+more convenient to cook than grains. The fu ture of cassava as a rural and urban food 
+staple will depend on cassava's ability to comp ete with wheat, rice, maize, sorghum and 
+other grains in terms of cost, convenience a nd availability in urban markets. Cassava can 
+retain its competitive edge only through investments in labour-saving production, 
+harvesting and processing technologies. 
+14 Waste was estimated to be 28 percent of the total cassava production in Africa from 1994 to 1998 (FAO 1999). 
+15 The countries are: Angola, the Central African Repub lic, the Congo, the People's Republic of Congo, Ghana, 
+Mozambique and Nigeria. 
+16 The countries arc: the Republic of Benin, Cameroon, Cô te d'lvoire, Guinea, Liberia,  Madagascar, Sierra Leone, 
+Tanzania, Togo, Uganda and Zambia. 
+5.2 INCOME OF ELASTICITY OF DEMAND17 
+The income elasticity of demand estimates for cassava products were found to be positive 
+at all income levels. For some cassava pr oducts, the income elasticity of demand was 
+above one (Table 5). For example, in Nigeria, it was surprising to discover that the 
+income elasticity of demand for gari was significantly higher than that of maize at all 
+income levels. Among high-income urban households, the income elasticity of demand 
+for gari was also higher than that of rice. In Ghana, the income elasticity of demand for 
+cassava (all products combined) was higher among urban than rural households. These 
+estimates provide convincing evidence that cassava has a strong market demand in the 
+COSCA study countries. 
+17 The income elasticity of demand provides an insight into  the level of market demand for a commodity. The income 
+elasticity of demand measures the percent of change in  the quantity of a commodity purchased (consumed) by 
+consumers in response to one percent ch ange in their incomes. A negative inco me elasticity of demand means that the 
+quantity of the commodity purchased by consumers will dec line with rising incomes. A zero percent income elasticity 
+of demand means that the amount of the commodity dema nded will be unchanged with rising incomes. An income 
+elasticity of demand between zero and one percent implies th at a one percent increase in incomes will cause consumers 
+to increase the amount of the commodity  they are willing to purchase although by less than one percent. Finally, an 
+income elasticity of demand of more than one percent im plies that market demand is very high for the commodity. 
+Scholars and policy-makers who dismiss ca ssava as an inferior good assume that  the income elasticity of demand for 
+cassava is negative or zero. 
+
+Table 5. Income elasticity of demand for cassava and other food staples for rural households in Nigeria, Tanzania and 
+Uganda; rural and urban households in Ghana 
+Staple Nigeria' Tanzania * Uganda l Ghana 2 
+  
+All 
+Sample 
+Household
+s 
+Low 
+Income 
+Househol
+ds 
+High Income 
+Households 
+All Sample 
+Households 
+Low Income 
+Households 
+High Income 
+Households 
+All Sample 
+Households 
+Low Income 
+Households 
+High Income 
+Households 
+Rural 
+Households
+Urban 
+Households
+                        
+All cassava 0.78 0.84 0.76 0.77 0.80 0. 66 1.00 1.00 1.00 0.73 1.46 
+Fresh roots 1.24 1.28 1.21 0. 79 0.79 0.67 0.95 0.96 0.94 - - 
+Gari 0.85 0.85 0.77 - - -   - - -   
+Dried roots 0.55 0.57 0.53 0.75 0.80 0.66 1.17 1.15 1.13 -   
+Maize 0.71 0.74 0.65 0.98 0.98 0. 97 0.91 0.85 0.91 0.84 0.83 
+Rice 1.12 1.13 1.13 1.14 1.25 1. 11 1.36 1.59 1.25 1.00 1.50 
+Pulses 1.02 1.01 1.02 1.06 1.05 1.07 0.78 0.84 0.69 - - 
+Banana 2.06 1.97 1.69 0.94 0.93 0. 95 1.22 1.38 1.16 0.13 1.10 
+Yam 0.91 0.90 0.92   -   -   - -   
+Sweet potato - - - 0.97 0.97 0.74 0.79 0.64 - - - 
+1. COSCA study, Ezemenari et al. 1998 and Nweke et al. 2001 
+2.Alderman 1990 
+The conclusion that emerges from the new data presented is that in Africa, cassava is not 
+an inferior food. Rather, in certain forms,  cassava is superior to some grains. Gari has 
+substantial market demand among low-, medium- and high-income rural and urban 
+households. The degree to which the future market demand for cassava for food 
+consumption can be expanded however, would depend largely on the extent to which the 
+quality and variety of cassava food products can be improved to make them attractive to a 
+range of consumers in rural and urban centres. 
+The measures needed to reduce the cost of making cassava available to consumers in 
+convenient food forms include: 
+• development and diffusion of labour-saving technologies for cassava field tasks, 
+especially for the harvesting task; 
+• development and diffusion of labour-savi ng methods for cassava processing tasks 
+for which such methods have not been de veloped, particularly the peeling task; 
+and 
+• diffusion of existing cassava processi ng technologies in areas where such 
+technologies are not available. 
+6 NEW USES FOR CASSAVA 
+6.1 EXPANDING THE USE OF CASSAVA IN LIVESTOCK FEED 
+In Africa, cassava is not widely used in the livestock feed industry. For example, in 
+Nigeria in the late 1990s, only 1.5 million t onnes of cassava (5 percent of total 
+production) per year was used in the livesto ck industry compared with 9.8 million tonnes 
+(50 percent of total production) per year in Brazil (FAOSTAT). In Nigeria, the amount of 
+cassava used in the livestock industry increased from 0.56 million tonnes per year in the 
+mid 1980s after the Government banned the importation of maize in 1985/86 and feed 
+mills were forced to use local raw materials such as cassava. After the import restrictions 
+on maize and other crops were removed in 1995, there was no incentive for feed millers 
+to reduce the quantity of cassava they were using because cassava is cheaper than maize 
+and farmers were getting higher yields from TMS varieties. 
+In Nigeria, the 5 percent of total cassava pr oduction that is used as feed is significantly 
+lower than in Brazil (50 percent) because in  Nigeria, cattle, sheep and goats are free 
+grazed and pigs rummage on household wast e. Also the poultry industry only has 125 
+million birds in Nigeria as compared with 867 million in Brazil in 1998 (FAOSTAT)
+18. 
+Due to the pessimistic outlook for a major increase in cassava fed to livestock in Nigeria, 
+the logical step is to examine the global outlook for Nigerian cassava exports for 
+livestock feed. The key country to examin e is Thailand because it has dominated the 
+export of cassava pellets for livestock feed for more than three decades. 
+Beginning in the 1960s, the Government of Th ailand encouraged private firms to set up 
+private pellet factories and produce cassava pellets for export to the EU (European 
+Union). Exports increased from 100 000 tonnes in 1966 to a peak of nine million tonnes 
+in 1989. However, due to competition with U.S. grain exports to the EU market, the price 
+of cassava pellets has declined, making it unattractive for Thailand to produce cassava for 
+export. Due to low prices, Thailand did not  meet its export quota from 1994 to 1998. In 
+fact, Thai pellet exports declined from 9 million tonnes in 1989 to 3 million tonnes in 
+1998 (Ratanawaraha et al., 1999, p. 18). 
+The EU has allocated a quota of 145 000 tonnes of dried roots per year to the World 
+Trade Organization (WTO) members excludi ng China, Indonesia and Thailand. This 
+quota has never been reached. In Ghana, some entrepreneurs sought to exploit the 
+opportunity offered by the WTO quota (Graffh am and Westby, 1999). Exports of dried 
+roots from Ghana increased from about 1 000 tonnes in 1995 to over 51 000 tonnes in 
+1996 (FAOSTAT). In 1997, world cassava prices fell from US$150 to US$100 per tonne. 
+In Ghana in the same year, the price of the dried roots for food stood at US$0.13 per kg 
+when the exporters were willing to pay only US$0.04 per kg to producers (Graffham and 
+Westby, 1999). Consequently, the exports of dr ied roots from Ghana declined to 36 000 
+tonnes in 1997; 7 000 tonnes in 1998; and less than 5 000 tonnes in 1997 (FAOSTAT). 
+The implication of all this is that faced w ith depressed world prices of cassava, African 
+cassava producing countries should concentr ate on expanding the use of cassava in 
+livestock feed at home rather than trying to break into the EU market at this time. 
+What can be done to increase the use of cassava in livestock feed in Africa? In Nigeria, a 
+poultry feed trial has shown that  if cassava roots and leaves were combined in a ratio of 
+four to one, the mixture could replace maize in  poultry feed and reduce feed cost without 
+a loss in weight gain or egg production (T ewe and Bokanga, 2001). If this important 
+research finding is diffused and adopted by farmers and livestock feed producers, the 
+amount of cassava used in livestock feed in  Africa would increase. At present, cassava 
+leaves have no market value except in countries such as the Congo and Tanzania where 
+the leaves are consumed as a vegetable19. 
+18 In 1996 to 1998, there were 19.3 million cattle and 4.5 milli on pigs in Nigeria compared with 156 million cattle and 
+28 million pigs in Brazil (FAO, 2000). In Nigeria, nomadic herd ers move their cattle to wherever grass is available and 
+tsetse is not a problem. The nomads neith er respect boundaries nor do they pay for grazing rights. Frequently, they are 
+halted by crop farmers, including cassava farmers, when cattle graze on fields with crops. 
+19 Cassava leaves are returned to the soil as organic ma tter. The cassava leaves are a good source of protein and 
+vitamins and they are safe for human and animal consumption. 
+6.2 EXPANDING THE USE OF CASSAVA IN FOOD MANUFACTURING 
+Technologies exist for the use of cassava as a partial substitute for wheat in bread-making 
+and biscuits, pastries and snack foods ma nufacture (Satin, 1988, Eggleston and Omoaka, 
+1994, Defloor, 1995 and Onabolu et al., 1998). In Africa, the amount of cassava used for 
+food manufacture by the food industries is insigni ficant. For example, in Nigeria in the 
+late 1990s, an insignificant 3 tonnes of cassa va was used per year for food manufacture 
+compared with maize, 133 000 tonnes (FAOSTAT). Use of cassava as a partial substitute 
+for wheat in food manufacture will increase if the practice can result in a reduction in the 
+prices of the manufactured composite cassa va and wheat flour food products compared 
+with the prices of the same products made with 100 percent wheat flour. 
+In Africa, due to an array of reasons, the composite cassava and wheat flour food 
+products are not cheaper than the 100 percen t wheat flour food products. For example, a 
+partial substitution of cassava for wheat in bread flour requires expensive supplementary 
+viscosity enhancers such as eggs, milk and gum s to compensate for the lack of gluten in 
+cassava (Eggleston and Omoaka, 1994, Defloor, 1995 and Onabolu et al., 1998). 
+Using cassava flour for bread-making and for the manufacture of biscuits, pastries and 
+snack foods requires a reliable supply of cassa va flour with constant quality (Delfoor, 
+1995). In Africa, cassava flour available on the market varies widely in quality because of 
+the wide range of traditional methods of prep aration used. Cassava flour of standard high 
+quality will be more expensive and will increase the cost of the food products. 
+Other important factors such as the cassava  variety, age of the cassava root and the 
+cassava growing environment also influen ce the quality of the food products in which 
+cassava flour substitutes partially for wh eat flour (Eggleston and Omoaka, 1994 and 
+Defloor, 1995). Measures to standardize cassava  varieties, age of cassava roots and the 
+cassava growing environments will further increase the costs of the food products in 
+which the cassava flour is used to substitute partially for wheat flour. 
+In Nigeria, the technologies for the use of cassava as a partial substitute for wheat flour in 
+food manufacture that were developed at IITA and other research centres were adopted 
+by food industries when wheat flour was made  scarce by the wheat import ban in the mid 
+1980s. When the wheat import ban was rem oved in the mid-1990s, however, the food 
+industries readily reverted to the use of  100 percent wheat flour in food manufacture 
+(Bokanga and Tewe, 1998). 
+In Africa, the increase in the use of cassa va in food manufacturing industries does not 
+depend on technologies for partial substitution of  cassava flour for wheat flour in bread, 
+cookies and pastries, etc., but the increase in the use of cassava in food manufacturing 
+industries requires the development of t echnologies for industrial manufacture and 
+packaging of traditional African cassava food products, which have a snack value such as 
+gari, attieke and chickwangue. 
+It was explained earlier that in Africa, past attempts to manufacture gari and 
+chickwangue industrially failed because they we re unprofitable. In Brazil, however, 
+recent development in the use of cassava in food industries shows that sustained 
+investment in research and development can  make industrial manufacture of 100 percent 
+cassava starch traditional food product profitabl e. For example, the main cassava-based 
+fast food in Brazil is pao de queijo, a type of bread made with sour cassava starch, which 
+has been fermented and dried (Vilpoux, Olivier and Marco Tulio Ospina, 1999). 
+In Brazil, the preparation of pao de queijo by traditional methods has similar problems as 
+the preparation of gari, attieke and chickwangue in Africa. For example, in Minas Gerais, 
+one of the traditional pao de queijo  production states in Brazil, almost every family has 
+its own recipe. Sour starch gives pao de queijo a very acid taste, which is appreciated in 
+the Minas Gerais state. In other states however, where consumption is more recent, 
+people prefer pao de queijo  with a mild taste. Sour starch is important in pao de queijo  
+preparation because of its expansion charact eristics, which result from the combined 
+action of fermentation and sun-drying. Industrial manufacture of pao de queijo  needs a 
+standard product with consistent quality. Th ese criteria are difficult to maintain in pao de 
+queijo because of the low and unstable quality of sour starch. Making sour starch is 
+labour-intensive. The sour starch industry is  competitive with a large number of small 
+producers. The small capacity limits the po ssibility to access modern technologies and 
+market information (Vilpoux, Olivier and Marco Tulio Ospina, 1999). 
+Through sustained investment in research and development, pao de queijo  was 
+transformed from a small-scale home-made product to a large-scale factory-manufactured 
+product by first replacing fermentation and sun-drying with a chemical process in making 
+the sour starch. Later, the sour starch was replaced with other types of cassava starch 
+which are acceptable to consumers. Sin ce the early 1990s, the preparation of pao de 
+queijo by small-scale manufacturers in the traditional production states such as Minas 
+Gerais has been declining while larger more modern companies are expanding in other 
+states. The entrance of large companies cha nged most of the industry. The operators of 
+the large companies have better education, better access to new technologies and market 
+information. 
+In Brazil, the research and development in the improvement of pao de queijo  were 
+carried out mostly by the private sector. The expansion in the consumption of the pao de 
+queijo was facilitated by political support. For example, the consumption was endorsed 
+by the former President of Brazil, Itamar Franco. He required that pao de queijo  be 
+present at all official meetings. Sin ce the mid-1990s, Brazilian consumption of pao de 
+queijo has increased greatly, changing from a regional to a nationwide fast food. It is also 
+possible to find pao de queijo  in other South American count ries such as Argentina and 
+Peru (Vilpoux, Olivier and Marco Tulio Ospina, 1999). 
+To summarize, there are technologies for use of  cassava as a partial substitute for wheat 
+in food manufacture. In Africa, cassava is  not used for food manufacture because food 
+products made with 100 percent wheat flour are cheaper and preferred by consumers. 
+Sustained investment in research and deve lopment on industrial manufacture of African 
+cassava food products such as gari, attieke  and chickwangue which have snack values 
+can lead to the increased use of cassava in food manufacturing industries. 
+6.3 CASSAVA AS AN INDUSTRIAL RAW  MATERIAL: A NIGERIAN CASE 
+STUDY 
+In Nigeria in the early 1990s, only about 700 tonnes of cassava starch was produced per 
+year because Nigerian cassava starch is considered to be of low quality by Nigerian 
+industries and none is exported. In the mi d-1990s, cassava starch only accounted for 5 
+percent of the 17 000 tonnes of starch used each year as industrial raw material in Nigeria 
+(RMRDC, 1996). The bulk of the starch used as industrial raw material during the mid-
+1990s was imported corn starch which represen ted 80 percent of the total. The remaining 
+15 percent was an unspecified type of starc h. The quantity of industrial starch used in 
+Nigeria in the late 1990s was low. Even if mo st of it was made from cassava, the impact 
+on the total demand for cassava would be small. 
+The scope for increasing the use of cassava st arch in Nigeria's industries is to a large 
+extent, limited by the ready availability of high quality imported corn starch and Nigeria's 
+meagre research and development investment in preparing cassava starch for industrial 
+uses. Nigerian private investors do not have the incentive to invest in cassava research 
+and development because of the lack of pate nt protection. Also, Nigeria's industries that 
+use starch as a raw material have access to cheaper and higher quality starch from 
+imported sources. 
+Table 6 illustrates the potential industrial uses  for cassava and research priorities for 
+developing cassava starch and dried cassava roots as industrial raw materials in six 
+different industries in Nigeria: textile, petroleum drilling, pharmaceutical, soft drink, beer 
+malt and ethanol/alcohol industries. The potential is high in three industries. 
+Table 6. Nigeria: Industrial potential for cassava and research and development 
+priorities 
+Industry Cassava-based Raw 
+Material 
+Potential for 
+Increasing 
+Cassava 
+Utilization 
+Required research and development 
+activity 
+Textile Cassava starch in direct 
+form 
+Medium Improve the quality of cassava starch by 
+improving the method of drying cassava 
+roots 
+Petroleum 
+drilling 
+Cassava starch in direct 
+form 
+Medium Make cassava starch gelatinize in cold 
+water 
+Pharmaceutical Cassava starch 
+hydrolysates including 
+glucose, maltose, sucrose, 
+fructose and syrup 
+Medium Set up industries to make glucose, maltose, 
+sucrose, fructose and syrup from cassava 
+starch 
+Soft drinks Syrup concentrate High Pr epare syrup concentrate from cassava 
+starch and test it for suitability for making 
+soft drinks 
+Beer Dried cassava roots High Develop a method of making beer malt 
+using dried cassava roots 
+Ethanol Dried cassava roots High Set up cassava-based small-scale alcohol 
+units; and carry out feasibility study of 
+producing ethanol from cassava in Nigeria 
+and ethanol from cassava in Ghana. 
+Source: Nweke et al 2001 
+The first is syrup concentrate for the soft drink industry. In Nige ria, the soft drink 
+industry is dominated by Coca Cola which im ports the syrup concentrates and keeps 
+them as a trade secret. Syrup concentrate has been successfully made from cassava starch 
+by IITA post-harvest technologists. A pilot project is needed to determine its 
+acceptability and potential profitability in making soft drinks. 
+The second potential use of cassava is in th e beer industry. Beer has been brewed in 
+Nigeria with imported barley malt for many decades. However, in 1985/86, Nigeria 
+banned grain imports and the brewery industr y began to produce beer malt with sorghum 
+produced in northern Nigeria. The initial c oncern that sorghum beer would not be 
+acceptable to consumers proved to be without basis as beer consumption did not decline 
+after sorghum malt was used to replace barley malt. The Nigerian beer industry currently 
+uses about 200 000 tonnes of sorghum each y ear to make beer malt (RMRDC, 1996). No 
+attempt has yet been made to prepare beer malt from dried cassava roots produced in 
+southern Nigeria where most of the beer i ndustries are based. However, biochemists at 
+the National Root Crops Research Institute (NRCRI) believe that given the right enzyme, 
+it is possible to prepare beer malt from drie d cassava roots. The manager of the Golden 
+Guinea Brewery, Umuahia believes that c onsumers would accept cassava malt beer 
+judging from their ready acceptance of sor ghum beer in the mid 1980s. However, the 
+manager reported that Golden Guinea would be reluctant to invest in research on making 
+beer malt from cassava roots because patent la w is not enforced in Nigeria. Research is 
+needed to develop the technology for making beer malt from dried cassava roots. 
+The third potential for cassava as an industria l raw material is a cassava-based alcohol 
+industry. Currently, Nigeria imports about 90 million litres of alcohol annually with about 
+80 million litres being used by the liquor industry. If the 80 million litres were produced 
+from cassava, it would require 500 000 tonne s of dried cassava roots which would 
+increase the demand for cassava, raise farm in come, generate on-farm and off-farm jobs 
+and save foreign exchange. However, a cassava-based ethanol industry should be of more 
+help to other cassava producing countries that import petroleum because Nigeria is 
+subsidizing the retail price of gasoline. A feasibility study should be carried out to 
+determine the economics of a cassava-based alcohol industry in Nigeria and a cassava-
+based ethanol industry in other African cassava producing countries that import 
+petroleum. 
+7 IMPLICATIONS OF THE CASSAVA TRANSFORMATION FOR 
+ENVIRONMENT, GENDER, POVERTY ALLEVIATION AND 
+EQUITY 
+7.1 ENVIRONMENT 
+Historically, many scholars have asserted that  cassava depletes the soil. For example, 
+Hendershott, et al.,  reported that cassava is well known not only for producing large 
+quantities of carbohydrate, but also for exhausting the soil (1972, p.60). Similar 
+assertions have been made by Davesne (1950), Irvine (1953) and Grace (1977). Soil 
+fertility is a subject of major importance in  a discussion of expanding food production in 
+Africa (IITA, 1998). Human-induced land degrad ation is severe in Africa. Numerous 
+researchers claim that a lack of replenishment of nutrients is leading to rapid deterioration 
+in soil fertility. Fertilizer use is low because of  high transport costs, late delivery and the 
+risks associated with food production in marginal areas (Pinstrup-Anderson et al., 2000). 
+To test the hypothesis that cassava depletes  the soil, COSCA researchers collected soil 
+samples from 1 501 fields planted with st aple crops in 281 villages in the cassava 
+growing areas of the Congo, Côte  d'lvoire, Ghana, Nigeria, Tanzania and Uganda. The 
+soil samples collected over the 1991 to 1992 peri od revealed that the amount of clay, silt 
+and sand did not differ between cassava fields and the levels found in the fields of other 
+crops20. In fact, soils of cassava fields were higher in total N, organic matter, Ca, Na, 
+TEB, ECEC and pH21. 
+A twenty-year cassava yield-experiment c onducted by S. K. Hahn at IITA's high rainfall 
+station at Ibadan in the transition zone from the early 1970s until the early 1990s found 
+that the yield dropped significantly from an average of 40 tonnes per ha during the first 
+four years and then stabilized at around 20 tonne s per ha from the fifth to the twentieth 
+year. Cassava was grown every other year in a two-year rotation without chemical 
+fertilizer. Hahn concluded that cassava produ ces a large amount of foliage which is 
+recycled as manure to the soil. Hahn's la ndmark twenty-year study shows that cassava 
+yields are sustainable under continuous cu ltivation. The COSCA soil survey and Hahn's 
+twenty-year yield experiment provide evidence that the assertion that cassava depletes the 
+soil is a half-truth. 
+The myth of cassava being a soil depleting crop may be attributed to the fact that cassava 
+is widely grown in the forest zone wher e high rainfall and sandy soil accelerate organic 
+matter decomposition, leaching and soil erosion at a faster rate than in the transition and 
+the savannah zones22. For example, an eight-year experime nt in the forest zone of Ghana 
+revealed that cassava yields declined unde r a continuous rotation of cassava and maize 
+with fertilizer. In the transition zone, a sim ilar experiment was carried out without the 
+application of fertilizer and cassava yields declin ed but at a slower rate than in the forest 
+zone (Nye and Greenland, 1960 cited in Odurukwe and Oji, 1981). 
+The myth of cassava as a soil degrader has b een used to downgrade cassava's role as an 
+environmentally friendly crop. Cassava cultiv ation entails minimal soil disturbance 
+especially in light soils which are suscep tible to wind or water erosion. Cassava is 
+normally grown on flat land in sandy soils and on ridges and mounds on heavy lateritic 
+soils (Hahn, 1984). The plant provides soil cover so long as it grows; as a semi-perennial 
+it does not shed all its leaves with senescence.  As a semi-perennial, cassava plants serve 
+as a planted fallow. Although there are pl aces, especially high population density and 
+market centre areas, where cassava is harveste d from six to 12 months after planting, the 
+normal time of harvest is 12 months or more. The cassava plant protects the soil by 
+providing cover and recycles nutrients by shedding old leaves as it grows. 
+To summarize, in Africa, increased production of cassava will not lead to environmental 
+degradation because contrary to conventiona l wisdom, cassava does not deplete the soil 
+more than any other crop. Cassava is often grown on flat seedbed with minimum tillage. 
+It produces a large amount of foliage which is recycled as soil nutrient. As a semi-
+perennial crop, cassava provides year-round soil cover. 
+20 The physical soil properties assessed are clay, silt and sand c ontent. The chemical properties are total nitrogen (Total 
+N), organic matter (OM), available phosphorous (Available P), calcium (Ca), magnesium (Mg), potassium (K), sodium 
+(Na) and manganese (Mn) contents; total exchangeable bases (TEB), total exchangeable acidity (TEA), effective cation 
+exchange capacity (ECEC), base saturation and soil pH. For more details see Asadu and Nweke, 1999. 
+21 Several of the fields have been under continuous cultivation of cassava for a minimum of a decade. 
+7.2 GENDER 
+Cassava has been described as a women' s crop by some scholars (Ikpi, 1989 and 1989a 
+and Okorji, 1983). For example, Okorji (1983) found in the Abakaliki area of southeast 
+Nigeria that women owned more cassava fields  than men and concluded that cassava is a 
+women's crop. COSCA researchers collected da ta from six countries and found that the 
+categorization of cassava as a women's crop is  a misleading half-truth that is based on 
+anecdotal evidence and isolated village studies. 
+The COSCA studies show that the proporti on of the household cassava field area 
+(hereafter field) owned by women ranged from  4 percent in the Congo to 24 percent in 
+Côte d'lvoire23. By contrast, the proportion of cassava fields owned by men ranged from 
+15 percent in Côte d'lvoire to 72 percent in  Uganda and 81 percent in Nigeria. Joint 
+ownership by both men and women account for the balance of the percentages in each 
+country. 
+There is an important exception in tree crop-dominated rural economies. Among the six 
+COSCA countries, women in Côte d'lvoire  owned a higher proportion of the cassava 
+fields than men. In Côte d'lvoire and in most other tree crop dominant-farming systems, 
+the men concentrate on producing tree crops su ch as cocoa and coffee. Hence, although 
+there are specific locations in certain countri es where women owned more cassava fields 
+than men (Okorji, 1983 and Ezumah and Domenico, 1995), these locations are exceptions 
+and not the norm. 
+The COSCA studies found that both men and women make significant contributions of 
+their labour to the cassava industry in most  of the COSCA countries. However, men and 
+women were found to specialize in different  tasks. Men worked predominantly on land 
+clearing, ploughing and planting while wome n specialized in weeding, harvesting, 
+transporting and processing (Figure 3). 
+22 Unpublished data from S. K. Hahn, IITA, lbadan. 
+23 The agro-ecological zones of these countries include hum id forest (hereafter the forest) zone, forest-savannah 
+transition (hereafter the transition zone) zone and the moist savannah (hereafter th e savannah) zone. The forest zone is 
+characterized by 9–12 months of growing season, more than 22°C daily mean temperature and less than 10°C 
+temperature range. The transition zone is  characterized by five to seven mont hs of growing season, above 22°C daily 
+mean temperature and above 10°C temperature range. The savanna h zone is characterized by three or four months of 
+growing season, above 22°C daily mean temperature and above 10°C temperature range (Carter and Jones, 1989). 
+Figure 3. Percentage of cassava fields in which men, women, or men and women 
+together, provided the bulk of labour for different tasks, average for six COSCA 
+study countries 
+ 
+Women were found to contribute less than half  of the total labour inputs in the cassava 
+system in five of the six COSCA study countries (Nweke et al., 2001). The exception was 
+the Congo. Therefore, it is a vast overstatement to categorize cassava as a woman's crop. 
+In fact, both men and women play strate gic but changing roles during the cassava 
+transformation process. As cassava becomes a cash crop produced primarily for urban 
+centres, men increase their labour contributi on to each of the production and processing 
+tasks. For example, the proportion of the ca ssava weeding carried out by men was higher 
+in Nigeria than in Tanzania because in Ni geria, cassava is produced as a cash crop for 
+urban consumption and in Tanzania, it is a famine-reserve crop (Nweke et al., 2001). 
+The COSCA studies found that the introduction of labour-saving technologies in cassava 
+production and processing has led to a redefi nition of gender roles in the cassava food 
+system. In Nigeria, on farms where land clearing or ploughing was mechanized, men 
+increased their labour inputs in planting, weeding and harvesting. In Nigeria, as the 
+processing tasks became mechanized, the c ontribution of male labour to cassava 
+processing increased because men operated all of the processing machines. When 
+processing became mechanized, women shifted their labour to production tasks such as 
+weeding and men managed the mechanized processing tasks. 
+The last two observations of the COSCA study challenge the validity of the claim that 
+women's workload increases relative to me n's as commercialization of agriculture 
+proceeds. 
+The COSCA studies also found that women who wanted to plant cassava were not 
+constrained by the lack of access to new cassa va production technologies or to essential 
+production inputs such as farmland, planting cuttings of the TMS varieties and hired 
+labour. Both men and women were able to pl ant cassava on land that they had inherited, 
+purchased or rented. Finally, although most of the cassava processing machines were 
+owned by men in most of the COSCA count ries, both men and women had access to the 
+machines by paying a fee to the machine owners. 
+The COSCA studies show that the assertion th at cassava is a women's crop in Africa is 
+not valid because men are more important in terms of the ownership of cassava fields. 
+The myth is also rejected because in term s of work in cassava fields, women do not 
+produce more cassava than men in most of the COSCA studied households. 
+What are the policy implications that flow from these observations? Although there are 
+persistent calls by donor agencies and gender experts on African policy-makers to hire 
+more female agricultural extension workers in cassava growing areas, COSCA research 
+shows that both men and women play signifi cant and changing roles in the cassava food 
+system in Africa. 
+Country specific studies are needed to determ ine appropriate policy measures for use of 
+cassava to improve the welfare of men and wo men in Africa. For example, in Ghana and 
+Nigeria where cassava is produced as a cash crop, more men are staying in the villages 
+and working in cassava production and gari processing. Similarly, in the Congo, men are 
+also staying in tree crop-producing v illages and working on cassava for home 
+consumption because they earn higher cas h income from tree crops than from 
+employment in urban areas. Outside the tr ee crop areas, young men migrate out of the 
+Congolese villages to escape rural poverty. Wome n are therefore left to produce food for 
+their families under conditions of extreme rural poverty. 
+The solution to poverty and low returns to both men and women engaged in cassava 
+production and processing is to take a holistic  approach and introduce improved varieties 
+and processing technologies to improve the economic returns of cassava production and 
+processing and drive down the real (inflation adjusted) price of cassava in rural and urban 
+markets. 
+7.3 POVERTY ALLEVIATION AND EQUITY 
+Historically, cassava has been a subsistence crop when 90 to 95 percent of the people in 
+Africa were in farming. Today, although only half  to two-thirds of the people of Africa 
+live in rural areas, there is still a myth that ca ssava is primarily a subsistence crop that is 
+grown for home consumption by farmers a nd rural net food buyers. The increasing 
+urbanization and consumer demand for convenient food products in Africa has stimulated 
+the urban demand for cassava products such as gari and attieke. To meet the expansion in 
+demand, cassava has emerged in many countries  as an important cash crop for farmers 
+and as an urban food staple. 
+The percentages of cassava fields planted for sale in the six COSCA countries were as 
+follows: the Congo, 59; Côte d'lvoire, 51; Gh ana, 57; Nigeria, 45; Tanzania, 32; and 
+Uganda, 25. In the Congo, the proportion of cassa va planted for sale was higher than for 
+any other crop (Tollens, 1992). In Nigeria, the Congo and elsewhere, there are small-
+scale farms that produce 5–10 ha of cassava entirely for sale (Berry, 1993). 
+Table 7 shows that cassava is an important  source of farm income in the COSCA study 
+countries, but particularly in Ghana and Nigeria. In both Ghana and Nigeria, cassava cash 
+incomes were the highest among farms with  access to mechanized cassava processing 
+equipment for the preparation of gari. The contribution of cassava to farm incomes was 
+found to be low in Tanzania and Uganda because the majority of farmers in both 
+countries lacked access to improved cassava processing equipment. In the COSCA study 
+countries, cash income from cassava accrued to  more households than cash income from 
+any other food crop, confirming the relatively eg alitarian spread of benefits from the 
+production of cassava (Table 8). 
+The COSCA data from 281 villages in th e six most important cassava producing 
+countries in Africa dismiss the myth that cassava is a subsistence crop produced by and 
+for rural households. Cassava is increasingly being transformed into a cash crop that is 
+produced and marketed as an urban food st aple in many countries in Africa. This 
+discussion illustrates the need for measures to increase the productivity of the cassava 
+food system in order to raise the income of  farmers and those involved in processing and 
+marketing and reduce the real cost of cassava for consumers over time. 
+8 CHALLENGES AND STRATEGIES FOR DEVELOPMENT 
+Increasing the productivity of the cassava food system can help both the rural and urban 
+poor by driving down real (inflation-adjusted) cassava prices over time. However, since 
+Africa's independence in the 1960s, cassava has been neglected by African policy-makers 
+and international donor and development ag encies because cassava is erroneously 
+considered an inferior food, the consumption of which will decline if incomes increase in 
+Africa. It is now time to focus sustained African and donor attention on the entire cassava 
+production and utilization system and develop action plans to accelerate the cassava 
+transformation. The solution to poverty and lo w returns to the men and women engaged 
+in cassava production and processing is to c oncentrate on introducing improved varieties, 
+agronomic practices, labour-saving harvesti ng and processing technologies and finding 
+new industrial uses for cassava. There is a n eed to remove subsidies on imported rice and 
+wheat in order to provide a level playing field for cassava in the food system. 
+Table 7. Percentage distribution of cash income of cassava producing households by 
+source in Côte d'lvoire, Ghana, Nigeria, Tanzania and Uganda, 1992 
+Source Côte d'lvoire Ghana Nigeria Tanzania Uganda 
+Cash Income Per capita (US$) 114 108 177 51 48 
+  Percentage 
+Food crops 15 55 55 16 28 
+Cassava 5 13 12 4 6 
+Maize 2 13 8 3 8 
+Source Côte d'lvoire Ghana Nigeria Tanzania Uganda 
+Rice 5 3 6 2 2 
+Yam 1 5 8 0 0 
+Cooking banana 0 0 0 3 2 
+Plantain 2 4 1 0 1 
+Sweet potato 0 0 1 0 2 
+Other food crops 0 17 19 4 7 
+Other crops* 76 21 20 25 11 
+Livestock 3 3 7 4 7 
+Non-farm 6 21 18 55 54 
+Total 100 100 100 100 100 
+US$ 1 = 266 CFA; 430 Cedi; 17 Naira; 285 Tsh.; 1 118 Ush 
+* Other crops means industrial crops such as cotton, etc. and tree crops such as cocoa, coffee, oil palm, etc. 
+Source: COSCA study 
+Table 8. Percentage of COSCA study households which earned cash income from 
+food crops in the Côte d'lvoire, Ghana, Nigeria, Tanzania and Uganda 
+Crop Côte d'lvoire Ghana Nigeria Tanzania Uganda 
+  Percentage 
+Cassava 39 73 40 22 42 
+Maize 27 63 35 16 31 
+Rice 13 11 17 1 0 
+Yam 13 43 24 0 4 
+Cooking banana 1 3 0 9 13 
+Plantain 26 33 15 0 0 
+Sweet potato 1 1 7 6 18 
+Source: COSCA study 
+Without question, increased cassava production is a powerful but incomplete engine of 
+rural economic growth. The fuel that drives the cassava transformation is the introduction 
+of biological and mechanical technologies coupled with institutional innovations and 
+balanced food policies. The introduction of new technology creates new bottlenecks 
+which have to be broken by further innova tions and changes in policies. Several 
+examples illustrate this substitution process at  work. The spread of the TMS varieties in 
+Nigeria has shifted the labour constraint from the production to the harvesting task. The 
+biological control of the mealybug shifted the control programme to the green spider mite 
+and to the Ugandan variant of the mosaic  disease. Likewise, the substitution of 
+mechanized for hand grating has shifted the labour constraint to peeling. The lack of 
+knowledge of the gari preparation technology has restricted its use in the Congo, 
+Tanzania and Uganda. Finally, the lack of  the knowledge of how to prepare cassava 
+leaves has prevented consumers in Côte d'lvoire, Ghana, Nigeria and Uganda from taking 
+advantage of the nutritional value of the cassava leaves in their diets. 
+The TMS story illustrates the substitution pr ocess at play. The TMS varieties have 
+boosted yield by 40 percent without fertilizer application. Cassava producers in Nigeria 
+are demanding mechanized harvesting t echnology to reduce the harvesting labour 
+bottleneck created by the high yield of the TM S varieties. The TMS varieties attain a 
+maximum yield in 15 months after planting but commercial farmers in Nigeria are 
+demanding varieties that will achieve a maximum yield in 12 months or less in order that 
+they can practice continuous cultivation of cassava. 
+To address the new bottlenecks that emerge with the cassava transformation, research and 
+diffusion should be broadened beyond plant breeding and plant protection to include the 
+following: 
+• the development and diffusion of labou r-saving technologies for harvesting 
+cassava; 
+• the development and diffusion of labour-saving methods for peeling cassava; 
+• development of the market pulls for cassava by improving roads; 
+• development of industrial uses for cassava; 
+• the diffusion of labour-saving cassava grating technologies to regions and 
+countries where such technologies do not exist; 
+• the diffusion of gari preparation methods to regions and countries where such 
+methods do not exist; 
+• the diffusion of methods to prepare cassava  leaves in regions and countries where 
+such methods do not exist; 
+• an in-depth study of industrial uses fo r cassava in the major cassava producing 
+countries in Africa. 
+Country specific cassava transformation strategies are needed because the role of cassava 
+varies significantly among African countries  depending on the country's stage in the 
+cassava transformation, cultural factors, agro-ecologies and market opportunities. This 
+variation will determine whether cassava im provement strategies should emphasize one 
+or more of the above-mentioned measures. 
+Table 9 identifies challenges for the six COSC A study countries that are consistent with 
+the cassava sector development in each country. In both Ghana and Nigeria, the 
+development of labour-saving mechanical harv esters and peelers will help make cassava 
+more competitive with food grains in urban markets and with other plant starches that are 
+used in livestock feed and as raw materials in  industries. Also cassava varieties that can 
+attain a maximum yield in less than twelve months will enable commercial farmers to 
+grow cassava under continuous cultivation. To  utilize the expanded production from the 
+TMS varieties and improved agronomic practi ces, both Ghana and Nigeria need to more 
+aggressively pursue new uses for cassava. International donor agencies should finance 
+projects to develop new cassava food products and industrial uses such as preparing dried 
+cassava roots malt for beer brewing, cassava syrup concentrate for soft drinks, small-
+scale cassava-based alcohol/ethanol production and manufacturing and utilizing cassava 
+starch. 
+Table 9. Country specific challenges for cassava sector development 
+Country Policy Challenges 
+Genetic Research, Plant 
+Protection, Agronomic 
+Practices and TMS 
+Diffusion 
+Food Preparation and 
+Processing 
+- Develop varieties that attain 
+a maximum yield in less 
+than 12 months 
+- Develop labour-saving method 
+for toasting gari 
+Nigeria - Research and development 
+support for increasing the 
+use of cassava in industry 
+- Develop labour-saving 
+technology for cassava 
+harvesting 
+- Diffuse the cassava leaves 
+preparation method 
+- Develop varieties that attain 
+maximum yield in less than 
+12 months 
+- Develop labour-saving method 
+for toasting gari 
+- TMS multiplication and 
+diffusion 
+Ghana - Research and development 
+support for increasing the 
+use of cassava in industry 
+- Develop labour-saving 
+technology for cassava 
+harvesting 
+- Diffuse the cassava leaves 
+preparation method 
+- TMS multiplication and 
+diffusion 
+- Diffuse gari preparation 
+methods 
+- - Diffuse mechanized grater 
+technology 
+Uganda - Research and development 
+support for increasing the 
+use of cassava in industry 
+ 
+Develop labour-saving 
+technology for cassava 
+harvesting - Diffuse the cassava leaves 
+preparation method 
+- TMS multiplication and 
+diffusion 
+Côte 
+d'lvoire 
+- Eliminate subsidies on 
+imported rice and wheat 
+- Develop labour-saving 
+technology for cassava 
+harvesting 
+- Develop a grater that is suitable 
+for attieke processing Diffuse 
+the cassava leaves preparation 
+method 
+- Diffuse gari preparation 
+methods 
+Tanzania - Improve road access to 
+urban market centres   
+- Diffuse the mechanized grater 
+technology 
+- Improve civil stability - Diffuse gari preparation 
+method 
+- Road access to urban 
+market centres 
+Congo 
+- Eliminate import subsidies 
+on rice and wheat 
+  - Diffuse the mechanized grater 
+technology 
+Source: Nweke et al. 2001 
+In Uganda, research, government, NGOs and donor agencies are struggling with the 
+devastating cassava mosaic disease by introduc ing the TMS varieties. TMS varieties are 
+reported to be spreading and farmers ar e getting higher yields (World Bank, 2001). 
+Government, NGOs and international donor ag encies in Uganda should continue to 
+address disease control. The diffusion of garb preparation methods and the mechanized 
+grater should be promoted because they can reduce processing costs and expand the 
+urban demand for cassava. NGOs and donor ag encies should support a pilot project on 
+using cassava as a raw material in beer malt, syrup concentrate for soft drinks and ethanol 
+industries as well as development of the ca ssava starch as a raw material for other 
+industries. 
+In Côte d'lvoire, the “market pull” of cassava can be increased by eliminating the 
+subsidies on imported rice and wheat. A grater for making attieke needs to be developed 
+to reduce the cost of a product which has a strong urban demand. In Tanzania, maize is 
+the preferred staple and cassava is a famine-reserve crop. The diffusion of the gari 
+preparation technology and the mechanized grat er can help cassava compete in the urban 
+market. International donor agencies should support pilot activities to find non-food uses 
+for cassava. In the Congo, increasing market pull by improving roads and the removal of 
+subsidies on imported rice and wheat will help  cassava farmers tap new rural and urban 
+markets. 
+The survey of industrial uses for cassava  in Nigeria that was undertaken by COSCA 
+researchers in early 2001 should be supplemented with an in-depth study of industrial 
+uses for cassava in the major cassava producing countries in Africa. 
+REFERENCES 
+Alyanak, Leyla.  1997. A modest grater means safer and quicker cassava in Uganda. 
+News Highlights. News/1997/970508-e.rtf. FAO, Rome. 
+Asadu, C.L.A. & Nweke, Felix, I.  1998. The soils of cassava-growing areas in sub-
+Saharan Africa. COSCA Working Paper N o. 18. Collaborative Study of Cassava in 
+Africa, IITA, Ibadan. 
+Berry, S.S.  1993. Socioeconomic aspects of cassa va cultivation and use in Africa: 
+Implication for the development of a ppropriate technology. COSCA Working Paper 
+No. 8. Collaborative Study of Cassava in Africa, IITA, Ibadan, Nigeria. 
+Blackie, Malcolm, J.  1990. “Maize, Food Self-sufficiency and Policy in East and 
+Southern Africa.” Food Policy 15:383–394, October. 
+Bokanga, M. & Tewe, O.O. 1998. Cassava: A premium raw material for the food, feed 
+and industrial sectors in Africa. Pa ges 54–60 in Post-harvest technology and 
+commodity marketing. Proceedings of a pos t-harvest conference, 2 November to 1 
+December 1995, Accra, Ghana by R.S.B. Ferris (editor). IITA, Ibadan. 
+Boserup, Ester.  1981. Population and  Technological Change: A Study of Long-Term 
+Trends . Chicago: University of Chicago Press. 
+Byerlee, Derek & Eicher, Carl, K. (eds).  1997. Africa's Emerging Maize Revolution. 
+Lynne Rienner, Boulder, London. 
+Carter, S.E. & Jones, P.G.  1989. COSCA site selection procedure. COSCA Working 
+Paper No 2. Collaborative Study of Cassava in Africa, IITA, Ibadan. 
+Dahniya, M.T.  1983. Evaluation of cassava leaf a nd root production in Sierra Leone. 
+Proceedings of the International Society for Tropical Root Crops, Lima. 
+Davesne, A. 1950. Manual d'agriculture (Paris). 
+Delfloor, Isabelle. 1995. Factors governing the bread-mak ing potential of cassava flour 
+in wheatless bread recipes. Ph.D. dissertation, Katholieke University, Leuven. 
+Eggleston, G. & Omoaka, P.  1994. Alternative breads from cassava flour. Pages 243 to 
+248 in Tropical root crops in a devel oping economy by F. Ofori and S.K. Hahn 
+(editors). Proceedings of the Ninth Sym posium of the International Society for 
+Tropical Root Crops, 20–26 October 1991, Accra,  Ghana. International Institute of 
+Tropical Agriculture, Ibadan. 
+Enete, Anselm, Nweke, Felix, I. & Okorjim Eugene, C.  1995. Trends in food crops 
+yields under demographic pressure in sub- Saharan Africa: The case of cassava in 
+southeast Nigeria. Outlook on Agriculture. Volume 24, No. 4. pp. 249–254. 
+Ezemenari, Kene, Nweke, Felix I. & Strauss, John.  1998. Consumption patterns and 
+expenditure elasticity of demand for food st aples in rural Africa: Focus on cassava 
+growing area. Draft COSCA Working Pape r, Collaborative Study of Cassava in 
+Africa. IITA, Ibadan. 
+Ezumah, N.N. & Domenico, C.M.D.  1995. Enhancing the role of women in crop 
+production: A case study of Igbo women in  Nigeria. World Development 23(10): 
+1731–44. 
+Fresco, L.  1986. Cassava in shifting cultivation: a systems approach to agricultural 
+technology development in Africa: Royal Tropical Institute, Amsterdam, the 
+Netherlands. 
+Grace, M.R. 1977. Cassava processing. FAO Plant Pr oduction and Protection Series No. 
+3. Food and Agriculture Organization of the United Nations, Rome. 
+Graffham, Andrew & Westby, Andrew.  1999. Cassava Chips, global opportunities, 
+case study: Ghana. Pages 130–136 in Global cassava market study: Business 
+opportunities for the use of cassava (dTp Studies Inc.). The Global Development 
+Cassava Strategy Validation Forum, 28 April 2000, FAO, Rome. 
+Hahn, S.K.  1984. Tropical root crops: Their impr ovement and utilization. Conference 
+Paper 2. IITA, Ibadan. 
+Hahn, S.K. 1989. An overview of African traditiona l cassava processing and utilization. 
+Outlook on Agriculture 18(3): 110–118. 
+Harrison, B.D., Liu, Y.L., Zhou, X., Robinson, D.J., Calvert, L., Munoz, C. & Otem-
+Nape, G.W.  1997. Properties, differentiation and geographical distribution of 
+geminiviruses that cause cassava mosaic di sease. African Journal of Root and Tuber 
+Crops. Volume 2 (1 and 2). Pages 19–22. In ternational Society for Tropical Root 
+Crops - African Branch (ISTRC-AB). Ibadan, Nigeria. 
+Hendershott, C.H., et al.  (eds.)  1972. A Literature Review and Research 
+Recommendations on Cassava, Manihot esculent a, Crantz, University of Georgia, 
+Athens, Georgia, USA. 
+Herren, H.R., Neuenschwander, P., Hennessey, R.D. & Hammond, W.N.O.  1987. 
+Introduction and dispersal of Epidinocarisi lopezi  (Hym. Encytidae), an exotic 
+parastoid of cassava mealybug, Phenococcus manihoti  (Horn. Pseudococcidae) in 
+Africa. Agriculture, Ecosystems and Environments. Volume. 19. Pp.131–144. 
+IF AD (International Fund for Agricult ural Development) and FAO (Food and 
+Agriculture Organization of the United Nations).  2000. The world cassava 
+economy: Facts and outlook. Rome. 31 pp. 
+IITA (International Institute of Tropical Agriculture).  1998. IITA (International 
+Institute of Tropical Agriculture) Annua l Report and Research Highlights for 1987–
+88. IITA, Ibadan, Nigeria. 161 pages. 
+Ikpi, Anthony  E. 1989. Cassava development in Nigeria. Pages 1–15 in Cassava: 
+Lifeline for the rural households. Edited by Anthony E. Ikpi and Nathalie D. Hahn. 
+UNICEF, Lagos. 
+Ikpi, Anthony E. 1989a. Economic considerations of cassava development. Pages 117 – 
+125 in Cassava: Lifeline for the rural hous eholds. Edited by Anthony E. Ikpi and 
+Nathalie D. Hahn. UNICEF, Lagos. 
+Irvine, F.R. 1953. A text book of West Africa agriculture, soils and crops. London. 
+Jones, W.O.  1959. Manioc in Africa. Food Research Institute, Stanford University, 
+Stanford, USA. 
+Lagemann, J.  1977. Traditional African farming syst ems in Eastern Nigeria. African 
+Studies. 98. Weltforum Verlag. Munchen. 
+Latham, M.C. 1979. Human Nutrition in Tropical Africa, FAO, Rome. 
+Lutaladio, N.B. & Ezumah, H.C.  undated. Cassava leaf harvesting in Zaire (Congo). 
+M'vuazi. 
+McCalla, Alex, F.  1999. Prospects for food security in the twenty-first century: with 
+special emphasis on Africa. Agricultural Economics 20(95–103). 
+Mellor, John, W., Delgado, C. & Blackie, M. eds., 1987. Accelerating Food Production 
+in Sub-Saharan Africa  . Baltimore: Johns Hopkins University Press. Keys: 
+AGRICULTURAL DEVELOPMENT 
+Nweke, Felix, I., Spencer, Dunstan, S. & Lynam, John, K.  2001. The Cassava 
+Transformation: Africa's best kept secret. Michigan State University Press, East 
+Lansing. 
+Nye, P.H. & Greenland, D.J.  1960. The soil under shifting cultivation. Herpenden, 
+England, Commonwealth Bureau of Soils, Tech. Comm. 51. 
+Odurukwe, S.O. & Oji, U.I.  1981. The effects of previous  cropping on yields of yam, 
+cassava and maize. Pages 116–119 in Tropical Root Crops: Research Strategies for 
+the 1980s. Proceedings of the First Triennial Symposium of the International Society 
+for Tropical Root Crops - African Branch (ISTRC-AB), 8–12 September 1980, 
+Ibadan, Nigeria. International Development Research Centre, Ottawa. 
+Okigbo, Bede, N.  1980. Nutritional implications of pr ojects giving high priority to the 
+production of staples of low nutritive qua lity. The case of cassava in the humid 
+tropics of West Africa. Food and Nutrition Bulletin, 2(4). United Nations University, 
+Tokyo. 
+Okigbo, Bede, N.  1984. Improved permanent production systems as alternative to 
+shifting intermittent cultivation. Page 1–100 in Improved production systems as an 
+alternative to shifting cultivation. F AO Soils Bulletin 53. Soils Resources 
+Management and Conservation Service, Land and Water Development Division, 
+Food and Agriculture Organization of the United Nations, Rome, Italy. 
+Okorji, E.C. 1983. Consequences for agricultural productivity of crop stereotyping along 
+sex lines: a case study of four villages in Abakaliki area of Anambra state. M.Sc. 
+thesis, Department of Agricultural Econom ics, University of Nigeria, Nsukka, 
+Nigeria. 
+Onabolu, A., Abass, A. & Bokanga, M.  1998. New food products from cassava. 
+International Institute of Tropical Agriculture, Ibadan, 40 pp. 
+Onwueme, I.C. 1978. The tropical tuber crops. John Wiley and Sons, New York, USA. 
+Otim-Nape, G.W. 1995. Personal communication. 
+Otim-Nape, G.W., Bua, A., Thresh, J.M., Baguma, Y., Ogwal, S., Ssemakula, G.N., 
+Acola, G., Byabakama, B., Colvin, J.B., Cooter, R.J. & Martin, A.  2000. The 
+current pandemic of cassava mosaic virus disease in East Africa and its control. 
+Chatham, UK Natural Resources Institute. 
+Otoo, John & Afuakwa, J.J. 2001. Email message, February 27. 
+Pinstrup-Anderson, Per, Pandya-Lorch, P. & Rosegrant, Mark, W.  1999. World 
+food prospects: Critical issues for the early twenty-first century. 2020 Vision, Food 
+Policy Report, International Food Policy Research Institute, Washington, D. C. 
+Ratanawaraha, C, Senanarong, N. & Suriyapan, P.  1999. Status of cassava in 
+Thailand: Implications for future research and development. The Global Cassava 
+Development Strategy Validation Forum. FAO, Rome. 
+RMRDC (Raw Materials Research  and Development Council).  1996. Update on 
+techno-economic survey of the multi-disc iplinary task force on textile, weaving 
+apparel and leather sector. RMRDC, Abuja. 
+Rossel, H.W., Changa, CM. & Atiri, G.I.  1994. Quantification of resistance to African 
+cassava mosaic virus (ACMV) in IITA improved mosaic-resistant cassava breeding 
+materials. Pages 280–287 in Food crops for food security in Africa, edited by M.O. 
+Akoroda. Proceedings of the Fifth Triennial  Symposium of the International Society 
+of Tropical Root Crops-Africa Br anch (ISTRC-AB). 22–28 November 1992. 
+ISTRC/CTA/IITA. Ibadan, Nigeria. 
+Satin, M. 1988. Bread without wheat. New Scientist. 28 April. Pp. 56–59. 
+Scott, Gregory, J., Rosegrant, Mark W. & Ringler, Claudia.  2000. Roots and tubers 
+for the 21st century: Trends, projections and policy options. Food, Agriculture and 
+Environment Discussion Paper 31, International Food Policy Research Institute 
+(IFPRI), Washington D.C. 
+Spencer and Associates, Dunstan.  1997. Cassava in Africa: Past, present and future. 
+The Global Cassava Development Strategy Validation Forum, FAO, Rome. 
+Tewe, O.O. & Bokanga, M. 2001, Unpublished data. 
+Tollens, E. 1992. Cassava marketing in Zaire - an an alysis of its structure, conduct and 
+performance. Katholieke Universiteit Leuven, Belgium (Mimeograph). 
+Vilpoux, Olivier & Ospina, Marco Tulio.  1999. Cassava foods, global opportunities, 
+case study: Brazil. Pages 12–24 in Globa l cassava market study: Business 
+opportunities for the use of cassava (dTp Studies Inc.). The Global Development 
+Cassava Strategy Validation Forum, 28 April 2000, FAO, Rome. 
+World Bank.  1999. World development re port, 1999/2000. The World Bank, 
+Washington D.C. 
+World Bank.  2000. Women: Key to African development. News Release No: 
+2000/340/AFR. The World Bank, Washington D.C. 
+Yaninek, J.S. 1994. Cassava plant protection in Africa. Pages 26–37 in Food crops for 
+food security in Africa, edited by M.O. A koroda. Proceedings of the Fifth Triennial 
+Symposium of the International Society for Tropical Root Crops-Africa Branch 
+ISTRC-AB, ISTRIC/CTA/IITA, Ibadan, Nigeria. 
+CASSAVA IN AFRICA: PAST, PRESENT AND FUTURE 
+Prepared by 
+Dunstan Spencer and associates 
+Sierra Leone 
+1 INTRODUCTION 
+Cassava was introduced to Africa by the Portuguese during the late 16 th century. It was 
+readily adaptable to the different environmental conditions and well suited for integration 
+into the farming systems and socioeconomic conditions of Africa. The crop is grown in 
+African countries, stretching from the Island of  Madagascar in the southeast to Senegal 
+and the Cape Verde Islands in the northwest. 
+At a time when a variety of approaches to  poverty alleviation are being considered by 
+governments in the developing world and their development partners, increased attention 
+is being paid to the potential of cassava as a food security, as well as a cash crop. For full 
+potential of the crop to materialize, there is general agreement that there is a need for a 
+global strategy for cassava development (IF AD, 1996). The strategy should highlight the 
+national and global perspectives related to markets and end products, as well as 
+achievements and lessons learned from deve lopments so far. It would indicate the 
+prospects for substantial public and private investment programmes and include a 
+research agenda. 
+The International Fund for Agricultural Devel opment (IFAD) is playing a leading role in 
+the development of the strategy. A number of  country case studies, regional reviews and 
+cross-cutting thematic studies are being unde rtaken to provide the necessary building 
+blocks for the global strategy. The Internati onal Institute of Tropical Agriculture (IITA) 
+has the responsibility of preparing the regional review for sub-Saharan Africa (SSA). 
+1.1 OBJECTIVES OF THE REGIONAL REVIEW 
+The purpose of this review is to analyse th e trends of cassava production and utilization 
+and identify constraints to and opportunities fo r, the development of cassava in Africa. 
+The study will identify and quantify the most significant trends in the region. It will 
+provide a bridge between the country case st udies and the thematic reviews. Building on 
+existing data the review attempts to presen t a picture of how the crop is affected by 
+policies and how it will develop in the future  in terms of its contribution to poverty 
+alleviation, equity, food security and environm ental impact, with a view to developing a 
+set of priorities for future action. 
+1.2 SOURCES OF DATA 
+The review uses a commodity production-consumption framework for its analysis. It is 
+based solely on secondary data. Production a nd trade statistics are from the Food and 
+Agriculture Organization of the United Na tions (FAO), as contained in the World 
+Agricultural Trade Indicators (WATI) and othe r databases. Although for some variables 
+these statistics are not altogether reliable, they provide the only consistent global statistics 
+for analyses of trends. 
+Most of the data used for analyses of ch aracteristics of the commodity are from the 
+Collaborative Study of Cassava in Africa (COS CA) database, in IITA, Ibadan, Nigeria 
+and the Environmentally Sustainable Cassava  Plant Protection (ESCaPP) database in 
+IITA, Cotonou, Benin,. Published material fr om COSCA and regional cassava research 
+and development networks have also provided useful information. 
+COSCA began in 1989 in six countries, namely Côte d'Ivoire, Ghana, Nigeria, Tanzania, 
+Uganda and Zaire and later expanded to  include Benin,, Burundi, Cameroon, Kenya, 
+Malawi, Rwanda and Zambia. These countries  include all the cassava growing agro-
+ecological zones, demographic and climatic conditions that influence cassava production 
+and consumption in sub-Saharan Africa. Th e study was executed in three phases. The 
+first was a broad characterization of the environment (physical, social, economic), 
+production, processing, marketing and consump tion situation. The second phase dealt in 
+more detail with yield, land area, crop utiliza tion (sale or home use, processed or fresh 
+use) and input/output relationships, etc. The third phase involved detailed studies on post-
+harvest issues such as characterizati on of processing techniques, product quality 
+assessment (nutrition, toxicity, quality), marketing, consumption and demand. 
+Villages in COSCA were statistically se lected using a stratified random sampling 
+technique of cassava growing areas (Carte r and Jones, 1989), based on climate, human 
+population density and market infrastructure. In Phase I, group interviews of farmers 
+were conducted by national agricultural research  scientists in each of the countries. In 
+Phase II field surveys were conducted during which fields were measured and yields 
+estimated using 20 m 2 or 40 m 2 plots. Phase III surveys were conducted at the household 
+level. Male and female household member s were interviewed using structured 
+questionnaires. 
+ESCaPP data collection was carried out in  four countries, namely Benin, Cameroon, 
+Ghana and Nigeria. Data collection methodol ogies were similar to those of COSCA, 
+although they focused more on plant health management issues. 
+1.3 OUTLINE OF THE REPORT 
+The next section of the review briefly de scribes the cassava production to consumption 
+system, sketching out the main elements that should be covered in a review. In Section III 
+cassava production trends are examined, focusing on changes in area under cultivation, 
+yield, resources used by farmers and constraints that they face. In S ection IV the role of 
+cassava as a food security crop is exam ined, followed by an assessment of the 
+environmental effects of the crop in Section V.  The sixth section discusses infrastructure 
+and product markets, focusing on access to ma rkets and post-harvest technologies and 
+processes. Section VII addresses the role and progress in research and extension systems. 
+The final section presents the major conclusi ons for the future development of the crop, 
+including the identification of research issues. 
+2 THE CASSAVA SYSTEM 
+Figure 1 presents a schematic representation of the cassava production to consumption 
+system in sub-Saharan Africa. Over 90 per cent of production takes place in small farms. 
+Inputs cover the whole spectrum for agricu ltural production in Africa. Imported inputs 
+consist of small hand tools used by small-scale farmers, tractors, machinery, fertilizer and 
+other agricultural chemicals, used mainly by medium- and large-scale farmers. 
+Large-scale agro-industries, which produce fe rtilizer, agricultural chemicals and farm 
+production machinery (tractors, ploughs, etc.) are widespread in sub-Saharan Africa. 
+Small-scale and artisan agro-industries that produce hand tools and processing machinery 
+are more important in the cassava system and provide a link to the industrial sector. 
+Roots are transported by head load, as well a by trailers and small trucks, where the road 
+network allows them to be used. Cassava r oots are processed into a wide variety of 
+products for human and industrial consum ption, ranging from simple boiling, to 
+fermented products and beverages. Most of the products are consumed domestically 
+within the countries in which they are produ ced. However, there is a small but growing 
+export trade in dried cassava chips and other industrial products. 
+Agricultural policies affect the cassava system at different stages and in different ways. 
+The system contributes significantly to em ployment creation and income generation. It 
+has an impact on the environment and its development will be affected by infrastructure 
+constraints especially the state of the rural road network. 
+Each of the components of the systems and the processes that affect them are discussed in 
+other sections of this report. 
+Figure 1. The cassava production to consumption system in sub-Saharan Africa

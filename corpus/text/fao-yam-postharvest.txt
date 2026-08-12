@@ -1,0 +1,1003 @@
+# Yams: Post-Harvest Operation
+# publisher: FAO (INPhO — Information Network on Post-Harvest Operations)
+# year: unknown
+# url: https://openknowledge.fao.org/server/api/core/bitstreams/00f2c13c-b199-40c3-b2f4-77cf83bed8ba/content
+# attribution: FAO/INPhO, Yams: Post-Harvest Operation
+# ghana_specific: False
+# extent: 23 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+YAMS
+Post-harvest Operations
+       - Post-harvest Compendium
+YAMS: Post-Harvest Operation 
+ 
+Organisation:Massey University, Private Bag 11-222, Palmerston North, New Zealand  
+Author: Linus U. Opara 
+Edited by AGST/FAO: Danilo Mejía, PhD, FAO (Technical) 
+Last reviewed: 28/08/2003 
+ 
+ 
+Contents 
+Preface.................................................................................................................................... 2 
+1. Introduction ........................................................................................................................ 2 
+1.1 Economic and Social Impacts of Yams ....................................................................... 2 
+1.2 World Production and Trade ........................................................................................ 3 
+1.3 Primary product ........................................................................................................... 5 
+1.4 Secondary and derived product .................................................................................... 5 
+1.5 Requirements for export and quality assurance ........................................................... 5 
+1.6 Consumer Preferences ................................................................................................. 5 
+2. Post-Production Operations ............................................................................................... 5 
+2.1 Pre-harvest Operations ................................................................................................. 5 
+2.2 Harvesting .................................................................................................................... 7 
+2.3 Transport & Packaging ................................................................................................ 8 
+2.4 Curing of Yam Tuber ................................................................................................... 8 
+2.5 Cleaning ....................................................................................................................... 9 
+2.6 Storage ......................................................................................................................... 9 
+2.7 Processing .................................................................................................................. 12 
+2.8 Dormancy in Yams .................................................................................................... 12 
+3. Overall Losses .................................................................................................................. 13 
+4. Pests & Disease Control................................................................................................... 14 
+5. Economic and Social Considerations............................................................................... 15 
+5.1 Overview of costs and losses ..................................................................................... 15 
+5.2 Major problems & proposed improvements .............................................................. 15 
+5.3 Gender aspects ........................................................................................................... 15 
+5.4 Nutritional facts and phyisco-chemical properties of yam .................................... 16 
+6 References ......................................................................................................................... 20 
+7 Annex ................................................................................................................................ 22 
+ 
+ 
+ 
+YAMS: Post-harvest Operations Page 2 
+ 
+Preface 
+Yam (also called Ñamé -Spanish and Igname - French) belongs to the genus 
+Dioscorea(family Dioscoreaceae). Of the estimated 300-600 species are available, there are 
+just over half-dozen principal species that are grown for consumption, while others are grown 
+for medicinal purposes. Yams originated in the Far East and spread westwards. They have 
+since evolved independently in the Eastern and Western Hemispheres, and today yams are 
+grown widely in throughout the tropics. In the West African yam zone, which is the principal 
+producer on a global basis, D. rotundata, D. alata, and D. esculenta are the most common 
+species. Yams have both economic and social value in many growing areas. Some traditional 
+ceremonies are celebrated with yam as the major food item such the New Yam Festival in 
+parts of West Africa. The production and utilisation of yam is declining in most producing 
+areas due mainly to the high labour demand and the delicate nature of the harvested crop. The 
+small-scale farmers who produce the majority of crop need access to innovations, which will 
+reduce drudgery and improve productivity at all levels (on-farm and post-production 
+operations). The objective of this chapter is to outline the techniques and procedures for 
+harvesting, handling and storing yams. Some physico-mechanical properties of yams will 
+also be presented to assist in the design and selection of appropriate handling and processing 
+systems.  
+1. Introduction 
+1.1 Economic and Social Impacts of Yams  
+Yams are second to cassava as the most important tropical root crop. Yams are a staple crop 
+in many parts of Africa and Southeast Asia. In the South Pacific, the yam is a significant food 
+crop, accounting for over 20%, 8.1%, and 4.6% of the total dietary calorie intake in the 
+Kingdom of Tonga, Solomon Islands, and Papua New Guinea, respectively. Besides their 
+importance as food source, yams also play a significant role in the socio-cultural lives of 
+some producing regions like the celebrated New Yam Festival in West Africa, a practice that 
+has also extended to overseas where there is a significant population of the tribes that observe 
+it. In some parts of Southeastern Nigeria, the meals offered to gods and ancestors consists 
+principally of mashed yam. Yams store relatively longer in comparison with other tropical 
+fresh produce, and therefore stored yam represents stored wealth which can be sold all-year-
+round by the farmer or marketer. In parts of Igboland in Southeastern Nigeria, it is customary 
+for the parents of a bride to offer her yams for planting as a resource to assist them in raising 
+a family. 
+YAMS: Post-harvest Operations Page 3 
+ 
+ 
+Fig. 1. Yam and other root crops on sale in the Kingdom of Tonga at a local market. 
+1.2 World Production and Trade 
+Most of the world production of yam is from Africa (about 96%) with Nigeria alone 
+accounting for nearly 75% of the total world production (Tables 1 and 2). World annual 
+production was estimated to be 25 million Mt in 1974, and 24 million Mt in 1992. During the 
+past 5 years, total world production has increased from 32.7 million Mt in 1995 to 37.5 
+million Mt in 2000 (Table 3). Also during this period, export quantity declined slightly while 
+export income remained fairly steady. During the period 1975-90, total yam cultivated area 
+increased by about 38.8% globally, while the total production increased by 45.8%. However, 
+the importance of yam in the economy of the main producing areas appears be declining due 
+partly to competition with other crops like cassava in Nigeria, and taro in the South Pacific 
+(Opara, 1999). The major producing areas have also continued to experience high population 
+growth rates. During the last four decades, the annual growth rate (%) of per capita 
+production in the major yam zones in Africa has declined (Dorosh, 1988). 
+YAMS: Post-harvest Operations Page 4 
+ 
+ 
+Table 1: World production of yam (Dioscorea). 
+  Area  
+(103 
+ha) 
+% of 
+World 
+Area 
+Production 
+(103 Mt) 
+% of World 
+Production† 
+Yield  
+(Mt.ha-1) 
+% of 
+World 
+Yield 
+World 2,110 100 20,198 100 9.6 100 
+              
+Africa 2,049 97.1 19,539 96.7 9.4 97.9 
+North & Central 
+America 
+22 1.0 243 1.2 11.1 115.6 
+South America 10 0.5 48 0.2 4.7 0.5 
+Asia 15 0.7 168 0.8 11.4 118.8 
+Oceania 15 0.7 200 1.0 13.5 140.6 
+Leading countries             
+1. Nigeria 1,350 64.0 15,000 74.3 11.1 115.6 
+2. Cote d‟Ivoire 200 9.5 1,700 8.4 8.5 88.5 
+3. Ghana 160 7.6 800 4.0 5.0 52.1 
+4. Togo 100 4.7 750 3.7 7.5 78.1 
+5. Benin 59 2.8 610 3.0 10.3 107.3 
+Source: Adapted from (FAO, 1975) 
+ 
+Table 2: World‟s leading yam producers in 1990.  
+   Area 
+(103 ha)  
+% of 
+World 
+Area  
+Production 
+ (103 Mt)  
+% of World 
+Production  
+Yield 
+(kg.ha-1)  
+% of 
+World 
+Yield  
+World  2,928  100  29,447  100  10,057  100  
+                     
+Africa  2,789  95.3  28,249  95.6  10,127  100.7  
+West Indies  59  2.0  350  1.2  6,122  60.9  
+Oceania  18  0.6  284  1.0  15,818  157.3  
+Asia  15  0.5  198  0.6  12,876  128.0  
+Nigeria  1,900  64.9  22,000  74.7  11,579  115.1  
+Cote d‟Ivoire  266  9.1  2,528  8.6  9,504  94.5  
+Benin  90  3.1  992  3.4  11,026  109.6  
+Ghana  200  6.8  168  2.4  3,500  34.8  
+Togo  40  1.4  420  1.4  10,500  104.4  
+Zaire  38  1.3  270  0.9  7,200  71.6  
+Source: Adapted from (FAO, 1991).  
+ 
+Table 3: Recent data on world production and trade in yams. 
+   2000  1999  1998  1997  1996  1995  
+Production, Mt  37,532,138  37,552,383  35,753,519  34,705,657  33,587,195  32,765,435  
+Exports- Mt  -  23,198  21,080  28,069  27,493  26,264  
+Exports- 1000US$  -  20,077  19,212  20,873  20,810  21,108  
+Source: (FAO/STAT, 2000).  
+YAMS: Post-harvest Operations Page 5 
+ 
+1.3 Primary product  
+Yams are mainly grown for direct human consumption and are marketed as fresh produce in 
+all the growing regions. Common methods of preparation include boiling, baking or frying. 
+Boiled and baked yam can be eaten with vegetable sauce or palm oil. Boiled yam can also be 
+pounded or mashed in mortar and eaten as „fufu‟ or „utara‟. Commercially food processing 
+equipment for boiling and mashing of yam into fufu at the press of a button are now available 
+in the market. Yam cultivars, which contain toxic substances such as dioscorene, are first 
+sliced and soaked in salt water for several hours before further processing for consumption.  
+1.4 Secondary and derived product 
+Yam tubers are also processed into several food products such as the yam flour, which are 
+enjoyed in many parts of the tropics (see Section 2). Industrial processing and utilisation of 
+yam includes starch, poultry and livestock feed, and production of yam flour.  
+1.5 Requirements for export and quality assurance 
+There are no specific standards for yam export, but intending exporters must seek information 
+on the quality and phytosanitary regulations of the importing country as well as the product 
+specifications required by the importer. As a guide, exporters should apply the general 
+requirements for the International OECD Quality Standard (Opara, 2001) which issues such 
+as minimum requirements, quality requirements, sizing, tolerance and packaging. These 
+should be interpreted to assist in meeting the specifications agreed with the importer.  
+1.6 Consumer Preferences 
+There is considerable consumer preferences for the different yam varieties among the 
+growing regions.   White-fleshed yams which have firm texture (mainly D. rotundata) are the 
+most popular in West Africa, while in the South Pacific, D. alata cultivars (water yam, white 
+purplish with loose watery texture) are most common (Opara, 1999). Consumer preferences 
+might account for some of the predominance of certain cultivars in some region, in addition 
+to agro-climatological impacts on the growing attributes of the species. In parts of West 
+Africa, yams, which have loose texture, are often mixed with gari and pounded with gari to 
+prepare fufu of „soft‟ texture.  
+2. Post-Production Operations  
+2.1 Pre-harvest Operations  
+Maturity assessment is critical to achieving good quality yam. In the field, mature crop is 
+generally distinguishable by cessation of vegetative growth and yellowing of leaves. The 
+period from planting or field emergence to maturity is variable depending on the species 
+(Table 4), and there is no standard reliable and objective index of yam tuber maturity. Some 
+crude indices have been reported based on percentage of tuber length that was whitish at 
+harvest, non-friable after cooking, or bitter after cooking (Onwueme, 1977). The most 
+frequently reported measure is the period from planting to harvest (growing period), but it has 
+been suggested that the time from emergence to maturity provides a better measure of 
+growing period since planted tuber can remain dormant for some time (Onwueme and 
+Charles, 1994). 
+YAMS: Post-harvest Operations Page 6 
+ 
+Table 4:       Time from planting to maturity and yield for different yams species. 
+Species/Common name Period from planting to 
+maturity 
+Yield and size of tubers 
+D. alata 
+Water yam 
+220-300 days 20-25 t.ha-1 
+1-3 tubers per plant 
+5-10 kg per tuber 
+D. Bulbifera 
+Potato yam 
+140-180 days; 90-120 days 
+  
+Aerial: 2-15 t.ha-1 ; 3-5 t.ha-1 
+Underground: 2-8 t.ha-1 
+D. Cayenensis 
+Yellow yam 
+280-350 days 30 t.ha-1 
+2 kg per tuber (mean) 
+7-10 kg per tuber (highest) 
+D. Dumentorum 
+Bitter yam 
+240-300 days > those of most other cultivated 
+West Africa yams 
+D. esculenta 
+Lesser yam 
+200-300 days 7-20 t.ha-1 
+25-35 t.ha-1 (exceptional) 
+5-20 tubers per plant 
+D. Opposita 
+Chinese yam 
+24 weeks 4-6 t.ha-1 
+  
+D. rotundata 
+White yam 
+200-330 days 16-20 t.ha-1 
+  
+D. trifida 
+Cush-cush yam 
+280-330 days 15-20 t.ha-1 
+  
+Source: (Opara, 1999). 
+Most edible yams reach maturity in 8-11 months after planting. Techniques such as using 
+physiologically aged planting material, pre-sprouting of setts, application of sprout-
+promoting substances (e.g. ethephon and 2-chloroethanol and harvesting before complete 
+shoot senescence can decrease the during of field dormancy and thereby reduce the length 
+period from emergence to maturity (Onwueme, 1977; Gregory, 1968; Martin et al., 1974). In 
+many parts of West African yam zone, mature yams are harvested at the end of the rainy 
+season or early part of the dry season, which coincides with the end of vegetative growth. 
+Yams for long-term storage (for marketing or seed) are usually harvested during the 
+harmattan period (Dec-Jan) in many parts of southeastern Nigeria when the crops has attained 
+maximum growth and maturity. During this period, the soil is generally hard and tuber 
+breakage during harvesting can be an economical problem. 
+YAMS: Post-harvest Operations Page 7 
+ 
+Average yield of tubers is variable amongst the major producing areas, and is influenced by 
+the species, seed piece, and growing environment (Table 4). Yields range between 8-50 
+Mt.ha-1 in 6-10 months. Yields of 8-30 Mt.ha-1 in commercial yam production has also been 
+reported, the exact value depending on the location, variety, and cultivation practices 
+(Onwueme and Charles, 1994. Many yam cultivars produce only a single large tuber, and the 
+approximate multiplication ratio (fresh-weight yield:weight of planting material) for yam is 
+about 5. Between 1975-1990, there were yield increases in all major producing countries 
+except Ghana. During this period, the average world yield increased by nearly 11%.  
+2.2 Harvesting 
+Harvesting is done by hand using sticks, spades or diggers. Sticks and spades made of wood 
+are preferred to metallic tools as they are less likely to damage the fragile tubers; however, 
+tools need regular replacement. Yam harvesting is a labour-intensive operation that involves 
+standing, bending, squatting, and sometimes sitting on the ground depending the size of 
+mound, size of tuber or depth of tuber penetration. In rainforest areas, tubers growing into 
+areas where there are roots of trees can pose a problem during harvesting and often receive 
+considerable physical damage. Many also get deformed during growth as a result of the 
+obstacles they encounter. These tubers are usually downgraded. Aerial tubers or bulbils are 
+harvested by manual plucking from the vine. 
+Although some success in mechanical yam harvesting has been reported, especially for D. 
+composita tubers for pharmaceutical uses (Nystrom et al., 1983), these machines are still 
+limited to research and demonstration purposes. The use of a potato spinner has been 
+suggested for harvesting species which produce a number of small tubers (Onwueme, 1997). 
+Current crop production practices and species used pose considerable hurdles to successful 
+mechanisation of yam production, particularly for small-scale rural farmers. Extensive 
+changes in current traditional cultivation practices, including staking and mixed cropping, 
+and possibly tuber architecture and physical properties will be required. 
+Yams can be harvested once (single harvesting) or twice (double harvesting) during the 
+season to obtain a first (early) and second (late) harvest. The first harvest has also been 
+referred to by the terms „topping‟, „beheading‟, and „milking‟, all of which have been 
+considered inadequate and obsolete. In single harvesting, each plant is harvested once and 
+this occurs at the end of the season when crop is mature. The harvesting processes involves 
+digging around the tuber to loosen it from the soil, lifting it, and cutting from the vine with 
+the corm attached to the tuber. The time of harvest is critical in terms of tuber maturity, yield 
+and postharvest quality. Depending on the cultivar, the period from planting or emergence to 
+maturity varies from about 6-7 months or even 6-10 months. 
+Periods of  8-10 months and 4-5 months from planting or emergence to maturity have been 
+recommended for double-harvesting (Martin, 1984; Onwueme, 1977); harvest first at 5-6 
+months after planting and then 3-4 months later has also been reported (Bencini, 1991). First 
+harvest is carried out by removing the soil around the tuber carefully and cutting the lower 
+portion, leaving the upper part of the tuber or the “head” to heal and continue to grow. The 
+soil is returned and the plant is left to grow to the end of the season for the second harvest. 
+Some yam cultivars produce several small tubers in the second growth following the early 
+harvest. Double harvesting is most applicable to short-term varieties such as D. rotundata, 
+and to lesser extents D. Cayenensis and D. alata. Similar yields have been reported for single 
+YAMS: Post-harvest Operations Page 8 
+ 
+and double harvesting; however, single-harvested tubers had better eating quality than the 
+double-harvested tubers (Onwueme and Charles, 1994). 
+2.3 Transport & Packaging 
+After harvest, yam tubers are traditionally placed into woven baskets made from parts of the 
+palm tree or coconut fronds. These are ideal for transporting small quantity of tubers over 
+short walking distances. The basket is carried on the head, shoulder, or tied to a bicycle and 
+transported to the market or storage facility. Compression damage is reduced since the basket 
+is able to bend and thereby reduce the amount of force acting on individual tubers. However, 
+when large quantities of tuber are harvested, these baskets are not suitable because of their 
+limited size. Packaging tubers in full telescopic fibreboard cartons with paper wrapping or 
+excelsior reduces bruising and enables large quantity of tuber to be transported over long 
+distances. Tubers can be contained in loose packs, or units of 11 kg and 23 kg (McGregor, 
+1987). The cartons are hand-loaded or unitised on pallets. 
+Storing yams in modified atmosphere packaging (MAP) has beneficial effects, particularly 
+using appropriate packaging material with suitable size and number) of holes for gas 
+permeation. Sealing yam tubers in polyethylene film bags reduced storage losses due to 
+weight loss and development of necrotic tissue (Table 5). Coating tubers with Epolene E10 (a 
+commercial vegetable wax improved the appearance quality but there was no effect on levels 
+of fungal infection (Thompson et al., 1977). The effect of this treatment on weight loss of 
+tuber was inconsistent. 
+Table 5: Effects of packaging material on the quality of D. trifida after 64 days at 20-29C and 
+46-62% rh. Fungal score was 0 = no surface fungal growth, 5 = tubers surface entirely covered 
+with fungi. Necrotic tissue was estimated on the total cut surface of lengthway halves. 
+Type of package Weight loss (%) Fungal score Necrotic tissue (%) 
+Paper bags 23.6 0.2 5 
+Polyethylene bags with 
+0.15% of the area as holes 
+  
+15.7 
+  
+0.2 
+  
+7 
+Sealed 0.03 mm thick 
+polyethylene bags 
+  
+5.4 
+  
+0.4 
+  
+4 
+Source: (Thompson et al., 1977). 
+2.4 Curing of Yam Tuber 
+Curing of root crops allows suberisation of surface injuries and reduces subsequent weight 
+loss and rotting in root crops. Curing of yams is recommended before storage so as to “heal” 
+any physical injury, which may have occurred during harvesting and handling. This can be 
+accomplished under tropical ambient conditions or in a controlled environment. Traditionally, 
+yams are cured by drying the tubers in the sun for a few days. The optimum conditions for 
+curing are 29°-32°C at 90-96% rh for 4-8 days (McGregor, 1987). Tubers cured at higher 
+temperature (40°C) for 24 hours or treated with gamma radiation at 12.5 krads were free of 
+mold and had least losses during subsequent storage. Storing at 15°C with prompt removal of 
+sprouts was found to improve the eating quality of tubers (Coursey, 1967), presumably due 
+the waterloss associated with curing and the inhibition of the biochemical synthesis that 
+accompany sprouting. 
+YAMS: Post-harvest Operations Page 9 
+ 
+2.5 Cleaning   
+Prior to long-term storage and marketing, yams are cleaned (without water) by scrapping off 
+soil and other debris on the surface. A knife or piece of stick is usually used. The root „hairs‟ 
+are also removed to so that the tuber has a smooth surface. Water must not be used to clean 
+tubers before storage because of increased susceptibility to microbial infection and growth 
+under the ambient humid storage conditions. 
+2.6 Storage 
+The three main conditions are necessary for successful yam storage: aeration, reduction of 
+temperature, and regular inspection of produce. Ventilation prevents moisture condensation 
+on the tuber surface and assists in removing the heat of respiration. Low temperature is 
+necessary to reduce losses from respiration, sprouting and rotting; however, cold storage must 
+be maintained around 12-15°C below which physiological deterioration such as chilling 
+injury occurs. Regular inspection of tubers is important to remove sprouts, rotted tubers, and 
+to monitor the presence of rodents and other pests. In general, tubers should be protected 
+from high temperatures and provided with good ventilation during storage. The storage 
+environment must also inhibit the onset of sprouting (breakage of dormancy) which increases 
+the rate of loss of dry matter and subsequent shrivel and rotting of tuber. Both ware yam and 
+seed yam have similar storage requirements. 
+Notwithstanding cultivar differences, fresh yam tuber can be successfully stored in ambient 
+and refrigerated conditions (Table 6). The recommended storage temperature is in the range 
+12°-16°C. Optimum conditions of 15°C or 16°C at 70-80% rh or 70% rh have been 
+recommended for cured tubers (Martin, 1984; McGregor, 1987). Transit and storage life of 6-
+7 months can be achieved under these conditions. The onset of sprouting is enhanced at 
+ambient conditions, especially if ventilation is inadequate. For example, during storage at 
+ambient conditions (20°-29°C, 46-62% rh), D. trifida began to sprout within 3 weeks 
+(Thompson, 1996). Yam tuber decay occurs at higher humidity, and like most tropical crops, 
+they are susceptible to chilling injury (CI) at low storage temperatures. To avoid tuber 
+damage, minimum storage temperatures of 10°C, 12°C and 13°C (Martin, 1984; McGregor, 
+1987) at or below which CI occurs have therefore been recommended. Storage of D. 
+rotundata tubers at 12.5C resulted in CI (Coursey, 1968), and storage of D. alata at either 3° 
+or 12°C resulted in total physiological breakdown within 3-4 weeks (Czyhrinciw and Jaffe, 
+1951). Storage of D. alata at 5°C for 6 weeks gave good results but CI symptoms developed 
+rapidly when tubers were subsequently put in ambient (25°C) conditions (Coursey, 1961). 
+There is no reliable data on beneficial effects on CA technology on the commercial storage is 
+important yam cultivars. 
+YAMS: Post-harvest Operations Page 10 
+ 
+ 
+Table 6: Recommended storage conditions for yams (Dioscorea spp.). 
+Cultivar Temperature (°C) Relative humidity (%) Length of storage 
+D. trifida 3 - 1 month 
+Elephant yam 10 - several months 
+D. alata 12.5 - 8 weeks 
+D. cayenensis 13 95 < 4 months 
+D. alata, cured 15-17 70 180 
+D. alata, non-cured 15-17 70 150 
+White yam, Guinea yam 16 80 several months 
+Yellow yam, Twelve month yam 16 80 60 days 
+Cush cush, Indian yam 16-18   60-65 several months 
+Lesser yam, Chinese yam 25 - 60 days 
+Water yam, Greater yam 30 60 several months 
+Unknown Cultivar       
+  13.3 85-90 50-115 days 
+  16 65 4 months 
+  16 70-80 6-7 months 
+Source: (Opara, 1999). 
+There are several traditional storage structures used for yam storage including: (a) leaving the 
+tubers in the ground until required, (b) the yam barn, and (c) Underground structures (Opara, 
+1999). Leaving the tubers in the ground until required is the simplest storage technique 
+practised by rural small-scale farmers. When carried out on-farm, this type of storage 
+prevents the use of the farmland for further cropping. Harvested yams can also be put in 
+ashes and covered with soil, with or without grass mulch until required. 
+The yam barn is the principal traditional yam storage structures in the major producing areas. 
+Barns are usually located in a shaded areas and constructed so as to facilitate adequate 
+ventilation while protecting tubers from flooding and insect attack. Barns consist of a vertical 
+wooden framework to which the tubers are individually attached (Fig. 2). Two tubers are tied 
+to a rope at each end hung on horizontal poles 1-2 m high. Barns up to 4 m high are 
+uncommon. Depending on the quantity of tuber to be stored, frames can be 2 m or more in 
+length. The ropes are usually fibrous, but in Southeastern Nigeria, they are made from the 
+raffia obtained from top part of Palm wine tree. Many farmers have permanent barns, which 
+need annual maintenance during the year‟s harvest. In these situations, growing trees are used 
+as vertical posts, which are trimmed periodically to remove excessive leaves and branches. 
+Palm fronds and other materials are used to provide shade. The vegetative growth on the 
+vertical trees also shades the tubers from excessive solar heat and rain. The use of open-sided 
+shelves made from live poles, bamboo poles or sawn wood has been recommended to enable 
+careful handling and easy inspection in comparison with tying tubers to poles which can 
+cause physical damage and rotting (Bencini, 1991). In barn storage, yams have a maximum 
+storage life of 6 months and are therefore most suited for long-term varieties. Storage losses 
+YAMS: Post-harvest Operations Page 11 
+ 
+can be high and up to 10-15% in 3 months, and 30-50% after 6 months if tubers are not 
+treated for rotting using fungicides such as Benlate, Captan or Thiabendazole. 
+ 
+Fig. 2. Tipical Yam Barn in West Africa. 
+Yams are also stored in underground structures such as pits, ditches and clamps. These are 
+suitable for limited storage periods, especially the early varieties that are often harvested 
+before the end of the rainy season.  During construction of pits, the earth dug out is used to 
+build a low wall around the edge. The temperature in the storage space can also be moderated 
+by placing cut vegetation over the ditch, clamp or pit. In these structures, ventilation and 
+rodent attack of tubers is a major problem, and it is difficult to inspect the tubers. 
+Well-ventilated, weatherproof, and stronger shelters can be built as to improve the 
+performance of the traditional shelters described above. New features may also be provided 
+to exclude pests and rodents. A typical improved yam barn has sidewall 1.2 m high and wire 
+mesh to ward off rodents and birds (Akoroda and Hahn, 1995). The roof was double thatch 
+and extended to the eaves with smooth floor of cement or mud, and only one entry door was 
+provided to guard against entry of rodents. Tubers were stored on platforms or shelves. 
+Tubers stored in such improved structures had only 10% spoilage after 5-6 months. 
+YAMS: Post-harvest Operations Page 12 
+ 
+2.7 Processing  
+Industrial uses of yam includes starch, poultry and livestock feed, and production of yam 
+flour. Readers interested in detailed information on specific yam processing methods, 
+equipment, and packaging techniques can find these information in an FAO technical 
+compendium (Bencini, 1991). Residues from sifting and peels are used as animal feed in 
+many rural areas. One of the major disadvantages of industrial processing of yam for food is 
+that nutrient losses in these products can be high, particularly minerals and vitamins. In 
+products obtained from secondary processing such as biscuits and fufu, the amount of loss 
+depends principally on the amount of edible surface exposed during processing operations. 
+Primary unit operations such as milling affect the thiamine and riboflavin contents of D. 
+rotundata, with average losses of 22% and 37%, respectively. Sun drying results in high 
+losses of B vitamins with little change in mineral content. Pounding yam flour in a traditional 
+wooden mortar or grinding in an electric mixer had similar effects. 
+2.8 Dormancy in Yams 
+Dormancy is the temporary suspension of visible growth of any plant structure containing a 
+meristem, and in stored yam tubers, it is the period during which sprouting is inhibited. 
+Knowledge of the potential length of dormancy for stored tuber is important because once 
+dormancy breaks, the tubers also senesce rapidly with loss of the stored food (carbohydrate) 
+(Passam and Noon, 1977). Yam tuber does not sprout during the early part of storage, even 
+under suitable growth conditions. The environmental conditions affecting yam tuber 
+dormancy are photoperiod, white and coloured lights, temperature, relative humidity, and 
+partial oxygen pressure. The length of tuber dormancy is endogenously controlled and 
+conditions such as availability of soil moisture or cool temperature are ineffective triggers of 
+sprouting. Physiological age of tubers affects their readiness to sprout, but by approximately 
+6 months after harvesting, dormancy disappears completely and budless setts planted after 
+that period will require nearly the same time to sprout (Onwueme, 1975). The length of 
+dormant period is affected by the yam species (Table 7). These data are useful for developing 
+suitable storage and marketing strategies, and also for scheduling the next planting. 
+Table 7: Dormancy period of tubers of major edible yam species.  
+Species  Locality  Period of dormancy (weeks)  
+D. alata  Caribbean  14-16  
+   Nigeria  14-16  
+D. bulbifera  Nigeria  19-20  
+D. cayenensis  Nigeria  4-8  
+D. dumetorum  Nigeria  14-16  
+D. esculenta  Caribbean  4-8  
+   Nigeria  12-18  
+D. rotundata  Nigeria  12-14  
+      14-16  
+D. trifida  Caribbean  2-4  
+Source: (Opara, 1999).  
+YAMS: Post-harvest Operations Page 13 
+ 
+3. Overall Losses  
+Post-harvest losses occur at various stages from production, postharvest handling, marketing, 
+distribution and processing. These include losses in quantity and tuber quality, arising from 
+physical damage, rodent attack, fungal and bacterial diseases, and physiological processes 
+such as sprouting, dehydration, and respiration. Estimated loss of 10-60% of total crop has 
+been reported (NAS, 1978). Weightloss during storage in traditional or improved barns, or 
+clamp storage can reach 10-12% in the first 3 months and 30-60% after 6 months. Weight 
+losses alone of 33-67% after 6 months storage have been reported (Coursey, 1967). In West 
+Africa alone, this amounted to an annual loss of one million tonnes of tuber (Akoroda and 
+Hahn, 1995). 
+The magnitude of weight loss in stored yams increases rapidly after the first months (Table 
+8). Transit losses of about 15-40% occur in some developing countries due mainly to 
+inefficient storage and transport facilities. Losses of D. alata cultivars varied from 7-23% 
+during 4 months of storage (Gooding, 1960), and in Puerto Rico, postharvest losses of yams 
+due to decay exceeded 50% (Burton, 1970). Processing losses during culinary preparation of 
+peeled yam can amount to 10-15%. 
+Table 8:Weight loss in stored yams. 
+    Percentage weight loss during storage  
+Country  Species  1 month  2 months  3 months  4 months  5 months  
+Puerto Rico Guinea yams  1  3  8  (sound tubers) 
+    2  6  11  (tubers slightly infected by rots) 
+Nigeria  D. rotundata  5  7  12  20  29  
+      4  6  10  14  21  
+      3  6  14  23  30  
+   D. cayenensis  6  17  29  39  48  
+Ghana  D. rotundata  1  5-7  15-17  26-27  34-40  
+Source: (Coursey, 1967). 
+ 
+YAMS: Post-harvest Operations Page 14 
+ 
+4. Pests & Disease Control  
+Yams are susceptible to a variety of pest and diseases during growth as well as postharvest. 
+Attack by the yam beetle, and microorganisms such as nematodes and yam virus are the most 
+devastating. The major postharvest disease is tuber rots caused mostly by fungi.. Table 9 
+summarises the common pests and diseases, their characteristics and potential remedies. 
+Fumigation is generally carried out using methyl bromide, the application must be checked 
+with appropriate regulatory authority and with the importer if produce is destined overseas. 
+Fencing, poisoning, and trap setting are common methods for controlling rodents. 
+ 
+Table 9: Pests and diseases of yams and recommended control strategies. 
+Common name Organism Incidence & 
+characteristics 
+Control strategy 
+Yam beetle Heteroligus meles A major pest in West 
+Africa; adults migrate by 
+flying to other 
+farms/plots; they feed on 
+the tuber, thereby leaves 
+holes on them. Tubers 
+loss appearance quality 
+and become prone to 
+rotting during storage. 
+Dust the sets with 
+insecticide before planting. 
+Note that some insecticides 
+can be persistent and 
+harmful to the environment. 
+Very late planting can 
+reduce infestation but affect 
+yields. 
+Chrysomelid 
+beetle 
+Lilioceris livida   Removal of lavae by hand 
+or spraying carbaryl 
+Scales Aspidiella hartii   Removal of pests with a 
+brush and treatment with 
+diazinon plus white oil or 
+malathion prior to planting 
+Mealy bugs Planococcus citri   Use of clean stock 
+Yam anthracnose Fungi suchas 
+Colletotrichumand 
+Glomerellacingulata 
+implicated. 
+Occurs in all yam 
+producing area; infection 
+from inoculum borne 
+within the planting sett or 
+in the soil; results in 
+blackening and die-back 
+of the leaves and shoot. 
+Use resistant cultivar (e.g. 
+TDA 291, TDA 297). 
+Maneb or benomyl and 
+good field sanitation.  
+Nematodes Yam nematode 
+(Scutellonema bradys) and 
+the root knot nematode 
+(Meloidogyne spp)  
+are the most serious. 
+They reside in the tuber 
+and remain active during 
+storage. Wounded areas 
+provide entry for decay-
+causing bacterial and 
+fungi. 
+Crop rotation and 
+fallowing, and planting 
+with healthy materials. Soil 
+fumigation with 
+nematicides may be 
+uneconomical. 
+Yam virus 
+complex 
+  Occurs throughout the 
+West African yam zone. 
+Reduces yields 
+considerably 
+Use virus-free planting 
+materials or resistant 
+cultivars. Thermotherapy 
+and meristem culture. 
+ 
+ 
+ 
+YAMS: Post-harvest Operations Page 15 
+ 
+Common name Organism Incidence & 
+characteristics 
+Control strategy 
+Tuber rots Soft rots caused 
+byPenicillium 
+spp.,Fusariumoxysporum, 
+andBotrydiplodia 
+theobromae. Dry rots 
+caused byRosselinia 
+andSphaerostilbe . Other 
+fungi: Rhizopus nodosus. F. 
+solani. 
+Infection in the field can 
+persist and lead to rotting 
+during storage 
+Plant with disease-free 
+material. Crop rotation. 
+Minimise physical damage 
+of tuber during postharvest 
+operations. Treat the sett or 
+tuber with systemic 
+fungicide or alkaline 
+material such as Bordeaux 
+mixture. Provide adequate 
+aeration and inspect stored 
+tuber regularly. 
+Source: (Opara, 1999). 
+5. Economic and Social Considerations 
+5.1 Overview of costs and losses 
+Yams are important in the diet and socio-cultural life of people in the growing regions. Their 
+overall significance is gradually declining due to increased competition with other food 
+sources such as cassava and wheat bread. The multiple weeding required to get good yield is 
+a major cost and limitation to yam cultivation, especially for medium-scale smallholders who 
+do not have sufficient family labour. Current estimates indicate that quantitative losses are 
+high and this translates into substantial amounts when the labour involved in bush clearing, 
+planting, weeding and harvesting are included. Qualitative and nutritional losses are also high 
+in yams and these have both economic, social and health implications particularly in the 
+growing areas where it is a major food material. The higher the exposed surface area of tissue 
+during processing, the higher the incidence of losses in minerals and vitamins. Both sun 
+drying and milling contribute to losses in thiamine, riboflavin and B vitamins. Developing 
+improved unit operations for yam processing could assist in improving the nutritional status 
+of rural people in the yam regions.  
+5.2 Major problems & proposed improvements 
+Reducing the drudgery of manual operations through improved simple implements in hand 
+tools and reducing crop losses through better storage must be important priorities. Potential 
+strategies to improve traditional storage structures have been discussed earlier. These will 
+require access to finance and the equipment.  
+5.3 Gender aspects   
+Yam growing and handling involves many operations, some of which follow gender lines in 
+some regions. In the south-eastern part of Nigeria, for instance, men and women combine 
+efforts to do the planting; the women carry out weeding which is usually 2-3 times before 
+harvest; and men and women combine efforts again at crop maturity to do the harvest. 
+YAMS: Post-harvest Operations Page 16 
+ 
+5.4 Nutritional facts and phyisco-chemical properties of yam 
+Nutritional Facts 
+Yams have high contents of moisture, dry matter, starch, potassium, and low vitamin A. 
+Yams contain about 5-10 mg.100 g-1 vitamin C, and the limiting essential amino acids are 
+isoleucine and those containing sulphur. They also contain a steroid sapogenin compound 
+called diosgenin, which can be extracted and used as base for drugs such as cortisone and 
+hormonal drugs. Some species contain alkaloids (e.g. dioscorine C13H19O2N) and steroid 
+derivatives. Table 10 provides a summary of the nutritional values of yams while Table 11 
+provides that data for individual yam species. It should be noted that the method preparation 
+affects the final nutritional status of yam-based foods. These data are useful in designing new 
+product formulations as well as efficient food process operations. 
+Table 10: Range of nutritional values of yam (nutrients in 100-g edible portion). 
+Nutrient  Tuber  Bulbils  
+Calories  71.00 - 135.00  78.0  
+Moisture (%)  81.00 - 65.00  79.4  
+Protein (g)  1.40 - 3.50  1.4  
+Fat (g)  0.40 - 0.20  0.2  
+Carbohydrate (g)  16.40 - 31.80  18.0  
+Fibre (g)  0.40 - 10.00  1.2  
+Ash (g)  0.60 - 1.70  1.0  
+Calcium (mg)  12.00 - 69.00  40.0  
+Phosphorous (mg)  17.00 - 61.00  58.0  
+Iron (mg)  0.70 - 5.20  2.0  
+Sodium (mg)  8.00 - 12.00     
+Potassium (mg)  294.00 - 397.00     
+b -Carotene eq. (mg)  0.00 - 10.00     
+Thiamin (mg)  0.01 - 0.11     
+Riboflavin (mg)  0.01 - 0.04     
+Niacin (mg)  0.30 - 0.80     
+Ascorbic acid (mg)  4.00 - 18.00     
+ 
+ 
+YAMS: Post-harvest Operations Page 17 
+ 
+Table 11: Nutrient content of yam species (Dioscorea spp.) per 100-g edible tuber portions.  
+   D. 
+spp.  
+D. 
+Alata 
+Water 
+yam  
+D. 
+Bulbifera 
+Potato 
+yam  
+D. 
+Cayenensis 
+Yellow 
+yam  
+D. 
+Dumentorum 
+Bitter yam  
+D. esculenta 
+Lesser yam  
+D. 
+rotundata 
+White 
+yam  
+D. 
+trifida 
+Cush-
+cush 
+yam  
+Water (ml)  69  65 76†  71 (79)‡  80  67  70 74†  80  80.7  
+Calories  119  135 87  112 (78)  71  124  112 102  71     
+Protein (g)  1.9  2.3 1.9  1.5 (1.4)  1.5  3.2  3.5 1.5  1.5  2.54  
+Fat (g)  0.2  0.1 0.2  0.1 (0.2)  0.1  0.1  0.1 0.2  0.1  0.44  
+Carbohydrate 
+(g)  27.8  31 20  26 (18)  16  28  25 24  16  38  
+Fibre (g)  0.8  1.5 0.6  0.9 (1.2)  0.6  0.8  0.5 0.6  0.6     
+Calcium 
+(mg)  52  28 38  69 (40)  36  52  62 12  36  8  
+Phosphorous 
+(mg)  61  52 28  29 (58)  17  45  53 35  17  38  
+Iron (mg)  0.8  1.6 1.1  (2.0)  5.2       0.8  5.2  0.52  
+Vitamins                          
+-carotene 
+equiv. (µg)  10  10 5                    
+Thiamine 
+(mg)  0.11  0.05 
+0.10           0.10        
+Riboflavin 
+(mg)  0.02  0.03 
+0.04           0.01        
+Niacin (mg)  0.3  0.5 0.5           0.8        
+Ascorbic acid 
+(mg)  6  12 6           15        
+†Two values reported; ‡Bulbil or aerial tuber. Source: (Opara, 1999). 
+Physico- chemical & rheological properties 
+Tuber size and shape are variable depending on the species and growing conditions. Tuber 
+size can range from a few centimetres and grams, to 2-3 m and over 50 kg. The tuber of most 
+important cultivars are cylindrical in shape, with some root „hairs‟. Tannin cells and cells 
+containing bundles of crystals (raphids) are also present, and these crystals are responsible for 
+the itchiness of raw yam tuber and some other root crops when eaten or placed in contact 
+with the skin. 
+Respiration rates of yam tuber are important in the design of storage structures and their 
+environmental control facilities. Respiration data is also useful in the design of MA 
+packaging and coating of tubers with waxes to extend their shelf life. Respiration rate is a 
+good indicator of metabolic activity in tissue and therefore provides a useful guide to 
+potential storage life. It is usually measured by the rate of O2 depletion or by the rate of CO2 
+evolution. Tuber age, degree of physical damage and/or spoilage by microorganisms affect 
+the rate of respiration. Yams respire actively at harvest and during sprouting. Respiratory 
+activity is minimal during the period of dormancy. Rates of respiration can vary from 5-20 
+YAMS: Post-harvest Operations Page 18 
+ 
+mL CO2.kg-1 fresh weight.hr-1 in healthy tuber (D. rotundata) to over 35 mL CO2.kg-1 fresh 
+weight.hr-1 in decaying tuber. 
+Respiratory weight loss contributes significantly to total storage loss and yams stored for 5 
+months may loose up to 10% of dry matter content through respiration (Coursey and Walker, 
+1960). During storage, the increase in both heat of respiration and heat load is greater at high 
+initial store temperatures. Under tropical conditions (15-35°C), the heat of respiration can 
+account for up to 89-100% of the total heat load in storage especially if the tubers are free 
+from infection by mold and other micro-organisms (Alakali et al., 1995). Accurate data on 
+heat load is essential in designing improved and efficient coldstorage facilities. The 
+relationship between heat  load from respiration and heat of respiration for yams is: 
+Qp = 0.021 + 4.247Qr 
+where Qp = heat load from respiration and Qr = heat of respiration (R = 0.99). 
+Regression equations can also be used to estimate the storage air temperature based on data 
+on initial storage temperatures (Table 12). 
+Table 12: Linear regression equations of storage air temperature and storage time (X in 
+hours). 
+Initial storage temperature (°C)  Regression equation  Correlation coefficient  
+15  16.24 + 0.131X  0.96  
+20  20.97 + 0.176X  0.98  
+25  24.27 + 0.171X  0.98  
+30  29.82 + 0.194X  0.99  
+35  32.98 + 0.1217X  0.98  
+Source: (Alakali et al., 1995).  
+The thermo-physical and rheological properties of yam are also important in designing 
+handling and processing operations. They are also useful in predicting starch behaviour 
+during cooking and cooling processes. Some of the relevant properties include specific heat 
+capacity of tuber, size of starch granules, viscosity, and gelatinisation temperature. Tuber 
+moisture content varies considerably among species, harvest date and length of storage, and 
+for design purposes an average moisture content of about 73.5% is recommended 
+(Hardenburg et al., 1986).The specific heat of yam tuber can be estimated from Siebel‟s 
+equation based on the moisture content (Siebel, 1892): 
+S = 0.0335 x (% H20 in food) + 0.8370, kJ.kg-1.C-1 
+In industrial processing the range of starch granules and their gelatinisation temperatures are 
+economically important for good product formulation and equipment performance. The  
+granules of yam starch from the different species may be classified into four groups based on 
+size and form  (Table 13 ). Other rheological properties of yams also vary among the species 
+(Table 14). 
+ 
+YAMS: Post-harvest Operations Page 19 
+ 
+Table 13: Starch granule size and range of gelatinisation temperatures of yams. 
+Species Granule size (µ) Gelatinisation temperature (°C) 
+D. alata 5-50 69.0-78.5 
+D. rotundata 5-45 64.5-75.5 
+D. cayenensis 3-25 71.0-78.0 
+D. opposita 5-60 65.5-75.5 
+D. Bulbifera 5-45 72.0-80.0 
+D. esculenta 1-15 69.5-80.5 
+D. hispida 1-5 75.5-83.0 
+D. dumetorum 1-4 77.0-85.5 
+D. trifida 10-65 - 
+Source: (Coursey, 1967; Emiola and Delarosa, 1981). 
+ 
+Table 14: Categorisation of yam species based as follows starch granule size and form. 
+Examples of 
+species  
+Starch characteristics 
+ 
+D. alata 
+D. rotundata  
+D. opposita 
+ 
+Fairly large granules, oval or egg-shaped, elongated rounded squares, or mussel-
+shell-shaped, sometimes with one side flattened  
+ 
+D. bulbifera 
+D. cayenensis 
+ 
+Many fairly large granules, of rounded triangular form, sometime elongated, 
+rarely trapezoidal form  
+ 
+D. esculenta  
+D. hispida  
+D. dumetorum 
+ 
+All granules small, rounded or polyhedral, sometimes complex, as though built 
+up from many smaller granules  
+ 
+D. digitata  
+D.sinuata  
+D. belizensis 
+ 
+All granules small, rounded in form, often joined together at one or more 
+surfaces. Starches of this group are very similar to cassava or sweet potato 
+starches 
+Source: (Siedman, 1964). 
+ 
+YAMS: Post-harvest Operations Page 20 
+ 
+6 References 
+ 
+Akoroda, M.O., S.K. Hahn. 1995. Yams in Nigeria: status and trends. African Journal of 
+Root and Tuber Crops, Vol. 1(1): 38-41. 
+ 
+Alakali, S.E. Obeta, O. Ijabo. 1995. Heat of respiration of yam tubers and its effects on 
+heat load. African Journal of Root and Tuber Crops, Vol. 1(1): 31-35. 
+ 
+Bencini, M.C. 1991. Post-harvest and processing technologies of African staple foods: a 
+technical compendium. FAO Agricultural Service Bulletin 89. FAO, Rome. 
+ 
+Burton, C.L. 1970. Diseases of tropical vegetables on the Chicago market. Tropical Agric. 
+Trinidad 47: 303-313. 
+ 
+Coursey, D.G. 1961. The magnitude and origin of storage losses in Nigerian yams. J. Sci. 
+Food Agric. 12(8): 574-580. 
+ Coursey, D.G. 1967. Yams. Longmans-Green, London. 
+ Coursey, D.G. 1968. Low temperature injury in yams. J. Food Technology 3: 143-150. 
+ 
+Coursey, D.G., H.M. Walker. 1960. A study of the origins of weight loss in stored yams. 
+Rep, West Afr. Stored Prod. Res. Unit, pp. 61-64. 
+ 
+Czyhrinciw, N., W. Jaffe. 1951. Modificacions quimicas durante la conservacion de raices 
+tuberculos, Archos venez. Nutr., 2(1): 49-67. 
+ 
+Dorosh, P. 1988. The economics of root and tuber crops in Africa. RCMP Research 
+Monograph, IITA, Ibadan, Nigeria. 
+ 
+Emiola, L., L.C. Delarosa. 1981. Physicochemical characteristics of yam starches. J. Food 
+Biochem. 5: 115-130. 
+ FAO. 1975. Production Yearbook. Rome. 
+ FAO. 1991. Production Yearbook for 1990. FAO, Rome. 
+ 
+Gooding, H.J. 1960. West Indian Dioscorea alata cultivars, Tropical Agric. Trinidad 37(1): 
+11-30. 
+ 
+Gregory, L.E. 1968. Factors that influence vegetative bud development in rootstock 
+segments of D. Floribunda and D. composita. J. Agric. Univ. Puerto Rico, 52: 155-163. 
+ 
+Hardenburg, R.E., A.E. Watada, C.Y. Wang. 1986. The commercial storage of fruits, 
+vegetables, and florist and nursery stocks. U.S. Department of Agriculture, Agriculture 
+HandBook No. 66 (revised). 
+ 
+Martin, F.W. 1984. (Ed). 1984. CRC HandBook of tropical food crops. CRC Press, Inc. 
+Boca Raton, Florida, USA. 
+ 
+Martin, F.W., F.K.S. Foo, J. Cuevas. 1974. Stimulation of yam (Dioscorea) tuber growth 
+by gamma irradiation. J. Amer. Soc. Hort. Sci. 99: 282-284. 
+ 
+McGregor, B.M. 1987. Tropical products transport HandBook. U.S. Department of 
+Agriculture, Agriculture HandBook No. 668. 
+ 
+National Academy of Sciences. 1978. Post-harvest food losses in developing countries, 
+U.S. National Academy of Sciences, Washington, D.C. 
+YAMS: Post-harvest Operations Page 21 
+ 
+ 
+Nystrom, L.W., J.E. Shrum, R.F. Dawson. 1973. A mechanical harvester for Dioscorea 
+composita. 3rd Int. Symp. Trop. Root Crop, Ibadan, Nigeria. 
+ 
+Onwueme, I.C. 1975. Influence of storage time on earliness of sprouting and tubering in 
+Dioscorea rotundata yams. J. Agric. Sci., Camb. 84: 503-505. 
+ 
+Onwueme, I.C. 1977. Field comparison of West African planting and harvesting practices 
+in yam (Dioscorea rotundata): pre-sprouting, dry season planting, and double-harvesting. 
+J. Agric. Sci., Camb. 84: 503-505. 
+ 
+Onwueme, I.C., W.B. Charles. 1994. Tropical root and tuber crops. Production, 
+perspectives and future prospects. FAO Plant Production and Protection Paper 126. FAO, 
+Rome. 
+ 
+Opara, L.U. 1999. Yam storage. In: Bakker-Arkema et al. (eds). CIGR Handbook of 
+Agricultural Engineering Volume IV Agro Processing. pp. 182-214. The American 
+Society of Agricultural Engineers, St. Joseph, MI. 
+ 
+Opara, L.U. 2001. Onions: Post-harvest operations in developing countries. INPhO 
+Compendium, FAO, Rome (in press). 
+ 
+Passam, H.C., R.A. Noon. 1977. Deterioration of yams and cassava during storage. Ann. 
+Appl. Biol. 85: 436-440. 
+ 
+Seidmann, J. 1964. Mikroskopische Untersuchung verschiedener Dioscorea-starken. 
+Starke 16: 246-253. 
+ Siebel, J.E. 1892. Specific heat of various products. Ice and Refrigeration, 2: 256-257. 
+ 
+Thompson, A.K. 1996. Postharvest technology of fruit and vegetables. Blackwell Science, 
+London. 
+ 
+Thompson, A.K., B.O. Been, C. Perkins. 1977. Fungicidal treatment of stored yams. 
+Tropical Agric. Trinidad 54: 179-183. 
+ 
+YAMS: Post-harvest Operations Page 22 
+ 
+7 Annex 
+ List of tables 
+ Table 1: World production of yam (Dioscorea) 
+ Table 2: World‟s leading yam producers in 1990. 
+  
+ Table 3: Recent data on world production and trade in yams 
+ Table 4: Time from planting to maturity and yield for different yams species. 
+ 
+Table 5: Effects of packaging material on the quality of D. trifida after 64 days at 20-29°C 
+and 46-62% rh. Fungal score was 0 = no surface fungal growth, 5 = tubers surface entirely 
+covered with fungi. Necrotic tissue was estimated on the total cut surface of lengthway 
+halves. 
+ Table 6: Recommended storage conditions for yams (Dioscorea spp.) 
+ Table 7: Dormancy period of tubers of major edible yam species 
+ Table 8: Weight loss in stored yams 
+ Table 9: Pests and diseases of yams and recommended control strategies. 
+ Table 10: Range of nutritional values of yam (nutrients in 100-g edible portion) 
+ 
+Table 11: Nutrient content of yam species (Dioscorea spp.) per 100-g edible tuber 
+portions. 
+ 
+Table 12: Linear regression equations of storage air temperature and storage time (X in 
+hours). 
+ Table 13: Starch granule size and range of gelatinisation temperatures of yams. 
+ Table 14: Categorisation of yam species based as follows starch granule size and form. 
+ List of figures 
+ Fig. 1. Yam and other root crops on sale in the Kingdom of Tonga at a local market. 
+ Fig. 2. Typical Yam barn in West Africa
