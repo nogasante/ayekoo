@@ -14,12 +14,28 @@ set -euo pipefail
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 MODEL_DIR="$HERE/model"
-MODEL_NAME="qwen2.5-0.5b-instruct-q4_k_m.gguf"
-MODEL_FILE="$MODEL_DIR/$MODEL_NAME"
 
-MODEL_URL="https://huggingface.co/nogasante/ayekoo-gguf/resolve/main/$MODEL_NAME"
-EXPECTED_SHA256="74a4da8c9fdbcd15bd1f6d01d621410d31c6fc00986f5eb687824e7b93d7a9db"
-EXPECTED_BYTES=491400032
+# Ayekoo needs two GGUF models, both run through llama.cpp:
+#   1. the generation model, which writes the answer
+#   2. a small embedding model, which finds the corpus passages to answer from
+# Retrieval is not optional here — without the embedding model the assistant has
+# nothing to ground answers in — so both are fetched by this script.
+
+GEN_NAME="qwen2.5-0.5b-instruct-q4_k_m.gguf"
+GEN_URL="https://huggingface.co/nogasante/ayekoo-gguf/resolve/main/$GEN_NAME"
+GEN_SHA256="74a4da8c9fdbcd15bd1f6d01d621410d31c6fc00986f5eb687824e7b93d7a9db"
+GEN_BYTES=491400032
+
+EMB_NAME="bge-small-en-v1.5-f16.gguf"
+EMB_URL="https://huggingface.co/nogasante/ayekoo-gguf/resolve/main/$EMB_NAME"
+# Upstream fallback, used only if the primary mirror is unavailable.
+EMB_URL_FALLBACK="https://huggingface.co/CompendiumLabs/bge-small-en-v1.5-gguf/resolve/main/$EMB_NAME"
+EMB_SHA256="f0b2fef971e8366438bfd2d9aefea1b0115919389448806d290237f638bae999"
+EMB_BYTES=67308128
+
+# Kept for backwards compatibility with the single-model layout.
+MODEL_NAME="$GEN_NAME"
+MODEL_FILE="$MODEL_DIR/$GEN_NAME"
 
 # ── helpers ───────────────────────────────────────────────────────────────────
 
@@ -39,52 +55,72 @@ size_of() {
   stat -c %s "$1" 2> /dev/null || stat -f %z "$1"
 }
 
-# ── idempotency: a valid file already on disk is a no-op ──────────────────────
 
-if [[ -f "$MODEL_FILE" ]]; then
-  if [[ "$(sha256_of "$MODEL_FILE")" == "$EXPECTED_SHA256" ]]; then
-    echo "model already present and verified: $MODEL_FILE"
-    exit 0
+download_to() {
+  local url="$1" dest="$2"
+  if command -v curl > /dev/null 2>&1; then
+    # -C - resumes a partial file rather than restarting from zero, which
+    # matters on an unreliable connection; --retry-delay backs off between
+    # attempts.
+    curl -L --fail --retry 8 --retry-delay 3 --retry-all-errors -C - --progress-bar \
+      -o "$dest" "$url"
+  elif command -v wget > /dev/null 2>&1; then
+    wget --tries=8 --continue --show-progress -O "$dest" "$url"
+  else
+    echo "error: neither curl nor wget found" >&2
+    return 1
   fi
-  echo "existing file failed checksum — re-downloading" >&2
-  rm -f "$MODEL_FILE"
-fi
+}
 
-# ── download ──────────────────────────────────────────────────────────────────
+# fetch <name> <url> <fallback-url|-> <sha256> <bytes> <human-size>
+fetch() {
+  local name="$1" url="$2" fallback="$3" want_sha="$4" want_bytes="$5" human="$6"
+  local dest="$MODEL_DIR/$name"
 
-mkdir -p "$MODEL_DIR"
-echo "downloading $MODEL_NAME (469 MiB) …"
+  if [[ -f "$dest" ]]; then
+    if [[ "$(sha256_of "$dest")" == "$want_sha" ]]; then
+      echo "already present and verified: $name"
+      return 0
+    fi
+    echo "$name failed checksum — re-downloading" >&2
+    rm -f "$dest"
+  fi
 
-if command -v curl > /dev/null 2>&1; then
-  # -C - resumes a partial file rather than restarting from zero, which matters
-  # on an unreliable connection; --retry-delay backs off between attempts.
-  curl -L --fail --retry 8 --retry-delay 3 --retry-all-errors -C - --progress-bar \
-    -o "$MODEL_FILE.partial" "$MODEL_URL"
-elif command -v wget > /dev/null 2>&1; then
-  wget --tries=8 --continue --show-progress -O "$MODEL_FILE.partial" "$MODEL_URL"
-else
-  echo "error: neither curl nor wget found" >&2
-  exit 1
-fi
+  mkdir -p "$MODEL_DIR"
+  echo "downloading $name ($human) …"
+  if ! download_to "$url" "$dest.partial"; then
+    if [[ "$fallback" != "-" ]]; then
+      echo "primary source failed, trying upstream fallback …" >&2
+      rm -f "$dest.partial"
+      download_to "$fallback" "$dest.partial" || return 1
+    else
+      return 1
+    fi
+  fi
 
-# ── verify before promoting the .partial file into place ──────────────────────
+  local got_bytes got_sha
+  got_bytes="$(size_of "$dest.partial")"
+  if [[ "$got_bytes" != "$want_bytes" ]]; then
+    rm -f "$dest.partial"
+    echo "error: $name size mismatch — got $got_bytes, expected $want_bytes" >&2
+    return 1
+  fi
 
-ACTUAL_BYTES="$(size_of "$MODEL_FILE.partial")"
-if [[ "$ACTUAL_BYTES" != "$EXPECTED_BYTES" ]]; then
-  rm -f "$MODEL_FILE.partial"
-  echo "error: size mismatch — got $ACTUAL_BYTES bytes, expected $EXPECTED_BYTES" >&2
-  exit 1
-fi
+  got_sha="$(sha256_of "$dest.partial")"
+  if [[ "$got_sha" != "$want_sha" ]]; then
+    rm -f "$dest.partial"
+    echo "error: $name checksum mismatch" >&2
+    echo "  expected $want_sha" >&2
+    echo "  got      $got_sha" >&2
+    return 1
+  fi
 
-ACTUAL_SHA256="$(sha256_of "$MODEL_FILE.partial")"
-if [[ "$ACTUAL_SHA256" != "$EXPECTED_SHA256" ]]; then
-  rm -f "$MODEL_FILE.partial"
-  echo "error: checksum mismatch" >&2
-  echo "  expected $EXPECTED_SHA256" >&2
-  echo "  got      $ACTUAL_SHA256" >&2
-  exit 1
-fi
+  mv "$dest.partial" "$dest"
+  echo "done: $name (sha256 verified)"
+}
 
-mv "$MODEL_FILE.partial" "$MODEL_FILE"
-echo "done: $MODEL_FILE"
-echo "sha256 verified: $EXPECTED_SHA256"
+fetch "$GEN_NAME" "$GEN_URL" "-"                 "$GEN_SHA256" "$GEN_BYTES" "469 MiB"
+fetch "$EMB_NAME" "$EMB_URL" "$EMB_URL_FALLBACK" "$EMB_SHA256" "$EMB_BYTES" "64 MiB"
+
+echo
+echo "all models present in $MODEL_DIR"

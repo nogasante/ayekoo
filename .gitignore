@@ -19,3 +19,11 @@ audit.json
 # The extracted text in corpus/text/ IS committed: it is the actual corpus, and
 # the submission must work offline without refetching anything.
 corpus/raw/
+
+# Build logs
+index-build.log
+*.log
+
+# The retrieval index IS committed (index/chunks.jsonl, vectors.npy,
+# manifest.json) — the submission must work offline without re-embedding the
+# corpus, which takes ~15 minutes of CPU.

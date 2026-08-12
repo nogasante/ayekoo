@@ -28,24 +28,67 @@ The model does not answer from its own parameters — it answers from retrieved 
 
 The method is continental; the corpus is Ghanaian because that is the only honest way to build one in the time available. Swap the corpus for a Kenyan or Nigerian one and the same system serves those farmers.
 
+## How answers are produced
+
+```text
+question
+   ↓
+embed with bge-small (llama.cpp)      ─┐
+   ↓                                   │  both run locally,
+hybrid retrieval over 3,799 chunks     │  no network, ever
+   dense (cosine) + BM25, fused        │
+   ↓                                   │
+top passages + their attributions      │
+   ↓                                   │
+Qwen2.5-0.5B via llama-server         ─┘
+   ↓
+answer, citing [1] [2] by source
+```
+
+**The model is not the source of truth — the corpus is.** The model's only job is to read retrieved passages and say what they contain, in plain language, naming the source. If retrieval finds nothing relevant, Ayekoo says *"My sources do not cover this"* rather than guessing. A small model asked an unsupported question will invent a fluent, confident, wrong answer; an admitted gap is worth more than that.
+
+Retrieval is deliberately **hybrid**. Dense embeddings match how a farmer phrases a question ("my cassava leaves are curling") against how a manual writes it ("cassava mosaic disease causes leaf distortion"). BM25 catches what embeddings blur — exact strings like `Obatanpa`, `NPK 15-15-15`, `75cm`. Agronomy answers live or die on those, so a purely semantic index would be the wrong choice here.
+
+Where a Ghanaian and a regional source both match, the Ghanaian one is preferred; regional passages are labelled as such in the answer.
+
 ## Quick start
 
 ```bash
-# fetch the weights (idempotent, verifies SHA256)
+# 1. fetch both models (idempotent, verifies size + SHA256)
 bash download_model.sh
 
-# profile locally
-adtc-profiler run --submission . --mode participant --output submission.json --skip-accuracy
+# 2. start the generation server
+llama-server -m model/qwen2.5-0.5b-instruct-q4_k_m.gguf -c 4096 -t 4 --port 8080
+
+# 3. ask a question
+python -m ayekoo.ask "When should I plant maize in the Northern Region?"
 ```
 
-`download_model.sh` needs no credentials and verifies both file size and SHA256 before promoting the download into place.
+The index is committed, so nothing needs re-embedding. To rebuild it after changing the corpus:
+
+```bash
+python corpus/fetch_sources.py     # refetch sources listed in corpus/sources.yaml
+python -m ayekoo.index             # re-chunk and re-embed (~15 min on 4 cores)
+python -m tests.test_grounding     # prove answers come from the corpus
+```
 
 ## Repository contents
 
 ```text
 ├── metadata.json        submission claims — domain, model, test prompts
-├── download_model.sh    fetches + verifies the GGUF into model/
+├── download_model.sh    fetches + verifies both GGUFs into model/
 ├── REPORT.md            technical writeup
+├── ayekoo/
+│   ├── chunker.py       splits sources into chunks that carry provenance
+│   ├── index.py         embeds chunks, writes the index
+│   ├── retrieve.py      hybrid dense + BM25 retrieval
+│   └── ask.py           grounded, cited answering
+├── corpus/
+│   ├── sources.yaml     provenance record for every document
+│   ├── fetch_sources.py downloads and extracts them
+│   └── text/            extracted text — this is the corpus, and it is committed
+├── index/               chunks + vectors, committed so it works offline
+├── tests/               grounding and refusal tests
 └── model/               weights land here; never committed
 ```
 
