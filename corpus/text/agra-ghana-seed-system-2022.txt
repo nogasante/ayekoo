@@ -1,0 +1,154 @@
+# Breeding, Variety Release & Maintenance: Ghana Country Profile 2022
+# publisher: AGRA (CESSA)
+# year: 2022
+# url: https://cessa.agra.org/wp-content/uploads/2023/09/GHANA-BVRM-COUNTRY-PROFILE-2022.pdf
+# attribution: AGRA/CESSA, Ghana Breeding & Variety Release Country Profile (2022)
+# ghana_specific: True
+# extent: 3 pages
+# CAVEAT: Seed-system policy, not agronomy. Useful for institutional context only; a farmer will never ask this.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Profile Element Response 
+1 Focus crops for assessment 
+Maize, Rice, Soyabean and Groundnut 
+2 National public institutions (stations) in 
+charge of breeding work for focus crops 
+CSIR-Savanna Agricultural Research Institute 
+(SARI), CSIR-Cops Research Institute, WACCI 
+and all public universities.  
+3 Number of qualified and active public 
+breeders for each focus crop  Information on CSIR-SARI staff:  Maize: 2, Rice: 
+1, Soyabean: 2, groundnut: 1 
+4 
+Number and focus of scientists from support 
+disciplines (such as agronomy, entomology, 
+etc.) that support breeding for each focus 
+crop 
+Information on CSIR-SARI staff: agronomist: 5, 
+weed scientist: 2, socio-economist: 3, 
+entomologist: 3, soil scientist: 2, biometrician: 
+1, Genetic resources expert: 1 
+5 Private entities with breeding programs for 
+focus crops in the country Legacy Crop Improvement Program (LCIC) 
+6 Institutions/agencies in charge of variety 
+testing and release 
+Research institutions and public universities 
+are in charge of variety testing; Plant 
+Protection and Regulatory Services Directorate 
+(PPRSD) and the National Variety Release and 
+Registration Committee (NVRRC) are in charge 
+of variety release. 
+7 Average time to release a variety (note TASAI 
+or other source) 9.2 months (TASAI) 
+8 Availability of documented variety release 
+data, including DUS and NPT/VCU 
+Documentation on variety release data 
+including DUS and NPT/VCU on every variety 
+released in the country is available. It is 
+mandatory for an institution nominating a 
+variety to be released to prepare and submit a 
+dossier (release data, including DUS and 
+NPT/VCU) on the variety to the NVRRC for 
+assessment before the variety is 
+recommended for official release.   
+9 Extent of on-farm testing program (indicate   
+#farms x #varieties x #reps) 
+At least two seasons of on-farm testing of a 
+variety is required for a variety to be released.  
+Breeding, Variety Release & Maintenance  
+Country: Ghana  
+ 
+ 
+10 
+Focus crop varieties released in the last 10 
+years and commercialization status of each 
+(none, emerging, expanding, stalled, full) 
+Maize: Aseda: none, opeaburoo: expanding, 
+Kpari-Faako: expanding, Tintim:emerging, 
+sanzal-sima: expanding, Ewul-boyu: stalled, 
+Wang-dataa: expanding, Bihilifa: expanding, 
+Salinkawana: emerging, Denbea: emerging, 
+Wang-Basig: emerging, Similenu: emerging, 
+Tigli: none, Sika-aburoo (pan 53): expanding, 
+Kunjor-wari: expanding, Suhudoo:  emerging, 
+Warikamana: none,  Afriyie: none, Obotantim: 
+none, Nkabom: none, Dzifo: none, Ahocfe: 
+none, Ahocdzin: none, Nkunim: none, 
+Gyemedi: emerging, homanpa: none, 
+onwanwa: none, Odomfa: none, Obaapa: 
+none, Abeefo Aburo: emerging, Aburo  legon: 
+emerging, Akuafo buro: emerging, Kpariyura: 
+none,  SARIMAZ!: none,  Kum-naaya: none,  
+Nkomo: none, Akomapa: none, Hwefoc: none, 
+Nkwagye: none, Abebe: none, Apraku: none; 
+Rice: , Paired: none, Obeng-Antwi: none; Rice: 
+AGRA rice: full. Dartey: none, Kantinka: none, 
+oboafo: none, Emopa: none, Mpuntuo:, Enapa: 
+emerging, Legon rice1: none, Banse:m 
+emerging, Malimali: emerging: Obolo: 
+emerging, Yenyawaso: emerging, Oboshie: 
+emerging, Otubia:, SARINUT1: emerging, 
+SARINUT2: emerging, PION: none, Abakan: 
+none, agbeyeye: none, Dehyee: none: 
+Soyabean: Afayak: expanding, Songda: none, 
+Sung-pungun: none, Gyidie: none, Latara: 
+none, Favour: expanding, Toondana: none, 
+Anigye3: none 
+11 List and year of release of varieties accounting 
+for 80% of crop volume, by focus crop 
+Obatanpa: 30 years; sanzal-sima: 10, wang-
+dataa: 10 years; Omankwa: 12 years; Abontem: 
+12 years; AGRA rice: 9 years, Gbewa(jasmine 
+85): 13 years; Soyabean: Afayak: 10 years, 
+Favour: 4 years, Jenguma: 19 years 
+12 Average life of a variety in the market  Maize: 12 years, rice: 8 years, soyabean: 8 
+years  
+13 Status of Plant Variety Protection (PVP) Act Plant breeders bill passed.  
+14 Functionality of variety licensing program(s) Variety licensing programs are not functional.  
+15 Functionality of royalty collection programs No royalty program exits for varieties released 
+by public institutions.  
+16 Allocation of royalties collected back to 
+breeding program(s) No royalties are paid to breeding programs.  
+17 
+Infrastructure in place to support public 
+breeding work --cold rooms, irrigation, land 
+(resilience screening, green houses), modern 
+labs, etc.  
+Poor access to irrigation facilities, obsolete labs 
+and green houses, non-functional cold rooms, 
+poor access to well-prepared research field 
+appropriate for variety phenotyping.  
+ 
+ 
+18 Status/condition of national gene bank 
+The CSIR-Plant Genetic Resource Research 
+Institute in charge of the national seed bank is 
+not adequately resourced to carry out its 
+mandate efficiently.  
+19 Major innovations that have impacted the 
+program in the last 5 years Marker-assisted breeding 
+20 Key variety access and licensing information 
+available on government website(s) 
+Catalogue of crop varieties released in the 
+country is available online. There is no 
+information on variety licensing.  
+21 
+Learning events or joint activities between 
+breeders and private sector in the last two 
+years 
+Breeders and private seed producers (NASTAG) 
+collaborate on variety testing (on-farm), 
+Variety promotion and seed production 
+activities.   
+22 Program's total budget for each of the last 5 
+years 
+Estimated budget of USD 40,000.00 per 
+program per year 
+23 
+Proportion of the budget spent on the 
+following: salaries/breeding/testing/other 
+(total should add up to 100%) 
+70%: salaries; 10%: breeding, 15%: variety 
+testing, 5%: others

@@ -1,0 +1,1695 @@
+# Hybrid Maize Seed Production Manual
+# publisher: Ministry of Food and Agriculture, Ghana — via NASTAG
+# year: unknown
+# url: https://nastag.org/docx/resources/Hybrid%20Maize%20Production%20Manual.pdf
+# attribution: MoFA Ghana, Hybrid Maize Seed Production Manual
+# ghana_specific: True
+# extent: 80 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+MINISTRY OF
+REPUBLIC OF GHANA
+FOOD & AGRICULTURE
+HYBRID MAIZE 
+SEED PRODUCTION 
+M A N U A L
+
+
+Table of Contents
+List of Tables 3
+List of Figures 4
+Acknowledgement 6
+Foreword  7
+List of Abbreviations 9
+1.0. General Introduction 10
+1.1. What is Hybrid Maize? 11
+1.2. Hybrid Composition 12
+1.3. What is Heterosis (Hybrid Vigor)? 12
+1.4. Hybrid Cultivars 14
+2.0. Line Development for a Hybrid Seed Production 16
+2.1. Cultivar Release, Seed Multiplication and Certification in Ghana 19
+2.2. Causes of loss of genetic purity during seed multiplication 22
+2.3. Choosing the Right Parental Lines for Hybrid Seed Production 22
+3.0. Field Management Operations for Maize Hybrid Seed Production  25
+3.1. Site Selection 25
+3.2. Land Preparation 26
+3.3. Plant Establishment 27
+3.3.1. Seeding Rate and Germination Tests 28
+3.3.2. Planting Date/Time Based on Agro-Ecological Zone 28
+3.3.3. Spacing and Plant Population 30
+3.3.4. Planting the Right Female: Male Ratio  32
+3.4. Synchronization of flowering 34
+3.5. Fertilizer and Irrigation Requirements  35
+3.5.1. Fertilizer Requirements 35
+3.5.2. Soil Testing 36
+3.5.3. Types of Fertilizers  38
+3.5.4. Modes of Fertilizer Application 39
+3.5.5. Time of Fertilizer Application 40
+3.5.6. Irrigation Requirements 41
+3.6. Weed Control 43
+3.7. Common diseases and their control 45
+3.8. Common Insect Pests of Maize and Their Management  51
+3.9. Rouging  63
+3.9.1. When to Rogue 64
+3.10. Detasseling 65
+3.11. Male Removal 66
+3.12. Harvesting and Post-Harvest Processing 67
+3.13. Seed Bagging and Labelling 68
+3.14. Seed Storage 69
+3.15. Bulk Storage of Seed 72
+3.16. Record keeping 73
+4.0. Conclusion 74
+5.0. Bibliography 75
+List of Tables
+Table 1. Estimation of hybrid superiority in grain yield over its inbred parents. 14
+Table 2. A guide for inbred line development for a small commercial breeding 
+program for hybrid maize in Ghana. 18
+Table 3. GCA for maize grain yield (t/ha) in crosses between heterotic groups 23
+Table 4. SCA for maize grain yield (t/ha) in crosses between heterotic groups 23
+Table 5. Recommended seeding rate after germination tests. 28
+Table 6. Suggested planting dates for maize in Ghana. 30
+Table 7. Common low and high plant population densities and their planting 
+distances for maize. 33
+Table 8. Selection of an irrigation method based on the depth of the net irrigation 
+application. 42
+Table 9. Common herbicides for controlling weeds on maize fields. 44
+List of Figures
+Figure 1. Common types of conventional hybrids in maize 12
+Figure 2. Hybrid vigor in maize. 13
+Figure 3. Line development for hybrid seed production 17
+Figure 4. Classes of pedigree seed in Ghana’s certification system. 21
+Figure 5. Pictorial Identification of Parents. 24
+Figure 6. Main agro-ecological zones of Ghana. 26
+Figure 7. Planting maize in lines at a given inter and intra row spacing. 31
+Figure 8. Effect of plant population on the yield of maize.  32
+Figure 9. Setting a 3:1 female to male plants ratio in a hybrid maize seed field. 34
+Figure 10. Common female to male planting ratio on the field. 34
+Figure 11. Maize leaves expressing signs of major nutrient deficiency. 36
+Figure 12. Soil sampling tools showing a spade and an auger. 37
+Figure 13. A v-shaped cut made with a spade to collect soil samples. 37
+Figure 14. Band placement of fertilizer to plants. 40
+Figure 15. Ring and point placement of fertilizer to plants. 40
+Figure 16. Maize yield reduction due to water deficit. 41
+Figure 17. Sprinkler and furrow irrigation system for maize. 43
+Figure 18. A maize field infested with Striga. 45
+Figure 19. Detasseling of the tassel from female plants before pollen shedding. 66
+Figure 20. Removal of male plants after pollination. 67
+Figure 21. Sorting of cobs on the field or at shelling site. 68
+Figure 22. Diagram illustrating the combinations of temperature and MC (or ERH) at 
+which different organisms can grow in storage for maize. 70
+Figure 23. Measurement of relative humidity (RH) and its relationship to product 
+moisture content (MC) and storage potential. 71
+Figure 24. Stored seed in labelled bags in well-constructed stacks on pallets with a 
+bin card to monitor stock quantities. 72
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+6
+ACKNOWLEDGEMENT
+The Ministry of Food and Agriculture expresses thanks to the wide range of 
+stakeholders, partners and officials from various ministries, departments, agencies, 
+universities and companies who, in diverse ways, assisted in the development of 
+this Hybrid Maize Seed Production Manual. 
+Special commendations go to Mr. Seth Osei-Akoto, the Acting Director of Crop 
+Services of the Ministry of Food and Agriculture,  whose  support and direction 
+made this process come to a successful fruition; Our special thanks go to Mr Richard 
+Tuwmasi-Ankrah, the head of the Planting for Food and Jobs Secretariat under whose 
+leadership this document was conceived. We would like to express our appreciation 
+to members of the National Seed Trade Association of Ghana (NASTAG) and Dr. 
+Beatrice Elohor Ifie of the West Africa Centre for Crop Improvement (UG-WACCI) 
+as well as Mr. Collins Oppong of the Directorate of Agricultural Extension Services  
+(DAES) for their constructive criticism that shaped the development process. 
+We specifically acknowledge the technical contributions and directions of Dr. 
+Solomon Gyan Ansah, Deputy Director and Head of the Seed Unit of the Directorate 
+of Crop Services, Mr. Rowland Adjei Addo, Mr Isaac Agyare and Ms Helena Akyen 
+all of the Directorate of Crop Services as well as Mr. Jefferson Attipoe (FAO-Ghana).
+The Ministry wishes to express its gratitude to the Food and Agriculture Organization 
+of the United Nations (FAO) for providing the necessary support in developing this 
+manual and assigning Prof. Richard Akromah of the Kwame Nkrumah University of 
+Science and Technology and his team for developing this Manual.  
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+7
+FOREWORD
+Improved seed is an input in crop production system to obtain higher yield, tolerate 
+pest and disease incidence, adapt to climate change and improve nutrition. 
+Improved seed determines the efficiency of all other inputs of crop production 
+since a significant contribution to productivity is gained solely from the seed used. 
+Knowledge of this has popularized the use of hybrid seed in modern agriculture. 
+Owing to the advantages of the state-of-the-art technology delivered by hybrid 
+varieties over Open-Pollinated Varieties (OPVs), farmers in Ghana are gradually 
+shifting from OPVs to Hybrids as exhibited by maize farmers under the “Planting for 
+Food and Jobs” Campaign. This new development, coupled with the importation 
+of hybrid maize seed due to its limited production in Ghana, has necessitated the 
+compilation of this hybrid maize seed production manual which will serve as a 
+guide for maize seed producers to successfully produce quality hybrid maize seeds 
+for farmers. 
+This hybrid maize seed production manual is designed to provide guidelines on 
+the production of different types of hybrid maize seeds. It is also hoped that this 
+manual will contribute modestly to the goal of entrenching and increasing hybrid 
+seed production in Ghana. 
+The lead author of this manual, Professor Richard Akromah, is a lecturer at the 
+Kwame Nkrumah University of Science and Technology. Professor Akromah 
+has many years’ experience in Research and Plant Breeding and has offered 
+training to Plant Breeding experts in-country and outside the country. Due to his 
+vast experience, he has been consulted on many occasions by both national 
+and international organizations for important agricultural development works. In 
+compiling this manual, he sought expert opinion from wide range of seed sector 
+stakeholders which include; Seed producers, Researchers, Agriculturists, Extension 
+officers and seed marketers/traders and other actors of the seed value chain to 
+enrich the document. 
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+8
+May I seize this moment to commend the author and all the experts whose opinion 
+were sought to compile this manual. Our sincere gratitude goes to the Food and 
+Agriculture Organization of the United Nations for their technical support in the 
+preparation of this manual. 
+It is expected that our diligent seed producers and all other stakeholders along the 
+maize seed value chain would utilize the information in this manual to enhance 
+hybrid maize seed production in Ghana. 
+SETH OSEI-AKOTO
+DIRECTOR OF CROP SERVICES
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+9
+AEAs Agricultural Extension Agents
+BP Better Parent
+BPH Better Parent Heterosis
+DAES Directorate of Agricultural Extension Services 
+DCS Directorate of Crop Services
+DUS Distinctness, Uniformity and Stability
+F1 First Offspring
+FAO Food and Agriculture Organization of the United Nations
+GCA General Combining Ability
+KNUST Kwame Nkrumah University of Science and Technology
+LGB Larger Grain Borer
+MC Moisture Content
+MoFA Ministry of Food and Agriculture 
+MP Mid Parent
+NASTAG National Seed Trade Association of Ghana 
+NSC National Seed Council
+NVRRC National Varietal Release and Registration Committee
+OPVs Open-Pollinated Varieties 
+RH Relative Humidity
+SCA Specific Combining Ability
+SRI Soil Research Institute
+UG-WACCI University of Ghana-West Africa Centre for Crop Improvement 
+UN United Nations
+VCU Value for Cultivation and Use
+LIST OF ABBREVIATIONS
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+10
+Farmers need hybrid seeds with high yield potential and unique gene combinations 
+to withstand diseases and hostile environmental conditions. Nonetheless, the field 
+production methods of a hybrid seed determine its quality, which must adhere to 
+both quality assurance standards and proper agronomic management practices. 
+Whereas production of open pollinated seeds from maize is comparatively 
+straightforward, production of hybrid seed requires extra skills that are indispensable 
+to the success of producing hybrids.
+Production of maize hybrid seed is a deliberate act to cross the population of the 
+female parent with a male parent in an isolated field. Thus, from the outset, the 
+identity and arrangement of the female and male parental lines in the field would 
+determine the outcome of hybrid seed production. Each hybrid variety consists 
+of a specific combination of a female (seed bearing) and male (pollen providing) 
+parents. The management of the field containing the two parents is very pertinent 
+and needs attention to timing of planting, detasseling of the females before anthesis 
+and pollen shedding, off-types elimination, separate harvesting of the female seed 
+and careful shelling and processing of the seed to maintain seed quality and purity. 
+The processes of producing hybrid maize seeds are sequential and dependent, 
+implying that any mistake made at the early stages will have significant impact on 
+subsequent stages. Such avoidable errors could result in a total rejection of seeds 
+by inspectors or total failure of the crop.
+From April to July 2019, the Ghana Office of the Food and Agriculture Organization 
+of the United Nations, through a Technical Cooperation Programme, collaborated 
+with the Ministry of Food and Agriculture and engaged KNUST to train selected 
+Seed Companies on Hybrid Maize Seed Production. This Manual is in response to a 
+request by the participants of the Workshop for a Production Manual that provides 
+special management skills for producing high quality hybrid seed and contains 
+basic information on choosing the right parents, site selection, setting planting ratios 
+of male and female parents, synchronization of flowering, detasseling, rogueing, 
+harvesting and post-harvest operations for growers to produce high quality hybrid 
+1.0 General Introduction
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+11
+seeds to farmers for increased productivity. The current manual also provides 
+valuable insights into how seed companies could develop their own inbred lines 
+for commercial purposes.
+1.1 What is Hybrid Maize?
+Hybrid maize is an F1 generation (first offspring) resulting from crossing of two or 
+more genetically different parents. The female plant bears the hybrid (F1) seed and 
+it is called the female or seed parent, whereas the pollen parent or the male plant 
+is the plant that provides the pollen to fertilize the female. Maize has separate male 
+and female plant parts and it is relatively easy to make a cross between two plants. 
+In producing hybrid seeds on the field, male and female parents are planted in 
+sequential row patterns, usually with three-to-six times the number of female plants 
+or rows to a single male plant or row. Detasseling of the female plant is done before 
+pollen is shed, so that the tassel on the male plants would be the only source of 
+pollen for the female flower (the cob or the ear) on the female plants. It is necessary 
+to remove the tassels of the female to prevent self-pollination of the female plant. If 
+this occurs, which is referred to as “female-selfing”, the result is a significant loss of 
+seed quality that will clearly be visible in a crop grown from the seed. Female-selfing 
+is to be avoided at all costs. The number of female rows in proportion to male rows 
+in the field is usually on the order of 3:1 for single-crosses and three-ways but may 
+increase to 8:1 for double-cross hybrids. Number of factors account for the actual 
+ratio that are planted, but mostly on the quantity of pollen produced by the male 
+parent. After a successful cross pollination and fertilization, the seed harvested 
+from the female parent is the hybrid seed that contains a unique heterozygous 
+genotype and the ensuing plant produced from the hybrid seed will have desirable 
+characteristics of both parents. Plant breeders (or Seed Companies) develop 
+parental lines of each hybrid to produce an offspring with unique and particular 
+characteristics, which includes drought tolerance, heat stress tolerance, grain color, 
+disease resistance, plant maturity, food processing quality and higher yield. It is this 
+special hybrid seed that are being sown by farmers in their fields.
+Maize hybrids can be classified into two broad categories:
+Conventional hybrids : Obtained by crossing two or more genetically different 
+inbred lines. Examples are Single Single-cross, three-way and double-cross hybrids 
+are the most common types of maize hybrids. A single-cross hybrid is made by 
+crossing two inbred lines; a three-way hybrid is made by crossing a single-cross 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+12
+hybrid with an inbred line, while a double-cross hybrid is made by crossing two 
+Single-cross hybrids. Examples are single cross, three-way cross and double cross 
+hybrids as shown in Figure 1.
+Figure 1. Common types of conventional hybrids in maize
+Non-conventional hybrids : At least one parent is not an inbred line. Example, 
+variety cross, top cross and double top cross hybrids. A top-cross hybrid is made 
+from an open-pollinated variety crossed with an inbred line, while a varietal cross is 
+a hybrid of two unrelated open-pollinated varieties.
+1.2 Hybrid Composition
+Inbred lines are the basic building blocks of hybrid maize. Inbred lines are developed 
+from the repeated self-pollination of particular maize populations to produce a plant 
+that essentially has a fixed and uniform genetic composition. Subsequently, all 
+inbred lines of a particular plant are indistinguishable, yet each inbred line will vary 
+in its genetic composition from other inbred lines. Because maize is normally cross-
+pollinated, repeated self-pollination results in inbreeding depression; thus, inbred 
+lines are usually smaller, less vigorous and lower-yielding than open-pollinated 
+maize plants. But, when two genetically dissimilar inbred lines are crossed, a hybrid 
+seed is formed, which produces plants with restored vigor and a significantly higher 
+yield than either of the two parents. This hybrid superiority is known as “hybrid 
+vigor,” and it is this vigor that is exploited in hybrids and makes hybrid varieties 
+useful to farmers.
+1.3. What is Heterosis (Hybrid Vigor)?
+Hybrid maize is based on the principle of heterosis (hybrid vigor) in plant breeding. 
+It is the superiority in performance of hybrid individuals compared with their parents 
+(Figure 2). The occurrence of heterosis is common in plant species, but its level of 
+expression is highly variable.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+13
+Figure 2. Hybrid vigor in maize. F1 hybrid (middle) which has a superior 
+performance compared with the parents (on either side)
+Heterosis can either be expressed as percent increase or decrease in hybrid (F1) 
+performance over mid-parental (MP) value:
+or better parent (BP) value:
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+14
+Table 1. Estimation of hybrid superiority in grain yield over its inbred parents.
+Grain yield (t/ha)
+Lines A B C A/B A/C B/C
+Yield 1.5 1 1.4 4 6 5
+ Heterosis estimates
+MP (t/ha) MPH (%) BPH (%)
+A/B 1.25 220 166.7
+A/C 1.45 313.8 300.0
+B/C 1.20 316.7 257.1
+Some estimations of heterosis have been provided in the Table 1.
+1.4. Hybrid Cultivars
+ Hybrid vigor is highest at the F1 and declines in subsequent generations upon self-
+pollination due to a reduction in heterozygosity. Thus, as the number of heterozygous 
+genotypes decreases in a seed lot, the amount of heterosis expressed would 
+decrease, as a result of inbreeding depression. The amount of vigor expressed is 
+also contingent on the type of hybrid seed produced and the level of uniformity 
+among F1 materials constituting the hybrid seed lot. Hybrid vigor, thus, decreases 
+in order of magnitude from single cross hybrids > three-way cross hybrids > double-
+cross hybrids etc. However, in terms of hybrid seed yield, synthesizing a double-
+cross hybrid yields the highest quantity of hybrid seeds followed by three-ways 
+cross hybrids, and single cross hybrids. Thus, regarding cost of hybrid seeds, single 
+cross hybrid seeds are the highest and double-cross hybrid seeds command the 
+lowest cost.
+For hybrid seeds, farmers are advised not to save seeds from previous season’s 
+harvest for replanting to prevent a decline in hybrid vigor expression. This advice 
+is strongly recommended because, when a hybrid seed is grown and it in turn sets 
+seeds upon maturing on farmers’ fields, the harvest from the hybrid field would be 
+a heterogeneous mixture of different genotypes of seeds. Since a hybrid plant is 
+chiefly heterozygous in genotype, upon self or cross pollination, it would segregate 
+into other genotypes, comprising both homozygotes and heterozygotes. The 
+presence of the homozygous genotypes in the harvested seeds from a hybrid plant 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+15
+would cause inbreeding depression in the ensuing plants when planted, and one 
+cannot phenotypically identify true hybrid seeds from the harvest. It is, therefore, 
+advisable for farmers to buy true hybrid seeds for each season’s planting from 
+certified sources in order to derive the full benefits of hybrid seed technology.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+16
+The success of hybrid seed technology depends on the availability of inbred lines 
+possessing the desirable attributes of the hybrid cultivar based on the expected 
+product profile or target. Inbreds are developed using conventional methods of 
+repeated selfing of a derived F1 between two or more parents or using modern 
+techniques such as doubled haploid technology.
+Doubled haploid technology helps to rapidly produce inbred lines 
+within a relatively short time compared with repeated selfing of 
+derived F1.
+After line development, the next important step is to evaluate the developed lines 
+to ascertain their performance in hybrid combinations with known testers (Figure 
+3). Table 2 shows a guide for developing inbred lines for a small commercial maize 
+breeding program for hybrid maize.
+A tester is another inbred line which serves as a partner for testing 
+derived inbred lines in hybrid combinations.
+This evaluation exercise enables the identification of lines that show the highest 
+combining abilities or heterosis for grain yield across the target markets. Of utmost 
+importance in hybrid seed technology, is the categorization of derived inbred lines 
+into heterotic groups as well as heterotic patterns.
+A heterotic group is defined as “a group of related or unrelated 
+genotypes from the same or different populations, which display 
+similar combining ability and heterotic response when crossed 
+with genotypes from other genetically distinct germplasm 
+groups” (Melchinger and Gumber 1998). A heterotic pattern, on 
+the other hand, refers to a specific pair of two heterotic groups, 
+which express high heterosis and consequently high hybrid 
+performance in their cross.
+2.0 Line Development for a  
+Hybrid Seed Production
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+17
+Classifying lines into heterotic groups would prevent the development and 
+evaluation of crosses that should be discarded, allowing maximum heterosis to be 
+exploited by crossing inbred lines belonging to different heterotic groups.
+Inbred line development as shown in Table 2, and the 
+determination of heterotic groups and patterns take time 
+depending on the method adopted and must be done by an 
+expert.
+There are two types of combining abilities that are usually estimated from testcross 
+evaluations; namely: the general and specific combining abilities.
+The general combining ability (GCA) measures the mean 
+performance of an inbred line when it is crossed with a series 
+of other inbreds or testers. Whereas, the specific combining 
+ability (SCA) is due to genetic effects that are specific to a hybrid 
+combination and that are not accounted for by the GCA effects of 
+its parents.
+A specific pair of inbred lines that show high heterosis would equally exhibit high 
+SCA. Tables 3 and 4 show the estimation of GCA and SCA for four inbred lines (A – 
+D) using three testers (E –F).
+                                     
+                                                     
+  F1         
+      
+                                                  
+                                                 
+                                                                     
+                                             
+         
+                              
+The tester is another inbred which serves as 
+partner for testing derived inbreds in hybrid 
+combination 
+Performance test of testcrosses 
+Parent 1 x Parent 2 
+Inbreds x Tester (s) 
+New inbreds and hybrids 
+ 
+Figure 3. Line development for hybrid seed production
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+18
+Table 2. A guide for inbred line development for a small commercial 
+breeding program for hybrid maize in Ghana.
+Season  Activity
+Major, Year 1 (1) Grow 40 F 2 or BC 1 populations (i.e., S 0 generation) that have 
+been formed in previous years.
+(2) Cross 50 selected S 0 plants in each population to a haploid 
+inducer++.
+Minor, Year 1  Double the chromosomes of putative haploids to create doubled 
+haploids++.
+Major, Year 2  Self doubled haploids to increase seeds.
+Minor, Year 2 (1) Discard about 25 % of the derived doubled haploids based on 
+per se performance.
+(2) Cross each of the 1500 remaining doubled haploids to an 
+appropriate inbred tester.
+Major, Year 3  Yield trials of 1500 doubled-haploid testcrosses in unreplicated 
+trials at 2 - 4 locations in the target area.
+Minor, Year 3 (1) Select top 10 % of doubled haploids based on their testcross 
+performance.
+(2) Cross 150 doubled haploids to 2 testers each.
+Major, Year 4 Yield trials of 300 doubled-haploid testcrosses in unreplicated 
+trials at 4 - 6
+Locations in the target area.
+Minor, Year 4 (1) Select top 10 % of doubled haploids based on their testcross 
+performance.
+(2) Cross each doubled haploid to 3 elite inbreds or testers.
+Major, Year 5 First replicated yield trials of experimental hybrids at 5 – 15 
+locations.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+19
+Minor, Year 5 (1) Second replicated yield trials of advanced hybrids at 5 - 20 
+locations.
+(2) On-farm tests (i.e., 50 - 150 m2 plots) at 20 - 50 locations/sites.
+Major, Year 6  On-farm tests of precommercial hybrids at 50-100 locations/
+sites.
+Minor, Year 6  Release 0-2 new hybrids.
+++: These activities should be outsourced to a commercial entity with the 
+expertise to produce doubled haploid plants. On-farm tests could be done 
+on farmers’ fields. Minor season evaluations require irrigation facilities to 
+supplement rainfall.
+2.1.  Cultivar Release, Seed Multiplication and Certification in Ghana
+The ultimate goal of a commercial breeding program for hybrid maize is to release 
+a hybrid variety with high yield and superior performance to existing cultivars 
+(commercial heterosis). After rigorous testing of promising hybrid combinations 
+in different environments (location/season/year) as depicted in Table 2, the seed 
+company will select one or few hybrid combinations for release to the agricultural 
+system for use. The new hybrid cultivar may be released for specific adaptation or 
+broad adaptation in target areas. For a hybrid cultivar, the parental lines are the most 
+precious assets to the seed company and must be protected.
+One of the decisions during cultivar release is naming the new hybrid cultivar. The 
+specific steps of cultivar release process vary among countries. In Ghana, there is 
+the National Varietal Release and Registration Committee (NVRRC) under the 
+National Seed Council (NSC).
+A new cultivar submitted for release must satisfy DUS/VCU criteria. DUS stands for 
+distinctness, uniformity and stability, while VCU means value for cultivation and use. 
+For hybrids, the DUS/VCU criteria are applied to the parental lines.
+Based on the reports of the evaluation, the NVRRC will recommend to the NSC 
+to register the new variety in the national catalogue of species and varieties of 
+cultivated crops.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+20
+After developing, naming, release and registering a new hybrid 
+variety, the seed company must make the hybrid cultivar available 
+for commercial multiplication for sale.
+Seed multiplication is under the supervision of a certifying agency for compliance 
+with genetic purity and identity of the original source.
+The seed certification system is a legally sanctioned system to 
+maintain quality of seeds during multiplication, post-harvest 
+operations, and distribution. Thus, it is a quality assurance 
+process.
+Seed certification involves field inspection, seed quality tests, and pre/post-harvest 
+quality checks of pedigree seeds.
+“A pedigree seed is seed of a named cultivar that is produced 
+under strict supervision of a certifying agency for compliance 
+with genetic purity and identity of the original source.”
+It is the legal obligation of a commercial seed company to maintain the marketable 
+form of a newly introduced hybrid cultivar, so that it can be released at intervals as 
+needed in its authentic form for commercial multiplication. In Ghana, the following 
+classes of pedigree seed is recognized during multiplication (Figure 4):
+• The pre-basic/breeder seed: this class of seed is under the direct control 
+of the developer of the cultivar. The developer assumes responsibility 
+for maintaining the genetic constitution and purity of parental lines. The 
+breeder seed has the highest level of genetic purity of any class of seeds. 
+The breeder seed is used to establish foundation seed. Generally, farmers do 
+not have access to the breeder seed. It is usually given a white with diagonal 
+violet stripes tag for quick identification.
+• Foundation/basic seed: this is the first generation increase or progenies 
+of the breeder seed. Its genetic purity is close to the breeder seed and it can 
+be used to directly produce certified seeds or through registered seeds. It is 
+usually given a white tag for identification.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+21
+• Registered seed: it is produced directly from foundation seeds and serves 
+as the source for certified seeds. It is normally grown by farmers under 
+contract with a seed company. Registered seed may be commercially 
+accessible to farmers for use. It is usually given a purple tag for identification.
+• Certified seed:  it can be produced directly from foundation seeds 
+or through registered seeds. It is grown in isolated fields under legally 
+prescribed conditions to satisfy the minimum genetic purity and identity of 
+the cultivar. This class of seed is what usually goes on sale to farmers for 
+commercial use.
+Generally, as one moves from the breeder through to the certified 
+seed category, there is exponential increase in seed quantity, but 
+genetic purity decreases.
+ 
+Figure 4. Classes of pedigree seed in Ghana’s certification system.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+22
+2.2.  Causes of loss of genetic purity during seed multiplication
+During seed multiplication, genetic purity may be lost through one or a combination 
+of the following reasons:
+• Mechanical admixture
+• Natural outcrossing due to pollen contamination from nearby fields
+• Mutations
+• Multiplying seeds of the variety in an area of non-adaptation
+Preventive measures for ensuring high genetic purity include:
+• Plant in isolation either by distance or by time. Isolation by either distance or 
+time, should be considered because it prevents contamination by foreign 
+pollen. Isolation by time is strongly recommended, hence, it is advisable to 
+install irrigation facilities to augment precipitation. The minimum isolation 
+distance recommended is 400 meters for maize in Ghana.
+• Rogue out off-types.
+• Plant in areas of crop adaptation.
+• Enforce quality control measures (e.g. sanitation, cleaning of equipment).
+2.3. Choosing the Right Parental Lines for Hybrid Seed Production
+The success of a hybrid maize seed production system depends on the selection of 
+the right inbred lines as parents. As explained above, parents are selected in hybrid 
+maize seed production based on their combining abilities or heterotic responses. 
+Inbred lines that have exhibited high hybrid vigor (better-parent and commercial 
+heterosis) for grain yield and other important agronomic traits must be used as 
+parental lines.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+23
+Table 3. GCA for maize grain yield (t/ha) in crosses between heterotic groups 
+(Data from Bernardo, 2014)
+Inbred A B C D Mean GCA
+E 11.33 10.41 9.71 10.18 10.41 0.2
+F 11.05 11.42 9.3 9.07 10.21 0
+G 10.54 9.93 9.36 10.25 10.02 -0.19
+Mean 10.97 10.59 9.46 9.83 10.21
+GCA 0.76 0.37 -0.76 -0.38
+GCA = MP of inbred  − 𝜇; Where MP = mean of hybrid combination of an inbred; 𝜇 
+= overall mean ( 10.21 t/ha) in Table 3. Eg. For line B, its GCA = 10.59 – 10.21 = 
+0.37. Similarly, the GCA of line F = 10.21 – 10.21 = 0.
+Table 4. SCA for maize grain yield (t/ha) in crosses between heterotic groups 
+(Data from Bernardo, 2014)
+Inbred A B C D
+E 0.16 -0.37 0.06 0.15
+F 0.08 0.84 -0.15 -0.76
+G -0.24 -0.46 0.1 0.61
+SCA = HP − 𝜇 − GCA1 − GCA2 ; Where HP = hybrid performance; GCA1& GCA2 = GCA 
+of parent 1 & 2. Eg. For hybrid F/B, HP = 11.42, 𝜇 = 10.21, GCA of line F = 0, GCA of
+line B = 0.37 from Table 3, so its SCA is calculated as = 11.42 - 10.21 - 0 -0.37 = 
+0.84
+Based on the SCA estimates in Table 4, it could be seen that inbred line B, and tester 
+F would make a very good pair for hybrid seed production.
+Parental lines usually have specific distinguishable morphological characteristics 
+that help to easily identify them in the field. Common distinguishable features 
+include anthocyanin pigmentation in the stem or other parts of the plant as depicted 
+in Figure 5.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+24
+Figure 5. Pictorial Identification of Parents. Adapted from Ethiopian Seed 
+Association (2014).
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+25
+Achieving reasonable seed yields on seed plots after choosing the right parents 
+requires paying critical attention to good plant production, protection and post-
+production management practices. These management operations include:
+• Appropriate site selection
+• Adequate land preparation
+• Planting high quality seeds of parental lines
+• Setting the right planting ratio of male and female plants
+• Synchronization of flowering
+• Ensuring good soil nutrient and water management practices
+• Post-planting measures against weeds, pests and diseases.
+• Detasseling of female lines in the field before pollen shedding
+• Roguing of off types to ensure genetic purity
+• Timely harvesting and post-harvest operations such as shelling, cleaning, 
+sorting, drying, storage and packaging.
+3.1.  Site Selection
+In hybrid seed production, the best field on the farm should be utilized. The important 
+factors that must be considered include the following:
+• Choose land with deep well drained loamy soils.
+• Avoid planting maize in shady areas.
+• Choose gently sloping to nearly flat upland. Low-lying valley bottoms are 
+usually poorly drained and easily get waterlogged; thus, reducing yield.
+3.0. Field Management Operations 
+for Maize Hybrid Seed Production
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+26
+• Where possible, choose land that has not been cropped to cereals in the 
+previous year. It will help to reduce carry-over of diseases. Avoid planting in 
+fields that were previously sown to maize, for at least one year.
+• Moisture and fertility status of selected site must be known.
+• It is also desirable to avoid areas with significant movement of people and 
+animals.
+• Choose sites with accessible roads to facilitate the delivery of inputs, 
+inspection and the transport of the harvested seed to processing centre/
+customers.
+• The size of the field must be known due to the time pressure for detasseling 
+in hybrid seed fields. A maximum field size of 1 to 4 ha should be planted 
+at one time, depending on labor availability. Blocks of about 1 ha are most 
+manageable for detasseling and quality assurance. Larger fields may not 
+allow efficient detasseling. However, smaller fields may increase the risk of 
+foreign pollen contamination.
+• Field map, in establishing the size of the field, plays a major role in determining 
+isolation distances and for future records.
+• Registration of the seed crop: normally seed regulation authorities require 
+seed fields to be registered within a short time of establishment. Ensure that 
+this is done.
+3.2.  Land Preparation
+Land should be ready for planting two weeks in advance in order to allow weed 
+seeds to germinate; it is the first stage of weed control. Off-type plants could easily be 
+identified and rogued out upon re-emergence. Land can be adequately prepared 
+manually or mechanically.
+Manual land preparation involves the following operations:
+• Slashing bushy weedy fields
+• Removal of stumps of shrubs (where possible) to facilitate ploughing
+• In some areas (particularly the Guinea savanna zone), hoeing to loosen the 
+soil is done before planting.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+27
+Mechanical land preparation requires the use of a tractor or animal traction.
+• Slash weedy field before ploughing (do not burn).
+• If previous crop was a legume and vegetation is not thick, plough in the 
+biomass.
+• Plough and harrow to break soil lumps. Sometimes two ploughings may 
+be necessary.
+• Plough across the slope if the field is not level. You can practice contour 
+farming, if the need arises.
+Zero/No tillage involves the use of herbicides. Glyphosate has been the herbicide 
+of choice and is applied at the rate of 3 - 4 litres per ha.
+• Leave sprayed area for about five days after applying glyphosate.
+• Plant into stubble (clear by parting vegetation) i.e. vegetation along planting 
+line.
+• Reduce dry vegetation by controlled or cold burning, or physical removal of 
+vegetation from field.
+3.3.  Plant Establishment
+Good seed material is the basic input for increasing seed yield and income. It 
+ensures varietal purity and high crop productivity. Irrespective of cultural practice, 
+poor seed will result in:
+• Poor germination
+• Poor crop establishment
+• Poor plant vigor
+• Carry over of diseases and pests
+• Low seed yields.
+The following are important factors to consider for healthy plant establishment in 
+the field:
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+28
+3.3.1. Seeding Rate and Germination Tests
+A seed rate of about 25 kg/ha is required, but this depends on the seed size and 
+whether it is a female or male line. 10 kg is enough to plant 1 acre and 5 kg for half 
+an acre for female lines. Small seed sizes can give equal germination and yield 
+performance as large seeds. However, small seed should not be planted too deep 
+(i.e., not deeper than 5 cm).
+Before planting your seeds, it is good to conduct germination test (10 days before 
+planting) to prevent poor plant stand establishment due to poor quality seeds. To 
+conduct your germination test, follow the steps below:
+• Take 100 seeds at random.
+• Make a shallow trench of 1-2m long.
+• Place seeds evenly in the shallow trench.
+• Cover with 3 -5 cm soil and water well for one week but do not soak the soil.
+• Observe regularly and water when necessary.
+• Count the number of plants emerged after 7 days.
+Table 5 shows the number of seeds to plant per hill based on the results of the 
+germination test.
+Table 5. Recommended seeding rate after germination tests.
+Number of plants counted per 100 
+seeds
+Number of seeds to be planted per 
+hill
+85 or more 1 or 2 seeds per hole
+70 - 84 3 seeds per hole
+50 - 70 Get better seeds
+Less than 50 Do not attempt planting, get better 
+seed
+3.3.2. Planting Date/Time Based on Agro-Ecological Zone
+Ghana has five main agro-ecological zones based on differences in climate, 
+natural vegetation and soil type. These are Rain Forest (Moist and Wet Evergreen), 
+Deciduous Forest, Transitional Zone, Coastal Savanna and Northern Savannah 
+(Guinea and Sudan Savannah) zones (Figure 6).
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+29
+Figure 6. Main agro-ecological zones of Ghana.
+The later maize is planted, the lower the yield under rain-fed conditions. Suggested 
+planting dates based on the major agro-ecological zones in Ghana have been 
+provided in Table 6.
+In order to practice isolation by time, hybrid seed producers can 
+plant 3 – 4 weeks earlier or later than the suggested dates in 
+Table 6, provided there is an irrigation facility installed at the seed 
+production site.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+30
+Table 6. Suggested planting dates for maize in Ghana.
+Agro-ecological 
+zone
+Which month to plant Remarks
+Major Season
+Sudan savannah End-May to early-July Plant in July through early 
+August after rains have 
+established good soil 
+moisture
+Guinea savannah End-May to end-June
+Transition Mid-March to end-April Plant in early March 
+through the third week 
+of March after rains have 
+established good soil 
+moisture (3 rains in a week)
+Forest Early-March to end-April
+Coastal savannah End-March to End-April
+Minor season
+Transition Mid-July to early-September Plant third week of 
+August through the end 
+of September after rains 
+have established good 
+soil moisture (3 rains in a 
+week)
+Forest Mid-July to early-September
+3.3.3. Spacing and Plant Population
+The optimum planting density of maize should be adjusted according to local 
+conditions and types of parental lines to be grown. Planting should be done in lines 
+or rows. Ropes or sighting poles should be used to mark the beginning and end of 
+rows to enable you to plant in lines. You will need a minimum of 3 poles of at least 
+2 meters long for this task. The more poles you use, the straighter your rows will 
+be. Place one at each end of where the first row is to be and the others in between 
+but in line with the two end poles. Seeding rates depend on soil-fertility levels, plant 
+spacing and expected germination rates.
+The width of rows and the spacing of plants within the row determines the plant 
+population (Figure 7). The closer the spacing, the more plants there will be per unit 
+area. The recommended number of maize plants per hectare varies from 36,000 to 
+60,000, depending on the environmental yield potential and parental lines planted.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+31
+Figure 7. Planting maize in lines at a given inter and intra row spacing.
+High plant populations are appropriate under high rainfall or 
+irrigated conditions where management is of a good standard. 
+Lower plant populations should be used under dryland 
+conditions, especially in drought prone areas, where a population 
+of about 37,000 to 40,000 plants per hectare is recommended. 
+Some female parental lines may be susceptible to lodging under high plant 
+populations. Generally, the taller the parental line, the lower should be the plant 
+population. Short parental lines may be grown at higher plant populations. 
+Whatever the case, the minimum plant population for maize is 36,000 plants per ha. 
+Exceeding the optimal plant population density could have a deleterious effect on 
+maize yields (Figure 8).
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+32
+Figure 8. Effect of plant population on the yield of maize.
+3.3.4. Planting the Right Female: Male Ratio
+One of the most important stages in production of hybrid seed is the establishment 
+of the crop and the female: male ratio set. In hybrid seed production, the female 
+lines are the seed bearers, whiles the male lines’ sole purpose is to provide pollen to 
+fertilize the female lines. Thus, the two parent lines cannot have the same number 
+of plants in the field. A balanced female to male plant ratio in the field is therefore of 
+utmost importance.
+Setting the right female to male plant ratio involves planting the 
+seed production field to a larger number of the female plants, 
+while at the same time providing an adequate amount of pollen 
+pressure for good seed set in the female lines.
+The following points are critical, and it should be well noted in order to set the right 
+female to male plant ratio in the field:
+• Ensure the correct parents are assigned to the seed field and that the female 
+and male seed is clearly identifiable.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+33
+• Seeding rate depends on female to male ratio. Normally, 3:1 or 6:2 female 
+to male ratio is recommended (i.e. three (3) rows of female parent to one (1) 
+row of male parent) (Figures 9 and 10).
+• Spacing should be similar to commercially grown plants thus, 75 cm x 20/25 
+cm recommended for the female parent (i.e. 53,300 –66,600 plants/ha). 
+Some common recommended spacing is shown in Table 7.
+Table 7. Common low and high plant population densities and their planting 
+distances for maize.
+Distance 
+between plants/
+cm
+Distance 
+between rows/
+cm
+Plant 
+population/
+acre
+Plant population/
+hectare
+40 80 12,500 31,250
+40 75 13,300 33,300
+30 90 14,800 37,000
+25 75 21,333 53,333
+Plant population per acre or hectare was calculated by assuming one seed 
+per hill. Figures in Table 7 would double if two seeds per hill were used.
+• Male parent could be planted at a slightly higher population density to 
+increase the pollen pressure or if the amount of pollen produced is small.
+• Avoid mixing seeds for female and male inbred parents – use dyes or colored 
+bags to label seeds for female and male parents.
+• Male parent should be planted as border rows to serve as guard rows and for 
+abundant pollen production.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+34
+Figure 9. Setting a 3:1 female to male plants ratio in a hybrid maize seed 
+field. Green lines depict female plant rows, whereas red lines represent 
+male plant rows.
+ 
+ 
+ 
+ 
+3:1 female: male ratio  6:2 female: male ratio  
+Figure 10. Common female to male planting ratio on the field.
+3.4. Synchronization of flowering
+Obtaining good seed set on the female plants requires an ample overlap in the 
+silking time of the female plants and the anthesis (pollen-shedding) time of the male 
+plants. Thus, synchrony in silking and tasseling between female and male parents is 
+very essential to obtain good seed set.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+35
+If the female and male lines differ significantly in their silking and 
+tasseling times by more than 5 days, planting should be staggered 
+during plant establishment for the two parental lines. 
+Preferably, the male plants should start shedding pollen when the first female silks 
+start showing up and they should shed pollen for whatever length of time that it 
+takes for all the female silks to develop. Notwithstanding, it does not take the same 
+time for male and female plants to reach flowering, because of different growth 
+rate and variations in the environment. Besides, the length of pollen shedding 
+might be shorter than the ideal time for females to reach full silk at emergence. Any 
+confounding of male and female flowering will decrease yields and uncover the 
+female seed parent to contamination from foreign pollen.
+Assuming 50% of the male line tassels in 55 days after planting and 50% of the 
+female line silks 63 days after planting, there would be an eight-day gap between 
+silking and tasseling in the field. This flowering interval could greatly affect seed set 
+if the silking and tasseling times are not synchronized. To synchronize the silking 
+and tasseling time using the above example, the female line should be planted at 
+least five days earlier but not later than eight days before the male line is seeded.
+3.5.  Fertilizer and Irrigation Requirements
+3.5.1. Fertilizer Requirements
+Maize can be grown successfully on soils with a pH of 5.0 - 7.0 but a moderately acid 
+environment of pH 6.0 - 7.0 is optimum. pH outside this range could result in nutrient 
+deficiency due to unavailability of nutrients, and sometimes mineral toxicity. Normal 
+ear on a well fertilized high-yielding maize weighs about 300g and it has well filled 
+tips. Small ears usually are a sign of low fertility. For better seed yields, amend soil 
+with fertilizers. The three most important nutrient elements for maize are nitrogen, 
+phosphorous, and potassium, but maize on some soils need zinc or boron in trace 
+quantities.
+Potash shortage shows up in ears with poorly filled tips and loose chaffy kernels. 
+Phosphate shortages interfere with pollination and kernel fill. Ears are small, often 
+twisted and with undeveloped kernels. Nitrogen is essential throughout the 
+growing season. If plant runs out of nitrogen at the grain filling stage, ears become 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+36
+small with low kernel protein content. Green silks at maturity may be caused by too 
+much nitrogen in relation to other elements. Young maize leaves become marked 
+with reddish-purple colors under phosphorus deficiency (Figure 11 B). Potash 
+deficiency appears as a firing or drying along the tips and edges of lowest leaves 
+(Figure 11 D). Nitrogen deficiency causes yellowing of leaves and severe stunting 
+(Figure 11 A). Magnesium deficiency causes whitish strips along the veins and often 
+a purplish color on the underside of the lower leaves (Figure 11 C).
+ 
+Figure 11. Maize leaves expressing signs of major nutrient deficiency.
+3.5.2.  Soil Testing
+Before planting, take soil samples from the seed production site to the Soil Research 
+Institute or University Laboratories for chemical analysis to know the pH, Nitrogen, 
+Phosphorus, Potassium, percentage Organic Matter, Cation Exchange Capacity 
+and other chemical properties. This information is required to help you formulate a 
+fertilization program for maximum yields.
+Follow the procedure described below to collect soil samples for chemical analysis:
+1. Divide the field into different homogenous sampling units based on the 
+visual observation and farmer’s experience.
+2. Remove the surface litter at the sampling spot.
+3. Drive the auger to a plough depth of 15 cm and draw the soil sample. A 
+sampling tool should be uncontaminated; approximately uniform in cross 
+section to the desired depth; and provide reproducible sampling units 
+(Figure 12).
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+37
+4. Collect at least 10 to 15 samples from each sampling unit and place in a 
+bucket or tray.
+5. If auger is not available, make a ‘V’ shaped cut to a depth of 15 cm in the 
+sampling spot using spade (Figure 13).
+6. Remove thick slices of soil from top to bottom of exposed face of the ‘V’ 
+shaped cut and place in a clean container.
+Figure 12. Soil sampling tools showing a spade and an auger.
+Figure 13. A v-shaped cut made with a spade to collect soil samples.
+7. Mix the samples thoroughly and remove foreign materials like roots, stones, 
+pebbles and gravels.
+8. Reduce the bulk to about half to one kilogram by quartering or 
+compartmentalization.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+38
+9. Quartering is done by dividing the thoroughly mixed sample into four equal 
+parts. The two opposite quarters are discarded, and the remaining two 
+quarters are remixed and the process repeated until the desired sample size 
+is obtained.
+10. Compartmentalization is done by uniformly spreading the soil over a clean 
+hard surface and dividing into smaller compartments by drawing lines along 
+and across the length and breadth. From each compartment a pinch of soil 
+is collected. This process is repeated till the desired quantity of sample is 
+obtained.
+11. Collect the sample in a clean cloth or polythene bag.
+12. Label the bag with information such as name of the seed company, location 
+of the farm, survey number, previous crop grown, present crop, crop to be 
+grown in the next season, date of collection, name of the sampler etc.
+13. Send collected samples to an accredited lab for analysis.
+3.5.3. Types of Fertilizers
+The first consideration for fertilizing maize is the use of organic manure -- it is an 
+excellent source of nutrients and has many other benefits for soils. Inorganic 
+fertilizers should be considered as a supplement to manure if readily available. 
+The addition of manure and ash will greatly improve the response of maize to the 
+applied fertilizer. Under commercial set ups, addition of lime to acidic soils also 
+improve response to fertilizers.
+The fertilizer requirements of maize depend on the native soil fertility and seed yield 
+target. Infertile soils require more fertilizer, as does a higher yield target.
+Have your farm soil tested to know its fertility status and pH levels 
+as described above. By doing this, you will be informed about the 
+additional amount of fertilizer needed to meet target yields.
+The number of bags of each fertilizer needed per hectare depends on the amount 
+of N, P and K contained in the grade of fertilizer you purchase. Each ton of grain 
+produced removes 15.0 to 18.0 kg of nitrogen, 2.5 to 3.0 kg of phosphorus and 3.0 
+to 4.0 kg of potassium from the soil.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+39
+Generally, apply fertilizers /organic manures under rain fed conditions as follows:
+• Three (3) 50kg bags of NPK with micro nutrients 
+• 25-10-10+6S+3MgO+0.3Zn or 20-10-10+3S  or 
+23-10-5+2MgO+3S+0.3Zn for all agro-ecologies
+• 11-22-21+5S+0.7Zn+0.5B for Guinea Savannah & Forest Transition
+• 15-20-20+0.7Zn for Forest-Savannah Transition & Guinea Savannah
+• at first two weeks, and one (1) 50kg bag of Urea (46 % N) per acre at 4 or 5 
+weeks after planting (i.e. prior to flowering) respectively.
+• Spread 0.8 – 1.6 tonnes/acre (20 bags each weighing 50 kg) poultry manure 
+over the field and work into the soil before planting.
+• Spread 2.5 tonnes/acre (48 bags each weighing 50 kg) good quality 
+compost over the field and work into the soil before planting. 
+• N fertilizers levelled up to 120 kg/ha are recommended for application in 
+degraded soils. 60 kg P2O5 and 60 kg K2O per hectare can also be applied. 
+• Green manuring can also be practiced. Plant mucuna at a spacing of 60 cm 
+x 40 cm as a pre-maize cover legume in major season and harrow it into the 
+soil after 3 months, before planting maize in minor season. 
+• Nitrogen easily leaches through the soil including sandy soils, therefore, the 
+total amount of nitrogen fertilizer required should be split between two in-
+crop using the split top-dressing applications to ensure nitrogen availability 
+throughout the critical growth stages of the crop for improved yields. In most 
+cases, all the P and K and about two-thirds of the N are applied basally, with 
+the rest of the N top-dressed later. 
+3.5.4.  Modes of Fertilizer Application
+Broadcasting of fertilizer to maize crop is wasteful and usually not recommended. 
+Recommended method of fertilizer application to maize is the localized methods 
+as shown below.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+40
+• Localized placement – with special reference to the seed or plant. This 
+method requires more labor.
+• Band placement - fertilizer is placed in bands to one or both sides of the 
+seed or plant. This is usually done in a definite space relationship to the plant 
+or seed – usually 2-3 inches (5 – 7 cm) to the side and 2 inches (5cm) below 
+the seed or plant (Figure 14).
+Figure 14. Band placement of fertilizer to plants.
+• Ring placement – fertilizer is place as a ring around each plant stand at a 
+definite distance from the plant.
+• Point placement – fertilizer is place at single points about 5 cm away from 
+each plant stand (Figure 15).
+Figure 15. Ring and point placement of fertilizer to plants.
+3.5.5.  Time of Fertilizer Application
+Fertilizer application should be carried out after weeding so that weeds do not 
+benefit from applied fertilizers. Apply N-P-K compound fertilizer (60-60-60 kg/ha as 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+41
+N, P2O5 and K 2O) within 7-10 days after planting and top-dress with 30 kg N/ha at 
+4-6 weeks after planting 4 weeks for early maturing lines or 6 weeks for intermediate 
+to late maturing varieties. The basal fertilizer must be applied before or at the time 
+of planting . Planting with basal fertilizer application is recommended at the same 
+time. Basal fertilizers which contains zinc are recommended for application every 
+two to three years on sandy soils. The eight-leaf stage is the correct stage to apply 
+a fertilizer as side dressing. Weather conditions and residual N in the soil will also 
+determine when most N should be applied.
+3.5.6. Irrigation Requirements
+Maize produces very high yields under irrigation. It is therefore one of the most 
+efficient grain crops in terms of water utilization. It can produce from 80 to 100 tons/
+ha green material and 16 to 21 tons/ha of dry material within a relatively short period 
+(100 to 120 days) under irrigation. It is strongly recommended that maize hybrid 
+seed be produced under full irrigation in order to obtain the highest yields.
+Maize grows best where total seasonal rainfall exceeds 500 mm. Maize is susceptible 
+to both drought and waterlogging. Drought during the four-week period spanning 
+flowering (silking and tasseling) can cause serious yield losses, especially in the 
+drier areas (Figure 16).
+Maize needs 500 to 800 mm of water per growing period, depending on the maturity 
+period in the Forest and Transitional agro-ecological zones. In the Savannahs in the 
+north, maize needs 600 – 900 mm of water per growing period.
+Figure 16. Maize yield reduction due to water deficit.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+42
+For a growing period of 90 – 120 days at a spacing of 75 cm x 25 cm, each maize 
+plant would have used about 100 – 140 liters of water in the Forest and Transitional 
+agro-ecological zones (equivalent to 6 mm of water per day). In the savannahs, the 
+water requirements for maize would be 8 mm per day at a growing period of 90 -120 
+days and a spacing of 75 cm x 25 cm.
+Border irrigation can also be used for maize, but furrow or sprinkler irrigation is 
+best used for irrigating row crops such as maize (Figure 17). Table 8 shows some 
+recommendations on the type of irrigation method to use based on the soil type 
+and the net irrigation application.
+Table 8. Selection of an irrigation method based on the depth of the net 
+irrigation application.
+Soil type Rooting depth 
+of the crop
+Net irrigation 
+depth per 
+application 
+(mm)
+Irrigation method
+Sand shallow 20-30 short furrows
+medium 30-40 medium furrows, short 
+borders
+deep 40-50 long furrows, medium 
+borders, small basins
+Loam shallow 30-40 medium furrows, short 
+borders
+medium 40-50 long furrows, medium 
+borders, small basins
+deep 50-60 long borders, medium 
+basins
+Clay shallow 40-50 long furrows, medium 
+borders, small basins
+medium 50-60 long borders, medium 
+basins
+deep 60-70 large basins
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+43
+Figure 17. Sprinkler and furrow irrigation system for maize.
+3.6. Weed Control
+Weeds’ presence would increase competition for nutrients and space with the 
+maize crop therefore, effective weed control can be done mechanically, manually 
+or chemically (using pre- and post-emergence herbicides). Control weeds, pests 
+and diseases on time to avoid competition for plant nutrients.
+Manual /Mechanical Weed Control
+Weeds are removed or collected from crop fields by hand pulling or hoeing. For 
+good manual weed control:
+• Start hand weeding when weeds are large enough to grasp.
+• Repeat the weeding once or twice.
+• Never allow weeds to flower and set seeds in a crop field.
+• Weeds are controlled using a rotating hoe (rotary weeder) to uproot and 
+bury emerging young weeds between rows of maize plants.
+• Start using a rotating hoe when emerged weeds are young (2- to 4-leaf 
+stage).
+• Repeat the hoeing one or two more times. Remove the weeds near the 
+plants manually.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+44
+Chemical Weed control
+Chemical liquids, granules or gases are used to kill germinating or growing weeds, or 
+even weed seeds. This method of weed control makes use of herbicides. Generally, 
+the type of herbicide used is determined by the type of weeds present (either broad-
+leaved or grassy weeds).
+• You can use selective herbicides (e.g. atrazine) to control broad-leaved 
+weeds in your maize farm. A selective herbicide kills certain plants but not 
+others.
+• You can also use pre- or post-emergence herbicides (Table 9). A pre-
+emergence herbicide kills weeds as they germinate (sprout) from seeds. 
+A post-emergence herbicide will control existing weeds but will do nothing 
+to stop new weeds from germinating from seed.
+• For all herbicide application, follow the instructions on the label.
+• Carefully dispose of the empty containers after use.
+• When in doubt, consult the local AEA for advice on available herbicides and 
+their dosages.
+Table 9. Common herbicides for controlling weeds on maize fields.
+Name of herbicide Type of herbicide
+Atrazine Pre-/Post-emergence
+Alachlor + Atrazine Pre-emergence
+Diuron (Karmex) Pre-emergence
+Triclopyr (Garlon 600) Post-emergence
+Oxadiazon (Ronstar 25 EC) Pre-/early post-emergence
+Pendimethalin (Stomp 500) Pre-emergence
+Bentazon (Basagran) Post-emergence
+Glyphosate (Round-up) Pre-emergence
+Paraquat (Gramoxone) Pre-emergence
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+45
+Striga Control in the Savannah Regions
+Striga hermonthica, commonly known as witchweed, is a serious parasitic weed in 
+many parts of the Guinea and Sudan savannah zones of Ghana (Figure 18). The 
+presence of a maize crop stimulates the germination of dormant Striga seed. Young 
+Striga plants attach themselves to maize roots to draw moisture and nutrients, 
+thereby inhibiting the maize plant. In severe cases, Striga can cause death to maize 
+plants. If Striga infestation occurs, pull out Striga plants before they flower and 
+produce seeds, or rotate maize with non-susceptible crops like soybean, cotton, 
+groundnut or sunflower.
+Figure 18. A maize field infested with Striga.
+3.7. Common diseases and their control
+Maize Streak
+The maize streak is the most damaging disease of maize in Ghana. Maize streak 
+virus is a foliar disease transmitted by the leafhopper.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+46
+Symptoms:
+• Early symptoms include very small, round, scattered spots in young leaves.
+• The number of spots increases with plant growth and elongates causing leaf 
+chlorosis with broken yellow streaks along veins contrasting with dark green 
+of normal leaf.
+• The disease can cause severe stunting and barrenness of affected plants.
+• 
+ • 
+Maize streak
+Management
+• Chemical control of leafhoppers and
+• Cultural practices
+• Use of streak resistant varieties
+• Also plant early in the recommended planting window of the area
+Common rust by Puccinia species
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+47
+Symptoms:
+• Oval or elongated brown pustules/spots on upper and lower surfaces of 
+leaves;
+• Pustules may appear on tassels and ears and leaves may begin to yellow;
+• In partially resistant corn hybrids, symptoms appear as chlorotic or necrotic 
+flecks on the leaves which release little or no spore.
+Management:
+• Plant resistant hybrids
+• Application of appropriate fungicides
+Smut by Ustilago zeae
+Symptoms:
+• Galls on plant tissues which are initially green-white and turn into powdery 
+dark brown or black spores
+• Galls are common on ears, tassels, shoots or midrib of leaves
+Maize smut
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+48
+Management:
+The only method that is completely effective is to grow resistant maize hybrids.
+Downy Mildew disease (Peronosclerospora spp.)
+Symptoms:
+• The disease appears as early from two weeks after sowing resulting in 
+chlorosis and stunting.
+• In older plants the leaves show mottling, chlorotic streaking and lesions and 
+white striped leaves.
+• Usually the leaves are narrower and more erect when compared to healthy 
+plants and are covered with a white, downy growth on both surfaces.
+Maize downy mildew
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+49
+Management:
+• Grow available resistant varieties and hybrids.
+• Follow crop rotation with non-host crops.
+• Use suitable systemic fungicide for both seed treatment and foliar spray.
+• Keep the fields free from weeds.
+• Drying seeds before sowing reduces the disease incidence.
+Stalk and Ear rot
+Symptoms:
+• Plants wilting and leaves changing color from light to dull green
+• Lower stalk turns straw yellow;
+• Black fungal fruiting bodies may be visible on the stalk, often at internodes
+• If fungal infection affects the ears, it produces a red mould at the tips of the 
+ear
+• Early infection may result in the ear being covered in pink mycelium which 
+causes the corn husk to adhere to the ear.
+ 
+Maize stalk rot
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+50
+Maize ear rot
+Management:
+• Stressed plants are more susceptible to the pathogen so providing adequate 
+fertilization and irrigation can help reduce incidence of disease
+• Control insects, especially stem and ear borer
+Useful tips to manage pest and disease in maize
+• Be aware of the pest and diseases common in the area where the crop is to 
+be grown, and plant varieties that are resistant or tolerant to them.
+• Start scouting field for pest infestation immediately after emergence of seeds 
+and monitor their levels regularly to determine whether they are causing 
+economic damage to warrant their control.
+• Plant early to avoid the high pest pressure that are experienced with late 
+plantings.
+• Maize rotation with legumes can help with reducing weed, insect and 
+disease pressure, enhance soil fertility and improve yields.
+• Under severe pest infestation, use pesticide judiciously.
+Integration of all the methods above is critical for better disease and pest 
+management
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+51
+3.8. Common Insect Pests of Maize and Their Management
+Seedling Pests
+Slugs and snails (Mollusca: Gastropoda) - Giant terrestrial snails (Achatina spp.)
+• Consume the foliage of very young seedlings
+• Control: lime/ash
+Grasshoppers – Defoliate plants
+• Control: chemical
+Crickets (Gryllidae) - cut maize seedlings at ground level
+• Control: preplant chemical treatment
+Cutworms
+• Larvae nocturnal and feed at night
+• Burrow into soil during the day
+• They cut stems of young plants and feed on fallen plant e.g. Agrotis segum
+• Eggs are laid on leaves
+• 1st and 2nd instars feed on leaves
+• Matured 2nd instar drops to ground to cut stems
+ 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+52
+Cutworm on maize
+Damage symptom of cutworms
+Management of Cutworms
+• Maintain good sanitation especially weed-free farm to reduce egg laying by 
+pest
+• Include cover cropping to reduce weed competition
+• Handpick pests if numbers are low
+• Apply diatomaceous earth around plants
+• Apply recommended insecticides late in the afternoon for best results
+Other field insect pests
+Armyworms
+• Until recently not a serious pest in West Africa but now very important 
+especially when rains come early in the year: examples include Spodoptera 
+exempta, S. exigua, S. frugiperda
+• Most important is Fall armyworm, S. frugiperda
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+53
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+54
+• Females can lay ca. 300-700 eggs on grasses (cereals)
+• Larva is the destructive stage
+• Larval emergence is synchronized, and egg can diapause and hatch only 
+when conditions are ripe.
+Damage caused by armyworms
+• Early stage larval feeding causes “windowpane” and shot holes in leaves
+• Late-stage larval feeding causes elongated, ragged holes (see photo below).
+• Larva may cut leaves in half
+• Larva injures developing tassel at later stage and plugs whorl with wet, 
+yellowish-brown frass
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+55
+Symptoms of Fall armyworm
+Management of Fall armyworm
+• Vigorous monitoring of early signs of the pest
+• Early or late planting
+• Mass-trapping of males using pheromones
+• Use of recommended insecticides to spray eg. Bypel, Emamectin benzoate, 
+etc
+• Rotate active ingredients
+• Spraying should be done early morning or late afternoon and should target 
+the whorl
+• Ensure good sanitation on the farm
+• Grasses near farms should also be targeted during spraying
+• Use resistant varieties if available
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+56
+Stem Borers
+• Important pests of maize and cereals in general
+• Can infest up to 70% of monocrop e.g. Sesamia spp., Busseola fusca, Eldana 
+saccharina
+ 
+Busseola fusca Maize stem borer damage symptoms
+Stem Borer Damage
+• Initial symptom is rows of oval or round or oblong perforations in very young 
+leaves as a sign of feeding of young larvae on inner whorl
+• All larvae finally bore into maize stalk
+• Deep feeding in the whorl or young stems destroys the growing point or 
+apical bud resulting in death of innermost whorl: Dead heart = Death of plant
+• Dead heart can be easily pulled out
+• When attack is late larvae feed on destroy developing tassels within its whorl
+Management of Maize Stem Borers
+• Vigorous monitoring of early signs of the pest
+• Ensure good sanitation on the farm
+• Avoid leaving maize stubbles on the farm after harvesting
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+57
+• Early or late planting (timely planting)
+• Use recommended systemic insecticides to spray: rotate active ingredients
+• Use push-pull strategy involving use of legumes as push and suitable grass 
+such as Elephant grass as pull
+• Use resistant varieties
+Leafhopper (Cicadulina mbila)
+• Attacks maize and transmits maize streak virus (MSV)
+Leafhopper (Cicadulina mbila)
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+58
+Management of Leafhoppers
+• Apply diatomaceous earth to plants
+• Spot-treat plants with insecticidal soap to keep pest populations 
+under control - thorough coverage of both upper and lower infested leaves 
+is necessary for effective control.
+• Apply recommended insecticides
+Maize Stalk Borer
+• Damage characterized by wilting and/or dying of the upper leaves or by 
+ragged irregular holes chewed in the newly unrolled leaves
+• Dead-heart can occur: the “dead heart” is caused by the insect boring into 
+the stalk at the soil level and tunneling upward
+• Destroys maize stalk
+Maize stalk borer
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+59
+Management of Maize Stalk Borer
+• Use a combination of cultural practices (mostly intercropping and the ‘push-
+pull’ system)
+• Ensure good farm sanitation
+• Use recommended synthetic insecticide or botanical such as neem powder 
+(but only at the early stage, before the larvae have bored into the stem)
+Corn earworm (Helicoverpa zea)
+• Larvae feed on the leaves and sometimes destroying the inner whorl of the 
+maize plant
+• Such infestations can result in stunting of plants
+• Can destroy many of the plants but usually <50% of the plants
+• Destroy the corn ear
+Corn earworm (Helicoverpa zea)
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+60
+Management of corn earworm
+• Spray or inject silks weekly with recommended insecticides to control larvae
+• If corn earworms persist, apply Bacillus thuringiensis or spray Spinosad to 
+silks at 5-10% formation and continue weekly until tassels turn brown
+• Applying mineral oil to the silk where larva bores into the ear - the oil 
+suffocates the larva
+Storage Insect Pests
+Storage Coleopteran Insect Pests of Maize
+General Damage Caused By These Insect Pests
+Direct damage
+• Can cause severe losses in stored maize
+• Infestation usually starts from the field: field-to-store pests
+• Cause mechanical damage leaving holes in maize grain because adults 
+emerge through these holes as larvae are internal grain feeders
+• Leave living and dead insects, cast exuviae and faecal matter in grains
+• Grains can be reduced to powder
+Indirect damage
+• Damage increases the efficacy of fungus infestation in their presence under 
+storage
+• Infestation increases heating and moisture content of grains due to 
+metabolic activity of the insects and results in:
+• caking and spoiling of grain
+• stimulate seed germination
+• decreased germination and seedling vigour
+• spread of disease organisms throughout grain
+• reduced grain and food/feed quality
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+61
+ 
+Maize weevil (Sitophilus zeamais) Rice weevil (Sitophilus oryzae)
+Damage on maize by weevils (Others cause similar damage)
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+62
+ 
+Larger grain borer (LGB)
+(Prostephanus truncatus) Lesser grain borer (Rhyzopertha dominica)
+LGB prefers maize on cobs
+ 
+Tribolium castaneum
+Lepidopteran Insect Pests of Stored Maize
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+63
+ 
+Angoumois grain moth Indian meal moth
+(Sitotroga cerealella) (Plodia interpunctella)
+ (Causes webbing of grains)
+Management of Insect Pests of Stored Maize
+• Promptly harvest maize
+• Remove infested grain/sort maize before storage
+• Clean and vacuum all cabinets or closets where insects have been found in 
+warehouse
+• Dry maize to <13% moisture content before storage
+• Inspect storage area before storage and Clean storage area/ maintain good 
+sanitation in the store
+• Examine grain regularly so that infestation can be detected early
+• Fumigate maize in storage if infested in warehouse
+• Use hermetic storage bags to store maize
+3.9. Rogueing
+The removal of undesirable and off-type plants of the same crop from the field planted 
+to a desired variety/line. Regularly inspect the field for pests, weeds and diseases 
+during the vegetative growth of the seed crop and control these as necessary. From 
+the 6- to 12-leaf stage and before tassels emerge; remove off-types from both male 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+64
+and female rows. Off-types are usually clearly identifiable as taller or smaller, earlier- 
+or later-flowering, or plants with characteristics distinctly different from the norm. 
+Descriptions of the distinctive qualities of the parents must be accessible from the 
+developer of the inbred lines, and will incorporate viewpoints, for example, angle of 
+the leaf blade to the stem, coloration of the leaf sheath and stem, and the state of 
+the tassel. People who conduct rogueing must get comfortable with these features 
+so that just off-type plants are removed or destroyed totally. Be careful that at times, 
+after cutting the off-type plant at the base, side shoots may develop and create an 
+undesirable cob and tassel. Along these lines, it is ideal to uproot off-type plants. It 
+must be done early to avoid cross contamination or shattering of the undesirable 
+seeds. Parameters for rogueing include deviations from:
+• Uniformity in plant height
+• Uniformity in tasseling or silking
+• Color or shape of leaves, tassel or silk
+• Presence or absence of other morphological pigments
+• Seed color
+3.9.1. When to Rogue
+Rouging ought to be directed before genetic or physical contamination happens 
+and during times favorable for visual identification.
+• Rogue volunteer plants: these are effectively distinguished by size and 
+position out of the rows (post emergence).
+• During vegetative advancement, remove off-type plants that go astray 
+from the given genotype regarding root and stalk development, plant type, 
+pigmentation, leaf and stem pubescence, etc. Rogueing effectively, during 
+this period will help decrease the remaining task during the critical flowering 
+period.
+• Significant agronomic and morphological qualities can undoubtedly be 
+distinguished at the flowering stage. This is the basic stage to avoid genetic 
+contamination of the crop. Rogueing on male plants must be finished before 
+pollen shedding starts. Rogueing on female plants ought to be done not 
+long after silk-emergence.
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+65
+3.10. Detasseling
+In production of hybrid maize seed, detasseling of the female plants must satisfy 
+the necessary guideline and be led in a convenient manner. Any deferrals in 
+detasseling or insufficient detasseling that outcomes in decoration stubs or missed 
+plants will genuinely lessen the genetic purity of the hybrid seed and may bring 
+about dismissal for certification. The following should be noted:
+• Start detasseling immediately the top 3-4 cm of the tassel is visible above 
+the leaf whorl.
+• Timely detasseling (removal of the male reproductive part) in female rows 
+is the most critical in producing genetically pure hybrid maize seeds (Figure 
+19)
+• Tassels in the female rows must be removed prior to the shedding of pollen 
+and silk emergence.
+• Flag leaves of female plants should not be removed during detasseling – it 
+could significantly reduce seed yield.
+• Some female parent plant types are more easily detasseled than others. 
+For example, some female parents have tassels that are physically hard 
+to pull out, others break easily, and some begin shedding pollen before 
+fully emerging from the upper leaves. Tall female plants, particularly when 
+the female is a single-cross hybrid, are hard to detassel. In top-cross or 
+varietal cross hybrids, where the female is an open-pollinated variety, 
+time of tassel exertion in the female populace will change. In conclusion, 
+with certain parents, silks emerge much earlier or later than pollen shed. 
+Every one of these circumstances, might be exacerbated and make for 
+difficult detasseling supervision and potential administration issues. Close 
+supervision of the field is vital.
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+66
+Figure 19. Detasseling of the tassel from female plants before pollen 
+shedding. Adapted from Ethiopian Seed Association (2014).
+3.11. Male Removal
+Remove the males from the field as soon as possible after pollination. Male plants are 
+cut at the base and either removed from the field or left to rot in the row. Removing 
+males soon after pollination ensures that there will be no mixture of male and female 
+seed at harvest (Figure 20). Male removal also improves the yield of the female by 
+allowing more light penetration into the female rows and reducing competition for 
+moisture. Note that weeds will take advantage of the free ground and will need to 
+be controlled.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+67
+Figure 20. Removal of male plants after pollination. Adapted from Ethiopian 
+Seed Association (2014)
+3.12. Harvesting and Post-Harvest Processing
+• Harvest mature grains only from female rows at physiological maturity or 
+when the black layer forms.
+• Field must be free from all known contaminants.
+• If harvesting is done mechanically, farm implements must be thoroughly 
+cleaned to prevent mechanical admixtures
+Post-harvest operations include:
+• Drying of harvested cobs to attain required moisture content, MC (12 % MC 
+on fresh weight basis)
+• Sorting to remove damaged or diseased ears (Figure 21)
+• Shelling of sorted ears
+• Cleaning and grading to remove inert materials, undersized seeds, broken 
+seeds, weed seeds etc. seed grading machines are normally used to grade 
+seeds based on their size and shape.
+• Seed treatment with chemical protectants before seed storage and bagging 
+– fungicides, fumigation and insecticides are usually used
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+68
+• Seed packaging
+• Tagging or labelling of bagged seeds– labels should be prepared in 
+duplicates (one is placed inside the bagged seeds and the other is attached 
+to the seed bag)
+Figure 21. Sorting of cobs on the field or at shelling site. Adapted from 
+Ethiopian Seed Association (2014)
+3.12. Seed Bagging and Labelling
+In the conditioning process, bagging is the last step. Several essential functions are 
+achieved by seed packaging, these include:
+• Serves as a convenient unit for handling, transport, and storage.
+• Protects seed against contamination and mechanical damage.
+• Provides a suitable environment for storage.
+• Provides a barrier against seed loss and the escape of pesticides.
+• Serves as a sales promoter.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+69
+Seed packaging material may consist of cloth, jute, plastic, paper, metal or various 
+combinations of products. Plastic, paper, or plastic/paper combinations are 
+the materials of choice for packaging maize seed. Transparent plastic bags are 
+preferred in some areas because farmers can see the seed. However, the use of 
+plastic bags may be risky if seed is exposed to the sun and warm temperatures, 
+resulting in accelerated respiration and likely damage. Seed may be packed by 
+hand or with semi-automatic or automatic equipment. After filling the bag with the 
+required amount of seed, the bag is sewn or heat sealed and a tag is attached which 
+should include the following:
+• Name of the producer
+• Name of certifying agency
+• Crop species
+• Name of the variety and class of seed
+• Germination percentage
+• Purity percentage
+• Year/Date of production
+• Net weight in kg
+• Batch or identification number
+• Moisture content in percentage
+3.14. Seed Storage
+Hybrid maize seed is stored for a number of reasons and for various durations. 
+The two most critical storage conditions are temperature and moisture content. 
+The moisture content of stored seed equilibrates with the relative humidity in the 
+storage environment. For seed storage, high humidity is the enemy. High humidity 
+promotes the rapid growth of microbes (fungi and bacteria) and insects. Generally, 
+at low humidity below 35%, both microbes and insects do not grow (Figure 22). 
+Cold storage facilities should be installed for proper storage. If cold storage facilities 
+are not available, the principle is to make the seed dry, and then keep it dry using 
+water-proof packaging materials and desiccants. The seed can be stored longer 
+with minimal damage, if the air temperature and the relative humidity is low. Ideally, 
+store seed in a shed to protect it from rain and heat, while providing security. Seeds 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+70
+should not be stored in jute bags, as they are not waterproof. Inexpensive electronic 
+meters for measuring relative humidity should be installed in the storage room. 
+Alternative, relative humidity indicators (humidicators) paper that changes color 
+in response to the ambient relative humidity could be used in seed stores (Figure 
+23). Bags or packs containing seeds should be arranged gently and tenderly in the 
+storage room and should never be dropped from any height to the ground (Figure 
+24).
+Cob may store maize seed temporarily, either in loose stacks or in cribs, provided 
+the grain moisture is less than 13%. Cribbed or binned ears of high moisture content 
+are prone to attacks by storage pests. Kernels and the cob will be in moisture 
+equilibrium only at about 13% moisture content. When the seed moisture content 
+is high, the cobs contain significantly higher moisture than the seed, which will 
+promote disease development and insect growth. A key factor in cribbing maize on 
+the cob is the width of the crib, the narrower the crib the better (2 to 3 m maximum), 
+so as to allow sufficient natural ventilation through the cobs.
+Figure 22. Diagram illustrating the combinations of temperature and MC (or 
+ERH) at which different organisms can grow in storage for maize. Moisture 
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+71
+contents at corresponding ERH values approximate those for cereal grains. Below 
+65% ERH, products are safe from fungal growth, and below 35% ERH, neither 
+microbes nor insects can grow. Storage life will increase exponentially as ERH and 
+temperature decrease, but even at 65% ERH, dry food products can maintain quality 
+for up to a year at ambient temperatures. Adapted from Bradford et al. (2018).
+Figure 23. Measurement of relative humidity (RH) and its relationship 
+to product moisture content (MC) and storage potential. Adapted from 
+Bradford et al. (2018)
+(A) Inexpensive electronic meter to measure temperature and RH. (B) RH indicator 
+(Humidicator) paper that changes color in response to the ambient RH (www.
+microessentiallab.com). (C) Graph showing an example of an ERH versus MC 
+isotherm with the Humidicator indicator strip scale superimposed on it. (D) The 
+DryCard™ has a laminated RH indicator strip with an adjacent RH scale for durability 
+and convenience.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+72
+Figure 24. Stored seed in labelled bags in well-constructed stacks on pallets 
+with a bin card to monitor stock quantities. Adapted from Ethiopian Seed 
+Association (2014)
+3.15. Bulk Storage of Seed
+The benefit of mass stockpiling of seed is that it requires less space, since the 
+thickness of seed in mass is about 0.75 t/m 3. Besides, with well-constructed silos 
+and conveyors seed misfortunes are decreased, less work is required for taking 
+care of the seed and the expense of capacity bags is removed. Mass stored seed is 
+likewise simpler to disinfect. The demerit is the high capital expense, in spite of the 
+fact that this might be balanced after some time with the saving in bags. Storehouses 
+ought to consistently be filled and discharged from the inside to maintain a strategic 
+distance from over the top weight developing on one side of the storehouse. The 
+angle of rest of seed of most field crops is about 25°.
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+73
+3.16. Record keeping
+Several steps are involved in hybrid seed production, most of which are affected 
+by the environment such as; air temperature, rainfall, soil type and management. 
+When producing a hybrid for the first time, it is improbable that everything will turn 
+out well and there is normally a steep learning curve with each new hybrid created. 
+Thus, it is useful to keep far-reaching records of all phases of production and to 
+utilize these records to improve production in following seasons. Notwithstanding 
+these records, records for precipitation, funds, work and seed stocks will enhance 
+management of all farm resources. The utilization of a day-page diary in which 
+day-by-day undertakings are needed to be done, contacts made, and outstanding 
+occasions recorded will give a significant record of each season. Such record 
+keeping will supply significant verifiable historical information valuable for present 
+and future seed production
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+74
+Farmers’ productivity increases when hybrid seeds are grown, but this might be 
+conceivable if the seed meets high genetic, physical and phytosanitary measures. 
+Good management of hybrid seed fields and adherence to seed regulations 
+guarantee quality seed production. Starting with the right source seed, a series 
+of steps are involved to produce quality maize hybrid, each dependent on the 
+success of preceding steps. This manual has laid out the fundamental procedures 
+of each step. By following these in a convenient and efficient way and conforming 
+to the required guidelines, the final certified seed will be marketable, and farmers 
+will achieve good yields that will contribute to profitability and improve standard of 
+living.
+4.0 Conclusion
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+75
+Adu, G. B., Abdulai, M. S., Alidu, H., Nustugah, S. K., Buah, S. S., Kombiok, J. M., Obeng-
+Antwi, K., Abudulai, M. and Etwire, P. M. 2014. Recommended Production 
+Practices for Maize in Ghana. DOI: 10.13140/2.1.4376.3527; available at https://
+www.researchgate.net/publication/270511013_Recommended_Production_
+Practices_for_Maize_in_Ghana
+Bernado, R. 2014. Essentials of Plant Breeding. Stemma Press, Woodbury, MN, USA.
+Bradford, K.J., Dahal, P., Asbrouck, J. Van, Kunusoth, K., Bello, P., Thompson, J., and 
+Wu, F. 2018. Trends in Food Science & Technology The dry chain : Reducing 
+postharvest losses and improving food safety in humid climates. Trends Food 
+Sci. Technol. 71: 84–93. Elsevier. doi:10.1016/j.tifs.2017.11.002.
+Ethiopian Seed Association. 2014. Hybrid maize seed production manual. 
+Available at: http://publication.eiar.gov.et:8080/xmlui/bitstream/
+handle/123456789/3181/028%20Hybrid%20Maize%20Seed%20
+Production%20Manual.pdf?sequence=1&isAllowed=y
+MacRobert, J.F., P.S. Setimela, J. Gethi, and M. Worku. 2014. Maize Hybrid 
+Seed Production Manual. Mexico, D.F.: CIMMYT. Available at: https://
+excellenceinbreeding.org/sites/ default/files/manual/98078.pdf
+Melchinger, A.E., and Gumber, R.K. 1998. Overview of Heterosis and Heterotic 
+Groups in Agronomic Crops. Page in K.R. Larnkey and J.E. Staub, eds. . 
+doi:10.2135/cssaspecpub25.c3.
+Plessis, du J. 2003. Maize production. Compiled by Directorate Agricultural 
+Information Services, Department of Agriculture, in cooperation with ARC-
+Grain Crops Institute. Available at: https://www.arc.agric.za/arc-gci/Fact%20
+Sheets%20Library/Maize%20 Production.pdf
+5.0 Bibliography
+
+HYBRID MAIZE SEED PRODUCTION | MANUAL
+76
+Seed Co Limited. 2018. The Farmers’ guide: grain crops. Available at: https://www.
+seedcogroup.com/sites/default/files/Agronomy%20Manual.pdf
+VOTO. 2016 A complete curriculum and guide to maize production in Ghana. 
+Available at http://agricinghana.com/wp-content/uploads/2017/07/maize-
+production-guide-ghana-2016.pdf
+
+
+SUPPORTED BY FAO

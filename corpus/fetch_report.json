@@ -120,6 +120,24 @@
     "url": "https://openknowledge.fao.org/server/api/core/bitstreams/f1394968-5048-433c-8509-2ff0d8864bf0/content"
   },
   {
+    "id": "ghana-variety-catalogue-2019",
+    "ok": true,
+    "message": "209,082 chars from 84 pages",
+    "url": "https://nastag.org/docx/resources/2019%20NATIONAL%20CROP%20VARIETY%20CATALOGUE.pdf"
+  },
+  {
+    "id": "mofa-hybrid-maize-manual",
+    "ok": true,
+    "message": "86,584 chars from 80 pages",
+    "url": "https://nastag.org/docx/resources/Hybrid%20Maize%20Production%20Manual.pdf"
+  },
+  {
+    "id": "agra-ghana-seed-system-2022",
+    "ok": true,
+    "message": "5,601 chars from 3 pages",
+    "url": "https://cessa.agra.org/wp-content/uploads/2023/09/GHANA-BVRM-COUNTRY-PROFILE-2022.pdf"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",

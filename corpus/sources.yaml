@@ -297,6 +297,47 @@ sources:
     ghana_specific: false
     status: candidate
 
+  # ── Ghanaian seed & variety authority ───────────────────────────────────────
+  # This is the category no international source can substitute for: which
+  # varieties are actually released and legal to sell in Ghana, and what their
+  # maturity, yield and zone recommendations are. A farmer asking "which maize
+  # should I plant" needs Ghanaian variety names, not Nigerian ones.
+
+  - id: ghana-variety-catalogue-2019
+    title: Catalogue of Crop Varieties Released and Registered in Ghana (2019)
+    publisher: National Varietal Release and Registration Committee (NVRRC), Ghana — via NASTAG
+    year: 2019
+    url: https://nastag.org/docx/resources/2019%20NATIONAL%20CROP%20VARIETY%20CATALOGUE.pdf
+    crops: [maize, cassava, yam, tomato, plantain, rice]
+    topics: [varieties, planting_calendar]
+    attribution: "NVRRC Ghana, Catalogue of Crop Varieties Released & Registered in Ghana (2019)"
+    ghana_specific: true
+    caveat: "2019. Varieties released AFTER 2019 are absent — CSIR-CRI has released more since (hybrid maize, yellow-fleshed cassava). Do not state this is the complete current list."
+    status: candidate
+
+  - id: mofa-hybrid-maize-manual
+    title: Hybrid Maize Seed Production Manual
+    publisher: Ministry of Food and Agriculture, Ghana — via NASTAG
+    year: null
+    url: https://nastag.org/docx/resources/Hybrid%20Maize%20Production%20Manual.pdf
+    crops: [maize]
+    topics: [planting_calendar, inputs_costs, varieties]
+    attribution: "MoFA Ghana, Hybrid Maize Seed Production Manual"
+    ghana_specific: true
+    status: candidate
+
+  - id: agra-ghana-seed-system-2022
+    title: "Breeding, Variety Release & Maintenance: Ghana Country Profile 2022"
+    publisher: AGRA (CESSA)
+    year: 2022
+    url: https://cessa.agra.org/wp-content/uploads/2023/09/GHANA-BVRM-COUNTRY-PROFILE-2022.pdf
+    crops: []
+    topics: [varieties, policy]
+    attribution: "AGRA/CESSA, Ghana Breeding & Variety Release Country Profile (2022)"
+    ghana_specific: true
+    caveat: "Seed-system policy, not agronomy. Useful for institutional context only; a farmer will never ask this."
+    status: candidate
+
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper
