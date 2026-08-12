@@ -127,7 +127,18 @@ ALIASES: dict[str, list[str]] = {
     "moko": ["pepper"],
     "gyeene": ["onion"],
     "nkruma": ["okra"],
+    "nkuruma": ["okra"],
+    "fetri": ["okra"],       # Ewe
     "abe": ["oil palm"],
+    "kontommire": ["cocoyam"],   # the leaves, eaten as a green
+    "nyaadewa": ["garden egg", "eggplant"],
+    "ntrowa": ["garden egg", "eggplant"],
+    "aborobe": ["pineapple"],
+    "borofere": ["pawpaw", "papaya"],
+    "ankaa": ["orange", "citrus"],
+    "akutu": ["orange", "citrus"],
+    "dawadawa": ["dawadawa", "locust bean"],
+    "efan": ["amaranth"],
     # Ghanaian English, not a local language, but what a farmer actually types.
     "garden egg": ["garden egg", "eggplant"],
     "garden eggs": ["garden egg", "eggplant"],
@@ -168,6 +179,44 @@ ALIASES: dict[str, list[str]] = {
     "don spoil": ["damage", "spoilage"],
     "no good": ["poor", "low yield"],
     "small small": ["gradually"],
+
+    # ── Local disease names ──────────────────────────────────────────────────
+    # The same category as "kokoo kokoram": names farmers give a disease, which
+    # appear in Ghanaian field surveys and nowhere in the manuals.
+    #
+    # "Akyimkyimakyimkyim" is literally "twisting" — the onion leaf-twisting
+    # disease, recorded in Fanteakwa and Kwahu South. "Mathwo" was recorded for
+    # tomato yellow leaf curl. "Ginger killer" is current usage for ginger
+    # bacterial wilt. None of these is in our corpus as a name, so each is
+    # mapped to the symptoms the documents do describe.
+    "akyimkyimakyimkyim": ["twisting", "leaf curl", "onion"],
+    "akyimkyim": ["twisting", "leaf curl"],
+    "mathwo": ["leaf curl", "yellowing", "tomato"],
+    "ginger killer": ["wilt", "bacterial"],
+    "kurukuruwa": ["curling", "twisting"],
+
+    # ── How farmers describe symptoms ────────────────────────────────────────
+    # Farmers describe what they see; manuals name the mechanism. These come
+    # from Ghanaian farmer surveys and field interviews.
+    "leaves turn yellow": ["yellowing", "chlorotic"],
+    "yellow leaves": ["yellowing", "chlorotic"],
+    "dry edges": ["drying", "necrosis"],
+    "wither and die": ["wilt", "wilting", "dieback"],
+    "plants wither": ["wilt", "wilting"],
+    "droop": ["wilting", "drooping"],
+    "centre shoot dead": ["dieback", "dead heart"],
+    "not growing well": ["stunted", "poor growth"],
+    "plant no grow": ["stunted", "poor growth"],
+    "short plants": ["stunted"],
+    "holes in leaves": ["holes", "feeding", "damage"],
+    "ragged leaves": ["damage", "feeding"],
+    "white powder": ["powdery", "mould"],
+    "white coating": ["powdery", "mould"],
+    "rusty spots": ["rust", "pustule"],
+    "mouldy": ["mould", "mold"],
+    "black mould on cob": ["mould", "cob"],
+    "holes in grain": ["exit hole", "grain borer"],
+    "burnt leaves": ["scorch", "burn"],
 
     # Storage and market terms that came out of the same survey.
     "grain borer": ["larger grain borer", "grain borer"],
