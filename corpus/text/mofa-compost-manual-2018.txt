@@ -1,0 +1,400 @@
+# An Extension Manual on Compost for Sustainable Crop Production
+# publisher: MoFA with CSIR-Crops Research Institute and CSIR-Savanna Agricultural Research Institute, Ghana
+# year: 2018
+# url: https://mofa.gov.gh/site/images/pdf/production_guides/Manual_on_Compost.pdf
+# attribution: MoFA/CSIR, An Extension Manual on Compost for Sustainable Crop Production (2018)
+# ghana_specific: True
+# extent: 13 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+1 
+ 
+                                                                       
+ 
+AN EXTENSION MANUAL  
+ON 
+COMPOST FOR SUSTAINABLE CROP PRODUCTION  
+  
+  
+Prepared by 
+ 
+Buri M. M., Adjei E. O., Dugan E., Ofori P., Gaisie E., Tetteh F. M., Yeboah E., Owusu 
+S., Asamoah G. 
+ 
+ 
+Collaborating Institutions 
+CSIR - Crops Research Institute 
+CSIR – Savanna Agricultural Research Institute 
+ 
+ 
+SEPTEMBER 2018 
+
+2 
+ 
+FOREWORD 
+Agricultural intensification is very necessary  for increased crop productivity. In the same 
+vein, maintaining a sustainable crop growing environment is very essential under threatening 
+climatic conditions. The poor physical conditions of soils in Ghana result in the rapid 
+leaching of nutrients beyond the reach of plant roots. Soils in Ghana are also generally low in 
+organic matter. In addition,  intensive cultivation of crops with little or no  replacement of 
+nutrients results in high nutrient removal , resulting in nutrient mining and subsequently soils 
+poor in plant nutrients. This results finally in low soil productivity.  However, research has 
+shown that improving soil organic matter through the application of compost has the potential 
+to address these challenges. During the regional  and national  RELC meetings conducted 
+across the country in 2017, the lack of information on orga nic amendments such as compost 
+was identified as a major challenge which needed immediate attention. 
+ 
+The Modernizing Agriculture in Ghana (MAG) Project  funded by Global Affairs Canada is 
+therefore partnering CSIR -Soil Research Institute by providing funding in developing this 
+communication material to build capacity and help transfer improved soil nutrient 
+management technologies for sustainable and increased crop production.  
+The use of soil amendment s such as compost to improve the physical and chemical state of 
+the soil results in increased crop productivity. Practices outlined in this extension manual on 
+compost and how it is produced, when adopted would go a long way not only to improve soil 
+productivity but more importantly, result in environmental sustainability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ACKNOWLEDGEMENT 
+ 
+The Directorate of Agricultural Extension Services (DAES) of the Ministry of Food and 
+Agriculture (MoFA) in collaboration with the Council for Scientific and Industrial Research 
+(CSIR) is grateful to the Canadian Government for the provision of financial support towards 
+the development of this Extension Training Manual as part of the implementation of the 
+Modernising Agriculture in Ghana (MAG) Programme. 
+ 
+Thanks to the Ag. Director of Agricultural Extension Services Directorate, Mr. Theophilus 
+Osei Owusu and the Deputy Director General of the Council for Scientific Research, Dr. Mrs. 
+Rosemary Mamaa Enstua-Mensah for their support during this process. 
+Our Deepest Appreciation to Mr. Emmanuel Agyei Odame, Ms. Prospera Anku, Prof. Paa Nii 
+Johnson and Dr. Seth Manteaw  all of National RELC Secretariat Offices in DAES and CSIR 
+respectively for their facilitation and coordination role played through the development and 
+finalization of the manuals.  
+  
+Special thanks to the various Lead Researchers and their team who worked tirelessly to 
+provide the technical material for the development of this extension material. Your efforts are 
+duly acknowledged. We also acknowledged all persons who contributed directly or indirectly 
+to the success of this work 
+  
+We acknowledge the commitment and contributions of the Subject Matter Specialists from 
+MoFA, Regions, Districts and Farmer groups in the development and validation of this 
+Manual.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+TABLE OF CONTENTS 
+Contents 
+Foreword .................................................................................................................................... 2 
+Acknowledgement ..................................................................................................................... 3 
+1.0 What Is Compost? ................................................................................................................ 5 
+2.0 Importance Of Compost ....................................................................................................... 5 
+3.0 Materials Needed To Make Compost .................................................................................. 5 
+4.0 Factors That Aid Compost Making...................................................................................... 6 
+5.0 Compost Preparation Methods ............................................................................................. 6 
+6.0 Compost Preparation Procedure .......................................................................................... 6 
+7.0 Application Of Compost .................................................................................................... 10 
+References ................................................................................................................................ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+1.0 WHAT IS COMPOST? 
+It is any organic residue/material or combination of organic residues/materials that have been 
+partially decomposed or transformed to a state rich in plant nutrients. It is an organic fertilizer  
+2.0 IMPORTANCE OF COMPOST 
+• It is a rich source of plant nutrients 
+• It increases soil organic matter levels 
+• It helps soil retain more plant nutrients (reduces leaching) 
+• Improves soil structure 
+• Improves soil quality 
+• Improves microbial activity in soil 
+• Improves biodiversity in soil 
+• It helps to keep soil pH at optimum levels  
+• It aids in reducing soil erosion 
+• It helps in controlling weeds, pest and diseases 
+• Helps farmers improve productivity of their lands and income 
+3.0 MATERIALS NEEDED TO MAKE COMPOST 
+ 
+(i) Plant materials, (both dry and green) 
+• Weeds, grasses and any other plant materials cut from inside and around farm fields. 
+• Organic wastes from cleaning grain, cooking and cleaning the house and compound, 
+• Crop residues: stems, leaves, straw and chaff of all field crops from threshing  grounds 
+and fields after harvest. 
+• Garden wastes – old leaves, hedge trimmings, grass cuttings, etc. 
+• Dry grass, hay and straw left over from feeding and bedding of animals. 
+• Dropped leaves and stems from almost any tree or shrub.  
+ 
+(ii) Animal materials 
+• Dung and droppings from all types of domestic animals.  
+• Chicken droppings are important to include because they are rich in nitrogen. 
+• Sludge and urine from animals and people. 
+6 
+ 
+(iii) Water 
+• Enough water is needed to wet all the materials and keep them moist,  
+• Materials should not be made too wet so that they lack air and thus rot and smell 
+• Too little or too much water negatively affect good compost making. 
+• Water does not need to be clean like drinking water. 
+• Source of water could be from rain, waste, stream. 
+Note: Avoid using water contaminated with lubricants and heavy metals 
+ 
+4.0 FACTORS THAT AID COMPOST MAKING 
+• Micro-organisms: (fungi and bacteria) and smaller animals (worms, insects) help to turn 
+waste materials into mature compost. 
+• Air: The arrangement of the composting materials should allow for good aeration for the 
+decomposers to effectively function.  
+• Heat: Decomposition of organic wastes produces heat. Compost needs to be kept hot and 
+moist so that the plant and animal materials can be broken down quickly and 
+thoroughly. 
+ 
+5.0 COMPOST PREPARATION METHODS 
+There are several ways of preparing good and rich compost . These include the pit or trench 
+methods, heap methods, plastic bag method, etc.  Choice of method depends on prevailing 
+conditions and availability of materials.   
+6.0 COMPOST PREPARATION PROCEDURE 
+In preparing compost, several steps are followed in a chronological order. A typical example 
+is the pit method using rice straw, wood ash and poultry manure as available materials 
+ 
+Step 1: Site Selection 
+• Select a location, preferably closer to where the compost is to be used  
+• Select a site (s), preferably under shade.  
+• Smaller lots of compost piles are better than one huge pile.  
+• Bigger piles require extra labour to convey compost to points of application. 
+7 
+ 
+ 
+ 
+Step 2: Making Trench/Pit:  
+• Dig a trench or a pit using any available tool - hoe, mattock, etc. (see photo 1)  
+• The trench can measure about 3m long and 1.5-2m wide.  
+• The depth will depend on quantity of material available to be composted. 
+ 
+ 
+Photo 1: Digging a trench or pit for compost 
+ 
+Step 3: Handling of Compost Materials: 
+• Chop material (rice straw) to be composted into pieces (see photo 2).  
+• Weigh the materials (rice straw and poultry manure) in a ratio of 3:1.  
+• Wet the materials overnight, preferably in sacks.  
+• Remove wet materials and allow any excess water to drain off the following day. 
+ 
+ 
+Photo 2: Chopping of compost material into pieces 
+ 
+
+8 
+ 
+ 
+Step 4: Laying of Materials in Pit/Trench: 
+• Arrange the material s (rice straw and poultry manure)  in layers in the trench  or pit  
+(see photo 3) 
+• Fill the trench to about 30 cm with the plant material  
+• Add 10 cm layer (divide full length of a cutlass six times) of poultry manure.  
+• Add a handful of wood ash.  
+• Repeat the process till all the materials are used.  
+• The pile can be built up to one cutlass length high. 
+• Insert a wooden pole of about 2 meters long to monitor temperature changes as 
+composting progresses 
+ 
+ 
+ 
+Photo 3: Arrange materials into layers 
+ 
+Step 5: Treatment of Trench/Pit: 
+• Cover the trench/pit with a thin layer of any  plant material. E.g. banana, plantain, palm 
+fronds, large leaves (see photo 4).  
+• Water  compost pile every 3 to 5 days, depending on the environmental conditions 
+• After 3-4 weeks open and turn the compost (bottom materials should be moved to the 
+top) 
+• This could be done by moving the composting materials into an adjacent pit/trench 
+• For rice straw this should be done once. 
+ 
+
+9 
+ 
+Note: For saw dust (hard wood) compost which takes more than 8 weeks to decompose, 
+turning should be done at least twice. 
+ 
+ 
+ 
+Photo 4: Covered composting material 
+ 
+Step 6: Compost Harvesting 
+• Depending on the materials, compost will be ready in 4 weeks for softer materials and 
+up to 10 weeks for hard materials (e.g. sawdust) 
+• Feel the temperature of the wooden pole as a sign of matured compost (see photo 5) 
+• Cold temperature signifies matured compost. 
+• Compost can be allowed to stay in the pit until it is needed.  
+• In case the material will not be used immediately protect it from rain. 
+ 
+ 
+Photo 5: Feeling the temperature of wood to determine maturity 
+
+10 
+ 
+Examples of Compost made from different materials 
+   
+Photo 6: Rice straw compost Photo 7: Saw dust compost Photo 8: Poultry manure 
+ compost 
+ 
+ 
+ Note:  
+• In areas where digging a pit may not be possible, compost can be made using plastic 
+bags/sheets (see photo 9)., boxes, barrels, heaps  
+• The material is periodically turned over as done for the pit until compost is ready 
+ 
+ 
+ 
+Photo 9: Compost making using plastic bags/sheets 
+ 
+7.0 APPLICATION OF COMPOST  
+• Compost may be applied in several ways depending on the crop. 
+• For field crops such as cereals,  legumes, roots, tubers, compost should be  broadcast 
+and worked into the soil 
+• For vegetables, compost may be applied as band placement  or spot placement 
+relatively close to the crop or as mulch 
+
+11 
+ 
+• Compost can also be applied by placing the compost material directly into the 
+planting hole 
+• Depending on the quality of compost,  apply an average of 2 - 4 tons per hectare for  
+effectiveness and good results.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+REFERENCES 
+1. JIRCAS (2014): Manual of Soil Fertility Improvement Technologies in Lowland Rice 
+Ecologies of Ghana. Published by Japan International Research Centre for Agricultural 
+Sciences (JIRCAS), Japan 2014 
+2. S. Edwards and H. Araya (1996): How to Make and Use Compost.  Published by Pietro 
+Bartoleschi and Arianna Guida  Studio@bartoleschi.com, 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coordinated By:  
+Mr. Emmanuel Agyei Odame, Ms. Prospera N.A Anku, Prof. Paa Nii Johnson and  
+ 
+Dr. Seth Manteaw 
+ 
+For further information please, contact RELC Units; DAES – MoFA, CSIR-HQ and 
+ 
+CSIR-SRI

@@ -19,7 +19,7 @@ import sys
 import urllib.error
 import urllib.request
 
-from . import extractive, verify
+from . import banned, extractive, verify
 from .retrieve import Retriever
 
 SERVER = "http://127.0.0.1:8080"
@@ -222,6 +222,24 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
             "top_score": hits[0].score if hits else 0.0,
         }
 
+    # Remove any passage naming a pesticide Ghana has banned, before it reaches
+    # either the extractive paths or the model. Our own corpus recommends
+    # chlordecone and methyl bromide — both banned — because the documents
+    # predate the regulations. See ayekoo/banned.py.
+    hits, banned_found = banned.scrub_passages(hits)
+    banned_warning = banned.warning_for(banned_found)
+    if not hits:
+        return {
+            "question": question,
+            "answer": (banned_warning or REFUSAL)
+            + ("\n\nI have no other source for this question." if banned_warning else ""),
+            "grounded": False,
+            "banned_substances": banned_found,
+            "hits": [],
+            "best_cosine": round(best_cosine, 4),
+            "top_score": 0.0,
+        }
+
     # Precise-calendar questions are answered by quotation, not paraphrase.
     # See ayekoo/extractive.py: at this model size, paraphrasing a planting
     # window corrupts it ("End of May-early July" became "early May to end of
@@ -234,6 +252,8 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
     )
     if extracted is not None:
         text, used = extracted
+        if banned_warning:
+            text = f"{banned_warning}\n\n{text}"
         return {
             "question": question,
             "answer": text,
@@ -255,9 +275,13 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
     verification = verify.check(text, retrieved_text, question)
     warning = verify.warning_for(verification)
 
+    if banned_warning:
+        text = f"{banned_warning}\n\n{text}"
+
     return {
         "question": question,
         "answer": text,
+        "banned_substances": banned_found,
         "warning": warning,
         "verification": verification,
         "grounded": True,

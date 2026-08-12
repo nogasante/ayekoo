@@ -627,6 +627,52 @@ sources:
     caveat: "Region names are pre-2018. Zones do not follow regional borders, and several regions span more than one zone."
     status: confirmed
 
+  # ── Regulatory ──────────────────────────────────────────────────────────────
+  # Not agronomy. This is the register that decides whether a chemical named in
+  # an older manual may lawfully be used in Ghana at all. Cross-checking the
+  # corpus against it found two banned substances being recommended by our own
+  # sources — chlordecone in the IITA plantain manual and methyl bromide in the
+  # FAO yam post-harvest guide — which is why ayekoo/banned.py exists.
+
+  - id: epa-pesticide-register-2023
+    title: Revised Register of Pesticides, December 2023
+    publisher: Environmental Protection Agency (EPA) Ghana, Chemicals Control and Management Centre
+    year: 2023
+    url: https://epa.gov.gh/new/wp-content/uploads/2024/08/Revised-Register-Of-Pesticides-December-2023-1.pdf
+    crops: []
+    topics: [regulation, pesticides]
+    attribution: "Ghana EPA, Revised Register of Pesticides (December 2023)"
+    ghana_specific: true
+    caveat: "Regulatory register, not agronomic guidance. Names which pesticides are registered, restricted or banned in Ghana. Registration status changes; this is the December 2023 edition."
+    status: candidate
+
+  # ── Soil fertility ──────────────────────────────────────────────────────────
+
+  - id: mofa-compost-manual-2018
+    title: An Extension Manual on Compost for Sustainable Crop Production
+    publisher: MoFA with CSIR-Crops Research Institute and CSIR-Savanna Agricultural Research Institute, Ghana
+    year: 2018
+    url: https://mofa.gov.gh/site/images/pdf/production_guides/Manual_on_Compost.pdf
+    crops: []
+    topics: [soil_fertility, inputs_costs]
+    attribution: "MoFA/CSIR, An Extension Manual on Compost for Sustainable Crop Production (2018)"
+    ghana_specific: true
+    # Sits on the same production_guides path as the maize, tomato and rice
+    # guides; missed on the first sweep because the filename follows no pattern.
+    status: candidate
+
+  - id: csir-clean-planting-material
+    title: Clean Planting Material and Macro-propagation (CSIR-CRI / MoFA)
+    publisher: CSIR-Crops Research Institute and MoFA, via Gates Open Research
+    year: null
+    url: https://gatesopenresearch-files.f1000.com/posters/docs/gatesopenres-182277.pdf
+    crops: [plantain, cassava]
+    topics: [planting_calendar, varieties]
+    attribution: "CSIR-CRI / MoFA, clean planting material and macro-propagation"
+    ghana_specific: true
+    caveat: "Conference poster, not a full manual. Thin on detail by format."
+    status: candidate
+
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper

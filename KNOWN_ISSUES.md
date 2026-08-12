@@ -66,3 +66,32 @@ mainly on IITA material, which is good agronomy but Nigeria-centred. Every such
 source is tagged `ghana_specific: false` and labelled in answers, so nothing is
 misrepresented, but the localisation claim is weaker for these two crops than
 for maize, cocoa, tomato or rice.
+
+## 4. RESOLVED — the corpus was recommending pesticides banned in Ghana
+
+Cross-checking every document against Ghana EPA's *Revised Register of
+Pesticides* (December 2023) found two banned substances being recommended by
+sources in this corpus:
+
+- **chlordecone** — IITA plantain manual (1990), in a dosage table, 1 gram per
+  plant, for banana weevil control
+- **methyl bromide** — FAO yam post-harvest guide, for fumigation
+
+The same IITA table also lists **HCH**, likewise banned. Chlordecone is a
+persistent organic pollutant banned under the Stockholm Convention; it caused a
+long-running public health disaster in the French Antilles.
+
+Neither source is wrong about what was recommended when it was written. They are
+older than the regulations. This is the specific hazard of building a corpus on
+durable agronomy: the agronomy stays true, chemical registrations do not, and no
+similarity score can tell the difference.
+
+`ayekoo/banned.py` now drops any retrieved passage naming a substance on the EPA
+banned list, before it reaches either the model or the extractive paths, and
+attaches a warning naming the substance and pointing at the current register.
+
+**Worth knowing:** this was found by an explicit regulatory cross-check, not by
+retrieval testing or by reading answers. Nothing about the passage looks wrong
+in isolation — it is a well-formed dosage table from a reputable institution.
+Any corpus of agricultural documents older than about five years should be
+checked the same way.

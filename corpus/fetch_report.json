@@ -252,6 +252,24 @@
     "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/3cb7b779-cd15-4643-b999-148a021a45c6/content"
   },
   {
+    "id": "epa-pesticide-register-2023",
+    "ok": true,
+    "message": "223,616 chars from 110 pages",
+    "url": "https://epa.gov.gh/new/wp-content/uploads/2024/08/Revised-Register-Of-Pesticides-December-2023-1.pdf"
+  },
+  {
+    "id": "mofa-compost-manual-2018",
+    "ok": true,
+    "message": "12,449 chars from 13 pages",
+    "url": "https://mofa.gov.gh/site/images/pdf/production_guides/Manual_on_Compost.pdf"
+  },
+  {
+    "id": "csir-clean-planting-material",
+    "ok": true,
+    "message": "106,719 chars from 75 pages",
+    "url": "https://gatesopenresearch-files.f1000.com/posters/docs/gatesopenres-182277.pdf"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",

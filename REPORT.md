@@ -27,7 +27,7 @@ This is what makes the cross-disciplinary pairing load-bearing rather than cosme
 
 ## 3. The corpus
 
-34 documents, 3.6 MB of extracted text, 5,905 indexed chunks. Every document is recorded in `corpus/sources.yaml` with its publisher, year, URL, and the attribution string that travels with every chunk derived from it.
+46 documents, 5.0 MB of extracted text, 8,169 indexed chunks. Every document is recorded in `corpus/sources.yaml` with its publisher, year, URL, and the attribution string that travels with every chunk derived from it.
 
 Sources are government and institutional only — MoFA/DAES production guides, the NVRRC national crop variety catalogue, MoFA/SRID *Agriculture in Ghana: Facts & Figures 2024*, the CRIG/COCOBOD cocoa extension manual, FAO and CGIAR/IITA manuals. No blogs, no forums, no video transcripts.
 
@@ -36,9 +36,9 @@ Coverage matches the four sub-domains the challenge defines for agriculture:
 | Sub-domain | Coverage |
 |---|---|
 | Crop | maize, cassava, yam, cocoa, tomato, plantain, rice — each with ≥3 Ghana-specific sources |
-| Livestock | poultry, Newcastle disease, sheep and goats, cattle |
-| Weather | rainfall onset and growing-season length by agro-ecological zone |
-| Market advisory | 2024 wholesale prices, GH₵/tonne, ten crops |
+| Livestock | poultry, Newcastle disease, sheep and goats, cattle — including FAO's Ghana poultry sector review |
+| Weather | GMet's climate manual, rainfall onset and growing-season length by zone |
+| Market advisory | 2024 wholesale prices GH₵/tonne for ten crops, plus 2025 quarterly reports |
 
 Every source carries a `ghana_specific` flag. The IITA and FAO manuals are good agronomy but West African or continental in scope, and are labelled as such in answers — where a Ghanaian and a regional source both match, the Ghanaian one is preferred. Stale content carries explicit never-quote caveats: the 2005 FAO fertilizer report's *rates* are still sound, but its prices are in pre-redenomination cedis and must never be surfaced.
 
@@ -69,6 +69,12 @@ Two safeguards matter more than usual here, because a wrong answer to a farmer i
 The fix was not more prompt engineering. A planting window is a quotation, not a summary. Calendar questions now return the source sentences verbatim from restructured tables, and the answer says so. Everything else still goes through the model, where paraphrase earns its place.
 
 `ayekoo/verify.py` checks that every number and month in a generated answer appears in the passages it came from, and that a month is associated with the zone the question asked about — not merely present somewhere.
+
+**Banned pesticides are blocked outright.** Cross-checking the corpus against Ghana EPA's *Revised Register of Pesticides* (December 2023) found two substances banned in Ghana being recommended by our own sources: **chlordecone**, with a dose, in IITA's 1990 plantain manual, and **methyl bromide** for yam fumigation in FAO's post-harvest guide. The same table lists HCH, also banned.
+
+Neither document is wrong — both are older than the regulations. That is the specific hazard of a corpus built on durable agronomy: the agronomy lasts, the chemical registrations do not, and nothing in a similarity score can tell the difference. `ayekoo/banned.py` drops any passage naming a substance on the EPA banned list before it reaches the model or the extractive paths, and the answer says the substance is banned and points to the current register.
+
+This is the clearest argument for provenance discipline in the whole system. A corpus assembled from reputable institutional sources still contained advice that could have harmed a farmer, and only an explicit regulatory cross-check surfaced it.
 
 ## 6. Constraints that shaped this
 
