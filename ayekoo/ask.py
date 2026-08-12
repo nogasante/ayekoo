@@ -18,7 +18,7 @@ import sys
 import urllib.error
 import urllib.request
 
-from . import verify
+from . import extractive, verify
 from .retrieve import Retriever
 
 SERVER = "http://127.0.0.1:8080"
@@ -179,6 +179,25 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
             "top_score": hits[0].score if hits else 0.0,
         }
 
+    # Precise-calendar questions are answered by quotation, not paraphrase.
+    # See ayekoo/extractive.py: at this model size, paraphrasing a planting
+    # window corrupts it ("End of May-early July" became "early May to end of
+    # July"), and no verifier can catch that because every month present is
+    # legitimately there.
+    extracted = extractive.extract(question, hits)
+    if extracted is not None:
+        text, used = extracted
+        return {
+            "question": question,
+            "answer": text,
+            "mode": "extractive",
+            "warning": None,
+            "grounded": True,
+            "top_score": hits[0].score,
+            "best_cosine": round(best_cosine, 4),
+            "hits": _hit_dicts(used),
+        }
+
     prompt = build_prompt(question, hits)
     text = call_model(SYSTEM_PROMPT, prompt)
 
@@ -197,21 +216,25 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
         "grounded": True,
         "top_score": hits[0].score,
         "best_cosine": round(best_cosine, 4),
-        "hits": [
-            {
-                "n": n,
-                "attribution": h.attribution,
-                "source_id": h.chunk["source_id"],
-                "ghana_specific": h.chunk.get("ghana_specific", True),
-                "section": h.chunk.get("section"),
-                "caveat": h.chunk.get("caveat"),
-                "score": round(h.score, 5),
-                "dense_rank": h.dense_rank,
-                "lexical_rank": h.lexical_rank,
-            }
-            for n, h in enumerate(hits, 1)
-        ],
+        "hits": _hit_dicts(hits),
     }
+
+
+def _hit_dicts(hits) -> list[dict]:
+    return [
+        {
+            "n": n,
+            "attribution": h.attribution,
+            "source_id": h.chunk["source_id"],
+            "ghana_specific": h.chunk.get("ghana_specific", True),
+            "section": h.chunk.get("section"),
+            "caveat": h.chunk.get("caveat"),
+            "score": round(h.score, 5),
+            "dense_rank": h.dense_rank,
+            "lexical_rank": h.lexical_rank,
+        }
+        for n, h in enumerate(hits, 1)
+    ]
 
 
 def main() -> int:
