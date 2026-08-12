@@ -27,7 +27,7 @@ This is what makes the cross-disciplinary pairing load-bearing rather than cosme
 
 ## 3. The corpus
 
-46 documents, 5.0 MB of extracted text, 8,169 indexed chunks. Every document is recorded in `corpus/sources.yaml` with its publisher, year, URL, and the attribution string that travels with every chunk derived from it.
+49 documents, 5.4 MB of extracted text, 8,535 indexed chunks. Every document is recorded in `corpus/sources.yaml` with its publisher, year, URL, and the attribution string that travels with every chunk derived from it.
 
 Sources are government and institutional only — MoFA/DAES production guides, the NVRRC national crop variety catalogue, MoFA/SRID *Agriculture in Ghana: Facts & Figures 2024*, the CRIG/COCOBOD cocoa extension manual, FAO and CGIAR/IITA manuals. No blogs, no forums, no video transcripts.
 
@@ -56,7 +56,9 @@ Three retrieval decisions came out of measured failures rather than theory:
 
 **Retrieval is routed by subject.** "My goat is sick" returned four chunks from the village chicken manual and no goat content, because this corpus holds roughly ten times more poultry text than goat text and rank fusion rewards a document that places mid-rank in both rankers over one that ranks first in only one. Questions naming an animal or crop now lift sources about that subject and demote sources about a different one.
 
-A small alias map bridges farmer vocabulary to document vocabulary — `capsid` appears 5 times in this corpus, `mirid` 41; `army worm` once, `armyworm` twelve times. Every alias target is asserted to exist in the corpus by a test, so the map cannot drift into invented terminology.
+A 148-entry alias map bridges farmer vocabulary to document vocabulary. The mismatch is measurable: `capsid` appears 5 times in this corpus and `mirid` 41; `army worm` once and `armyworm` twelve times. It carries local crop names (*bankye*, *aburoo*, *nkruma*, *nyaadewa*), local disease names recorded in Ghanaian field surveys (*akyimkyimakyimkyim* for onion leaf-twisting disease, *kokoo kokoram* for cocoa stem canker), the way farmers describe symptoms ("leaves turn yellow", "centre shoot dead", "holes in grain"), and Ghanaian Pidgin constructions ("my maize dey yellow", "pest don finish my pepper").
+
+Every alias target is asserted by a test to occur in the corpus, so the map cannot drift into invented terminology — a check that caught two of my own inventions. The map also has a hard limit worth stating: it bridges vocabulary to content and cannot create content. Adding *fetri* and *nkruma* for okra routes an okra question accurately to nothing, because no source in this corpus covers okra.
 
 ## 5. Refusing, and quoting
 
@@ -86,18 +88,28 @@ This is the clearest argument for provenance discipline in the whole system. A c
 
 ## 7. Benchmarks
 
-Measured on the development laptop (Intel i5-8th gen, 4 threads, 8 GB RAM, Windows 11), with cooldowns between runs.
+Measured on the development laptop (Intel i5-8265U, 4 threads, 8 GB RAM, Windows 11), idle, with cooldowns between runs.
+
+Machine load matters more than anything in the code, and it is worth stating how much. The same build, same model, same corpus, measured three times:
+
+| Machine state | Throughput |
+|---|---|
+| Saturated — 255 MB free RAM, swapping | 2.69 tok/s |
+| Editor and browser open | 5.88 tok/s |
+| **Idle** | **9.77 tok/s** |
+
+Peak RSS barely moved across all three, which is the point: the memory figure is a property of the system, the throughput figure is a property of the machine it is asked to share.
 
 | Metric | Value |
 |---|---|
 | Peak RSS, full stack loaded (index + embedding model + generation model, one answer) | **331 MB** |
-| Peak RSS, profiler measurement | 544 MB |
-| Efficiency score, `100 × (7 GB − peak) / 7 GB` | **≈ 95.4** |
-| Throughput | 8.4 tok/s |
+| Peak RSS, profiler measurement | 544.65 MB |
+| Efficiency score, `100 × (7 GB − peak) / 7 GB` | **92.4** (from the profiler's 544.65 MB) |
+| Throughput | **9.77 tok/s** |
 | Model parameters, verified from GGUF header | 630,167,424 |
-| Thermal throttling | none observed |
+| Thermal throttling | none — `throttled: false` |
 
-The full retrieval stack costs about 145 MB on top of the models — 5,905 chunks, their vectors, and the BM25 index. Retrieval is not the memory problem it is sometimes assumed to be at this scale.
+The full retrieval stack costs about 145 MB on top of the models — 8,535 chunks, their vectors, and the BM25 index. Retrieval is not the memory problem it is sometimes assumed to be at this scale.
 
 Verified end-to-end on Ubuntu 24.04 (2 cores, 3.8 GB RAM): `download_model.sh` fetches and checksums both models in 38 s, retrieval reproduces the same scores as on Windows to four decimal places, and a full answer takes 26 s cold on two cores with nothing installed but `pip install -r requirements.txt`.
 
