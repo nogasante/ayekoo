@@ -3,46 +3,36 @@
 Recorded rather than hidden. Each entry has a reproduction so it can be picked
 up and worked on directly.
 
-## 1. "My chickens are dying suddenly" is declined, though the corpus answers it
+## 1. RESOLVED — symptom questions are now answered by quotation
 
-**Reproduce**
+Was: "my chickens are dying suddenly" was declined even though the corpus
+states that sudden high mortality is the diagnostic sign of Newcastle disease.
 
-    python -m ayekoo.ask "my chickens are dying suddenly, what could it be?"
+Two things were wrong, and they had to be fixed in order.
 
-Returns "My sources do not cover this."
+**Retrieval.** The passage naming ND ranked 32nd by similarity and 428th by
+BM25 for that phrasing. Fixed by adding a Ghana-specific poultry source (FAO's
+Ghana poultry sector review), symptom vocabulary to the alias map ("green
+droppings" -> "greenish diarrhoea", "cannot walk" -> "paralysis"), capping
+chunks per source, and widening the fusion window from 20 to 80.
 
-**Why it is wrong**
+**Generation.** Even with the right passages retrieved, the model refused. The
+refusal clause in the system prompt was the trigger: removing it made the model
+answer, but it then merged Newcastle disease with fowl cholera and attributed
+Pasteurella multocida to the same picture. A third framing produced "coat
+dragging on the ground", a garbled reading of drooping wings.
 
-The corpus contains the answer. `fao-smallscale-poultry` states: *"The most
-obvious diagnostic sign of ND is very sudden, very high mortality, often with
-few symptoms"*, and `fao-newcastle-village-poultry` is a whole document about
-controlling it. Newcastle disease is the biggest killer of village poultry in
-West Africa, so this is a question farmers really ask.
+All three outcomes are unacceptable for animal health advice, so symptom
+questions no longer go through the model at all. `extract_symptoms` quotes the
+signs the sources record, names the diseases the sources name, and says plainly
+that it is not diagnosing and that a veterinary or extension officer should
+look at the animals. Same principle as planting dates and prices: where
+precision matters, quote rather than paraphrase.
 
-**What is actually happening**
-
-The passage holding the answer (chunk 2416) ranks 32nd by dense similarity and
-428th by BM25 for this phrasing. It loses rank fusion to general poultry
-husbandry pages that match "chickens" more strongly. The model then sees four
-passages about disease diagnosis in general and correctly declines rather than
-invent — the refusal path working as designed, on a retrieval failure.
-
-**Tried, did not fix it**
-
-- subject routing (poultry sources are lifted, but they all are)
-- capping chunks per source, so one manual cannot monopolise the results
-- alias expansion: "dying suddenly" -> sudden, mortality, newcastle
-- widening the fusion candidate window from 20 to 80
-- raising top_k from 4 to 6 and 8
-
-**Worth trying next**
-
-- A symptom-to-disease index built from the disease sections specifically,
-  rather than relying on general similarity across whole manuals.
-- Query rewriting: turn a symptom description into the clinical vocabulary the
-  manuals use before retrieval, rather than only appending alias terms.
-- Weighting the dense score by absolute similarity rather than rank alone, so a
-  strong-but-lower-ranked match can beat several weak ones.
+The cassava case is the clearest illustration of why this is better than a
+summary — the quoted passage carries the source's own warning: "You should not
+confuse chlorotic spots caused by the pest with the chlorotic patches of
+cassava mosaic disease."
 
 ## 2. Town names do not resolve to agro-ecological zones
 

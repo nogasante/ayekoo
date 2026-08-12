@@ -411,6 +411,33 @@ sources:
     ghana_specific: false
     status: candidate
 
+  - id: fao-ghana-poultry-sector
+    title: "Livestock Country Reviews: Poultry Sector Ghana"
+    publisher: Food and Agriculture Organization of the United Nations (FAO)
+    year: 2014
+    url: https://www.fao.org/4/i3663e/i3663e.pdf
+    crops: []
+    livestock: [poultry]
+    topics: [husbandry, pests_diseases, market_advisory, policy]
+    attribution: "FAO, Livestock Country Reviews: Poultry Sector Ghana (2014)"
+    ghana_specific: true
+    # The first Ghana-specific livestock source in this corpus. Everything else
+    # under livestock is FAO or CGIAR material at continental scope, which is
+    # sound husbandry but not Ghanaian practice.
+    status: candidate
+
+  - id: iaea-farmyard-poultry-africa
+    title: "Improving Farmyard Poultry Production in Africa: Interventions and their Economic Assessment"
+    publisher: International Atomic Energy Agency (IAEA)
+    year: null
+    url: https://www-pub.iaea.org/MTCD/Publications/PDF/te_1489_web.pdf
+    crops: []
+    livestock: [poultry]
+    topics: [husbandry, pests_diseases]
+    attribution: "IAEA, Improving Farmyard Poultry Production in Africa"
+    ghana_specific: false
+    status: candidate
+
   # ── Weather & season timing ─────────────────────────────────────────────────
   # The other missing sub-domain. Rainfall onset is the single most consequential
   # thing a Ghanaian farmer needs to time correctly, and it is exactly what a
@@ -497,6 +524,82 @@ sources:
     ghana_specific: true
     caveat: "Annual national average wholesale prices for 2024, not current market prices and not farm-gate prices. Quoted per tonne exactly as published; never converted to per-bag, since the source gives no bag weight."
     status: confirmed
+
+  # ── Recent market conditions ────────────────────────────────────────────────
+  # The annual Facts & Figures series lags: the 2024 edition is the newest
+  # published, so its prices are the most recent official annual figures but not
+  # current conditions. These quarterly reports are more recent and carry
+  # regional detail the national averages flatten out. An offline system cannot
+  # have live prices; what it can do is be explicit about which period a figure
+  # describes.
+
+  - id: srid-fsnms-q1-2025
+    title: Food Security and Nutrition Monitoring System Report, First Quarter 2025
+    publisher: Statistics, Research and Information Directorate (SRID), MoFA, Ghana
+    year: 2025
+    url: https://srid.mofa.gov.gh/sites/default/files/2025-12/1st_quarter_2025_FSNMS_Report.pdf
+    crops: [maize, rice, cassava, yam, plantain]
+    topics: [market_advisory, prices_ghs, food_security]
+    attribution: "MoFA/SRID, Food Security and Nutrition Monitoring System Report, Q1 2025"
+    ghana_specific: true
+    caveat: "Describes conditions in the first quarter of 2025 specifically. Not current prices and not an annual average — it reports a period, and answers must say which."
+    status: candidate
+
+  - id: agra-grain-bulletin-q3-2025
+    title: AGRA Grain Stocks and Prices Bulletin, Q3 2025
+    publisher: AGRA, via MoFA/SRID
+    year: 2025
+    url: https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRA%20BULLETIN%20Q3%202025_V2_091211.pdf
+    crops: [maize, rice, millet, sorghum]
+    topics: [market_advisory, prices_ghs]
+    attribution: "AGRA Grain Stocks and Prices Bulletin, Q3 2025 (via MoFA/SRID)"
+    ghana_specific: true
+    caveat: "District-level grain prices per kilo for Q3 2025, in the programme's zone of influence rather than nationwide. Not a national figure and not current."
+    status: candidate
+
+  # ── CSIR-CRI variety releases after the 2019 catalogue ──────────────────────
+  # The NVRRC catalogue in this corpus is the 2019 edition, and its caveat says
+  # plainly that varieties released since are absent. These are CSIR-CRI's own
+  # announcements of NVRRC-approved releases that post-date it, which is the
+  # cheapest way to close that specific gap. HTML rather than PDF.
+
+  - id: csir-yellow-cassava-2022
+    title: Four High-Yielding Yellow-Fleshed Cassava Varieties Released by CSIR-Crops Research Institute
+    publisher: CSIR-Crops Research Institute, Ghana
+    year: 2022
+    url: https://cropsresearch.org/2022/05/four-high-yielding-yellow-fleshed-cassava-varieties-released-by-csir-crops-research-institute/
+    format: html
+    crops: [cassava]
+    topics: [varieties]
+    attribution: "CSIR-Crops Research Institute, yellow-fleshed cassava variety release (2022)"
+    ghana_specific: true
+    # Also one of very few Ghanaian cassava sources: cassava otherwise rests
+    # mainly on IITA material at West African scope.
+    status: candidate
+
+  - id: csir-hybrid-maize-2021
+    title: High-Yielding Hybrid Maize Varieties Released by CSIR-Crops Research Institute
+    publisher: CSIR-Crops Research Institute, Ghana
+    year: 2021
+    url: https://cropsresearch.org/2021/12/high-yielding-hybrid-maize-varieties-released-by-csir-crops-research-institute/
+    format: html
+    crops: [maize]
+    topics: [varieties]
+    attribution: "CSIR-Crops Research Institute, hybrid maize variety release (2021)"
+    ghana_specific: true
+    status: candidate
+
+  - id: csir-improved-cassava-2023
+    title: Cassava Farmers Exposed to Healthy Improved Cassava Varieties and Planting Materials for Production
+    publisher: CSIR-Crops Research Institute, Ghana
+    year: 2023
+    url: https://cropsresearch.org/2023/06/cassava-farmers-exposed-to-healthy-improved-cassava-varieties-and-planting-materials-for-production/
+    format: html
+    crops: [cassava]
+    topics: [varieties, planting_calendar]
+    attribution: "CSIR-Crops Research Institute, improved cassava varieties and planting materials (2023)"
+    ghana_specific: true
+    status: candidate
 
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this

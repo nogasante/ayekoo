@@ -1,21 +1,26 @@
 {
-  "n_chunks": 5905,
+  "n_chunks": 7483,
   "dim": 384,
   "embed_model": "bge-small-en-v1.5-f16.gguf",
   "query_prefix": "Represent this sentence for searching relevant passages: ",
   "sources": [
     "agra-ghana-seed-system-2022",
+    "agra-grain-bulletin-q3-2025",
     "cgspace-cassava-growing-manual",
     "cgspace-cassava-pest-control",
     "cgspace-cassava-starting-farm",
     "cgspace-yam-diseases",
     "cgspace-yam-minisetts",
     "cocoa-extension-manual",
+    "csir-hybrid-maize-2021",
+    "csir-improved-cassava-2023",
+    "csir-yellow-cassava-2022",
     "derived-agroecological-zones",
     "derived-maize-planting-calendar",
     "derived-market-prices",
     "fao-cassava-africa-review",
     "fao-fertilizer-ghana",
+    "fao-ghana-poultry-sector",
     "fao-newcastle-village-poultry",
     "fao-save-and-grow-cassava",
     "fao-sheep-goats",
@@ -26,6 +31,7 @@
     "ghana-agric-situational-2020",
     "ghana-variety-catalogue-2019",
     "iaea-cassava-guidelines",
+    "iaea-farmyard-poultry-africa",
     "mofa-feed-ghana",
     "mofa-hybrid-maize-manual",
     "mofa-maize-2020",
@@ -37,6 +43,7 @@
     "plantain-west-africa-manual",
     "rainfall-onset-north-ghana",
     "srid-facts-figures-2024",
+    "srid-fsnms-q1-2025",
     "yam-transition-zone-ghana"
   ]
 }

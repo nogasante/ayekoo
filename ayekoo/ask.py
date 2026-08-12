@@ -227,7 +227,11 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True) -> dict:
     # window corrupts it ("End of May-early July" became "early May to end of
     # July"), and no verifier can catch that because every month present is
     # legitimately there.
-    extracted = extractive.extract_prices(question, retriever) or extractive.extract(question, hits, retriever)
+    extracted = (
+        extractive.extract_prices(question, retriever)
+        or extractive.extract(question, hits, retriever)
+        or extractive.extract_symptoms(question, hits)
+    )
     if extracted is not None:
         text, used = extracted
         return {

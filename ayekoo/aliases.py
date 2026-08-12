@@ -78,6 +78,27 @@ ALIASES: dict[str, list[str]] = {
     "fowl disease": ["newcastle", "disease"],
     "nd": ["newcastle"],
     "not laying": ["egg production", "laying"],
+    # Newcastle symptom vocabulary. A farmer describes what they see; the
+    # manuals use clinical terms. Sourced from a Ghanaian video survey and then
+    # checked against this corpus — every target below occurs in it.
+    "green droppings": ["greenish diarrhoea", "green diarrhoea"],
+    "green poo": ["greenish diarrhoea"],
+    "greenish droppings": ["greenish diarrhoea"],
+    "gasping": ["gasping", "respiratory"],
+    "breathing hard": ["gasping", "respiratory", "coughing"],
+    "twisted neck": ["twisted neck", "torticollis", "nervous signs"],
+    "twisting neck": ["twisted neck", "torticollis"],
+    "head twisted": ["twisted neck", "torticollis"],
+    "cannot walk": ["paralysis", "nervous signs"],
+    "paralysed": ["paralysis", "nervous signs"],
+    "stopped laying": ["drop in egg", "egg production"],
+    "no appetite": ["loss of appetite"],
+    # "Nkoko Nketenkete" is MoFA's backyard-poultry programme under Feed Ghana;
+    # the spelling here is the one MoFA's own document uses.
+    "nkoko": ["nkoko nketenkete", "backyard poultry"],
+    "nkoko nketenkete": ["backyard poultry", "household poultry"],
+    "backyard fowls": ["backyard poultry", "nkoko nketenkete"],
+    "local fowls": ["backyard poultry", "village poultry"],
     # ── general ──────────────────────────────────────────────────────────────
     "eelworm": ["nematode"],
     "eelworms": ["nematode"],

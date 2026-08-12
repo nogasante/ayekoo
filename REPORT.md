@@ -95,7 +95,43 @@ The full retrieval stack costs about 145 MB on top of the models — 5,905 chunk
 
 Verified end-to-end on Ubuntu 24.04 (2 cores, 3.8 GB RAM): `download_model.sh` fetches and checksums both models in 38 s, retrieval reproduces the same scores as on Windows to four decimal places, and a full answer takes 26 s cold on two cores with nothing installed but `pip install -r requirements.txt`.
 
-## 8. What this does not do
+## 8. How long the facts stay true
+
+An offline system trades freshness for availability. That is the deliberate
+bargain, not an oversight: a farmer with no data plan gets a correct planting
+window today rather than a live price they can never load. What the design owes
+in return is honesty about how old each fact is.
+
+Facts in this corpus have very different shelf lives.
+
+**Effectively permanent.** Planting windows, plant spacings, seed rates,
+fertilizer rates, disease symptoms, the rainfall pattern of each agro-ecological
+zone. MoFA's maize calendar will read the same in ten years. This is most of the
+corpus, and it is why an offline agricultural assistant is viable at all.
+
+**Slowly drifting.** Released variety lists — the national catalogue here is the
+2019 edition, and CSIR-CRI has released hybrid maize and yellow-fleshed cassava
+varieties since. Recommended chemicals, where registration status changes; the
+1992 yam disease guide is marked never-quote for pesticides for exactly this
+reason.
+
+**Perishable.** Prices. The most recent official annual figures are 2024, from
+the newest published edition of *Facts & Figures*; quarterly reports from 2025
+carry more recent regional conditions. None of it is today's market.
+
+The design response is to date every perishable fact rather than assert it as
+current. Price answers say "in 2024" and state that these are annual national
+averages, not a farm-gate price and not today's market. Sources carry explicit
+never-quote caveats where their figures have expired — the 2005 FAO fertilizer
+report's application rates are still sound agronomy, but its prices are in
+pre-redenomination cedis and would be wrong by four orders of magnitude if
+surfaced.
+
+A farmer is better served by "maize averaged GH₵9,285.91 per tonne in 2024, and
+prices vary by region and season" than by a bare number implying currency it
+does not have.
+
+## 9. What this does not do
 
 It answers in English, not Twi. The name is Akan, but a clumsy Twi interface judged by a Twi speaker would be worse than none; the localisation here is in the knowledge, not the interface.
 

@@ -156,6 +156,135 @@ UNMAPPED_PLACE = re.compile(
 )
 
 
+# Symptom questions. A farmer describing sick animals or plants is asking a
+# differential-diagnosis question, and that is the worst possible task for a
+# 0.63B model to paraphrase.
+#
+# Measured on "my chickens have green droppings and are gasping", with correct
+# chunks retrieved:
+#   - with the refusal clause in the system prompt, the model declined outright
+#   - with the clause removed, it named Newcastle disease and then merged it with
+#     fowl cholera, attributing Pasteurella multocida to the same picture
+#   - with diagnostic framing, it produced "coat dragging on the ground", a
+#     garbled reading of drooping wings
+#
+# All three are unacceptable for animal health advice. So we quote: list the
+# signs the sources actually record, name the diseases the sources name, and
+# tell the farmer to get a veterinary officer. Ayekoo does not diagnose.
+SYMPTOM_INTENT = re.compile(
+    r"\b(dying|die|died|sick|sickness|disease|symptom|symptoms|signs?|"
+    r"what is wrong|what could it be|droppings|diarrh|gasping|coughing|"
+    r"swollen|wilting|curling|yellowing|rotting|spots?)\b",
+    re.I,
+)
+
+SYMPTOM_TERMS = re.compile(
+    r"\b(sign|signs|symptom|symptoms|mortality|diarrh\w*|gasping|coughing|"
+    r"sneezing|paralysis|convulsion\w*|torticollis|twisted neck|lesion\w*|"
+    r"swelling|swollen|discharge|drop in egg|loss of appetite|wilting|"
+    r"chlorotic|necrosis|rot\b|spots?)\b",
+    re.I,
+)
+
+DISEASE_NAME = re.compile(
+    r"\b(newcastle|nd virus|fowl (?:cholera|pox|typhoid)|pasteurell\w+|"
+    r"gumboro|infectious (?:bronchitis|coryza|laryngotracheitis)|coccidiosis|"
+    r"marek\w*|avian influenza|mosaic|bacterial blight|anthracnose|"
+    r"black pod|swollen shoot|sigatoka|striga|mealybug|armyworm)\b",
+    re.I,
+)
+
+
+# Tidy the names for display. The documents abbreviate heavily, and "the sources
+# above name: nd virus" reads like a glitch rather than a disease.
+DISEASE_LABELS = {
+    "nd virus": "Newcastle disease (ND)",
+    "newcastle": "Newcastle disease (ND)",
+    "pasteurella": "fowl cholera (Pasteurella)",
+    "pasteurellosis": "fowl cholera (Pasteurella)",
+    "mosaic": "cassava mosaic disease",
+    "black pod": "black pod",
+    "swollen shoot": "cocoa swollen shoot virus",
+    "sigatoka": "black sigatoka",
+}
+
+
+def is_symptom_question(question: str) -> bool:
+    return bool(SYMPTOM_INTENT.search(question))
+
+
+def extract_symptoms(question: str, hits) -> tuple[str, list] | None:
+    """Quote the signs and disease names the sources record, without diagnosing."""
+    if not is_symptom_question(question):
+        return None
+
+    lines: list[str] = []
+    used: list = []
+    diseases: list[str] = []
+
+    for hit in hits:
+        for sentence in re.split(r"(?<=[.;])\s+|\n(?=[•\-])", hit.chunk["text"]):
+            s = " ".join(sentence.split()).lstrip("•- ")
+            if len(s) < 25 or len(s) > 300:
+                continue
+            if not SYMPTOM_TERMS.search(s):
+                continue
+            # Skip fragments that begin mid-word — chunk overlap debris.
+            if not re.match(r"^[A-Z(]", s):
+                continue
+            if s in lines:
+                continue
+            lines.append(s)
+            for match in DISEASE_NAME.finditer(s):
+                name = DISEASE_LABELS.get(match.group(0).lower(), match.group(0))
+                if name not in diseases:
+                    diseases.append(name)
+            if not any(h.chunk["chunk_id"] == hit.chunk["chunk_id"] for h in used):
+                used.append(hit)
+        if len(lines) >= 6:
+            break
+
+    if len(lines) < 2:
+        return None
+
+    header = "Here is what my sources record about signs like these, word for word:"
+    body = "\n".join(f"- {_repair(line)}" for line in lines[:6])
+    named = ""
+    if diseases:
+        named = (
+            "\n\nThe sources above name: "
+            + ", ".join(sorted(set(diseases)))
+            + "."
+        )
+
+    # Livestock and crops need different closing advice: telling someone whose
+    # cassava is sick to have "the animals" examined reads as carelessness, and
+    # carelessness in a health answer undermines the rest of it.
+    livestock = bool(re.search(
+        r"\b(chicken|chickens|fowl|fowls|poultry|bird|birds|goat|goats|sheep|"
+        r"cattle|cow|cows|animal|animals|guinea)\b", question, re.I))
+    if livestock:
+        closing = (
+            "I am quoting my sources, not diagnosing. Several diseases share "
+            "these signs, and telling them apart needs someone who can examine "
+            "the animals. Contact your MoFA extension officer or a veterinary "
+            "officer."
+        )
+    else:
+        closing = (
+            "I am quoting my sources, not diagnosing. Several pests and diseases "
+            "share these signs, and telling them apart usually needs someone who "
+            "can look at the crop. Contact your MoFA extension officer."
+        )
+
+    return f"{header}\n\n{body}{named}\n\n{closing}", used
+
+
+def _repair(line: str) -> str:
+    """Undo the letter-spacing PDF extraction leaves behind ("Y ou", "th e")."""
+    return re.sub(r"\b([A-Za-z])\s([a-z]{1,3}\b)", r"\1\2", line)
+
+
 def extract(question: str, hits, retriever=None) -> tuple[str, list] | None:
     """Return (verbatim answer, hits used) if this is a calendar question that a
     derived document answers directly. Otherwise None, and the caller generates.

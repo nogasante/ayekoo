@@ -1,0 +1,301 @@
+# AGRA Grain Stocks and Prices Bulletin, Q3 2025
+# publisher: AGRA, via MoFA/SRID
+# year: 2025
+# url: https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRA%20BULLETIN%20Q3%202025_V2_091211.pdf
+# attribution: AGRA Grain Stocks and Prices Bulletin, Q3 2025 (via MoFA/SRID)
+# ghana_specific: True
+# extent: 4 pages
+# CAVEAT: District-level grain prices per kilo for Q3 2025, in the programme's zone of influence rather than nationwide. Not a national figure and not current.
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+ZOI DISTRICTS: Tempane, Garu, Bawku West, Bawku Municipal, East Mamprusi, Mamprugu Moagduri, Nanton, Gusheigu, Karaga, Yendi, Mion, Sissala East, Sissala West, Wa East, Nadowli, Daffiama Bussie Issa, Sagnarigu. 
+ 
+QUARTER 3, 2025 
+BULLETIN 
+ 
+Institutional Capacity Enhancement 
+for Surveillance of Food Systems in 
+Ghana  
+ 
+ 
+ 
+INTRODUCTION 
+This quarterly bulletin seeks to assess food stock levels, pattern of drawdowns of grain stocks (Maize, Millet, Sorghum, Rice, Soyabean, Groundnut and Cowpea) in households and 
+markets in the AGRA Zone of Interest (ZOI) in Northern Ghana. Cereals and legumes serve as staple food and cash crops in many households in the ZOI. As such, accurate 
+knowledge of the quantity of grain stocks, drawdowns in households, as well as volumes and prices of grain stocks in markets is crucial for policy formulation on food security.  
+ 
+ 
+METHODOLOGY 
+• Households are categorized by wealth status (Better off, Middle, Poor, Very Poor). Thirty (30) households are selected to represent each district, proportional to the wealth 
+distribution of the district. Selected households are visited quarterly to assess their levels of stocks. 
+• Data was collected in all major markets in the districts to assess the stock levels and prices in markets. 
+ 
+ 
+ 
+                
+ 
+              GRAIN STOCK SURVEY 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+KEY FINDINGS 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+Very Poor Poor Middle Better off
+Wealth Group Distribution in ZOI (%)
+Very Poor
+Poor
+Middle
+Better off
+Generally, there are more ‘Poor’ households in the ZOI compared to the 
+other wealth groups. 
+ 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+Cereals Legumes Cereals Legumes Cereals Legumes Cereals Legumes
+2024 Q4 2025 Q1 2025 Q2 2025 Q3
+Quantity of Stocks In Kg By Wealth Group Distribution In ZOI 
+Better off
+Middle
+Poor
+Very Poor
+1. Stock levels are higher among the “Better off” households. 
+2. All stock levels for the various commodities recorded a downward trend from Q4_2024 to Q2_2025. However, quantities of stocks in Q3_2025 increased. 
+ 
+ 
+0
+20
+40
+60
+80
+100
+2024 Q4 2025 Q1 2025 Q2 2025 Q3
+Production only as Households Source of Inflow (%)
+“Production only” as a source of inflow for households in ZOI experienced a 
+gradual decline from Q4_2024 to Q2_2025 and a rebound in Q3_2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+200000
+400000
+600000
+800000
+1000000
+1200000
+1400000
+Q4_2024 Q1_2025 Q2_2025 Q3_2025
+Quantity of Stocks In Kg at Markets in ZOI 
+Cowpea
+Groundnut
+Maize
+Millet
+Rice(Milled)
+Rice(Paddy)
+Sorghum
+Soyabeans
+ 
+1. Generally, the quantity of grains in the ZOI markets fluctuates from one quarter to another. 
+2. ZOI Districts in the Northern Region comparatively had more grains in the markets compared to other regions in Q3_2025 in reference to the map. 
+3. Soyabean recorded the highest quantities of grain stocks across all quarters, while rice (milled) recorded the least quantities of grain stocked in markets across ZOI.   
+ 
+1. Generally, prices of grains per kilo decreased in Q3_2025, compared to 
+Q2_2025 in the ZOI. 
+2. Cowpea and Millet recorded the highest and lowest variation respectively. 
+1. Bawku West recorded the highest price per kilo for cowpea, while Daffiama Bussie Issa 
+recorded the least price per kilo in ZOI. 
+2. Bawku Municipal recorded the highest price per kilo for millet, while Wa East recorded 
+the least price per kilo in the ZOI. 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+Bawku Municipal
+Bawku West
+DBI
+East Mamprusi
+Garu
+Gusheigu
+Karaga
+Mamprugu…
+Mion
+Nadwoli
+Nanton
+Sagnarigu
+Sissala East
+Sissala West
+Tempane
+Wa East
+Yendi
+Bawku Municipal
+Bawku West
+DBI
+East Mamprusi
+Garu
+Gusheigu
+Karaga
+Mamprugu…
+Mion
+Nadwoli
+Nanton
+Sagnarigu
+Sissala East
+Sissala West
+Tempane
+Wa East
+Yendi
+Cowpea Millet
+Distribution of Average Price Per Kilo
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Q2_2025 Q3_2025
+GHC
+Axis Title
+Average Price Per Kilo By Quarter In ZOI  
+Cowpea
+Groundnut
+Maize
+Millet
+Rice(Milled)
+Rice(Paddy)
+Sorghum
+Soyabeans
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+2024 Q4 2025 Q1 2025 Q2 2025 Q3
+Household Grain Use By Quarter In ZOI (%)
+credit payment
+debt payment
+exchange for
+labour
+food
+gift
+livestock
+seed
+sold
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2024 Q4 2025 Q1 2025 Q2 2025 Q3
+Household Grain Received By Quarter In ZOI (%)
+Borrowing
+Credit payment
+Debt payment
+Exchange for Labour
+Food aid
+Gifts
+Prodcution only
+Purchase
+   KEY COLLABORATORS 
+                          
+ 
+ Ag. Director, MoFA, SRID     Project Coordinator 
+James Ayittey       Sidney Nii Oko Bampoe Addo 
+ james.ayittey@mofa.gov.gh      sidney.nii.oko.bampoe.addo@mofa.gov.gh  
+Generally, households use more of their grain stock for food across quarters. 
+ 
+Across quarters, households received grains mainly from own production and purchase.

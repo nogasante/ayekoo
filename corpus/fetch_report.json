@@ -168,6 +168,18 @@
     "url": "https://openknowledge.fao.org/server/api/core/bitstreams/a20fe6e8-1c70-4eca-9f8f-6ba84ece1879/content"
   },
   {
+    "id": "fao-ghana-poultry-sector",
+    "ok": true,
+    "message": "198,280 chars from 91 pages",
+    "url": "https://www.fao.org/4/i3663e/i3663e.pdf"
+  },
+  {
+    "id": "iaea-farmyard-poultry-africa",
+    "ok": true,
+    "message": "670,130 chars from 289 pages",
+    "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/te_1489_web.pdf"
+  },
+  {
     "id": "rainfall-onset-north-ghana",
     "ok": true,
     "message": "59,075 chars from 20 pages",
@@ -196,6 +208,36 @@
     "ok": true,
     "message": "derived",
     "url": "https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRICULTURE IN GHANA (Facts & Figures) 2024.pdf"
+  },
+  {
+    "id": "srid-fsnms-q1-2025",
+    "ok": true,
+    "message": "70,929 chars from 36 pages",
+    "url": "https://srid.mofa.gov.gh/sites/default/files/2025-12/1st_quarter_2025_FSNMS_Report.pdf"
+  },
+  {
+    "id": "agra-grain-bulletin-q3-2025",
+    "ok": true,
+    "message": "4,801 chars from 4 pages",
+    "url": "https://srid.mofa.gov.gh/sites/default/files/2025-12/AGRA%20BULLETIN%20Q3%202025_V2_091211.pdf"
+  },
+  {
+    "id": "csir-yellow-cassava-2022",
+    "ok": true,
+    "message": "4,188 chars of HTML text",
+    "url": "https://cropsresearch.org/2022/05/four-high-yielding-yellow-fleshed-cassava-varieties-released-by-csir-crops-research-institute/"
+  },
+  {
+    "id": "csir-hybrid-maize-2021",
+    "ok": true,
+    "message": "3,013 chars of HTML text",
+    "url": "https://cropsresearch.org/2021/12/high-yielding-hybrid-maize-varieties-released-by-csir-crops-research-institute/"
+  },
+  {
+    "id": "csir-improved-cassava-2023",
+    "ok": true,
+    "message": "5,201 chars of HTML text",
+    "url": "https://cropsresearch.org/2023/06/cassava-farmers-exposed-to-healthy-improved-cassava-varieties-and-planting-materials-for-production/"
   },
   {
     "id": "plantain-practices-ghana",
