@@ -160,6 +160,12 @@ def greeting_text() -> str:
     )
 
 
+def _prices_expired(hit) -> bool:
+    """True if this source's caveat forbids quoting its prices as current."""
+    caveat = (hit.chunk.get("caveat") if isinstance(hit.chunk, dict) else None) or ""
+    return "never be quoted" in caveat.lower()
+
+
 def coverage_line() -> str:
     """Describe what the corpus actually holds, read from the built index.
 
@@ -417,6 +423,30 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True,
             "best_cosine": round(best_cosine, 4),
             "top_score": hits[0].score if hits else 0.0,
         }
+
+    # Enforce the never-quote-prices caveat, which until now was prose in
+    # sources.yaml that nothing read. Asked what NPK costs, Ayekoo answered
+    # "$1.37 per hectare" out of the 2005 FAO report — a figure in pre-
+    # redenomination cedis, from a source whose own caveat says its prices must
+    # never be quoted as current. A caveat a machine does not read is a comment.
+    if extractive.is_price_question(question):
+        priced = [h for h in hits if not _prices_expired(h)]
+        if not priced:
+            return {
+                "question": question,
+                "answer": (
+                    "I do not have a current price for this. The sources that mention it "
+                    "are too old to quote - their figures predate the 2007 redenomination "
+                    "of the cedi and would be wrong by orders of magnitude.\n\n"
+                    "I can give 2024 annual national average prices for crops such as "
+                    "maize, rice, yam and cassava."
+                ),
+                "grounded": False,
+                "hits": [],
+                "best_cosine": round(best_cosine, 4),
+                "top_score": hits[0].score,
+            }
+        hits = priced
 
     # Remove any passage naming a pesticide Ghana has banned, before it reaches
     # either the extractive paths or the model. Our own corpus recommends

@@ -44,9 +44,13 @@ PLANTING_TERMS = re.compile(r"\b(plant|planting|sow|sowing|season)\b", re.I)
 # times over. Asked "what is the price of maize", it retrieved tomato text and
 # reported a 130kg crate at GHS 700, along with maize having "high brix
 # content", which is a tomato measure. A price is a figure to be quoted.
+# Money words only. "How much" used to be in here, and it is a quantity question
+# at least as often as a money one: "how much fertilizer for yam" was answered
+# with the 2024 market price of yam instead of an application rate. "How much
+# does NPK cost" still matches, on "cost".
 PRICE_INTENT = re.compile(
-    r"\b(price|prices|cost|costs|selling for|sell for|worth|how much|"
-    r"market rate|going rate)\b",
+    r"\b(price|prices|pricing|cost|costs|selling for|sell for|worth|"
+    r"expensive|cheap|ghs|ghc|cedis?|market rate|going rate)\b",
     re.I,
 )
 

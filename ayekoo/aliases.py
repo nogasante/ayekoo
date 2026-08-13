@@ -242,6 +242,15 @@ ALIASES: dict[str, list[str]] = {
     "eelworm": ["nematode"],
     "eelworms": ["nematode"],
     "fertiliser": ["fertilizer"],
+    # Fertilizer names farmers use are bare product codes. To an English
+    # embedding model "npk" is three letters with no meaning: "how much does npk
+    # cost" scored 0.627 and was refused, while the same question saying
+    # "fertilizer" scored 0.786. Expanding the code restores the meaning.
+    "npk": ["NPK", "compound fertilizer", "fertilizer"],
+    "npk 15-15-15": ["NPK 15-15-15", "compound fertilizer"],
+    "sulphate of ammonia": ["sulphate of ammonia", "fertilizer"],
+    "ammonia": ["sulphate of ammonia", "fertilizer"],
+    "urea": ["urea", "fertilizer", "nitrogen"],
     "manure": ["manure", "organic fertilizer"],
     "weedicide": ["herbicide", "weed control"],
     "chemical": ["pesticide", "insecticide", "fungicide"],
