@@ -20,7 +20,7 @@ import urllib.error
 import urllib.request
 
 from . import banned, extractive, verify
-from .retrieve import Retriever
+from .retrieve import INDEX, Retriever
 
 SERVER = "http://127.0.0.1:8080"
 
@@ -87,6 +87,64 @@ REFUSAL = (
     "My sources do not cover this. Ayekoo only answers from a fixed set of "
     "Ghanaian agricultural documents, and nothing in them addresses this question."
 )
+
+# Questions whose answer changes daily. A fixed set of documents cannot answer
+# these however well retrieval scores, and the 2005 FAO fertilizer report does
+# contain cedi-dollar figures, so retrieval scores them well: the exchange-rate
+# question cleared the gate at 0.67 and the model produced "18" from nowhere.
+LIVE_DATA = re.compile(
+    r"\b(exchange rate|forex|interest rate|cedi to (the )?(dollar|usd|euro|pound)"
+    r"|dollar rate|rate of the (cedi|dollar))\b", re.I
+)
+
+
+def coverage_line() -> str:
+    """Describe what the corpus actually holds, read from the built index.
+
+    Derived rather than declared, so it cannot advertise coverage the corpus
+    does not have: drop a crop's sources and it stops being listed on the next
+    build.
+    """
+    import json
+    from collections import Counter
+
+    crops: Counter = Counter()
+    livestock = set()
+    for line in (INDEX / "chunks.jsonl").open(encoding="utf-8"):
+        d = json.loads(line)
+        for c in d.get("crops") or []:
+            crops[c] += 1
+        sid = d.get("source_id", "")
+        if "poultry" in sid or "chicken" in sid:
+            livestock.add("poultry")
+        if "sheep" in sid or "goat" in sid:
+            livestock.add("sheep and goats")
+    # Only advertise crops with enough material behind them to answer from.
+    named = [c for c, n in crops.most_common() if n >= 40] + sorted(livestock)
+    return ", ".join(named)
+
+
+def refusal_text() -> str:
+    """The refusal, plus a way in.
+
+    Anything that is not a farming question lands here — greetings, "what can
+    you do", questions about other countries. That is the whole set of ways a
+    person can miss, and it is one place, so there is no list of phrasings to
+    keep up to date. Saying only "my sources do not cover this" to someone who
+    typed "hello" is correct and useless; it leaves them with no next move.
+    """
+    return (
+        f"{REFUSAL}\n\n"
+        f"Ayekoo answers from Ghanaian agricultural documents - MoFA and CSIR guides,\n"
+        f"FAO manuals, Ghanaian research - and cites the source of every answer.\n\n"
+        f"Covered: {coverage_line()}.\n"
+        "Planting calendars, pests and diseases, varieties, soil and fertiliser,\n"
+        "harvest and storage, input costs in cedis, weather by agro-ecological zone.\n\n"
+        "Try:\n"
+        "  When should I plant maize in Tamale, and which varieties are recommended?\n"
+        "  My cassava leaves are curling and yellow - what is wrong?\n\n"
+        "Local names work: kokoo kokoram, abele, akyimkyimakyimkyim."
+    )
 
 
 def _tidy(text: str) -> str:
@@ -240,6 +298,22 @@ def _stop_repeating(text: str) -> str:
 
 def answer(question: str, top_k: int = 4, show_sources: bool = True,
            _retriever=None, _llm=None) -> dict:
+    if LIVE_DATA.search(question):
+        return {
+            "question": question,
+            "answer": (
+                "Ayekoo cannot answer this. Exchange and interest rates change daily, "
+                "and this system is offline and reads a fixed set of documents. Any "
+                "figure it gave you would be out of date or invented.\n\n"
+                "Crop prices it can give are 2024 annual national averages, and it "
+                "says so when it does."
+            ),
+            "grounded": False,
+            "hits": [],
+            "best_cosine": 0.0,
+            "top_score": 0.0,
+        }
+
     from .index import embed_query, load_embedder
 
     from .aliases import expand
@@ -261,7 +335,7 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True,
     if not hits or best_cosine < MIN_COSINE:
         return {
             "question": question,
-            "answer": REFUSAL,
+            "answer": refusal_text(),
             "grounded": False,
             "hits": [],
             "best_cosine": round(best_cosine, 4),
