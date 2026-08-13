@@ -98,6 +98,68 @@ LIVE_DATA = re.compile(
 )
 
 
+# Small talk is recognised by meaning, not by matching phrases. A list of
+# greetings misses "hey there, whats this thing" and "good afternoon my friend";
+# these are anchors, and anything that embeds near one is treated as social.
+# The reply is fixed text — the model is never asked to converse, because when
+# it was, it answered "the capital city of Mongolia is Ulaanbaatar" instead of
+# declining, which is the one thing this system promises not to do.
+SMALL_TALK = [
+    "hello, how are you",
+    "hi there, what is this",
+    "good morning my friend",
+    "who are you and what can you do",
+    "what kind of questions can I ask you",
+    "I am a farmer, nice to meet you",
+    "thank you very much for the help",
+    "goodbye, see you later",
+]
+
+# Measured against the nearest anchor, across social, farming and off-topic
+# questions. The two groups do not overlap:
+#
+#   social    "good afternoon my friend"      0.927
+#             "hi i am a farmer"              0.866
+#             "me i be farmer from tamale"    0.675   <- lowest social
+#   farming   "how do i start a poultry farm" 0.557   <- highest farming
+#             "when should i plant maize"     0.503
+#   other     "write me a python function"    0.537
+#
+# 0.62 sits in the empty band between 0.557 and 0.675. A question must also be
+# closer to small talk than to anything in the corpus, so a farming question
+# cannot land here even if the threshold were wrong.
+SMALL_TALK_MIN = 0.62
+
+_ANCHORS = None
+
+
+def small_talk_score(llm, qvec) -> float:
+    """How close this question sits to ordinary conversation, 0 to 1."""
+    global _ANCHORS
+    import numpy as np
+
+    from .index import embed_query
+
+    if _ANCHORS is None:
+        _ANCHORS = np.array([embed_query(llm, s) for s in SMALL_TALK])
+    return float((_ANCHORS @ qvec).max())
+
+
+def greeting_text() -> str:
+    """A warm reply that states what Ayekoo is, without claiming any agronomy."""
+    return (
+        "Ayekoo o! I am an offline farming assistant - I answer from Ghanaian\n"
+        "agricultural documents and name the source every time.\n\n"
+        f"Covered: {coverage_line()}.\n"
+        "Planting calendars, pests and diseases, varieties, soil and fertiliser,\n"
+        "harvest and storage, input costs in cedis, weather by zone.\n\n"
+        "What would you like to know? For example:\n"
+        "  When should I plant maize in Tamale, and which varieties are recommended?\n"
+        "  My cassava leaves are curling and yellow - what is wrong?\n\n"
+        "Local names work too: kokoo kokoram, abele, akyimkyimakyimkyim."
+    )
+
+
 def coverage_line() -> str:
     """Describe what the corpus actually holds, read from the built index.
 
@@ -331,6 +393,20 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True,
     # Absolute semantic similarity of the best-matching chunk in the whole index,
     # independent of ranking. This is what decides whether we answer at all.
     best_cosine = float((retriever.vectors @ qvec).max()) if len(retriever.chunks) else 0.0
+
+    # Small talk before the gate, not after it. "hi i am a farmer" matches the
+    # corpus well enough to clear 0.65, and answered with an extension-officer
+    # paragraph — a reply to a sentence nobody asked as a question.
+    social = small_talk_score(llm, qvec)
+    if social >= SMALL_TALK_MIN and social > best_cosine:
+        return {
+            "question": question,
+            "answer": greeting_text(),
+            "grounded": False,
+            "hits": [],
+            "best_cosine": round(best_cosine, 4),
+            "top_score": 0.0,
+        }
 
     if not hits or best_cosine < MIN_COSINE:
         return {
