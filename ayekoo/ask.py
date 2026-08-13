@@ -422,22 +422,7 @@ def repl() -> int:
         print(result["answer"])
         if result.get("warning"):
             print(f"\n{result['warning']}")
-        if result["hits"]:
-            # Only the passages that actually scored well. Listing all four
-            # retrieved sources puts a yam-disease manual under a cocoa answer,
-            # which reads as sloppy attribution even though nothing was taken
-            # from it.
-            top = result["hits"][0]["score"] or 0.0
-            print("\nSources:")
-            shown = set()
-            for h in result["hits"]:
-                if top and h["score"] < top * 0.75:
-                    continue
-                if h["attribution"] in shown:
-                    continue
-                shown.add(h["attribution"])
-                flag = "" if h["ghana_specific"] else "  (regional, not Ghana-specific)"
-                print(f"  - {h['attribution']}{flag}")
+        print_sources(result["hits"])
         print()
 
 
@@ -461,14 +446,39 @@ def main() -> int:
 
     print(f"\nQ: {result['question']}\n")
     print(result["answer"])
-    if result["hits"]:
-        print("\nSources:")
-        for h in result["hits"]:
-            flag = "" if h["ghana_specific"] else "  (regional, not Ghana-specific)"
-            print(f"  [{h['n']}] {h['attribution']}{flag}")
-            if h["caveat"]:
-                print(f"        caveat: {h['caveat'][:110]}")
+    if result.get("warning"):
+        print(f"\n{result['warning']}")
+    print_sources(result["hits"])
     return 0
+
+
+def print_sources(hits: list[dict]) -> None:
+    """List the documents an answer drew on, once each.
+
+    Several quoted passages usually come from the same document — three chunks
+    of MoFA's planting table, say — and printing the attribution and its caveat
+    once per chunk made a correct answer look like a wall of repetition. The
+    farmer needs to know which documents this came from, not how many passages
+    of each.
+    """
+    if not hits:
+        return
+    top = hits[0].get("score") or 0.0
+    print("\nSources:")
+    seen: set[str] = set()
+    for h in hits:
+        # Skip passages that scored well below the best one: they were in the
+        # model's context but contributed little, and listing them reads as
+        # careless attribution.
+        if top and (h.get("score") or 0.0) < top * 0.75:
+            continue
+        if h["attribution"] in seen:
+            continue
+        seen.add(h["attribution"])
+        flag = "" if h["ghana_specific"] else "  (regional, not Ghana-specific)"
+        print(f"  - {h['attribution']}{flag}")
+        if h["caveat"]:
+            print(f"      caveat: {h['caveat'][:110]}")
 
 
 if __name__ == "__main__":
