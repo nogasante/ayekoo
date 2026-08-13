@@ -768,7 +768,7 @@ sources:
     status: candidate
     doc_type: practical
   # ── Vegetables ──────────────────────────────────────────────────────────────
-  # Recorded in KNOWN_ISSUES as a content gap: okra, pepper, onion and garden
+  # Recorded in REPORT.md §9 as a content gap: okra, pepper, onion and garden
   # egg had local-language aliases pointing at them and nothing behind those
   # words, so an okra question was routed accurately to nothing. MoFA has
   # published a guide for tomato and no other vegetable.

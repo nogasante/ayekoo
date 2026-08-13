@@ -155,9 +155,15 @@ It answers in English, not Twi. The name is Akan, but a clumsy Twi interface jud
 
 Place resolution is partial and says so. The Ghana Meteorological Agency's manual states which regions fall in which agro-ecological zone, so a question naming a region resolves. Towns do not: no source here says Tamale is in the Northern Region, so when Ayekoo makes that step it tells the farmer it is unsourced and that only the region-to-zone link comes from GMet. Regions spanning several zones return every window rather than the largest one.
 
-Prices are 2024 annual national averages, not today's market. Cassava and plantain rest more on West African sources than Ghanaian ones. These are stated in the repository, not hidden.
+Prices are 2024 annual national averages, not today's market. Cassava and plantain rest more on West African sources than Ghanaian ones — usable agronomy, but a Ghanaian farmer is getting West African guidance on those two crops, and the answers say so.
 
-## 9. Why this generalises
+Two gaps remain open, and neither is closed by anything above.
+
+**Vegetables have vocabulary but no content.** Okra, pepper, onion and garden egg are named in the alias map, and the corpus holds nothing on growing them. I went looking twice. Every Ghanaian production manual I could find for these crops is a scanned image PDF with no embedded text — one WorldVeg guide yielded 83 characters per page — and the fetcher rejects those rather than admit a document that looks like coverage and holds none. The refusal gate means these questions are declined rather than answered badly, which is the correct failure, but it is still a failure.
+
+**Only numbers and months are verified, not categories.** The checker confirms that a figure or a planting month in an answer occurs in the retrieved passage. It cannot check a claim of kind: the model once described Obatanpa as a hybrid when it is an open-pollinated variety. Extractive quoting avoids this wherever a fact is quoted verbatim, but a generated sentence can still misclassify something the retrieval got right.
+
+## 10. Why this generalises
 
 The corpus is Ghanaian because that is the only honest way to build one. The method is not. Swap the corpus for a Kenyan or Nigerian one and the same pipeline serves those farmers — the contribution is the pipeline and the provenance discipline; the Ghanaian corpus is the proof it works.
 
