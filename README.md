@@ -35,7 +35,7 @@ question
    ↓
 embed with bge-small (llama.cpp)      ─┐
    ↓                                   │  both run locally,
-hybrid retrieval over 3,799 chunks     │  no network, ever
+hybrid retrieval over 8,535 chunks     │  no network, ever
    dense (cosine) + BM25, fused        │
    ↓                                   │
 top passages + their attributions      │
@@ -64,6 +64,8 @@ llama-server -m model/qwen2.5-0.5b-instruct-q4_k_m.gguf -c 4096 -t 4 --port 8080
 python -m ayekoo.ask "When should I plant maize in the Northern Region?"
 ```
 
+For several questions in a row, `python -m ayekoo.ask --repl` loads the models once and keeps them resident. If `llama-server` is not running, `ask.py` falls back to generating in-process.
+
 The index is committed, so nothing needs re-embedding. To rebuild it after changing the corpus:
 
 ```bash
@@ -82,6 +84,10 @@ python -m tests.test_grounding     # prove answers come from the corpus
 │   ├── chunker.py       splits sources into chunks that carry provenance
 │   ├── index.py         embeds chunks, writes the index
 │   ├── retrieve.py      hybrid dense + BM25 retrieval
+│   ├── aliases.py       local crop, pest and symptom names → corpus terms
+│   ├── extractive.py    quotes sources verbatim where exactness matters
+│   ├── banned.py        blocks pesticides banned in Ghana
+│   ├── verify.py        checks an answer's numbers and months against its sources
 │   └── ask.py           grounded, cited answering
 ├── corpus/
 │   ├── sources.yaml     provenance record for every document
