@@ -1,204 +1,135 @@
-# Ayekoo — 2-minute video, shot by shot
+# Video — just do these steps in order
 
-Everything you need is here. Don't plan anything; just follow it top to bottom.
-
-**Total: 2:00.** Judges watch this before they read anything, and the one thing
-it must prove beyond doubt is that it runs **offline**.
+No talking needed. Screen recording only. About 20 minutes start to finish.
 
 ---
 
-## Before you record (15 minutes, do it once)
+## Step 1 — Close everything
 
-**1. Open two windows and make the text big.**
-A terminal and a browser. In the terminal, set the font to about 18–20pt —
-judges may watch this on a laptop, and small text kills a demo.
+Close VS Code. Close Edge/Chrome. Close everything except one terminal.
 
-**2. Start Ayekoo — one command, no server needed.**
+Wait 30 seconds so Windows frees the memory.
 
-In PowerShell:
+## Step 2 — Open one PowerShell window
+
+Make the font big: right-click the title bar → Properties → Font → size 20.
+
+## Step 3 — Start Ayekoo
+
+Paste this:
 
 ```powershell
-cd ~\Desktop\ayekoo
+cd C:\Users\nanas\Desktop\ayekoo
 C:\Users\nanas\Desktop\ADTC-2026\.venv\Scripts\python.exe -m ayekoo.ask --repl
 ```
 
-It prints:
+Wait for:
 
 ```text
-Ayekoo — offline farming assistant for Ghana
-loading…
-ready — 8,169 passages from Ghanaian agricultural sources
-ask a question, or Ctrl-C to quit
-
+ready — 8,535 passages from Ghanaian agricultural sources
 >
 ```
 
-Loading takes about twenty seconds and happens **once**. Every question after
-that answers immediately, which is why the demo uses this rather than running
-the command fresh each time — three separate runs would mean three twenty-second
-waits on camera, and working software would look broken.
+## Step 4 — Practice run (not recording yet)
 
-**Do a full dry run now.** Ask all three demo questions, check the answers look
-right, then quit and restart it so the recording starts from a clean screen.
+Type each of these once, so nothing is slow later:
 
-**3. Close everything else.** Slack, browser tabs, anything that might pop a
-notification. Close them properly, not just minimise.
+```text
+When should I plant maize in Tamale, and which varieties are recommended?
+```
+```text
+What is kokoo kokoram and how do I manage it?
+```
+```text
+What is the capital city of Mongolia?
+```
 
-**4. Plug the laptop in** and disable sleep.
+Check the answers look right. Then type `quit` and start it again, so the screen is clean.
 
-**5. Recorder.** OBS Studio (free) or Windows Game Bar (`Win+G`). Record the
-whole screen at 1080p. Do a 15-second test first and play it back — check the
-text is readable and your microphone is actually capturing.
+## Step 5 — Start recording
 
----
+Press `Win + G` → click the record button. (Or use OBS if you prefer.)
 
-## The shot list
+## Step 6 — Turn off the internet, on camera
 
-### Shot 1 — Who it's for (0:00–0:15)
+**This is the most important part of the whole video.**
 
-**On screen:** your face, or just the terminal with the repo README open.
-
-**Say:**
-
-> "Ayekoo is what you say to a farmer coming back from the farm. It means well
-> done. This is a farming assistant for Ghanaian farmers, and it runs completely
-> offline on an eight gigabyte laptop."
-
----
-
-### Shot 2 — Kill the internet, on camera (0:15–0:30)
-
-**This is the most important shot in the video.** Do not skip it or do it
-off-screen.
-
-**Do, slowly and visibly:**
-1. Click the network icon in the system tray.
-2. Turn **Wi-Fi off**. Let the "no internet" state show clearly.
-3. Unplug the ethernet cable if you have one — hold it up to the camera.
-4. In the terminal, prove it:
+1. Click the network icon in the taskbar
+2. Turn Wi-Fi **off** — slowly, so it's visible
+3. Unplug the network cable if you have one
+4. Click back on the terminal and type:
 
 ```powershell
 ping -n 2 8.8.8.8
 ```
 
-Let the failure show on screen.
+Let it fail on screen. Wait 2 seconds.
 
-**Say:**
+## Step 7 — Ask the three questions
 
-> "First, I'm turning off the internet. No Wi-Fi, no cable. Everything after
-> this is running on this laptop alone."
-
----
-
-### Shot 3 — The planting question (0:30–1:00)
-
-**At the `>` prompt, type:**
+Type them one at a time. Wait for each answer. Don't rush.
 
 ```text
 When should I plant maize in Tamale, and which varieties are recommended?
 ```
 
-**While it runs, say:**
-
-> "A farmer in Tamale asks when to plant maize."
-
-**When the answer appears, point at the screen and say:**
-
-> "It knows Tamale is in the Guinea and Sudan savannah zone. It gives the exact
-> planting window from the Ministry of Food and Agriculture — end of May to
-> early July. It knows northern Ghana has no minor season. And it names the
-> varieties: Mamaba, Obatanpa, Sanzal-sima, Kpari-Faako."
-
-**Then point at the disclosure line and say — don't skip this, it's your best
-moment:**
-
-> "And look here. It tells me the step from Tamale to Northern Region is not
-> from its sources. It only claims what it can show you."
-
----
-
-### Shot 4 — The Twi question (1:00–1:25)
-
-**At the `>` prompt, type:**
-
 ```text
 What is kokoo kokoram and how do I manage it?
 ```
-
-**Say:**
-
-> "Kokoo kokoram is what Ghanaian farmers call cocoa stem canker. Not the
-> textbook name — the name people actually use."
-
-**When the answer appears:**
-
-> "It answers from the Ghana cocoa extension manual, and names the fungi:
-> Phytophthora palmivora and Phytophthora megakarya. No cloud model knows this
-> word. It's in here because a Ghanaian document put it there."
-
----
-
-### Shot 5 — What it refuses (1:25–1:45)
-
-**At the `>` prompt, type:**
 
 ```text
 What is the capital city of Mongolia?
 ```
 
-**Say:**
+## Step 8 — Stop recording
 
-> "And when it doesn't know, it says so instead of guessing. That matters more
-> than it sounds. A small model asked something outside its sources will invent
-> a confident, wrong answer. A farmer can't tell the difference. This one
-> refuses."
+Press `Win + G` → stop. The file is in `Videos\Captures`.
+
+## Step 9 — Upload
+
+1. Go to youtube.com → Create → Upload video
+2. Choose the file
+3. Title: `Ayekoo — offline farming assistant for Ghanaian farmers (ADTC 2026)`
+4. Visibility: **Unlisted**
+   - Not Private. Private means judges cannot open it and the submission fails.
+5. Copy the link
+
+## Step 10 — Paste into Devpost
+
+Devpost → your project → Additional info → **Video demo link** → paste → Save.
 
 ---
 
-### Shot 6 — The numbers (1:45–2:00)
+## If it goes wrong
 
-**On screen:** show `submission.json`, or just say it over the terminal.
+- **Answer takes a long time** — that's fine, leave it in. Real software.
+- **An answer looks wrong** — stop, start recording again from Step 5.
+- **Video is over 2 minutes** — record again and don't pause between questions.
 
-In a second window:
+---
 
-```powershell
-type submission.json
+## Optional: add captions afterwards
+
+Only if you want to. Any free editor (Clipchamp is built into Windows).
+
+```text
+0:00  Ayekoo — an offline farming assistant for Ghanaian farmers
+0:10  First: internet off. No Wi-Fi, no cable.
+0:20  Everything after this runs on this laptop alone.
+0:30  A farmer in Tamale asks when to plant maize
+0:45  MoFA's exact planting window. Ghanaian varieties by name.
+0:55  It flags the one step that is not from its sources.
+1:05  "Kokoo kokoram" — what Ghanaian farmers call cocoa stem canker
+1:20  Answered from the Ghana cocoa extension manual
+1:30  And when it does not know, it says so
+1:45  544 MB of memory. 7 GB limit. 50 Ghanaian agricultural documents.
+1:55  Ayekoo — it works where the farmer is.
 ```
 
-**Say:**
-
-> "Three hundred and thirty megabytes of memory, against a seven gigabyte
-> limit. Forty-six Ghanaian agricultural documents. Every answer traceable to a
-> source you can open. Ayekoo — it works where the farmer is."
-
-**Stop recording.**
-
 ---
 
-## If something goes wrong while recording
+## The one thing that matters
 
-- **An answer is slow.** Keep talking — say what it's doing. Don't stop and
-  restart; a small pause looks like real software.
-- **An answer comes out wrong or odd.** Stop, fix nothing, just re-record that
-  shot. Do not show a bad answer and explain it away.
-- **You fluff a line.** Pause two seconds, say it again. Cut the fluff later, or
-  leave it — judges are watching the system, not your delivery.
-
-## After recording
-
-1. Trim the start and end only. No music, no titles, no transitions. Production
-   value gains you nothing here and eats your two minutes.
-2. Check it is **under 2:00**. If it runs over, cut Shot 1 down to one sentence.
-3. **Watch it once, muted.** If the offline proof in Shot 2 isn't obvious with
-   the sound off, re-record that shot.
-4. Upload to YouTube as **Unlisted**.
-   - Not Private — judges won't be able to open it, which loses the submission.
-   - Title: `Ayekoo — offline farming assistant for Ghanaian farmers (ADTC 2026)`
-5. Paste the new link into Devpost's **Video demo link** field, replacing the
-   placeholder.
-
-## The one thing to get right
-
-If you only nail one shot, nail **Shot 2**. Everything else in this submission
-is written down and checkable. That the Wi-Fi is off and it still answers is the
-only thing a judge can't verify from the repo — they have to see it.
+If everything else goes wrong, **Step 6 must be in the video**. Judges can read
+the code, the report and the corpus themselves. The only thing they cannot check
+without watching is that the Wi-Fi was off and it still answered.
