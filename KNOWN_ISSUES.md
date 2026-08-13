@@ -147,3 +147,28 @@ published a production guide for none of them. The tomato guide is the only
 vegetable source in the corpus. Closing this needs a real vegetable production
 manual, Ghanaian or West African; searches of MoFA, CSIR, CGSpace and FAO have
 not turned one up.
+
+### Update — two vegetable manuals tried, gap NOT closed
+
+Both candidates failed, in different and instructive ways.
+
+**WorldVeg, *A Practical Training Guide for Vegetable Production* (2025).** A
+scanned PDF. It yielded 4,148 characters across 50 pages — 83 per page — all of
+it the title page and author list, with no mention of pepper, onion, garden egg,
+spacing or nursery. It cleared the pipeline's 2,000-character floor on front
+matter alone and would have entered the corpus looking like vegetable coverage
+while holding none. `fetch_sources.py` now checks characters per page as well as
+total, which rejects it.
+
+**CGIAR, *Postharvest Handling and Diversified Vegetable Use* (2024).** Real
+text, 45,421 characters, but it is about postharvest handling generally: 0
+mentions of okra, 0 of pepper, 0 of garden egg, 1 of onion, 8 of tomato. Kept,
+but re-tagged `crops: [tomato]` after reading it. The original tag listed five
+vegetables and would have made subject routing lift it for okra questions it
+cannot answer. **A source claiming coverage it does not have is worse than no
+source** — it converts an honest refusal into a confident irrelevance.
+
+So vegetables remain open. Searched without success: MoFA, CSIR, CGSpace, FAO,
+the World Vegetable Center, GhanaVeg. Ghana grows a great deal of pepper, okra,
+garden egg and onion, and there appears to be no digitised production manual for
+any of them, Ghanaian or West African, that is not a scan.

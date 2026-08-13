@@ -137,6 +137,19 @@ def extract(pdf: Path, src: dict, dest: Path) -> tuple[bool, str]:
     if len(text) < MIN_CHARS:
         return False, f"only {len(text):,} chars from {len(pages)} pages — likely a scanned PDF, needs OCR"
 
+    # Characters per page, not just total. A scanned document still yields its
+    # title page and author list as real text, which cleared the 2,000-char
+    # floor: the WorldVeg vegetable training guide passed with 4,148 characters
+    # from 50 pages — 83 per page — and contained no mention of pepper, onion,
+    # garden egg, spacing or nursery. It would have entered the corpus looking
+    # like vegetable coverage while holding none.
+    per_page = len(text) / max(len(pages), 1)
+    if len(pages) >= 10 and per_page < 400:
+        return False, (
+            f"{len(text):,} chars over {len(pages)} pages = {per_page:.0f}/page — "
+            "scanned images, not text. Needs OCR."
+        )
+
     dest.write_text(_header(src, f"{len(pages)} pages") + text, encoding="utf-8")
     return True, f"{len(text):,} chars from {len(pages)} pages"
 

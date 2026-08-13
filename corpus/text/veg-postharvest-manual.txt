@@ -1,0 +1,977 @@
+# Capacity-Building Training Manual: Postharvest Handling and Diversified Vegetable Use
+# publisher: CGIAR, via CGSpace
+# year: 2024
+# url: https://cgspace.cgiar.org/server/api/core/bitstreams/047c27c7-25f0-4424-a151-6af0b76a40b1/content
+# attribution: Capacity-Building Training Manual: Postharvest Handling and Diversified Vegetable Use (CGIAR, 2024)
+# ghana_specific: False
+# extent: 38 pages
+#
+# Extracted text follows. Provenance above travels with every chunk
+# derived from this document.
+
+Capacity-Building Training Manual: Postharvest 
+Handling and Diversified, Nutritious Food 
+Preparation and Consumption Patterns  
+ 
+Markos Makiso1, Tsegayenesh Paulos1, Mohammed Ebrahim2, 
+Getachew Tesfaye2, and Lulseged Tamene2 
+ 
+ 
+ 
+ 
+ 
+ 
+Author affiliation 
+ 
+1Wachemo University, Hosaena Ethiopia and 
+2Alliance of Bioversity and CIAT, Addis Ababa, Ethiopia, 
+ 
+ 
+Published by  Alliance of Bioversity International & International Center for 
+Tropical Agriculture (CIAT) 
+ 
+ 
+ 
+December 2024 
+
+ 
+The Sustainable Intensification of Mixed Farming Systems Initiative aims to provide 
+equitable, transformative pathways for improved livelihoods of actors in mixed 
+farming systems through sustainable intensification within target agroecologies and 
+socio-economic settings. 
+ 
+Through action research and development partnerships, the Initiative will improve 
+smallholder farmers' resilience to weather-induced shocks, provide a more stable 
+income and significant benefits in welfare, and enhance social justice and inclusion 
+for 13 million people by 2030. 
+ 
+Activities will be implemented in six focus countries globally representing diverse 
+mixed farming systems as follows: Ghana (cereal–root crop mixed), Ethiopia 
+(highland mixed), Malawi: (maize mixed), Bangladesh (rice mixed), Nepal (highland 
+mixed), and Lao People's Democratic Republic (upland intensive mixed/ highland 
+extensive mixed). 
+ 
+ 
+ 
+© 2024 
+ 
+ 
+ 
+ This publication is licensed for use under the Creative Commons 
+Attribution 4.0 International Licence - https://creativecommons.org/licenses/by/4.0.  
+ 
+ 
+ 
+Unless otherwise noted, you are free to share (copy and redistribute the material in 
+any medium or format), adapt (remix, transform, and build upon the material) for 
+any purpose, even commercially, under the following conditions:  
+ 
+ 
+ 
+ ATTRIBUTION. The work must be attributed, but not in any way that suggests 
+endorsement by the publisher or the author(s). 
+ 
+
+ 
+ 
+Contents 
+1. General Introduction to the Project and Its Intentions for the Trainees ......................... 1 
+1.1. Objective of the Training ................................................................................................. 1 
+1.2. Project Background .......................................................................................................... 1 
+1.3. Target Audience ............................................................................................................... 3 
+2. Home garden produced food items in the project implementation areas ........................ 5 
+Beetroot: .................................................................................................................................. 8 
+Potato: ...................................................................................................................................... 8 
+Enset (False Banana): .............................................................................................................. 8 
+Dairy Products (Milk, Cheese, Yogurt, etc.): ........................................................................ 10 
+Eggs: ...................................................................................................................................... 10 
+Module- One ................................................................................................................................ 13 
+3. Training Manual: Postharvest Handling (Focusing on Home Garden Products) for 
+Development Agents and Farmers in Adoye and Shurmo Clusters, Hadiya Zone, Southern 
+Ethiopia ........................................................................................................................................ 14 
+3.1. Objective ........................................................................................................................ 14 
+3.2. Background .................................................................................................................... 14 
+3.3. Key Principles of Postharvest Handling ........................................................................ 18 
+3.4. Specific Postharvest Handling Techniques for Home Garden Products ........................ 19 
+3.5. Low-Cost Storage Solutions .......................................................................................... 20 
+3.6. Training and Awareness for Postharvest Handling ........................................................ 24 
+3.6.1. Training Development Agents (DAs) ..................................................................... 24 
+3.6.2. Training Farmers ..................................................................................................... 24 
+3.6.3. Raising Awareness .................................................................................................. 24 
+3.7. Practical Steps to Reduce Postharvest Losses ................................................................ 24 
+                                                                                               
+II 
+ 
+Module Two ................................................................................................................................. 26 
+4. Dietary diversification of Home garden produces ............................................................ 27 
+4.1. Objective ........................................................................................................................ 27 
+4.2. Introduction .................................................................................................................... 27 
+4.3. Nutritional Importance of Dietary Diversity .................................................................. 28 
+4.4. Food Groups and Their Nutritional Benefits.................................................................. 28 
+4.5. Principles of Diversified Food Preparation .................................................................... 29 
+4.6. Meal Planning for Nutritional Balance .......................................................................... 30 
+4.7. Food Preparation Techniques to Maximize Nutrient Retention..................................... 30 
+4.8. Practical Demonstration: How to Prepare Nutritious Meals .......................................... 31 
+4.9. Cultural Sensitivity in Food Preparation and Consumption........................................... 31 
+4.10. Training Development Agents and Farmers ............................................................... 32 
+References .................................................................................................................................... 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                               
+ 1 
+1. General Introduction to the Project and Its 
+Intentions for the Trainees 
+Welcome to the training program as part of our collaborative project, which is being 
+implemented by the Department of Food Science and Postharvest Technology at 
+Wachemo University in partnership with the Alliance of Bioversity International 
+and CIAT  under the MFS initiative . This project is specifically designed for the 
+communities in the Adoye and Shurmo clusters of Central Ethiopia. 
+ 
+1.1. Objective of the Training 
+ 
+The primary goal of this training manual is to provide farmers, development agents, 
+and local stakeholders with practical knowledge and skills to enhance food security 
+and improve community nutrition. It emphasizes essential areas such as postharvest 
+handling of home garden produce and diversified food preparation and consumption 
+pattern. By promoting best practices and offering clear, actionable guidance, the 
+manual seeks to support the production of diverse, nutritious foods, reduce 
+postharvest losses, and boost overall dietary diversity in the project areas. 
+ 
+1.2. Project Background 
+ 
+The Alliance of Bioversity and CIAT, under the MFS initiative, has been implementing 
+integrated home garden intensification in Central Ethiopia, particularly in the 
+Doyogena and Lemo districts. This initiative aims to improve livelihoods by integrating 
+improved avocado, vegetables, and poultry production into home gardens. By 
+diversifying home garden outputs, the strategy supports improved dietary diversity, 
+nutrition, and household food security, especially in the densely populated Ethiopian 
+highlands. Surplus produce from these intensified gardens not only improves family 
+diets but also generates additional income for women and youth through local 
+market sales, further strengthening household economic stability. 
+To maximize the benefits of home garden intensification, proper postharvest 
+handling is essential to deliver fresh, high-quality products to markets while ensuring 
+                                                                                               
+ 2 
+improved food preparation and consumption patterns at the household level. This 
+ensures both food availability and nutritional security. Capacity-building programs for 
+development agents (DAs) and farmers in postharvest handling, as well as raising 
+awareness about improved food preparation techniques, are crucial to achieving the 
+broader objectives of this initiative. Such efforts will help farmers fully benefit from 
+intensified home gardens, thereby boosting food security and household income. 
+Postharvest handling is critical to improving food security and nutrition, especially in 
+regions like Asia and Sub-Saharan Africa, including Ethiopia, where postharvest losses 
+are high. A significant portion of food is lost after harvest due to inadequate handling, 
+poor storage, and limited processing techniques (Makiso et al., 2024) . Effective 
+postharvest handling for home garden produce is key to reducing spoilage and 
+preserving the nutritional value of fruits, vegetables, grains, and other crops. In 
+Ethiopia alone, postharvest losses could feed over 23 million people annually, with an 
+economic impact exceeding 1.2 billion US dollars (Teferra, 2022). Adopting improved 
+storage methods such as drying, cooling, and better packaging can extend the shelf 
+life of produce, reduce food waste, and maintain year-round access to fresh, nutrient-
+dense foods. This directly enhances household food security by ensu ring a steady 
+supply of fresh produce, which is often lacking in resource-limited areas. 
+In countries like Ethiopia, where malnutrition and low dietary diversity are persistent 
+challenges, enhancing the preservation and effective use of home garden produce 
+can significantly improve nutrition outcomes. Poor postharvest practices often result 
+in nutrient loss, which diminishes the health benefits of fresh produce. By improving 
+storage and handling techniques, communities can not only reduce food waste but 
+also retain essential nutrients, promoting a more diverse and nutritious diet. This 
+enables families to include a wider variety of fruits, vegetables, and grains in their 
+meals, addressing micronutrient deficiencies and boosting overall health. 
+Furthermore, educating households on proper food preparation methods —such as 
+balanced meal planning and cooking techniques that preserve nutrients—can further 
+enhance dietary diversity and contribute to reducing malnutrition. 
+This training manual is part of a broader initiative led by the Alliance of Bioversity 
+International and CIAT under the MFS initiative, in partnership with the Department 
+                                                                                               
+ 3 
+of Food Science and Post-Harvest Technology at Wachemo University. The project is 
+being implemented in the Adoye and Shurmo clusters of Kambata and Hadiya Zones, 
+Central Ethiopia region. It is focused on improving postharvest handling of home 
+garden produc ts, diversifying diet, balanced meal planning, preparation, and 
+consumption through providing comprehensive guidance to development agents 
+and farmers to ensure food security and better nutrition in the region. 
+ 
+1.3. Target Audience 
+ 
+This manual is designed for a diverse group of users, each playing a crucial role in 
+improving nutrition and food security within their communities. To ensure better 
+understanding and accessibility, the training content was translated into Amharic, 
+enabling effective communication with farmers and other stakeholders. The key 
+target audiences include: 
+• Farmers: As the primary food producers, farmers will gain valuable insights into 
+home gardening techniques, effective postharvest handling, and nutrition -
+focused food preparation, empowering them to produce and utilize more 
+nutritious foods. 
+• Development Agents (DAs): Development agents will use the manual to train 
+and support farmers, ensuring the adoption of best practices in postharvest 
+handling and meal preparation, ultimately improving food security across the 
+region. 
+• Community Leaders : Community leaders will play a vital role in fostering 
+ongoing engagement and support by sharing knowledge, advocating for 
+better nutrition and food security practices, and promoting the adoption of 
+sustainable agricultural practices within the community. 
+• Household Members: Those responsible for food preparation will learn how to 
+incorporate diverse, nutrient -rich foods into daily meals using local resources 
+and produce from home gardens, enhancing household dietary diversity. 
+                                                                                               
+ 4 
+By targeting these key groups, the manual ensures a holistic, collaborative approach 
+to achieving the project’s goals of improving food security and nutritional outcomes 
+in the Adoye and Shurmo clusters of Central Ethiopia region. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                               
+ 5 
+2. Home garden produced food items in the project 
+implementation areas 
+The project’s implementing partner assessed home garden products in the Shurmo 
+and Adoye clusters of Central Ethiopia to tailor capacity -building training on 
+postharvest handling, dietary diversification, balanced meal planning, preparation, 
+and consumption. This approach ensured that the training was specifically aligned 
+with the types of produce available in the project implementation area. The following 
+are the most common home garden products in this region: 
+ 
+A. Green and Leafy Vegetables : Cabbage, carrot, endive, tomato, and various 
+salads, which are essential for providing vitamins and minerals. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nutrient content 
+➢ Cabbage: High in vitamins C and K, fiber, and antioxidants. 
+➢ Carrot: Rich in vitamins A and C, calcium, potassium, and fiber. 
+➢ Endive: Contains fiber, vitamins A, K, and folate. 
+➢ Tomato: High in vitamin C, potassium, and lycopene (an antioxidant). 
+(A). (B). 
+                                                                                               
+ 6 
+  
+ 
+        
+ 
+Figure 1. Green and leafy vegetables in the project implementation areas of Central Ethiopia: 
+(A) cabbage, (B) carrot, (C) and (F) Ethiopian cabbage, (D) tomato, and (E) spinach.  
+ 
+ 
+ 
+ 
+(C). (D). 
+(E). (F). 
+Credit: Selamu© Hadiya TV 
+ 
+                                                                                               
+ 7 
+B. Fruits: Avocado, a nutrient-rich fruit that is widely consumed for its healthy fats. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Figure 2. Improved avocado varieties cultivated in the Shurmo and Adoye 
+clusters, Central Ethiopia, supported by the initiatives of the Alliance of Bioversity 
+International and CIAT for local farmers. 
+C. Root and Tubers : Potato, beetroot, and enset, key staples that provide 
+carbohydrates and fiber. 
+Nutritional content 
+✓ Healthy fats: Primarily monounsaturated fat, especially oleic acid. 
+✓ Vitamins: Rich in vitamins C, E, K, and several B vitamins, including B5, B6, and 
+folate. 
+✓ Minerals: Contains potassium, magnesium, and small amounts of iron and copper. 
+✓ Fiber: High in dietary fiber, supporting digestive health. 
+✓ Antioxidants: Includes lutein and zeaxanthin, which are important for eye health. 
+Credit: Selamu© Hadiya TV 
+ 
+                                                                                               
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+  
+Potato: 
+• Carbohydrates: High in starch (complex 
+carbohydrates). 
+• Fiber: Contains both soluble and insoluble 
+fiber. 
+• Vitamins: Rich in vitamin C and B6. 
+• Minerals: Contains potassium, 
+magnesium, and small amounts of iron. 
+• Protein: Low in protein but contains 
+essential amino acids. 
+ 
+Beetroot: 
+• Carbohydrates: Contains natural sugars and 
+fiber. 
+• Vitamins: Rich in vitamin C, folate (B9), and 
+some B vitamins. 
+• Minerals: High in potassium, manganese, 
+and magnesium. 
+• Antioxidants: Contains betalains, which have 
+anti-inflammatory properties. 
+• Nitrates: Contains dietary nitrates, which 
+may help improve blood flow. 
+ 
+Enset (False Banana): 
+• Carbohydrates: High in starch, particularly resistant starch. 
+• Fiber: Rich in dietary fiber, supporting gut health. 
+• Vitamins: Contains small amounts of vitamin C and B vitamins. 
+• Minerals: Contains calcium, magnesium, and potassium. 
+• Protein: Low in protein but important for food security in regions where it is a staple. 
+(A). (B). 
+                                                                                               
+ 9 
+     
+ 
+ 
+ 
+ 
+Figure 3 . Root and tuber crops commonly cultivated in the project 
+implementation areas of Central Ethiopia: (A) potato, (B) and (C) beetroot, (D) 
+enset, and (E) and (F) kocho (a product of enset). 
+ 
+(C). (D). 
+(E). (F). 
+Credit: Selamu© Hadiya TV 
+ 
+                                                                                               
+ 10 
+D. Dairy and Animal Products: Milk and milk products, commonly consumed for 
+their protein and calcium content. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Dairy Products (Milk, Cheese, Yogurt, etc.): 
+• High-quality protein: Dairy is a rich source of complete proteins, containing all essential 
+amino acids. 
+• Calcium: Essential for strong bones and teeth; helps prevent osteoporosis. 
+• Vitamins: Rich in vitamin D (fortified), B12, and riboflavin (B2). 
+• Minerals: Contains significant amounts of calcium, phosphorus, potassium, and magnesium. 
+• Fats: Provides a mix of saturated and unsaturated fats; low-fat versions are available for those 
+managing cholesterol levels. 
+• Lactose: Naturally contains the carbohydrate lactose, providing a source of energy. 
+ 
+Eggs: 
+• Complete protein: Eggs are one of the best sources of high -quality protein, containing all 
+essential amino acids. 
+• Choline: Important for brain health and development. 
+• Vitamins: Contains vitamins A, D, E, B12, and folate. 
+• Minerals: Good source of selenium, phosphorus, and iron. 
+• Healthy fats: Contains healthy fats, including omega-3 fatty acids (particularly in eggs from 
+pastured or omega-3-enriched hens). 
+• Antioxidants: Lutein and zeaxanthin, found in egg yolks, support eye health. 
+ 
+(A). (B). 
+                                                                                               
+ 11 
+  
+ 
+ 
+ 
+ 
+Figure 4 . Dairy products and eggs commonly produced in the project 
+implementation areas of Central Ethiopia: (A) milk, (B) Ethiopian cheese, (C) butter, 
+and (D) eggs. (E) Poultry farming in the area, supported by the initiatives of the 
+Alliance of Bioversity International and CIAT. 
+ 
+(C). (D). 
+(E). 
+Credit: Selamu© Hadiya TV 
+ 
+                                                                                               
+ 12 
+These are home garden produced food items form the foundation of local diets and 
+will be the focus of training on postharvest handling, diversified and nutritious food 
+preparation and consumption pattern. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                               
+ 13 
+Module- One 
+                                                                                               
+ 14 
+3. Training Manual: Postharvest Handling (Focusing 
+on Home Garden Products) for Development 
+Agents and Farmers in Adoye and Shurmo 
+Clusters, Hadiya Zone, Southern Ethiopia 
+ 
+3.1. Objective 
+ 
+The primary objective of this training manual is to equip development agents and 
+farmers in the Adoye and Shurmo clusters of Central Ethiopia region with essential 
+knowledge and practical skills for effective postharvest handling of home garden 
+products. By focusing on reducing food losses through better harvesting, storage, and 
+preservation techniques, the manual aims to maintain the nutritional quality and 
+freshness of locally grown fruits, vegetables, and grains. Emphasizing affordable and 
+locally availa ble solutions, such as drying, cooling, and improved packaging, the 
+manual seeks to extend the shelf life of home -grown produce, thereby improving 
+household food security and income generation. It also promotes sustainable 
+practices by strengthening the ca pacity of development agents, enabling them to 
+train and support farmers in minimizing postharvest losses and enhancing 
+marketable quality. Ultimately, this manual contributes to the larger goal of ensuring 
+year-round access to nutritious foods while impro ving both livelihoods and food 
+security in these rural communities. 
+ 
+3.2. Background  
+ 
+The purpose of this training manual is to provide detailed guidance on postharvest 
+handling practices with a focus on home garden products in the Adoye and Shurmo 
+clusters, Central Ethiopia region. Proper postharvest handling of home garden 
+products is ess ential for improving household food security, nutrition, and income. 
+Postharvest losses are particularly high in Ethiopia due to improper handling, poor 
+storage practices, and a lack of access to preservation techniques. These losses not 
+only reduce the qu antity of food available for consumption but also impact the 
+                                                                                               
+ 15 
+nutritional quality of the produce. By implementing appropriate postharvest handling 
+practices, rural households can reduce waste, extend the shelf life of their crops, and 
+ensure a more consistent supply of fresh, nutrient-dense foods. 
+ 
+ 
+ 
+ 
+(A
+). 
+(B). 
+Credit: Markos© WCU 
+ 
+Credit: Markos© WCU 
+ 
+                                                                                               
+ 16 
+ 
+ 
+Figure 5: Postharvest loss of vegetable products: (A) improperly handled and stored 
+onions, (B) improperly stored potatoes, (C) improperly stored tomatoes. 
+ 
+This manual is designed to provide practical, low-cost postharvest handling methods 
+tailored to the needs of rural farmers, development agents, and other stakeholders. It 
+focuses on key home garden products such as green leafy vegetables, fruits, roots, 
+tubers, and cereals, offering techniques that can be applied with minimal resources. 
+(C). 
+Credit: Markos© WCU 
+ 
+                                                                                               
+ 17 
+       
+ 
+ 
+Figure 6. Home gardening activities by farmers in the project implementation areas 
+of Central Ethiopia.  
+Credit: Selamu© Hadiya TV 
+ 
+Credit: Selamu© Hadiya TV 
+ 
+                                                                                               
+ 18 
+ 
+ 
+3.3. Key Principles of Postharvest Handling 
+A. Timely Harvesting 
+• Why it matters : Harvesting at the right time ensures optimal flavor, texture, 
+and nutritional content. 
+• Best Practices: 
+o Vegetables: Harvest in the early morning or late afternoon when 
+temperatures are cooler to preserve freshness. 
+o Fruits: Pick fruits like avocado when they have reached the proper stage 
+of maturity but before they are fully ripe. 
+o Roots and Tubers: Harvest root crops like potatoes when they have fully 
+matured and avoid damaging the skin. 
+B. Sorting and Grading 
+• Why it matters : Sorting and grading help identify produce that is fit for 
+immediate consumption, storage, or sale. 
+• Best Practices: 
+o Remove damaged or overripe products that might spoil the rest. 
+o Sort produce based on size, quality, and ripeness to streamline 
+packaging and storage. 
+C. Washing and Cleaning 
+• Why it matters : Proper washing removes dirt, insects, and contaminants, 
+reducing the risk of spoilage and disease. 
+• Best Practices: 
+o Use clean water for washing and gently remove any dirt. Avoid excessive 
+washing, especially for products like potatoes, which can lead to 
+waterlogging. 
+o Allow produce to dry before storage to avoid moisture-related spoilage. 
+D. Cooling and Shade 
+• Why it matters : High temperatures accelerate spoilage, particularly for leafy 
+vegetables and fruits. 
+• Best Practices: 
+                                                                                               
+ 19 
+o Store produce in shaded areas immediately after harvest to reduce 
+exposure to heat. 
+o Use simple, low-cost cooling systems such as evaporative cooling using 
+damp cloths or clay pots to keep the temperature low. 
+3.4. Specific Postharvest Handling Techniques for Home Garden 
+Products 
+A. Green and Leafy Vegetables (Cabbage, Carrot, Endive, Tomato) 
+• Harvesting: Leafy vegetables should be harvested in the morning when the 
+water content is high. Careful handling during harvest is crucial to prevent 
+bruising. 
+• Sorting and Grading: Immediately after harvesting, remove damaged or wilted 
+leaves. Keep only the healthy, fresh produce. 
+• Storage: Vegetables like cabbage and carrots should be stored in cool, shaded 
+areas. If refrigeration is unavailable, consider evaporative cooling (e.g., placing 
+vegetables in a basket covered with wet cloths). 
+• Transportation: Use ventilated baskets or sacks to transport vegetables to local 
+markets or homes, ensuring minimal physical damage. 
+B. Fruits (Avocado) 
+• Harvesting: Harvest avocados at the right stage of ripeness to ensure the best 
+flavour and shelf life. Use a sharp tool to avoid bruising the fruit. 
+• Sorting and Grading : Immediately sort avocados based on size and ripeness. 
+Separate those for immediate consumption from those that can be stored for 
+later ripening. 
+• Storage: Avocados should be kept in a cool, shaded area. Avoid direct sunlight 
+and keep them in well-ventilated containers. 
+• Transportation: Use padding (such as straw or banana leaves) to transport 
+avocados to prevent bruising and damage during transport. 
+C. Root and Tuber Crops (Potato, Beetroot, Enset) 
+• Harvesting: Harvest potatoes and beetroots when the leaves have dried, 
+indicating maturity. For Enset, cut the mature plants carefully to avoid 
+damaging the roots. 
+• Curing: Cure potatoes and beetroots in a shaded, dry place for a few days to 
+heal minor cuts and prolong their storage life. 
+                                                                                               
+ 20 
+• Storage: Store root crops in a cool, well -ventilated area, such as an 
+underground pit or a raised platform. Enset can be stored in underground pits 
+for extended periods, where it ferments and serves as a food reserve during 
+times of scarcity. 
+• Transportation: Avoid stacking roots and tubers tightly to prevent bruising and 
+spoilage. 
+D. Cereals and Grains (Maize, Teff, Wheat) 
+• Harvesting: Grains should be harvested when they have fully dried on the stalk. 
+Avoid harvesting during rainy or wet conditions. 
+• Drying: Ensure grains are thoroughly dried to a moisture content below 12%. 
+Spread them out in the sun for several days, turning them regularly to ensure 
+even drying. 
+• Storage: Store grains in airtight containers or bags to prevent moisture and 
+pest infestation. Raised platforms or metal silos can be used to keep grains off 
+the ground. 
+• Aflatoxin Control: Regularly check grains for mold or fungal growth, as these 
+can lead to aflatoxin contamination, which is harmful to health. 
+Q. How do you handle maize or other food items when they become moldy? 
+ 
+Figure 7. Aflatoxins contamination of maize 
+ 
+3.5. Low-Cost Storage Solutions  
+In rural areas where access to refrigeration or advanced storage technologies is 
+limited, there are simple and affordable storage solutions that can help extend the 
+
+                                                                                               
+ 21 
+shelf life of home garden products. Each method offers specific advantages but also 
+has limitations, and the duration of food preservation varies depending on the storage 
+method and conditions. 
+A. Raised Platforms 
+• A simple raised platform made from locally available materials (wood or 
+bamboo) helps keep produce off the ground, improving airflow and reducing 
+spoilage. 
+• Storage Duration : Typically extends shelf life by 3 –7 days for fruits and 
+vegetables that benefit from improved ventilation. 
+• Limitations: 
+o Susceptible to pests and rodents unless properly secured. 
+o Limited protection from rain or extreme weather conditions. 
+o Not suitable for highly perishable items that require cooling. 
+• Procedure: 
+1. Collect locally available materials like bamboo or wooden planks. 
+2. Build a raised platform about 30–50 cm above the ground using wooden posts 
+as supports. 
+3. Ensure the surface has slats or gaps to improve airflow. 
+4. Place produce on the platform in a single layer to avoid crushing and ensure 
+even ventilation. 
+B. Underground Storage Pits 
+• For root crops like potatoes and enset, underground pits lined with straw or 
+banana leaves provide a cool, humid environment that preserves crops for 
+several months. 
+• Storage Duration: Can preserve root crops for 2 –3 months, depending on the 
+type of crop and pit conditions. 
+• Limitations: 
+o Risk of contamination or spoilage if the lining materials (e.g., straw or 
+banana leaves) are not clean or properly maintained. 
+o Potential for waterlogging during heavy rains, which can damage stored 
+crops. 
+o Limited capacity and labor-intensive construction. 
+                                                                                               
+ 22 
+ 
+Figure 8: Underground potato storage pits 
+• Procedure: 
+1. Dig a circular or rectangular pit about 20 –50 cm deep, depending on the 
+amount of produce (Figure 8). 
+2. Line the pit with clean, dry straw, dried grass, or banana leaves to prevent direct 
+contact between the crops and soil. 
+3. Place root crops like potatoes or enset in a single layer on top of the lining. 
+4. Cover the crops with another layer of straw or banana leaves. 
+5. Seal the pit with soil, leaving a small vent for air circulation if needed. 
+C. Clay Pot Coolers 
+• A clay pot cooler (using two clay pots of different sizes, with wet sand in 
+between) provides a low -cost, effective cooling system. This can be used to 
+store fruits and vegetables, keeping them fresh for a longer period. 
+• Storage Duration : Extends freshness of perishable produce for 7 –20 days, 
+depending on ambient temperature and maintenance. 
+ 
+ 
+
+                                                                                               
+ 23 
+• Limitations: 
+o Requires regular maintenance, such as keeping the sand moist, to 
+maintain the cooling effect. 
+o Limited storage space, making it impractical for larger quantities. 
+o Effectiveness can be reduced in areas with low humidity or high 
+temperatures. 
+• Procedure: 
+1. Obtain two clay pots, one smaller and one larger. 
+2. Place the smaller pot inside the larger one, leaving a gap between them. 
+3. Fill the gap with clean, moist sand. 
+4. Add water to the sand regularly to keep it wet. 
+5. Place fruits or vegetables inside the smaller pot and cover it with a damp cloth 
+or lid. 
+6. Position the cooler in a shaded, well -ventilated area to maximize its cooling 
+effect. 
+D. Evaporative Cooling Structures 
+• Using a simple structure covered with wet clothes or sacks creates an 
+evaporative cooling effect that can reduce the temperature of stored 
+vegetables by several degrees. 
+• Storage Duration: Can keep vegetables fresh for 5 –15 days, depending on the 
+environmental conditions and crop type. 
+• Limitations: 
+o Requires constant access to water to keep the covering materials wet, 
+which may be a challenge in water-scarce areas. 
+o Effectiveness is significantly reduced in regions with high humidity 
+where evaporation rates are low. 
+o Limited durability of materials like sacks or cloth, which may degrade 
+over time. 
+• Procedure: 
+1. Build a simple frame using wooden posts or bamboo sticks. 
+2. Surround the frame with clean, wet cloths, gunny sacks, or similar materials. 
+3. Place a flat platform or shelf inside the structure for storing produce. 
+                                                                                               
+ 24 
+4. Keep the covering materials consistently wet by sprinkling water several times 
+a day. 
+5. Place the structure in a shaded, breezy area to enhance the cooling effect. 
+ 
+3.6. Training and Awareness for Postharvest Handling 
+ 
+3.6.1. Training Development Agents (DAs) 
+Development agents play a critical role in disseminating postharvest handling 
+knowledge to farmers. They should be trained in the following areas: 
+• Practical demonstrations of sorting, grading, and storage techniques. 
+• How to organize community-based workshops and training sessions for 
+farmers. 
+• Monitoring and evaluating the adoption of postharvest practices among 
+farmers. 
+3.6.2. Training Farmers 
+Farmers should be given hands-on experience in applying the postharvest techniques 
+described above. Key areas of focus include: 
+• Proper harvesting and storage methods to minimize losses. 
+• How to use locally available materials for storage and transportation. 
+• The importance of food safety and hygiene in postharvest handling. 
+3.6.3. Raising Awareness 
+Postharvest losses often occur due to a lack of awareness about simple, effective 
+handling techniques. Raising awareness in the community through field days, 
+demonstrations, and local leaders can help encourage farmers to adopt these 
+methods. 
+3.7. Practical Steps to Reduce Postharvest Losses 
+ 
+Here are practical steps that farmers and development agents in Adoye and Shurmo 
+clusters can take to reduce postharvest losses: 
+A. Timely Harvesting : Ensure that crops are harvested at the right stage of 
+maturity to prevent spoilage. 
+B. Immediate Sorting : Sort and grade produce immediately after harvest to 
+separate damaged or low-quality items. 
+                                                                                               
+ 25 
+C. Improved Storage: Use raised platforms, underground pits, or clay pot coolers 
+to store produce in a cool, dry environment. 
+D. Hygiene and Safety: Always maintain cleanliness during postharvest handling 
+to prevent contamination and spoilage. 
+ 
+                                                                                               
+ 26 
+Module Two 
+                                                                                               
+ 27 
+4. Dietary diversification of home garden produces 
+ 
+4.1. Objective 
+ 
+This training manual aims to promote dietary diversity and improve nutrition among 
+farmers and household members in the Adoye and Shurmo clusters in Central 
+Ethiopia region by focusing on sustainable, locally sourced food preparation practices. 
+By teaching participants, the importance of balanced meals and effective meal 
+planning, the manual seeks to combat malnutrition and address common 
+micronutrient deficiencies in the community. It highlights the nutritional value  of 
+locally available food items —such as green leafy vegetables, root crops, fruits, dairy, 
+and eggs —and provides guidance on preserving their nutrients through proper 
+cooking methods. Additionally, the manual empowers development agents to 
+support farmers in creating more varied, nutritious mea ls using home -grown 
+produce, reducing reliance on processed foods. By integrating these practices into 
+daily consumption patterns, the manual contributes to long -term improvements in 
+community health and food security, while respecting local traditions and  food 
+preferences. 
+ 
+4.2. Introduction 
+ 
+Dietary diversity is key to improving food security and reducing malnutrition in rural 
+communities like Adoye and Shurmo clusters. This training manual focuses on 
+equipping development agents (DAs) and farmers with the knowledge and skills to 
+prepare and c onsume diverse, nutrient -rich foods that are locally available and 
+produced from home gardens. This manual aligns with the broader objectives of 
+promoting better nutrition, food security, and overall well -being through a holistic 
+approach that includes home gardening, proper postharvest handling, and nutritious 
+meal preparation. 
+ 
+ 
+                                                                                               
+ 28 
+4.3. Nutritional Importance of Dietary Diversity 
+ 
+In Ethiopia, many rural households rely on a limited range of staple foods, often 
+resulting in low dietary diversity and micronutrient deficiencies. Diversifying diets by 
+incorporating a variety of food groups —vegetables, fruits, grains, roots, animal 
+products—helps ensure that families receive all essential nutrients such as vitamins, 
+minerals, proteins, and healthy fats. 
+By consuming a wider variety of foods, communities can: 
+• Prevent Malnutrition : Combat both undernutrition and micronutrient 
+deficiencies (e.g., iron, vitamin A). 
+• Improve Immunity : A varied diet strengthens the immune system, helping 
+prevent diseases. 
+• Enhance Energy Levels : Balanced nutrition supports energy and overall 
+physical well-being. 
+• Boost Cognitive Function : Essential nutrients are important for cognitive 
+development and performance. 
+ 
+4.4. Food Groups and Their Nutritional Benefits 
+ 
+Brainstorming  
+Nutritional benefits of different Home garden produces  
+A. Green Leafy Vegetables (Cabbage, Carrot, Endive, Tomato) 
+• Cabbage: Rich in fiber, vitamin C, and antioxidants. Helps with digestion and 
+boosts immunity. 
+• Carrot: A high source of beta-carotene (vitamin A), essential for eye health and 
+skin integrity. 
+• Endive: Contains vitamin K, fiber, and folate, contributing to bone health and 
+digestion. 
+• Tomato: Packed with vitamin C, potassium, and lycopene, which supports 
+heart health and provides antioxidants. 
+B. Fruits (Avocado) 
+                                                                                               
+ 29 
+• Avocado: High in healthy fats (monounsaturated), vitamin E, and potassium. 
+Supports heart health and provides energy. 
+C. Roots and Tubers (Potato, Beetroot, Enset) 
+• Potato: A good source of carbohydrates, vitamin C, and potassium. Provides 
+energy and supports the immune system. 
+• Beetroot: Contains nitrates, fiber, and folate. Boosts blood flow and improves 
+cardiovascular health. 
+• Enset: High in carbohydrates and fiber, enset is a staple that provides sustained 
+energy and aids digestion. 
+D. Cereals and Grains (Maize, Teff, Wheat) 
+• Maize: Provides carbohydrates, fiber, and B vitamins. It is a staple food that 
+gives energy and aids digestion. 
+• Teff: High in protein, fiber, iron, and calcium. Supports bone health and 
+improves energy levels. 
+• Wheat: Contains carbohydrates and fiber. Helps maintain energy and digestive 
+health. 
+E. Animal Products (Dairy, Eggs) 
+• Dairy (Milk, Cheese, Yogurt): Rich in protein, calcium, and vitamins D and B12. 
+Supports bone health, muscle growth, and overall development. 
+• Eggs: High-quality protein source with essential amino acids, vitamins A and D, 
+and choline. Supports muscle development, eye health, and brain function. 
+ 
+4.5. Principles of Diversified Food Preparation 
+ 
+The key to creating a nutritious and diversified meal is to include a balance of food 
+groups from locally available resources. This ensures families get essential 
+macronutrients (carbohydrates, proteins, fats) and micronutrients (vitamins and 
+minerals). Basic principles include: 
+• Variety: Include different types of food in each meal (vegetables, fruits, proteins, 
+grains). 
+• Seasonality: Use fresh, seasonal produce to maximize nutrient content. 
+                                                                                               
+ 30 
+• Balance: Ensure meals provide adequate energy (from carbohydrates), muscle 
+support (from proteins), and essential fats. 
+• Simplicity: Use traditional recipes but incorporate nutrient -dense ingredients 
+for more balanced meals. 
+ 
+4.6. Meal Planning for Nutritional Balance 
+ 
+Meal planning helps households ensure that each meal includes a combination of 
+essential nutrients. Development agents and farmers should be trained to use meal 
+planning strategies to: 
+• Incorporate local ingredients : Make use of home garden produce and local 
+market foods. 
+• Include all food groups : Ensure that meals contain grains or tubers, 
+vegetables, fruits, and animal products. 
+• Focus on portion sizes : Balance the quantity of food groups according to 
+household size and activity level. 
+Example of a Balanced Meal: 
+• Staple: Injera (Teff-based flatbread) or boiled maize. 
+• Vegetables: Steamed cabbage and carrots. 
+• Proteins: Scrambled eggs or grilled chicken. 
+• Fruits: Sliced avocado or tomato salad. 
+• Dairy: A glass of milk or a serving of yogurt. 
+4.7. Food Preparation Techniques to Maximize Nutrient Retention 
+Proper food preparation techniques are crucial to preserving the nutritional value of 
+foods. Overcooking or improper storage can lead to nutrient loss. Key practices 
+include: 
+• Cooking Methods: Use steaming, boiling, and grilling over frying or deep-frying 
+to preserve vitamins and minerals. 
+• Minimal Water Usage : When boiling vegetables like carrots or beets, use 
+minimal water and reuse the water in soups to retain nutrients. 
+• Gentle Handling: Avoid peeling vegetables excessively (e.g., potatoes), as much 
+of the nutrient content is close to the skin. 
+                                                                                               
+ 31 
+• Balanced Cooking Time: Overcooking leafy greens like cabbage reduces their 
+vitamin content. Cook lightly to preserve nutrients. 
+ 
+4.8. Practical Demonstration: How to Prepare Nutritious Meals 
+ 
+This section should include live demonstrations where development agents and 
+farmers, along with each farmer's spouse, collaborate in preparing nutritious meals 
+using home garden produce in the Shurmo and Adoye clusters of Central Ethiopia. 
+These demonstrations will be conducted through Farmers’ Field Days, focusing on the 
+following key areas: 
+• Hands-on training: Preparing meals with locally available ingredients, guided 
+by practical, step-by-step instruction. 
+• Balanced nutrition : Ensuring each meal includes a proper balance of 
+carbohydrates, proteins, and vegetables. 
+• Food safety : Emphasizing clean preparation areas and appropriate food 
+storage practices. 
+• Taste testing: Meals prepared by farmers’ spouses during the Farmers’ field 
+day will be sampled to gather feedback and encourage community 
+participation.  
+ 
+4.9. Cultural Sensitivity in Food Preparation and Consumption 
+ 
+Understanding local food traditions and dietary preferences is important for 
+promoting the acceptance of new, diversified food items. This chapter focuses on: 
+• Local Foods : Encourage the use of traditional foods but  add nutrient -rich 
+ingredients like green leafy vegetables and animal products. 
+• Traditional Recipes : Adapt popular dishes by integrating a variety of 
+ingredients from home gardens and local sources. 
+• Community Involvement : Engage local leaders and elders in promoting 
+diversified diets through community events and workshops. 
+ 
+                                                                                               
+ 32 
+4.10. Training Development Agents and Farmers 
+ 
+Training is crucial to ensure that development agents can effectively disseminate 
+knowledge about nutritious food preparation and dietary diversity to farmers and 
+households. Key training components include: 
+• Demonstrations: Showing DAs and farmers how to prepare meals using 
+available resources. 
+• Interactive Workshops: Conduct hands-on workshops where participants can 
+practice meal preparation. 
+• Support and Follow -up: Provide ongoing support and monitoring to ensure 
+practices are adopted at the community level. 
+ 
+ 
+ 
+ 
+                                                                                               
+ 33 
+References 
+Makiso, M., Yohannis, E., Teka, T. A., Fekadu, H., Tola, Y. B., Fikreyesus, S., Tessema, A., & 
+Suraj, M. (2024). Addressing post -harvest losses through agro -processing for 
+sustainable development in Ethiopia. Journal of Agriculture and Food Research, 
+18(July), 101316. https://doi.org/10.1016/j.jafr.2024.101316 
+Teferra, T. F. (2022). The cost of postharvest losses in Ethiopia: economic and food 
+security implications. Heliyon, 8(3), e09077. 
+https://doi.org/10.1016/j.heliyon.2022.e09077. 
+ 
+                                                                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cgiar.org/initiative/mixed-farming-systems

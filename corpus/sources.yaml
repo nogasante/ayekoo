@@ -767,6 +767,45 @@ sources:
     ghana_specific: false
     status: candidate
     doc_type: practical
+  # ── Vegetables ──────────────────────────────────────────────────────────────
+  # Recorded in KNOWN_ISSUES as a content gap: okra, pepper, onion and garden
+  # egg had local-language aliases pointing at them and nothing behind those
+  # words, so an okra question was routed accurately to nothing. MoFA has
+  # published a guide for tomato and no other vegetable.
+  #
+  # Not Ghana-specific, and no Ghanaian vegetable manual appears to exist in
+  # published form — MoFA, CSIR, CGSpace, FAO and the World Vegetable Center
+  # were all searched.
+
+  - id: veg-practical-training-guide
+    title: A Practical Training Guide for Vegetable Production
+    publisher: CGIAR, via CGSpace
+    year: 2025
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/0b746f7a-cdb4-4984-8cf5-3abba5435111/content
+    crops: [tomato, pepper, onion, okra, garden egg, cabbage]
+    topics: [planting_calendar, pests_diseases, inputs_costs, harvest_storage]
+    attribution: "A Practical Training Guide for Vegetable Production (CGIAR, 2025)"
+    ghana_specific: false
+    caveat: "SCANNED. 4,148 characters over 50 pages — 83 per page — and no mention of pepper, onion, garden egg, spacing or nursery. Only the title page and author list are real text. Would need OCR to be usable."
+    status: dead
+    doc_type: practical
+
+  - id: veg-postharvest-manual
+    title: "Capacity-Building Training Manual: Postharvest Handling and Diversified Vegetable Use"
+    publisher: CGIAR, via CGSpace
+    year: 2024
+    url: https://cgspace.cgiar.org/server/api/core/bitstreams/047c27c7-25f0-4424-a151-6af0b76a40b1/content
+    # Tagged for tomato only after checking the text. The title promised
+    # vegetables broadly; the document contains 0 mentions of okra, pepper or
+    # garden egg and one of onion. Leaving the wider tag on would have made
+    # subject routing lift it for okra questions it cannot answer — a source
+    # claiming coverage it does not have is worse than no source.
+    crops: [tomato]
+    topics: [harvest_storage, market_advisory]
+    attribution: "Capacity-Building Training Manual: Postharvest Handling and Diversified Vegetable Use (CGIAR, 2024)"
+    ghana_specific: false
+    status: candidate
+    doc_type: practical
   # ── Gaps still open (Kobby: these are the weak spots) ───────────────────────
   # plantain — no MoFA guide exists and iita.org is unreachable from this
   #            network. Best Ghana-specific candidate is the scialert paper

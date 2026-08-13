@@ -288,6 +288,12 @@
     "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/e491a2aa-7875-4fcd-97ca-f6b3873e5fb7/content"
   },
   {
+    "id": "veg-postharvest-manual",
+    "ok": true,
+    "message": "45,421 chars from 38 pages",
+    "url": "https://cgspace.cgiar.org/server/api/core/bitstreams/047c27c7-25f0-4424-a151-6af0b76a40b1/content"
+  },
+  {
     "id": "plantain-practices-ghana",
     "ok": false,
     "message": "only 557 chars of text \u2014 page may be JS-rendered or paywalled",
