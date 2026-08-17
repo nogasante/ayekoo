@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.1.0",
+  "profiler_version": "adtc-profiler 0.1.0",
+  "submission": {
+    "team_id": "ayekoo",
+    "domain": "agriculture",
+    "language_scope": [
+      "en"
+    ],
+    "african_alpha_claim": true,
+    "budget_laptop_claim": true,
+    "submitter": {
+      "name": "Nana Opoku Gyamfi Asante",
+      "email": "nanasante2000@gmail.com",
+      "github_handle": "nogasante"
+    },
+    "cross_disciplinary_pairing": {
+      "discipline": "agriculture",
+      "load_bearing": true,
+      "description": "Ayekoo pairs a small quantized language model with a curated corpus of Ghanaian agricultural knowledge — crop calendars for local staples, pest and disease entries under the names farmers actually use, input costs in GHS, and the season structure including harmattan and the coastal/northern split. The model answers from retrieved corpus passages rather than from its own parameters. Remove the corpus and the system stops being useful, which is the test of load-bearing: the agricultural knowledge is the substance of every answer, not a wrapper around a general-purpose chatbot."
+    },
+    "test_prompts": [
+      {
+        "prompt_id": "tp_001",
+        "prompt": "When should I plant maize in Tamale, and which varieties are recommended?"
+      },
+      {
+        "prompt_id": "tp_002",
+        "prompt": "What is kokoo kokoram and how do I manage it?"
+      }
+    ],
+    "model": {
+      "name": "Qwen2.5-0.5B-Instruct-Q4_K_M",
+      "runtime": "llama.cpp",
+      "quantization": "GGUF Q4_K_M",
+      "parameters_estimate": "0.63B",
+      "packaging": "binary_bundle"
+    }
+  },
+  "environment": {
+    "measured_on": "participant_laptop",
+    "cpu_model": "Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",
+    "ram_gb": 7.9,
+    "gpu": "none",
+    "os": "Windows-11-10.0.26300-SP0"
+  },
+  "throughput": {
+    "tokens_per_second_generation": 4.37,
+    "first_token_latency_ms": 13644.16,
+    "prompt_tokens": 512,
+    "generated_tokens": 128
+  },
+  "memory": {
+    "peak_rss_mb": 550.77,
+    "steady_state_rss_mb": 406.76,
+    "peak_vms_mb": 454.94
+  },
+  "accuracy": [],
+  "cpu_thermal": {
+    "cpu_percent_p99": 100.0,
+    "core_temp_c_peak": null,
+    "throttled": false
+  },
+  "reproducibility": {
+    "git_commit_sha": "9abb2c302af5",
+    "docker_image_digest": "unknown",
+    "random_seed": 42
+  },
+  "model_info": {
+    "params_count": 630167424,
+    "context_length": 32768,
+    "architecture": "qwen2",
+    "claimed_params_estimate": "0.63B",
+    "params_match": true
+  }
+}
