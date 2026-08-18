@@ -45,24 +45,24 @@
     "os": "Windows-11-10.0.26300-SP0"
   },
   "throughput": {
-    "tokens_per_second_generation": 4.37,
-    "first_token_latency_ms": 13644.16,
+    "tokens_per_second_generation": 9.77,
+    "first_token_latency_ms": 7783.91,
     "prompt_tokens": 512,
     "generated_tokens": 128
   },
   "memory": {
-    "peak_rss_mb": 550.77,
-    "steady_state_rss_mb": 406.76,
-    "peak_vms_mb": 454.94
+    "peak_rss_mb": 544.65,
+    "steady_state_rss_mb": 503.71,
+    "peak_vms_mb": 455.52
   },
   "accuracy": [],
   "cpu_thermal": {
-    "cpu_percent_p99": 100.0,
+    "cpu_percent_p99": 86.3,
     "core_temp_c_peak": null,
     "throttled": false
   },
   "reproducibility": {
-    "git_commit_sha": "9abb2c302af5",
+    "git_commit_sha": "17ea09f7e84f",
     "docker_image_digest": "unknown",
     "random_seed": 42
   },
