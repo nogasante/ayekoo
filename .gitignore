@@ -81,3 +81,17 @@ scratch/
 # ── Note on Submissions & Index ───────────────────────────────────────────────
 # The pre-computed index (index/chunks.jsonl, index/vectors.npy, index/manifest.json)
 # and submission specs (metadata.json, submission.json) are committed for offline evaluation.
+
+# ── Internal Competition Audit & Intelligence Files ───────────────────────────
+# Internal research and audit artifacts kept local only
+competitors.csv
+COMPETITOR_ANALYSIS.md
+AYEKOO_VS_COMPETITORS.md
+CURRENT_SCORE_ANALYSIS.md
+COMPETITION_RULES.md
+FINAL_COMPETITION_BRIEF.md
+SUBMISSION_AUDIT.md
+EVALUATION_REPORT.md
+ARCHITECTURE.md
+evaluation/
+
