@@ -449,16 +449,18 @@ def answer(question: str, top_k: int = 4, show_sources: bool = True,
         hits = priced
 
     # Remove any passage naming a pesticide Ghana has banned, before it reaches
-    # either the extractive paths or the model. Our own corpus recommends
-    # chlordecone and methyl bromide — both banned — because the documents
-    # predate the regulations. See ayekoo/banned.py.
+    # either the extractive paths or the model. Also catch banned chemicals named
+    # directly in the farmer's question. See ayekoo/banned.py.
     hits, banned_found = banned.scrub_passages(hits)
+    for b in banned.find(question):
+        if b not in banned_found:
+            banned_found.append(b)
     banned_warning = banned.warning_for(banned_found)
-    if not hits:
+    if not hits or (banned_found and any(b in question.lower() for b in banned_found)):
         return {
             "question": question,
             "answer": (banned_warning or REFUSAL)
-            + ("\n\nI have no other source for this question." if banned_warning else ""),
+            + ("\n\nGhana EPA prohibits the use of this chemical." if banned_warning else ""),
             "grounded": False,
             "banned_substances": banned_found,
             "hits": [],
